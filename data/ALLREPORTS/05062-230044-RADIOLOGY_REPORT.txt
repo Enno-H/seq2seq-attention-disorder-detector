@@ -1,0 +1,19 @@
+230044	||||	5062	||||	9810	||||	RADIOLOGY_REPORT	||||	2013-12-26 19:45:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 421-7138  Actual report	||||	
+DATE: [**2013-12-26**] 7:45 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 2894**] Reason: eval for pneumothorax                                       Admitting Diagnosis: SPINAL MASS
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+71 year old man s/p verterbral fusion after spinal abscess, hx loculated L  effusion, s/p thoracentesis. Now with chest pain.
+REASON FOR THIS EXAMINATION:
+eval for pneumothorax                                                           ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  71-year-old man status post vertebral fusion after spinal abscess.  History of loculated left effusion post-thoracentesis, now with chest pain.  Evaluate for pneumothorax.
+
+Spinal rods are in place with associated screws and vertebral body spacer. The heart size is normal.  There is a somewhat tortuous aorta.  The mediastinal contours are otherwise unremarkable.  There are some interstitial opacities predominantly within the lung bases along with small bilateral pleural effusions.  A right-sided pacemaker with single lead is present extending into the right ventricle.  The previously placed left-sided PICC line has been pulled back and now is seen with tip overlying the axillary region.
+
+IMPRESSION:
+1.  No evidence of pneumothorax.
+2.  Interval retraction of PICC line now overlying the axillary region.  Note shoud be made that this location is intentional per recommendation for PICC line retraction secondary to cardiac pacer procedure to be performed. 3.  Otherwise stable chest radiograph.
+

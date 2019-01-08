@@ -1,0 +1,46 @@
+97374	||||	8014	||||	27158	||||	ECHO_REPORT	||||	2019-04-17 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. 
+Height: (in) 62
+Weight (lb): 118
+BSA (m2): 1.53 m2
+BP (mm Hg): 116/80
+HR (bpm): 96
+Status: Inpatient
+Date/Time: [**2019-04-17**] at 13:02
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size. Depressed LVEF. No resting LVOT gradient. 
+
+LV WALL MOTION: Regional LV wall motion abnormalities include: mid anterior - akinetic; mid anteroseptal - akinetic; mid inferoseptal - akinetic; mid inferior - hypo; mid inferolateral - hypo; septal apex- akinetic; 
+
+RIGHT VENTRICLE: Normal RV chamber size. Borderline normal RV systolic function. 
+
+AORTA: Normal aortic diameter at the sinus level. Normal ascending aorta diameter. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild to moderate ([**02-12**]+) 
+MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Borderline PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: Small pericardial effusion. No echocardiographic signs of tamponade. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is moderately to severely depressed with septal and anterior akinesis/hypokinesis and mid inferior/inferolateral hypokinesis. The apex is not fully visualized. Right ventricular chamber size is normal and free wall motion is borderline normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild to moderate ([**02-12**]+) mitral regurgitation is seen. There is borderline pulmonary artery systolic hypertension. There is a small pericardial effusion. There are no echocardiographic signs of tamponade. 
+

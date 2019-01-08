@@ -1,0 +1,144 @@
+6815	||||	14708	||||	26911	||||	DISCHARGE_SUMMARY	||||	2018-06-20 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-06-19**]              Discharge Date:   [**2018-06-20**]
+
+Date of Birth:  [**1978-01-20**]               Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 3116**] 
+Chief Complaint:
+altered mental status, s/p opioid overdose
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Patient is a 40 year old man who presented to the [**Doctor First Name 2**] with change in mental status. He has a history of schizoaffective disorder, anxiety and benzodiazepine abuse. He was admitted to [**Hospital1 6419**] on [**2018-04-06**] from [**Street Address 6420**] Inn with suicidal ideation. He had been discharged from [**Hospital1 3385**] in February to his parent's house. while there he was disruptive. He destroyed property and OD'd on Motrin. His parents got a restraining order against him and he moved [**Street Address 6421**] In. He was admitted to [**Hospital1 27**] briefly from [**06-02**] to 22 due to decreased responsiveness. Full medical workup was negative and his mental status was thought to be due to over medication. 
+
+One the day of admission patient had been out on a day pass and returned poorly responsive. On return he was noted to be drooling and disoriented. His pupils were sluggish and his O2 sat was 88%. He woke up with narcan.  He responded to narcan initially and was transfered to our [**Doctor First Name 2**] for further care.
+
+In the [**Doctor First Name 2**] he was sleepy but awoke to verbal stimuli. He was given narcan 1 mg at 22:20. This was repeated at 1:50. He also recieved levofloxacin and flagyl for aspiration pneumonia. 
+
+ROS: Denies headache, visual changes, cough, nausea, vomiting, shortness of breath, chest pain, dysuria, abdominal pain
+
+Past Medical History:
+1. Schizoaffective disorder s/p multiple suicide attempts, most recent [**2018-03-14**] OD on motrin. originally admitted to the [**Hospital1 6419**] [**04-06**] with suicidal thoughts. 
+2. Anxiety
+3. hepatitis C
+4. head Injury
+5. Bendoziadepine withdrawl seizure
+6. s/p Motrin OD
+7. heroin abuse
+8. Drug abuse
+9. s/p ECT
+10. alcaholic hepatitis; hx of EtOH abuse with hx of DTs
+
+Social History:
+Unemployed, on SSI, last employment 4yrs ago, lives at [**Hospital1 3385**], high school graduate; tob 1/2ppd 
+
+Family History:
+NC
+
+Physical Exam:
+VS: T 97.8 HR 122 BP 146/18 RR 16 O2 sat 92% RA 
+Gen: Well appearing, comfortable, lying in bed asleep. Arousable to voice. Oriented x 3. Dysarthric speech.
+HEENT: Pupils 5mm-->3mm, EOMI, sclera anicteric, MM dry. 
+Neck: No LAD, JVD or thyromegly.
+CV: RRR with no m/r/g
+Lungs: Decreased breath sounds on the right. No crackles or wheezes. Percussion normal in all lung fields.
+Abd: soft, NT, ND active BS, no hepatosplenomegly. ext: No clubbing, cyanosis or edema.
+Neuro: moves all extremities. Oriented x 3. CN II -XII intact and symmetric. Strength intact. [**Hospital Unit Name **]: denies hallucinations. Reports depression.
+
+Pertinent Results:
+Labs:
+[**2018-06-18**] 11:00PM BLOOD WBC-12.8*# RBC-4.46* Hgb-14.1 Hct-39.4*  MCV-89 MCH-31.6 MCHC-35.7* RDW-13.2 Plt Ct-253
+[**2018-06-20**] 05:28AM BLOOD WBC-5.4# RBC-4.51* Hgb-14.2 Hct-40.7  MCV-90 MCH-31.4 MCHC-34.9 RDW-13.3 Plt Ct-258
+[**2018-06-18**] 11:00PM BLOOD Neuts-74.6* Lymphs-17.4* Monos-6.5  Eos-1.3 Baso-0.3
+[**2018-06-18**] 11:00PM BLOOD Glucose-112* UreaN-14 Creat-0.8 Na-135  K-3.5 Cl-98 HCO3-23 AnGap-18
+[**2018-06-20**] 05:28AM BLOOD Glucose-116* UreaN-14 Creat-0.8 Na-138  K-4.3 Cl-104 HCO3-27 AnGap-11
+[**2018-06-19**] 03:36AM BLOOD ALT-37 AST-17 AlkPhos-103 TotBili-0.3
+[**2018-06-19**] 03:36AM BLOOD Albumin-4.5 Calcium-9.2 Phos-3.2 Mg-2.3
+[**2018-06-18**] 11:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG  Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2018-06-18**] 11:34PM URINE bnzodzp-NEG barbitr-NEG opiates-POS cocaine-NEG amphetm-NEG mthdone-NEG
+[**2018-06-18**] 11:34PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.007
+[**2018-06-18**] 11:34PM URINE Blood-NEG Nitrite-NEG Protein-NEG  Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+Micro: URINE CULTURE (Final [**2018-06-20**]):    NO GROWTH. 
+
+Rads:
+
+[**2018-06-18**] Non-contrast head CT:
+FINDINGS: No intra- or extra-axial hemorrhage is identified. There is no mass effect or shift of normally midline structures. The ventricles are normal in size and symmetric, and the basal cisterns are well visualized. The density of the brain parenchyma appears unremarkable. The visualized paranasal sinuses demonstrate marked mucosal thickening of the left maxillary sinus, unchanged. The mastoid air cells are clear. The orbits appear unremarkable. The surrounding soft tissue structures do not demonstrate any abnormalities. IMPRESSION: No evidence of intracranial hemorrhage or mass effect. Chronic mucosal changes in the left maxillary sinus.
+
+[**2018-06-18**] CXR:
+FINDINGS: There is an ill-defined opacity in the right lower lobe partially obscuring the right diaphragm that likely represents small amount of atelectasis. The lungs are otherwise clear. The left costophrenic angle was not imaged and thus a small left pleural effusion cannot be excluded. The cardiac and mediastinal contours are stable allowing for differences in projection. Pulmonary vasculature is normal.
+IMPRESSION: Right lower lobe atelectasis
+
+[**2018-06-18**] ECG: Baseline artifact 
+Sinus tachycardia. Modest nonspecific ST-T wave changes are suggested but baseline artifact makes assessment difficult. Since previous tracing of [**2018-06-02**], sinus tachycardia and slight 
+ST-T wave changes present 
+
+[**2018-06-19**] CXR: Lung volumes are low with several bibasilar areas of atelectasis. The heart size is normal. The pleural surfaces are smooth with no pleural effusion. IMPRESSION: Bilateral bibasilar atelectasis with no overt evidence of pneumonia.
+
+Brief Hospital Course:
+1) Altered mental status, Narcotic overdose: Tox screen negative for everything except opiates. Patient was initially poorly responsive, but came around with Narcan. Admited to ICU for close monitoring. After first 12hours in the hospital, he became more interactive and stated that while out on his day pass from the [**Hospital1 6419**] House he took what he thought were Tylenol that a friend gave him. He also stated that on occassion he takes  Percocet for R knee pain, unclear if this is prescribed for him and if so which MD prescribes it. He denied taking it on the day of his admit. In the [**Hospital Unit Name 3**], his mental status remained stable after his first 24 hours. Though he denied SI on admit, he does have a strong h/o SI and later during course noted that he was hearing voices telling him to hurt himself. He had insight that this was from his pscyh illness.
+
+2) Aspiration pneumonitis: Patient received levofloxacin and flagyl in the [**Doctor First Name 2**] for presumed asp pneumonia, though abx were stopped once he arrived in the [**Hospital Unit Name 3**] as it was felt that he was stable and likely had a chemical pneumonitis from aspiration rather than pna. His WBC trended down, he remained afebrile, and his respiratory status improved.
+
+3) Substance abuse: substance abuse counsellor consulted. 
+Avoided narcotics or sedating meds while in house.
+
+4) Schizoaffective disorder: restarted psychiatric medications once he was awake enough to eat, except for Neurontin, Benadryl and Remeron at the advice of the [**Hospital Unit Name **] team in house. As noted above, he continued to have AH regarding hurting himself and per [**Hospital Unit Name **] was kept on a 1:1 sitter, despite his statements that he was not going to hurt himself. Will need further management of his condition in a monitored locked unit after discharge from medical care.
+
+5) Elevated blood glucose: his daily fasting AM blood glucose values ranged 110-120, with no values over 126. Started [**Doctor First Name **] diet. Should have outpt GTT to eval for impaired glucose tolerance. Will benefit from weight loss regimen.
+
+6) Prophylaxis: heparin SC, PPI . Folate, Thiamine, MVI.
+
+7) Code: full code
+
+Medications on Admission:
+Cogentin 1 mg po bid
+Clozaril 250 mg po qhs
+Klonopin 1 mg po bid
+Remeron 15 mg po qhs
+Neurontin 300 mg po qhs
+Haldol 5 mg po tid
+Benadryl 50 mg po q hs prn
+MOM 30 cc po daily prn
+Mylanta 30 cc po q 4 prn
+nicorette gum 2 mg q1-2 hrs prn
+
+Discharge Medications:
+1. Benztropine 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+2. Clozapine 100 mg Tablet Sig: 2.5 Tablets PO HS (at bedtime).  
+
+3. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+4. Haloperidol 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 6419**] Hospital - [**Location (un) 497**]
+
+Discharge Diagnosis:
+altered mental status, likely from opiod overdose suicidal ideation
+schizoaffective disorder
+
+Discharge Condition:
+Hemodynamically stable, with no further evidence of intoxication. Heard voices on the AM of discharge telling him to hurt himself, though he has insight that this is related to his schizoaffective disorder and is cooperative with his treatment plan. Denies a desire to hurt himself currently.
+
+Discharge Instructions:
+Please continue to take your medications as prescribed and to cooperate with your healthcare team. Also, if you hear any voices of people who are not present around you, or if you feel like hurting yourself or someone else around you, please let your caretakers know immediately.
+
+Followup Instructions:
+Please follow up with your PCP and your Psychiatrist.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 3122**] MD [**MD Number 3123**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 4132**] MD [**MD Number 4133**] [**2018-06-20**] @ 1525
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: [**Doctor First Name 44**] [**2018-06-21**] 8:58 PM (End of Report)
+

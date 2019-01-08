@@ -1,0 +1,155 @@
+3461	||||	21833	||||	25152	||||	DISCHARGE_SUMMARY	||||	2016-01-04 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-12-30**]              Discharge Date:   [**2016-01-04**]
+
+Date of Birth:  [**1978-07-01**]               Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Tegretol
+
+Attending:[**Attending Info 619**] 
+Chief Complaint:
+transferred from OSH for Group A strep bacteremia and SIRS
+
+Major Surgical or Invasive Procedure:
+CVL placement [**01-01**]
+PICC line placement
+
+History of Present Illness:
+37 yo female w/ pmhx significant for tuberous sclerosis and seizure disorder who was transferred to [**Hospital1 2**] for Group A strep bacteremia and possible pneumonia, concern for impending ARDS. The patient reports that she was feeling in her USH up until Sunday ([**12-27**]) when she experienced fever, abdominal pain, nausea and emesis. The pt continued to feel poorly and went to the [**Doctor First Name 3**] on Monday ([**12-28**]), where she was found to be febrile up to 104 RR 24 and tachycardic HR 137. WBC with 10 K wbc and 11 % bands. She had an abnormal UA c 5 wbc . CxR was nl. The pt was admitted for IV antibiotics/ and hydration to treat possible pneumonia/UTI .She was given Ceftriaxone and LEvofloxacin.  Patient remained persistently febrile and on [**12-29**] her respiratory status worsened. She was subsequently transferred to [**Hospital Unit Name 221**] for monitoring. Never intubated. Blood cultures from [**12-28**] turned positive for Group A strep, and the patient was started on Ceftriaxone/ Clinda/ and PCN G. Urine culture with gropu B streptococcus. Non contrast abdominal CT revealed markedly enlarged R kidney w/ numerous adipose tissue densities, no air fluid levels/ gas present, enlarged spleen. ID consult was obtained, and the etiology of strep A was undetermined. It was recommended that she be started on IV Ig and possibly APC, and an MRI be obtained to further characterize renal lesion.  
+
+On arrival the patient denies any difficulty breathing. Reports some flank pain on the right. No N/V, no chest pain. + feeling LH. Recent loose stools, denies blood in stool.  
+Denies hx of pharyngitis or skin infection, dysuria, no muscle aches or joint pains, had a non productive cough, no headache, n/v. No recent trauma, wounds, areas of skin breakdown  
+
+Past Medical History:
+1. tuberous sclerosis with involvement of left kidney resulting in L nephrectomy due to hemorrhage at age 7.  
+2. seizure disorder  
+3. Gyne history- G1P1, LMP [**2015-12-21**].  
+
+Social History:
+soc hx: Married, lives with husband and 6 year-old child. Works as a secretary, no tobacco, rare ETOH, no illicits  
+
+Family History:
+non contributory.
+
+Physical Exam:
+vitals: 100.4/ 137/84/ rr 35/ hr 98
+GEN: awake, alert, sitting upright, mildly distressed
+HEENT: anicteric, EOMI, dry mucosa, no pharyngeal exudate
+NECK: no JVD, no LAD
+CV: tachy, no murmurs, no rubs
+LUNGS: rhonci B/L, decreased BS at bases, L>R
+ABD: soft, mild distended, mild tenderness in RUQ, no rebound, no organomegaly.  No flank tenderness
+EXT: warm, dry.  Distal pulses full and equal B/L.  No obvious rashes, areas of skin breakdown.  No LLE.  
+NEURO: A/O x3, no focal deficits, reflexes brisk and symmetric
+
+Pertinent Results:
+[**2015-12-30**] 09:58PM   WBC-6.2 RBC-3.48* HGB-9.9* HCT-28.6* MCV-82  MCH-28.6 MCHC-34.8 RDW-15.2
+[**2015-12-30**] 09:58PM   GLUCOSE-113* UREA N-13 CREAT-1.2* SODIUM-135  POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-18* ANION GAP-14
+[**2015-12-30**] 11:52PM URINE  RBC-0-2 WBC-<1 BACTERIA-NONE YEAST-NONE  EPI-0-2
+[**2015-12-30**] 11:52PM URINE  UCG-NEGATIVE
+[**2015-12-30**] 09:58PM   PT-11.9 PTT-25.8 INR(PT)-1.0
+[**2015-12-30**] 09:58PM   RET AUT-0.7*
+[**2015-12-30**] 09:58PM   PT-11.9 PTT-25.8 INR(PT)-1.0
+[**2015-12-30**] 09:58PM   PLT SMR-NORMAL PLT COUNT-180
+[**2015-12-30**] 09:58PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+  MACROCYT-OCCASIONAL MICROCYT-1+ POLYCHROM-OCCASIONAL BURR-1+ [**2015-12-30**] 09:58PM   NEUTS-81.4* BANDS-0 LYMPHS-15.6* MONOS-2.0  EOS-0.4 BASOS-0.6
+[**2015-12-30**] 09:58PM   WBC-6.2 RBC-3.48* HGB-9.9* HCT-28.6* MCV-82  MCH-28.6 MCHC-34.8 RDW-15.2
+[**2015-12-30**] 09:58PM   ALBUMIN-2.5* CALCIUM-7.7* PHOSPHATE-2.1*  MAGNESIUM-1.5* URIC ACID-5.2
+[**2015-12-30**] 09:58PM   LIPASE-18
+[**2015-12-30**] 09:58PM   ALT(SGPT)-87* AST(SGOT)-45* LD(LDH)-341*  CK(CPK)-71 ALK PHOS-114 AMYLASE-38 TOT BILI-0.5
+[**2015-12-30**] 09:58PM   GLUCOSE-113* UREA N-13 CREAT-1.2* SODIUM-135  POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-18* ANION GAP-14
+[**2015-12-30**] 11:52PM URINE  RBC-0-2 WBC-<1 BACTERIA-NONE YEAST-NONE  EPI-0-2
+[**2015-12-30**] 11:52PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-100  GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0  LEUK-NEG
+[**2015-12-30**] 11:52PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 83**]-1.014
+[**2015-12-30**] 11:52PM URINE  UCG-NEGATIVE
+[**2015-12-30**] 11:52PM URINE  HOURS-RANDOM CREAT-56 SODIUM-91
+[**2015-12-30**] 11:52PM URINE  HOURS-RANDOM
+
+CXR:
+Bilateral pulmonary infiltrates consistent with pneumonia.  Interval improvement on the right.  Persistent left effusion. 
+
+US kidneys:
+1.  Grossly deformed and enlarged right kidney due to the presence of multiple  AMLs. The largest is at the upper pole measuring over 11 cm but showing no  signs of hemorrhage.  In the middle third of the right kidney, there is an  indeterminate lesion measuring 4.3 cm.  This may be a somewhat lipid poor AML  but further evaluation is recommended with MRI to exclude possible renal cell 
+carcinoma, since we have no other studies for comparison. 
+
+Small bilateral effusions and status post left nephrectomy. 
+
+ECHO:
+The left atrium is mildly dilated. The interatrial septum is aneurysmal, and  there is right-to-left flow of saline contrast, indicating a patent foramen  ovale. Left ventricular wall thickness, cavity size, and systolic function are  normal (LVEF>55%). Regional left ventricular wall motion is normal. Right  ventricular chamber size and free wall motion are normal. The aortic valve  leaflets (3) appear structurally normal with good leaflet excursion and no  aortic regurgitation. No masses or vegetations are seen on the aortic valve.  The mitral valve leaflets are structurally normal. There is no mitral valve  prolapse. No mass or vegetation is seen on the mitral valve. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is  normal. There is a trivial/physiologic pericardial effusion.  
+
+IMPRESSION: No evidence of endocarditis. Normal global and regional  
+biventricular systolic function. Patent foramen ovale.  
+
+Brief Hospital Course:
+Assessment/Plan:  
+36 yo F with tuberous sclerosis presents with Group A Strep bacteremia, sepsis now resolved.  
+
+# Bacteremia: Unclear the source of her Strep A group bacteremia, echo without vegatations. Pt will need to continue Pen G. Has PICC line placed. will continue PCN 4 MU IV Q4H for coverage for 14 days total.  
+
+# Hypoxia: Patient hypoxic on admission, requiring NRB to maintain O2 sats. Likely due to paneumonia or early ARDS. was put on albuterol/ atrovent nebs. was weaned off O2. was satting well on RA at discharge
+
+# Renal CT scan findings: pt w/ fatty infiltrate on CT scan (w/out contrast) from OSH. Reviewed w/ our radiologists, who believed the fatty infiltrate likely represents angiomyolipoma, c/w her h/o tuberous sclerosis. Could get MRI for further imaging as outpatient  
+
+# H/o Seizure d/o: continued home lamotrigine  
+
+# Proph: pneumoboots, SC Heparin  
+
+# F/E/N: ADAT, moniter and replete lytes PRN  
+
+Medications on Admission:
+Ceftriaxone 1 gram IV BID  
+Clindamycin 900 mg IV q8  
+PCN 4 million units q 4h  
+tylenol 650 mg q 6h  
+Duo-Nebs  
+Lamictal 400 mg daily  
+Oxygen 4L NC  
+
+Discharge Medications:
+1. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One (1) ML Intravenous  DAILY (Daily) as needed. Disp:*30 ML(s)* Refills:*0*
+2. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two (2) ML Intravenous  DAILY (Daily) as needed. Disp:*30 ML(s)* Refills:*0*
+3. Penicillin G Potassium 20,000,000 unit Recon Soln Sig: One (1) 4 million units Injection Q4H (every 4 hours) for 8 days. Disp:*48 doses* Refills:*0*
+4. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed for fever.  
+5. Lamotrigine 100 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).  
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Group A streptococcus bacteremia
+
+Secondary
+Tuberous sclerosis
+Seizure disorder
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please take all mediations as prescribed.
+
+Please take the antibiotic through the PICC line for the next 8 days.
+
+If you have fever, cough, chest pain, rigors, nausea, vomitting, pain in abdomen please call your primary care physcian or fo to the emergency room
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) 237**] [**Last Name (NamePattern1) 3612**], [**First Name3 (LF) **] Phone:[**Telephone/Fax (2) 3613**] Date/Time:[**2016-03-08**] 11:00
+Provider: [**Initials (NamePattern4) **]. [**Last Name (STitle) 3614**] [**Name (STitle) **] Phone:[**Telephone/Fax (2) 3615**] Date/Time:[**2016-12-08**] 9:45
+
+Please make a follow up appointment with your primary care physician Dr [**Last Name (STitle) 3616**] ([**Telephone/Fax (2) 3617**]) within 2 weeks of discharge
+
+Patient needs a follow up abdomian MRI within 1 month to evaluate her renal lesions (suspected angiomyolipoma)
+
+Patinet was guaiac positive in the hospital but the hematocrit was stable. She will need colonoscopy as an outpatient
+
+Patinet will also need endocarditis prophylaxis befoe undergoing any minor or major surgical procedure as patinet has patent foramen ovale.
+
+Please check Iron studies.
+
+[**Name6 (MD) **] [**Name7 (MD) 633**] MD [**MD Number 634**]
+
+Completed by: [**Name6 (MD) 647**] [**Name8 (MD) 648**] MD [**MD Number 649**] [**2016-01-05**] @ 1606
+Signed electronically by: DR. [**First Name (STitle) **] BELL on: TUE [**2016-02-02**] 10:35 AM
+(End of Report)
+

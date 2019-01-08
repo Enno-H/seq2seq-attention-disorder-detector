@@ -1,0 +1,3 @@
+13594-066846-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+13594-066846-ECG_REPORT.txt||Disease_Disorder||CUI-less||140||144
+13594-066846-ECG_REPORT.txt||Disease_Disorder||CUI-less||172||197

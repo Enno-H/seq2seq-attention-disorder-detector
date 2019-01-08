@@ -1,0 +1,5 @@
+03990-040506-ECG_REPORT.txt||Disease_Disorder||CUI-less||94||106
+03990-040506-ECG_REPORT.txt||Disease_Disorder||C0085614||112||132
+03990-040506-ECG_REPORT.txt||Disease_Disorder||C0023211||134||158
+03990-040506-ECG_REPORT.txt||Disease_Disorder||CUI-less||159||170||188||200
+03990-040506-ECG_REPORT.txt||Disease_Disorder||C0004238||226||245

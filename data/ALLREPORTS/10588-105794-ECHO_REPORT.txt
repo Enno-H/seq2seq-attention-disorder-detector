@@ -1,0 +1,47 @@
+105794	||||	10588	||||	20897	||||	ECHO_REPORT	||||	2013-05-12 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: VF ARREST sp resuscitation
+Height: (in) 73
+Weight (lb): 190
+BSA (m2): 2.11 m2
+BP (mm Hg): 96/60
+HR (bpm): 62
+Status: Inpatient
+Date/Time: [**2013-05-12**] at 12:48
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Mild LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dilated IVC (>2.5 cm). 
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size. Mild regional LV systolic dysfunction. 
+
+LV WALL MOTION: Regional LV wall motion abnormalities include: mid anterior - hypo; mid anteroseptal - hypo; anterior apex - hypo; remaining LV segments contract normally. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. Normal ascending aorta diameter. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets. Mild to moderate ([**03-04**]+) MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Indeterminate PA systolic pressure. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Emergency study performed by the cardiology fellow on call. 
+
+Conclusions: 
+The left atrium is mildly dilated. The inferior vena cava is dilated (>2.5 cm). Left ventricular wall thicknesses and cavity size are normal. There is mild regional left ventricular systolic dysfunction with hypokinesis of the distal half of the anterior septum and anterior wall. The remaining left ventricular segments contract normally and overall systolic function is low normal. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve leaflets are structurally normal. Mild to moderate ([**03-04**]+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. 
+
+IMPERSSION: Mild left ventricular systolic dysfunction. Mild-moderate mitral regurgitation. 
+

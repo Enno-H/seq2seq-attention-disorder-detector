@@ -1,0 +1,5 @@
+60190	||||	1982	||||	19870	||||	ECG_REPORT	||||	2016-09-01 07:43:00.0	||||		||||		||||		||||	
+Sinus bradycardia
+Probable prior inferior myocardial infarction
+Prolonged Q-Tc interval - clinical correlation is suggested for possible in part metabolc/drug effect Since previous tracing of [**2016-08-30**], sinus bradycardia and prolonged Q-Tc interval present
+

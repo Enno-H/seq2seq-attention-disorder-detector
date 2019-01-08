@@ -1,0 +1,117 @@
+27184	||||	20288	||||	23795	||||	DISCHARGE_SUMMARY	||||	2014-08-25 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-08-18**]              Discharge Date:   [**2014-08-25**]
+
+Date of Birth:  [**1933-05-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 3610**] 
+Chief Complaint:
+Type B Aortic Dissection
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+81 yr old with aortic dissection involving distal ascending and arch and desending aorta here for BP control.  Monday morning patient c/o severe back pain.  Went to [**Location (un) 3992**] where CT scan revealed Type B aortic dissection.  No chest pain or shortness of breath during this time.  Patient was admitted [**08-18**] to CT surgery where they were medically managing his BP with esmolol and nipride drips.  He was transferred to CCU team today for continued medical management.
+
+Family reports that patient has been undergoing "neuro" eval for progressive memory loss over past year or so.
+
+Past Medical History:
+-COPD
+-prostate ca
+-back pain
+-? aneurysm of carotid artery
+
+Social History:
+- ex-smoker, quit 3 years ago, no alcohol, lives with wife, 4 children
+
+Physical Exam:
+VS T 97.3, P 74, BP 134/75, 17, 96% on 2L, I/O 1700/700
+GEN - NAD, alert, oriented to person only
+HEENT - PERRL (2 mm), 7 mm diam white plaque on R soft palate NECK  - no LAD, no JVD
+HEART - nl s1s2, irreg irreg, no mrg
+LUNGS - CTAB
+ABD - soft, distended, nontender, 
+EXT - no edema
+NEURO - moves all 4 extremities spontaneously
+
+Pertinent Results:
+CT torso with contrast [**2014-08-20**]: 
+
+IMPRESSION: 
+1. Findings consistent with a type B intramural hematoma of the intrathoracic aorta. This process does not involve the intra-abdominal aorta. 
+
+2. Extensive atherosclerotic disease of the intrathoracic and intra-abdominal aorta, with a focal area of mural thrombus within the mid abdominal aorta, which extends into the proximal portion of an aneurysmal left renal artery, as detailed above. The more distal left renal artery is widely patent. There is also aneurysmal dilatation of the aortic arch. 
+
+3. Heterogeneously enhancing 4.6 x 3.5 cm right renal mass, concerning for a primary renal neoplasm. 
+
+4. 7 x 5 mm noncalcified nodule within the left upper lobe. While this may 
+represent a benign entity such as a noncalcified granuloma, close follow-up is warranted given the above findings within the right kidney. 
+
+5. Partially calcified nodules within the right lobe of the thyroid gland. 
+Clinical correlation is recommended. 
+
+6. Cholelithiasis. 
+
+Brief Hospital Course:
+A/P: 81 yo man admitted with newly diagnosed type B aortic dissection.
+
+1) Aortic dissection/intramural hematoma - Type B (no involvement of ascending aorta).  Will medically manage with tight control of BP (goal SBP 110-120).  Initially was on esmolol and nitro gtt but these were easily titrate off.  CT surgery does not feel patient needs surgery.
+- con't labetolol 600 mg bid and lisinopril 10 mg po qd
+
+2) COPD - con't home prednisone 10 mg po qd with nebulizers prn. Con't flovent bid.  Will need to discuss prednisone taper and other COPD management with PCP.
+
+3) R renal mass - 4.6 cm diameter, likey renal cell cancer.  Urine cytology showed atypical uroepithelial cells.  Patient and family aware.  Will discuss further with urologist.
+
+4) h/o prostate cancer - con't lupron outpatient management.
+
+5) Code - Full
+
+6) LUL nodule - found incidentally on CT.  Needs f/u CT per PCP.
+
+Medications on Admission:
+-Claratin
+-Lupron
+-Prednisone 10
+-Flovent 2 puffs bid
+
+Discharge Medications:
+1. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+2. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation BID (2 times a day).  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.  
+5. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.  
+6. Labetalol 200 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).  
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain.  
+8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Sliver Lake 
+
+Discharge Diagnosis:
+Aortic dissection
+
+Discharge Condition:
+Stable.
+
+Discharge Instructions:
+Return to the emergency room or call your primary care physcian if you have increasing shortness of breath, chest pain, back pain, or any other symptom that bothers you. Take your medications as directed.
+
+Followup Instructions:
+1) Please call your primary care physician for [**Name Initial (PRE) **] follow up appointment within the next 1-2 weeks.  
+
+2) You also need to be seen by your urologist regarding the mass in your right kidney.
+
+[**firstname **] [**Name7 (MD) 3616**] MD [**MD Number 3617**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 3993**] MD [**MD Number 3994**] [**2014-08-25**] @ 1336
+Signed electronically by: DR. [**firstname **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: [**Doctor First Name 145**] [**2014-08-28**] 1:33 PM (End of Report)
+

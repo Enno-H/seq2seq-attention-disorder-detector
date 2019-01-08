@@ -1,0 +1,8 @@
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||32||36
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||189||193
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||239||242
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||257||259
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||276||278
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||359||362
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||814||818
+10689-110055-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||1838||1842

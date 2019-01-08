@@ -1,0 +1,21 @@
+226973	||||	26176	||||	4475	||||	RADIOLOGY_REPORT	||||	2014-04-27 11:37:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 285-3141  Actual report	||||	
+DATE: [**2014-04-27**] 11:37 AM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 4195**] Reason: r/o pneumoniae
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+71 year old man s/p dual chamber ICD implant on [**04-21**] with bleeding around pacer after the procedure 
+r/o pneumonia
+REASON FOR THIS EXAMINATION:
+r/o pneumoniae
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  S/P dual chamber ICD implant with bleeding around the pacer, rule out pneumonia.
+
+COMPARISON:  [**2014-04-22**].
+
+AP CHEST:  The ICD pacer is identified with all three leads in appropriate position, unchanged from the prior study.  Sternal wires are present.  A left femoral vein pulmonary artery catheter tip is in a left interlobar artery. The cardiac silhouette is enlarged, but not changed compared to the prior study. The mediastinal and hilar contours are within normal limits.  There is increased opacification within the left lower lobe likely relating to atelectasis.  The pulmonary vascularity has not changed compared to the prior study.  There is minimal if any evidence of pulmonary edema.  The osseous structures are unchanged.
+
+IMPRESSION:  1)  New opacity in the left lower lobe likely representing atelectasis however an underlying pneumonia could not be excluded. 2)  Cardiomegaly without definite evidence of failure.  3)  Lines and tubes in appropriate position.
+

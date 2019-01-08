@@ -1,0 +1,7 @@
+69810	||||	2405	||||	26570	||||	ECG_REPORT	||||	2016-10-16 10:49:00.0	||||		||||		||||		||||	
+Sinus rhythm
+Atrial premature complex
+Left atrial abnormality
+Left anterior fascicular block
+Nonspecific inferoapical T wave abnormalities - clinical correlation is suggested Since previous tracing of [**2016-10-12**], further T wave changes present
+

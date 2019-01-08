@@ -1,0 +1,4 @@
+60090	||||	18426	||||	11079	||||	ECG_REPORT	||||	2015-03-18 07:37:00.0	||||		||||		||||		||||	
+Marked sinus bradycardia. Incomplete right bundle-branch block. Leftward axis is non-specific. Since the previous tracing of [**2015-03-17**] sinus bradycardia rate is slower and axis is less leftward. 
+TRACING #2
+

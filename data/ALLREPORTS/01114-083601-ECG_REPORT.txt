@@ -1,0 +1,4 @@
+83601	||||	1114	||||	23168	||||	ECG_REPORT	||||	2016-01-05 03:57:00.0	||||		||||		||||		||||	
+Sinus tachycardia. Compared to the previous tracing of [**2016-01-04**] multiple abnormalities persist without major change.
+TRACING #2
+

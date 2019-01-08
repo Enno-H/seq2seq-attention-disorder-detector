@@ -1,0 +1,3 @@
+48474	||||	13101	||||	21807	||||	ECG_REPORT	||||	2014-09-23 08:06:00.0	||||		||||		||||		||||	
+Sinus rhythm and underlying sinus rhythm without ventricular sensing of the atrial pacemaker. There is intermittent appearance of apparent atrial pacemaker artifact without capture. Clinical correlation is suggested. TRACING #2
+

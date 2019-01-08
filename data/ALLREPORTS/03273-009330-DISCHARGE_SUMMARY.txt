@@ -1,0 +1,67 @@
+9330	||||	3273	||||	19315	||||	DISCHARGE_SUMMARY	||||	2013-12-25 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-12-13**]       Discharge Date:  [**2013-12-20**]
+
+Date of Birth:   [**1965-12-18**]       Sex:  M
+
+Service:  [**Hospital Unit Name 207**]/KURLA
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**lastname 6938**] is a 47 -year-old gentleman with a history of alcohol abuse and prior delirium tremens who had four witnessed seizures at home on the day of admission.  EMTs were called and found the patient confused and lethargic, with dried blood in his mouth.  He was also tachycardic and had a fingerstick of 142.  In transport to an outside hospital Emergency Department, the patient had two more thirty second seizures and in the outside hospital
+Emergency Department, he was witnessed to have another seizure.  He was intubated secondary to agitation, combativeness, and airway protection and was given Ativan, fosphenytoin, Phenergan, and phenobarbital, as well as Versed, succinylcholine, and pancuronium.  He was transferred to the [**Hospital **] - [**Hospital **] [**First Name (Titles) **] [**Last Name (Titles) **] Surgical Intensive Care Unit where a head CT scan was negative for acute intracranial process.
+
+PAST MEDICAL HISTORY:
+1.  Alcohol abuse, status post alcohol withdrawal with delirium tremens.
+2.  Status post appendectomy in [**2011**].
+3.  Polysubstance abuse.
+4.  Hypertension.
+5.  Thrombophlebitis.
+
+ALLERGIES:  No known drug allergies.
+
+ADMITTING MEDICATIONS:  Unknown.
+
+FAMILY HISTORY:  The patient's father has emphysema, his sister had breast cancer, his brother had esophageal varices, and his mother has emphysema.
+
+SOCIAL HISTORY:  The patient is unemployed and is living with four roommates who apparently also engaged in alcohol abuse. The patient has an extensive history of alcohol use and they said he has had withdrawal seizures in the past.
+
+PHYSICAL EXAMINATION:  On admission, temperature 100.4 F, heart rate 100, blood pressure 170/70.  In general, this patient was intubated and sedated, not responding to voice or painful stimuli.  Head, eyes, ears, nose, and throat: the patient had blood in his mouth and on his tongue, pupils were pinpoint and reactive.  The neck was supple.  Chest was clear to auscultation bilaterally.  The abdomen was soft.  On extremity examination, the patient had equal tone in all four extremities and no response to painful stimulus in his extremities.  He did have rhythmic movements bilaterally in the arms, but these were also very stimulus sensitive.
+
+ADMISSION LABORATORY DATA:  Initial laboratory studies indicated valproic acid level of less than 0.7, Dilantin level of less than 0.5, TSH of 2.27, glucose 134, BUN 4.0, creatinine 1.1.  Sodium 140, potassium 4.2, chloride 104, bicarbonate 18.  Total bilirubin 0.9, AST 68, ALT 33, alkaline phosphatase 135, ammonia 39.  White blood cell count 10.8, hematocrit 39, platelets 93,000.  Cardiac enzymes were negative.  Arterial blood gas indicated a pH of 7.3, CO2 of 37, O2 of 330.
+
+HOSPITAL COURSE:  The patient was admitted initially to the
+Surgical Intensive Care Unit, intubated for airway protection.  A head CT scan was negative for acute intracranial process; however, there was a small old right subdural hematoma.  Initial electroencephalogram was negative for epileptiform activity.  The patient did have mildly elevated transaminases and elevated lipase and amylase. Serum toxicology screen was negative and rapid plasma reagent was negative.
+
+In the Surgical Intensive Care Unit the patient was noted to be febrile.  A chest x-ray showed possible left lower lobe and a right lower lobe pneumonia which was presumed to be aspiration.  He was started on Levaquin and metronidazole.
+He was weaned off of the Ativan drip and extubated on hospital day three with some improvement in his mental status, although he was still obtunded, but rousable on the day of transfer.
+
+An abdominal ultrasound was completed which indicated an echogenic appearing liver with no biliary tree abnormalities and no ascites.  The patient continued to be febrile on the floor.  Blood cultures from hospital day four grew out coag negative Staphylococcus in one out of four bottles.  He received one dose of vancomycin while awaiting speciation.  A second electroencephalogram was conducted on hospital day two with results pending at the time of this dictation.  To this point, the patient has been continued on Dilantin during his hospital stay.
+
+On hospital day seven, the patient was alert and oriented times three.  A Physical Therapy evaluation indicated the patient was unsafe for discharge to home due to poor balance and lack of safety awareness and therefore the patient was being screened for discharge to a rehabilitation facility at the time of this dictation.  The patient was refusing alcohol rehabilitation; however, was amenable to a substance abuse consult which has been ordered at the time of this dictation.
+
+DISCHARGE DIAGNOSES:
+1.  Alcohol abuse.
+2.  Alcohol withdrawal seizures.
+3.  Hypertension.
+4.  Polysubstance abuse.
+
+DISCHARGE MEDICATIONS:
+1.  Lopressor 25 mg po bid.
+2.  Folate 1.0 mg po q day.
+3.  Thiamine 100 mg po q day.
+4.  Multivitamin one tablet po q day.
+5.  Enteric coated A.S.A. 81 mg po q day.
+6.  Metronidazole 500 mg po tid through [**12-23**].
+7.  Levofloxacin 250 mg po q day through [**12-23**].
+
+DISPOSITION:  At the time of this dictation, the patient was being screened for discharge to an acute rehabilitation facility.
+
+[**First Name8 (NamePattern2) **] [**Male First Name (un) **], M.D. [**MD Number 5495**]
+
+Dictated By:[**Dictator Info 5356**]
+MEDQUIST36
+
+D:  [**2013-12-19**]  14:44
+T:  [**2013-12-19**]  14:48
+JOB#:  [**Job Number 6939**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Male First Name (un) **] on: WED [**2014-01-29**] 8:23 PM
+(End of Report)
+

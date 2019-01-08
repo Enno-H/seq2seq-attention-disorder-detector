@@ -1,0 +1,7 @@
+34056	||||	21349	||||	17761	||||	ECG_REPORT	||||	2013-09-10 12:09:00.0	||||		||||		||||		||||	
+Sinus rhythm
+Left atrial abnormality
+- first degree A-V block
+Left bundle branch block
+Since previous tracing, left bundle branch block new
+

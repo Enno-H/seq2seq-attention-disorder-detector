@@ -1,0 +1,22 @@
+416048	||||	9775	||||	2193	||||	RADIOLOGY_REPORT	||||	2013-02-15 20:19:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 335-3181  Actual report	||||	
+DATE: [**2013-02-15**] 8:19 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 3020**] Reason: sp re intubation                                            Admitting Diagnosis: SAH;TELEMETRY
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+35 year old man with CHI with fever and purulent sputum                        
+
+REASON FOR THIS EXAMINATION:
+sp re intubation                                                                ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION: CHI with fever and purulent sputum, status post reintubation.
+
+Comparison is made to a prior study of [**2013-02-11**].
+
+Chest AP semiupright done on [**2013-02-15**] at 2018 hours.
+
+FINDINGS: The top of the chest has been excluded from the film. The external support tubes (the right subclavian line, ETT and NG tube) are in good position as described earlier. Note is made of a new infiltrate in the right lung base. The heart and mediastinal contours are normal. The osseous structures are unremarkable.
+
+IMPRESSION: Findings compatible with pneumonia in the right lung base.
+

@@ -1,0 +1,169 @@
+4908	||||	22743	||||	20721	||||	DISCHARGE_SUMMARY	||||	2017-09-29 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2017-09-21**]              Discharge Date:   [**2017-09-29**]
+
+Date of Birth:  [**1959-02-09**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1196**] 
+Chief Complaint:
+Gram Negative rods in CSF. 
+
+Major Surgical or Invasive Procedure:
+Omaya reseveroir was removed and an external ventricular drain was placed and subsequently removed.  
+
+History of Present Illness:
+Mrs. [**lastname 543**] is a 58 yo woman with metastatic breast Ca and newly dx'd leptomeningeal disease involving brain and spinal cord. She has had various chemotherapeutic regimens as listed below, but most recently has been receiving Temodar po and  DepoCyte by Omaya Shunt. On [**2017-09-16**], she was admitted for nausea and vomitting and was found to have a UTI. After 48 hours, she was discharged home with levaquin. Her husband reports that she had an outpatient lumbar puncture as well as a tap of her Omaya shunt earlier today based on some findings from 
+
+her MRI on saturday the 23rd. He was told that During there was a lesion suspicious for puss vs. tumor vs. blood. Today's tap per pathology, showed three tubes from the LP that were clean, and one tube from the Omaya shunt that had 3+ Gram Negative Rods. 
+The patient was called at home and told that she would be admitted based on these findings.
+
+Past Medical History:
+Metastatic Breast CA with leptomeningeal disease 
+Hypothyroidism 
+
+Social History:
+She has a bachelor's degree. She is retired.  
+She used to work as an insurance [**Doctor Last Name 589**]. She is married. She lives with her spouse. She does not smoke. She does not drink.  She denies any recreational drug abuse. 
+
+Family History:
+Mother died at 77 of bowel obstruction. She had a difficult surgery, and bowel obstruction was secondary to prior  surgeries for colon cancer. Her father died at 77 with coronary problems. [**Name (NI) **] sister is alive at 47 in good health. She has one brother who died at 27 in a fire, and she has three other brothers, 59, 57, 15, in good health. She has two daughters, 30 and 26, in good health and a son, 32, in good health. 
+
+Physical Exam:
+VITALS: Tc=98.0, P: 116, 110/64, 20 
+GEN: Appears slightly dry. Thin. Tired. Older than her stated age. Alert, attentive with exam 
+CHEST: CTA bilaterally 
+Back: Sacral ulcer without dressing. No puss or erythema. 
+CV: regular rate and rhythm No MG/R 
+ABD: soft, nontender, nondistended, +BS 
+EXTREM: warm. Well perfused. 2+ DP Bilaterally. 
+
+NEURO: 
+Mental status: 
+Patient is A+O times 3. She's tired but attentive, flat affect, speech fluent. Per husbands report, she is at her baseline with no changes in personality or level of alertness.  Quiet, but speaks spontaneously. Memory intact. Attention good. Names low frequency objects and follows commands. 
+
+HEENT: Head - left frontal region has Omaya reservoir below sub-cutaneously. No erythema, no edema, no fluctuance. No other signs of infxn at site. 
+Eyes - Pupils reactive bilaterally 5 to 4 L and [**05-29**] Right. EOMI. 
+
+VFF. No nystagmus. Mouth - Tongue midline, palate elevated symmetrically. No thrush 
+Neck - soft, supple  
+Cranial Nerves: II-VII, IX-XII intact. Intact hearing bilaterally 
+Motor - good effort on exam, 4+5 in bilateral UEs 
+LEs: I/P Legflex LegExt DF PF 
+R [**05-31**] 4-/5 [**05-31**] 4- 4 
+L [**05-31**] [**05-31**] 4+/5 4+ 4+ 
+
+Sensory: intact in all four extremities to LT, PP, cold. 
+
+Reflexes:  
+[**Hospital1 **] BR Tri Pat Ach Toes 
+RT: 1 1 1 0 0 mute 
+LEFT: 1 1 1 0 0 mute 
+
+Cereberllar: Normal FNF. Gait small steps, requires assist of 1 person. At baseline per husband. 
+
+Pertinent Results:
+[**2017-09-21**] 01:06PM CEREBROSPINAL FLUID (CSF)  WBC-2 RBC-12*  POLYS-32 LYMPHS-5 MONOS-0 ATYPS-1 MACROPHAG-62
+[**2017-09-21**] 01:06PM CEREBROSPINAL FLUID (CSF)  PROTEIN-1080*  GLUCOSE-197 LD(LDH)-144 MISC-CEA=26
+[**2017-09-21**] 02:40PM CEREBROSPINAL FLUID (CSF)  WBC-0 RBC-130*  POLYS-3 LYMPHS-39 MONOS-58
+[**2017-09-21**] 02:40PM CEREBROSPINAL FLUID (CSF)  PROTEIN-101*  GLUCOSE-134 LD(LDH)-27
+
+Brief Hospital Course:
+The patient is a 58-year-old female who is well known to the neuro-oncology/neurosurgery service at the [**Hospital **] [**Hospital **] Medical Center. She is known to have metastatic breast carcinoma. The patient suffers from meningeal carcinomatosis. She had recently had a CSF reservoir/access device placed by Dr. [**Last Name (STitle) **]. The patient now returns several weeks later with a ventriculitis. The patient is neurologically in good condition. The Gram stain of the recent CSF specimen revealed 3+ gram negative rods. The patient is in need of removal of the previous CSF access device and placement of a new intraventricular EVD for infiltration of intrathecal antibiotics which were never given.
+
+She was admitted to the ICU for close neuro observation and care.She was followed by ID and treated initially with Vanco and Ceftazdime.  Her EVD was kept in until [**09-25**].  She was transferred to the floor on [**09-26**].
+
+LM disease - pt received IT depocyte and 6/7 days of TMZ. - MRI of L spine shows stable disease 
+
+2) ID - pt now in step down unit. ID wants a full 14days of Vanc/Ceftaz (ceft started [**09-23**], Vanc started [**09-25**]), all of her 
+CSF cultures have been negative (1st set done before Abxs).  On Discharge ID recommened 14 days of Levaquin
+
+3) Myopathy - in proximal thighs, probably from steroids, pt was 
+
+on decadron taper before, will have husband cont it once d/c'd from hospital 
+
+4) thrush - None today, but would cont nystatin s&s as pt on decadron 
+
+5) GI - spoke to PA on NSG service and nurse who will see if pt is accurate in her statment of no BM for one week.  
+
+7) Cerebral edema - husband should cont decadron taper as brain MRI stable. He has taper schedule given to him. 
+
+8) Nausea - cont zydis 10 mg qD, pt not had any nausea since being put on zydis. 
+
+Her exam on discharge was:
+Patient is tired but attentive, flat affect, fluent, presodic speech. A&Ox3. Registration intact. ABle to count 20-->1 without 
+
+diff, serial 3's got to 21 and then stopped. Intact repetition/naming/[**03-31**]-step command. No R/L disorientation. No ideomotor apraxia. Recall: 0/3 spont, [**02-28**] with lists 
+HEENT: Head - NC/AT, alopecic from radiation 
+Eyes - PERRL. EOMI. VFF. No nystagmus. 
+Mouth - Tongue midline, palate elevated symmetrically. No thrush 
+
+Neck - soft, supple 
+Cranial Nerves: II-VII, IX-XII intact. Intact hearing bilaterally 
+Motor - good effort on exam, [**06-30**] in bilateral UEs 
+LEs: I/P Legflex LegExt DF PF 
+R [**05-31**] 5/5 [**06-30**] 5 5 
+L [**05-31**] 5/5 [**06-30**] 5 5 
+
+Sensory: Pt stated intact LT even over groin area, 
+
+Cereberllar: Normal appendicular coordination. Didn't test gait 
+
+Medications on Admission:
+Decadron 2 mg Q8H PO  
+Dolasetron Mesylate 12.5 mg Q8H:PRN IV [**2017-09-16**] @ 1900   Insulin - Sliding Scale Sliding Scale 0 UNIT ASDIR SC [**2017-09-16**] 
+Pantoprazole 40 mg Q24H PO [**2017-09-16**] @ 1900  
+Prochlorperazine 10 mg Q6H:PRN IV [**2017-09-16**] @ 1900  
+Prochlorperazine Maleate 10 mg Q6H:PRN PO [**2017-09-16**] @ 1900  
+Senna 1 TAB BID:PRN PO [**2017-09-16**] @ 1900  
+Docusate Sodium 100 mg BID PO [**2017-09-16**] @ 2000  
+Clotrimazole 1 TROC QID PO [**2017-09-16**] @ 2200  
+Olanzapine (Disintegrating Tablet) 5 mg QHS PO [**2017-09-16**] @ 2200   Levothyroxine Sodium 44 mcg QSUN (SU) PO [**2017-09-17**] @ 1300  
+Pregabalin 50 mg BID ORAL [**2017-09-17**] @ 2000  
+Pregabalin 150 mg BID ORAL [**2017-09-17**] @ 2000  
+Levothyroxine Sodium 88 mcg QMOWEFR (MO,WE,FR) PO [**2017-09-18**] @  Levothyroxine Sodium 88 mcg QTUTHSA (TU,TH,SA) PO [**2017-09-19**] 
+
+Discharge Medications:
+1. hospital bed
+2. one-step mattress
+3. standard wheelchair
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day for 14 days.
+Disp:*14 Tablet(s)* Refills:*0*
+Decadron 2 mg Q8H PO  
+Dolasetron Mesylate 12.5 mg Q8H:PRN IV [**2017-09-16**] @ 1900   Insulin - Sliding Scale Sliding Scale 0 UNIT ASDIR SC [**2017-09-16**] 
+Pantoprazole 40 mg Q24H PO [**2017-09-16**] @ 1900  
+Prochlorperazine 10 mg Q6H:PRN IV [**2017-09-16**] @ 1900  
+Prochlorperazine Maleate 10 mg Q6H:PRN PO [**2017-09-16**] @ 1900  
+Senna 1 TAB BID:PRN PO [**2017-09-16**] @ 1900  
+Docusate Sodium 100 mg BID PO [**2017-09-16**] @ 2000  
+Clotrimazole 1 TROC QID PO [**2017-09-16**] @ 2200  
+Olanzapine (Disintegrating Tablet) 5 mg QHS PO [**2017-09-16**] @ 2200   Levothyroxine Sodium 44 mcg QSUN (SU) PO [**2017-09-17**] @ 1300  
+Pregabalin 50 mg BID ORAL [**2017-09-17**] @ 2000  
+Pregabalin 150 mg BID ORAL [**2017-09-17**] @ 2000  
+Levothyroxine Sodium 88 mcg QMOWEFR (MO,WE,FR) PO [**2017-09-18**] @  Levothyroxine Sodium 88 mcg QTUTHSA (TU,TH,SA) PO [**2017-09-19**] 
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+CSF infection.
+
+Discharge Condition:
+Stable.
+
+Discharge Instructions:
+Please complete the prescribed antibiotics as prescribed.  
+Please call or return for headache, vision changes, redness, swelling or drainage from wound, fever, chills, or any other concern.  You also have a decubitus ulcer that should be cared for by a wound nurse.  We are providing you a referral for that service.
+
+Followup Instructions:
+Please return for removal of sutures [**10-07**].  2 weeks after completion of antibiotics, please return for clinic visit with Dr. [**Last Name (STitle) **] and MRI.  Please call Brain Tumor Clinic to set up an appointment time. ([**Telephone/Fax (2) 4379**]. You will have an appointment with Dr. [**Last Name (STitle) 4120**] on Tuesday morning at the Infusion Center for intrathecal Depocyte.  Her assistant will call you with the appointment time.
+
+[**Name6 (MD) **] [**Name7 (MD) 1197**] MD [**MD Number 1198**]
+
+Completed by: [**First Name11 (Name Pattern1) 2241**] [**Name7 (MD) 2242**] NP 80-AKY [**2017-09-29**] @ 1106
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: MON [**2017-10-16**] 3:39 PM
+(End of Report)
+

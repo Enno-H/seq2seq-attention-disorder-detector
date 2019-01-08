@@ -1,0 +1,3 @@
+84521	||||	3066	||||	13096	||||	ECG_REPORT	||||	2013-07-09 13:43:00.0	||||		||||		||||		||||	
+Sinus rhythm, rate 95. Since the previous tracing of [**2013-07-09**] minimal slowing of the heart rate has occurred. No other significant changes are seen.  
+

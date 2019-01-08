@@ -1,0 +1,24 @@
+257214	||||	25217	||||	23679	||||	RADIOLOGY_REPORT	||||	2013-06-09 14:53:00.0	||||	U314 LIVER OR GALLBLADDER US (SINGLE ORGAN)	||||		||||	Clip # 405-8573  Actual report	||||	
+DATE: [**2013-06-09**] 2:53 PM
+LIVER OR GALLBLADDER US (SINGLE ORGAN); -59 DISTINCT PROCEDURAL SERVICEClip # [**Telephone/Fax (1) 3493**] DUPLEX [**Last Name (un) 322**] ABD/PEL
+Reason: duplex?thrombus/clot                                        Admitting Diagnosis: S/P LIVER TX ASCTES CONFUSION ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man s/p re-Liver  transplant. and revision R-N-Y now were very increased TB                              
+REASON FOR THIS EXAMINATION:
+duplex?thrombus/clot                                                            ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  52-year-old man status post re-liver transplant and revision Roux-en-Y anastomosis, now with increased total bilirubin.
+
+COMPARISON:  [**2013-06-03**].
+
+LIVER ULTRASOUND WITH DOPPLER EXAMINATION:  The liver parenchyma is normal in echotexture, without focal nodules or masses identified.  The previously noted hemangioma in segment VII is not imaged on today's study.  There is a small amount of perihepatic ascites.  Imaging for dilated bowel segments within the region of the portahepatus is not appreciated.
+
+The portal vein is patent with hepatopetal flow.  However, flow is turbulent with increased velocity at the level of the anastomosis measuring up to 225 cm/sec.  This was not clearly demonstrated on the prior study.  Flow within the anterior right, posterior right, and left portal vein is normal, with appropriate direction of flow.  The right middle and left hepatic veins are patent with normal respiratory variation.  Waveforms within the main, right, and left hepatic arteries demonstrate sharp systolic upstroke, which is improved from this prior study.  However, resistive indices remain low measuring 0.52, 0.45, and 0.42 within the middle, right, and left hepatic arteries respectively.
+
+IMPRESSION:
+1.  Turbulent flow within the proximal portal vein, at the level of the anastomosis.  High velocities may represent a stenosis in this area. 2.  Low resistive indices across all hepatic arteries may indicate a focal arterial anastomotic stenosis.  However, when compared with the prior study, the waveforms now demonstrate a sharp systolic upstroke compared with a tardus parvus waveform on the prior study.
+3.  Small perihepatic ascites.
+4.  Segment VII liver hemangioma identified on prior study is not clearly seen on today's study.
+

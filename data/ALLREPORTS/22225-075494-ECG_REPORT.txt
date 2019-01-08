@@ -1,0 +1,6 @@
+75494	||||	22225	||||	3797	||||	ECG_REPORT	||||	2012-09-01 06:57:00.0	||||		||||		||||		||||	
+Atrial fibrillation
+Lateral ST changes are nonspecific
+Repolarization changes may be partly due to rhythm
+Since previous tracing of [**2012-09-01**]: paced rhythm is not seen
+

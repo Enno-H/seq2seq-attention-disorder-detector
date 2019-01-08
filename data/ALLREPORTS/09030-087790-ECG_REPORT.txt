@@ -1,0 +1,3 @@
+87790	||||	9030	||||	27122	||||	ECG_REPORT	||||	2019-05-19 16:07:00.0	||||		||||		||||		||||	
+Sinus tachycardia. Since the previous tracing of [**2019-05-18**] the rate has increased. Other features are as previously noted. Anterior T waves are now upright. Clinical correlation is suggested. 
+

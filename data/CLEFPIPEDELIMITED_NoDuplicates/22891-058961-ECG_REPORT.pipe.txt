@@ -1,0 +1,4 @@
+22891-058961-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+22891-058961-ECG_REPORT.txt||Disease_Disorder||CUI-less||109||130
+22891-058961-ECG_REPORT.txt||Disease_Disorder||CUI-less||135||151
+22891-058961-ECG_REPORT.txt||Disease_Disorder||CUI-less||303||334

@@ -1,0 +1,152 @@
+27273	||||	11762	||||	13548	||||	DISCHARGE_SUMMARY	||||	2014-06-04 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-06-02**]              Discharge Date:   [**2014-06-04**]
+
+Date of Birth:  [**1951-04-06**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Keflex / Penicillins / Erythromycin Base / Demerol / Ceclor
+
+Attending:[**Attending Info 19**] 
+Chief Complaint:
+Syncope
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+63 yo female with history of schizoaffective disorder with SI, UC s/p sigmoidectomy, COPD who was recently admitted [**Date range (1) 4225**] for pneumonia and suicidal ideation. Patient presented on 
+[**2014-06-02**] s/p fall at her group home and found to be hypotensive secondary to dehydration and atenolol intake.
+
+Of note, she has had multiple admissions in the past for lightheadness and was admitted to [**Hospital1 2926**] for the same complaint from [**Date range (1) 4226**]. At that time the patient fell in the bathroom and hit the back of her head on her bath tub. She recalls having a head CT which was negative. Up to and throughout that hospitalization she had nausea and vomiting which only resolved on her day prior to discharge. After discharge she was feeling well and tolerating PO's. She had occassional feelings of diziness, but thought it was due to the psychosocial stress over the murder of her grandson's girlfriend. 
+
+She continued to eat and drink well with no diarrhea, melena, hematochezia. She denied headache but has been taking Motrin 600mg qid for left hip pain. She decided to take her Atenolol which she had taken in the past but was no longer taking on the morning of admission. The diziness progressed and she felt presyncopal and fell onto her backside with her left foot underneath her. She had no fecal or urinary incontinence. In [**Doctor First Name 45**], her SBP was in the 70's and she was given 1 liter fluid with good response. It was initially thought to be due to atenolol ovedose and she was given glucagon and calcium gluconate with no further improvement. Pt complained of foot pain and had negative plain x-ray of her foot, but after she was given 1mg of morphine her SBP's decreased to to 60's which didn't respond to Narcan so decision was made for ICU admission. Patient responded well to IVF in the ICU and thought that her symptoms were a combination of Atenolol overdose along with dehydration from decrease po intake.
+
+Past Medical History:
+PMHx: 
+1. COPD
+2. Schizoaffective Disorder 
+3. Ulcerative Colitis s/p sigmoidectomy 1998
+4. Suicidal Ideation (Psychiatrist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4227**] [**Telephone/Fax (2) 4228**])
+5. s/p diverticular rupture with colostomy and reversal of colostomy 
+6. Osteoarthritis  
+7. h/o of rheumatic fever with Sydenham's chorea  
+8. Duodenal ulcer
+9. Orthostatic Hypotension 
+
+Social History:
+She smokes 1 pack of cigarettes per day and has been doing so for that past 50 years. She denies any alcohol and illicit drug use. She lives in [**Location 4229**] house in [**Location (un) **] and is on disability. She has one daughter who is on disability for multiple psychiatric illnesses. One son died secondary to drug overdose.
+
+Family History:
+Daughter - "psychiatric illnesses", 
+No family hx of CAD
+
+Physical Exam:
+VS: Temp 98.2, BP 126/68, Pulse 64, RR 18, O2 sat 98% room air GEN: comfortable, NAD
+HEENT: PERRLA, EOMI
+LUNGS: CTA bilateral, no wheezes
+HEART: S1, S2, RRR, no murmurs, rubs, gallops appreciated
+ABD: soft, ND, NT, no HSM, + bowel sounds
+EXTREM: no edema, cyanosis, clubbing; 2+ pulses symmetrical
+
+Pertinent Results:
+[**2014-06-02**] 10:48PM   LACTATE-2.4*
+[**2014-06-02**] 10:45PM   GLUCOSE-107* UREA N-20 CREAT-1.1 SODIUM-137  POTASSIUM-3.3 CHLORIDE-102 TOTAL CO2-27 ANION GAP-11
+[**2014-06-02**] 10:45PM   TSH-2.9
+[**2014-06-02**] 10:45PM   CORTISOL-2.1
+[**2014-06-03**] 04:12PM BLOOD Cortsol-29.6*
+[**2014-06-03**] 05:27AM BLOOD calTIBC-226* Ferritn-35 TRF-174*
+[**2014-06-03**] 05:27AM BLOOD Albumin-2.7* Calcium-7.6* Phos-3.9 Mg-1.8  Iron-32
+[**2014-06-04**] 05:18AM BLOOD Glucose-85 UreaN-11 Creat-0.6 Na-137  K-4.1 Cl-108 HCO3-23 AnGap-10
+[**2014-06-04**] 05:18AM BLOOD WBC-4.2 RBC-3.19* Hgb-9.9* Hct-27.8*  MCV-87 MCH-31.1 MCHC-35.7* RDW-12.8 Plt Ct-184
+
+Left Foot X-Ray: No fracture or dislocation 
+
+Brief Hospital Course:
+63 yo female with multiple medical problems who presented s/p fall and found to be hypotensive secondary to dehydration and ingestion of atenolol that seemed to have resolved with IVF.
+
+1. Hypotension:
+- likely secondary to dehydration as responded well to IVF and did have some acute renal failure that resolved with fluids - could have been superimposed with atenolol overdose although patient denies taking multiple pills. BP and HR have returned to [**Location 476**] by HD#2. Will continue to hold Atenolol until reevaluation of BP as an outpatient. Suggest restarting at a lower dose and titrating up gradually. - has had multiple workups in the past including a pMIBI in 8/03 which was unremarkable. Echo done [**2014-06-03**] showed EF 55-60% with mild to moderate AR and mild MR; no evidence of any wall motion abnormalities - was ruled out with 3 sets of cardiac enzymes - medications adjusted as per [**Hospital Unit Name 120**] team; avoid narcotics
+
+2. Heme:
+- HCT drop likely secondary to volume resuscitation - iron studies consistent with deficiency of chronic disease likely from her ulcerative colitis with inappropriately low Retic Index. Guaiac neg on exam. Instructed to f/u with PCP for further monitoring.
+
+3. COPD: 
+- not wheezy at this time and so will continue on outpatient Combivent and Advair MDI's.  - smoking cessation; is on Wellbutrin which will facilitate this; cont nicotine patch to prevent withdrawal
+
+4. Foot pain:
+- findings not suggestive of severe trauma and plain films show no fracture - continue to treat with Ibuprofen around the clock, and Tylenol prn, and be gentle with narcotics for risk of hypotension -PT evaluation. Is safe to go to home with cane. Will arrange VNA home PT to work on strength and use of cane.
+
+5. Schizoaffective D/O:
+- denies SI at this time and denies taking overdose of atenolol - seen by the Psychiatry team who recommended to d/c buspirone, reduce trazodone, and reduce risperidone and move it to QHS
+Did not need sitter at any point. No SI/AH. 
+
+6. Ulcerative colitis:
+- denies diarrhea as precipitant for dehydration and labs show no low bicarb
+- cont on her output mesalamine dose. Is guaiac Neg.
+
+7. Renal:
+- initially presented with acute renal insufficiency secondary to dehydration as resolved with IVF from 1.7 to 0.7
+
+Medications on Admission:
+1. Fluoxetine HCl 30mg qd  
+2. Bupropion HCl 150 mg bid  
+4. Clonazepam 0.5 mg tid  
+5. TraZODONE HCl 150 mg qhs  
+6. Risperidone 3mg qhs  
+7. Buspirone HCl 15mg tid  
+8. Mesalamine 800mg tid  
+9. Ranitidine HCl 150 mg tid  
+10. Fluticasone-Salmeterol 100-50 mcg bid  
+11. Pantoprazole Sodium 40 mg qd  
+12. Nicotine patch  
+13. Combivent 103-18 MDI qid prn  
+14. Tiotropium Bromide 18 mcg qd  
+
+Discharge Medications:
+1. Fluoxetine HCl 10 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).  
+2. Mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO TID (3 times a day).  
+3. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.  4. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Bupropion HCl 150 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO bid () as needed for depression.  6. Clonazepam 0.5 mg Tablet Sig: As Directed Tablet PO As 
+Directed as needed: 0.5 mg by mouth every morning
+
+0.5 mg by mouth every afternoon
+
+1 mg by mouth every evening.
+Disp:*120 Tablet(s)* Refills:*0*
+7. Risperidone 3 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). Disp:*30 Tablet(s)* Refills:*0*
+8. Trazodone HCl 100 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). Disp:*30 Tablet(s)* Refills:*0*
+9. Physical Therapy  Sig: as directed   as directed : Evaluation and treatment.  
+10. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device Sig: One (1) Puff Inhalation once a day.  
+11. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig: One (1) puff Inhalation twice a day.  
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+1) Dizziness
+2) Hypotension
+
+Discharge Condition:
+Stable, improved condition from the time of admission
+
+Discharge Instructions:
+Please call your doctor or return to the ER if you experience significant dizziness, blurry vision, fainting, chest pain, difficulty with breathing, or falling down.  
+
+Take your medications as prescribed with the following changes:  
+
+- You should stop taking Atenolol and Buspar.  - Your Trazodone has been decreased from 150mg --> 100mg at bedtime.  
+- You should continue taking Risperdal 3mg, but take this medication at bedtime instead of taking it in the morning - Your Klonopin prescription has changed, you will now take 0.5mg in the morning and afternoon, and 1 mg at night.
+
+Follow up as scheduled below.
+
+Followup Instructions:
+An appointment has been made for you to follow up with your primary care physician, Dr. [**First Name (STitle) 1823**], on WEDNESDAY, [**06-11**] AT 1:45 PM.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 39**] MD, PHD 12-944
+
+Completed by: [**First Name11 (Name Pattern1) 328**] [**Name7 (MD) 2428**] MD [**MD Number 2429**] [**2014-06-04**] @ 1359
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 43**] YANG on: MON [**2014-07-14**] 10:43 PM
+(End of Report)
+

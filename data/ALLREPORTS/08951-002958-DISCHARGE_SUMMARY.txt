@@ -1,0 +1,63 @@
+2958	||||	8951	||||	18099	||||	DISCHARGE_SUMMARY	||||	2009-01-10 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2009-01-06**]     Discharge Date:  [**2009-01-10**]
+
+Date of Birth:                  Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 71 year-old male with a history of coronary artery disease status post four vessel coronary artery bypass graft, congestive heart failure with an ejection fraction of 15%, diabetes, hypertension, chronic obstructive pulmonary disease, recent admission to [**Hospital 719**] in [**2008-07-30**] for congestive heart failure status post cardiac catheterization with a stent to saphenous vein graft to right coronary artery graft and status post stent to saphenous vein graft obtuse marginal graft in [**2004**].  Over the last two weeks the patient has had increasing shortness of breath, two pillow orthopnea, paroxysmal nocturnal dyspnea.  The patient has also complained of dyspnea on exertion on walking 200 feet.  The patient presented to [**Hospital 1472**] [**Hospital3 **] and was admitted on Friday prior to admission.  The patient's last echocardiogram done on [**2008-10-30**] revealed an ejection fraction of 15 to 20%, global hypokinesis, mild aortic stenosis.  A dobutamine stress test done on [**32-05-02**] revealed a fixed inferior posterolateral defect.
+
+The patient underwent cardiac catheterization today, revealing a wedge pressure of 29, left ventricular and diastolic pressure of 25, ejection fraction of 20%, and a right dominant system.  Cardiac catheterization revealed a 95% left main occlusion, totally occluded left anterior descending coronary artery, left circumflex and right coronary artery.  The saphenous vein graft to right coronary artery graft had severe origin stenosis.  The left internal mammary coronary artery to left anterior descending coronary artery graft was patent.  The saphenous vein graft to left circumflex graft was patent.  The saphenous vein graft to diagonal graft was patent.  The patient underwent percutaneous transluminal coronary angioplasty and brachytherapy of the saphenous vein graft to right coronary artery graft, with subsequent TIMI three flow.  The patient was subsequently given 40 mg of Lasix intravenously after cardiac catheterization and intervention with a urine output of 800 cc.
+
+PAST MEDICAL HISTORY:  1.  Coronary artery disease status post coronary artery bypass graft in [**2002**], left internal mammary coronary artery to left anterior descending coronary artery, saphenous vein graft to first diagonal and obtuse marginal, and saphenous vein graft to right coronary artery. 2.  Diabetes.  3.  Hypertension.  4.  Chronic obstructive pulmonary disease.  5.  Atrial fibrillation.  6.  Pacemaker for sick sinus syndrome.  7.  Severe degenerative joint disease.  8.  Chronic renal insufficiency with a baseline creatinine of 1.8 to 2.
+
+ALLERGIES:  Shellfish and iodine.
+
+MEDICATIONS:  Aspirin 325 mg po q.d., Zantac 150 mg po b.i.d., Amiodarone 200 mg po b.i.d., Norvasc 5 mg po q.d.,
+Lopressor 50 mg po b.i.d., Lentis 120 mg po q.p.m. and sliding scale insulin.  Imdur 60 mg po b.i.d., Augmentin 500 mg po t.i.d. for three weeks, NitroDur 0.4 mg po q day. Digoxin 0.125 mg po q.o.d., Monopril 20 mg po b.i.d., Flovent two puffs q.a.m., and Albuterol inhaler, Lasix 140 mg po q.d.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Heart rate 61.  Blood pressure 128/109.  Oxygen saturation 97% on 4 liters nasal cannula.  Pulmonary artery pressure 58/25.  General, the patient was an elderly Caucasian male in no acute distress.
+Head and neck examination, oropharynx clear.  Conjunctiva clear.  Could not assess jugulovenous pressure as the patient was lying flat post cardiac catheterization.  Cardiovascular examination regular rate and rhythm.  Normal S1 and S2.  No S3 or S4.  There is a 2 out of 6 systolic murmur auscultated at the apex and right upper sternal border.  Lungs good aeration bilaterally.  Abdominal examination good bowel sounds in all four quadrants.  Soft, nontender, nondistended. Right groin with AV sheath.  No occult bleeding. Extremities, there were dopplerable left pulses.  1+ dorsalis pedis pulse on right foot.  There was a 1 cm foot ulcer, which was clear with no drainage.
+
+LABORATORY EXAMINATION ON ADMISSION:  White blood cell count 10.1, hematocrit 44.5, platelets 245, PT 15.1, PTT 32, INR
+1.6, sodium 132, potassium 4.9, chloride 91, bicarbonate 28, BUN 38, creatinine 1.3, glucose 432.  Arterial blood gas showing a pH of 7.43, PCO2 40, PO2 76 on 4 liters nasal cannula.  Electrocardiogram V paced with underlying atrial fibrillation with right bundle branch block morphology.
+
+HOSPITAL COURSE:  The impression was that this was a 71 year-old male with a history of coronary artery disease, status post four vessel coronary artery bypass graft in [**2002**], recent stent to the saphenous vein graft to the right coronary artery in [**2008-07-30**] presenting with progressive shortness of breath.  The patient was status post cardiac catheterization on this admission, status post percutaneous transluminal coronary angioplasty and brachytherapy to the saphenous vein graft to right coronary artery graft and hemodynamics revealing an elevated wedge pressure and decreased ejection fraction.
+
+1.  Cardiovascular:  A:  Coronary artery disease:  The patient was status post percutaneous transluminal coronary angioplasty to the saphenous vein graft to the right coronary artery graft.  The patient was placed on an Integrilin drip for 18 hours and was initiated on Plavix 75 mg po q day for thirty days.  The patient was continued on aspirin, Lopressor 50 mg po b.i.d., Norvasc 5 mg po q.d.  The patient had no chest pain during hospital stay.
+
+B:  Pump function:  The patient had an elevated wedge pressure and depressed ejection fraction on hemodynamics during cardiac catheterization.  The patient was initially placed on intravenous nitroglycerin drip.  While in the
+Cardiac Intensive Care Unit, the patient had a Swan-Ganz catheter in place to measure left ventricular and diastolic pressure, with a goal of keeping this pressure at 20 mm. However, when the patient was transferred to the general medical floor and Swan-Ganz catheter was removed, hemodynamics could no longer be monitored.  However, the patient was symptomatically improved with no more shortness of breath.  The patient was continued on Lasix 80 mg po b.i.d., Monopril 20 mg po b.i.d., and was started on
+Aldactone 12.5 mg po q.d. The patient was also continued on
+Digoxin for congestive heart failure.  The patient remained clinically stable with respect to his congestive heart failure for the remainder of his hospital course.
+
+C:  Rhythm:  The patient had a history of atrial fibrillation and was on Amiodarone 200 mg po b.i.d. with a history of pacemaker placement for sick sinus syndrome.  The patient had a V paced rhythm with baseline atrial fibrillation on his admission electrocardiogram.  Since the patient had this baseline atrial fibrillation anticoagulation was started with Coumadin 5 mg po q.h.s.  The Electrophysiology Service was consulted and given that the patient was in atrial fibrillation of an unknown duration, the patient was scheduled for DC cardioversion following a transesophageal echocardiogram, which was done during this hospital stay.
+The patient was successfully cardioverted and was subsequently normal sinus rhythm.  The patient was discharged on Lovenox and Coumadin and was scheduled to follow up iwth
+Dr. [**Last Name (STitle) 1473**].
+
+2.  Pulmonary:  The patient was initially sating 96% on 4 liters on admission.  However, with continued diuresis the patient eventually was sating mid 90% on room air on discharge.
+
+3.  Renal:  The patient had a history of chronic renal insufficiency.  The patient's creatinine was followed post cardiac catheterization as he got 350 cc of dye.  The patient's creatinine remained stable throughout his hospital course.
+
+4.  Infectious disease:  The patient was continued on
+Augmentin for a left toe ulcer, which he had developed prior to admission.
+
+6.  Endocrine:  The patient was continued on Lentis and regular insulin sliding scale for diabetes.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  The patient is to be discharged to home.
+
+MEDICATIONS ON DISCHARGE:  Same as medications on admission with the addition of Plavix 75 mg po q.d. to finish a thirty day course, Coumadin 2.5 mg po q.h.s., Lovenox 80 mg subQ b.i.d., Aldactone 12.5 mg po q.d.
+
+[**First Name8 (NamePattern2) 491**] [**Last Name (NamePattern1) **], M.D.  [**MD Number 1474**]
+
+Dictated By:[**Dictator Info 1475**]
+
+MEDQUIST36
+
+D:  [**2009-04-22**]  19:11
+T:  [**2009-04-23**]  08:54
+JOB#:  [**Job Number 1476**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 491**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: [**Doctor First Name 67**] [**2009-06-25**] 8:36 PM (End of Report)
+

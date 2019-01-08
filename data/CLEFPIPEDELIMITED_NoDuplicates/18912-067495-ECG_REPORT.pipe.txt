@@ -1,0 +1,2 @@
+18912-067495-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||114
+18912-067495-ECG_REPORT.txt||Disease_Disorder||C0238705||116||139

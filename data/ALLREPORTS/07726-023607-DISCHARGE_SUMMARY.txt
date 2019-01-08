@@ -1,0 +1,85 @@
+23607	||||	7726	||||	4044	||||	DISCHARGE_SUMMARY	||||	2011-07-28 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2011-07-25**]        Discharge Date: [**2011-07-28**]
+
+Date of Birth:  [**1965-02-21**]        Sex:  F
+
+Service:  [**Hospital Unit Name **]
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 46-year-old woman with past medical history significant for end-stage renal disease and poorly controlled hypertension who was brought in to the [**Hospital 137**]
+Emergency Department by EMS after her husband activated 911 due to her lethargy and decreased responsiveness.  Of note, the patient has had multiple admissions to the same facility over the prior year for uncontrolled hypertension and associated chest pain without evidence of myocardial ischemia, all in the setting of poor medicine compliance and missed dialysis sessions.  On history, the patient reports missing approximately two weeks worth of hemodialysis appointments after her most recent infected Tunneled catheter was removed.  The patient reported feeling both tired and depressed, expressing suicidal ideations, and admitted refusal of dialysis.
+
+REVIEW OF SYSTEMS:  Otherwise significant for the absence of chest pain or cough, but presence of paroxysmal nocturnal dyspnea over the week leading to admission.  The patient denied headache, fever, nausea, vomiting, or abdominal pain.
+
+PAST MEDICAL HISTORY:  End-stage renal disease, significant for multiple tunneled catheter dialysis infections.
+
+Hypertension.
+
+Hepatitis C.
+
+Polysubstance abuse.
+
+Asthma.
+
+History of left-sided CVA with residual right-sided weakness.
+
+Bilateral internal jugular clots in 05/04.
+
+ALLERGIES:  PENICILLIN, KEFZOL, CODEINE, and VANCOMYCIN.
+
+MEDICATIONS:
+1. Bumex 2 mg b.i.d.
+2. Enalapril 40 mg q.d.
+3. Labetalol 600 mg b.i.d.
+4. Clonidine 0.3 mg TTP patch.
+5. Norvasc 10 mg q.d.
+6. Iron sulfate supplements.
+
+PHYSICAL EXAMINATION:  Temperature 97.2 degrees, blood pressure 164/104, heart rate 100 to 110, respiratory rate 16, saturating 97 percent on room air.  In general, tearful and angry appearing woman, responding to questions, and in no acute distress.  HEENT exam:  Pupils are equal, round, and reactive to light.  Extraocular movements are intact.
+Sclarea anicteric.  Chest is clear to auscultation bilaterally.  Cardiovascular:  Tachycardiac without murmur.
+Abdomen:  Soft and nontender with normoactive bowel sounds.
+Extremities:  No pedal edema, fistula, left antecubital fossa with palpable thrill.  Neuro:  Alert and oriented to person, place, month, and year.  Following commands.  Moving all extremities.
+
+LABORATORY DATA:  Labs on admission, sodium 141, potassium
+5.8, chloride 114, bicarbonate 11, BUN 107, creatinine 10.6, glucose 115, calcium 7.7, magnesium 2.2, and phosphorous 7.8. CBC, white blood cell count 8.7, hematocrit 36.5, and platelets 277.  Coags within normal limits.  Chest x-ray, cardiomegaly with mild vascular congestion.  EKG, normal sinus rhythm of 90, LVH, and left atrial enlargement.  CT of the head is significant for right thalamic hypodense lesion, new compared with prior study of 03/04.
+
+SUMMARY OF HOSPITAL COURSE:  Hypertensive urgency.  The patient was placed on Nipride drip in the emergency department to which she responded well.  Her outpatient medications including labetalol, Enalapril, and Norvasc were reinitiated given her recent noncompliance with these medications.  Additionally, a Catapres patch was placed on the patient.  Given her fluid overload secondary to dialysis noncompliance, plans were made to initiate hemodialysis after appropriate access was placed.  The patient was maintained on Nipride drip upon transfer to the Medical Intensive Care Unit and throughout her three to four day hospital course was placed back on her outpatient regimen with the Nipride drip being weaned off during her second day of Medical Intensive
+Care Unit stay.
+
+End stage renal disease.  Interventional Radiology was consulted from the emergency department to establish access for hemodialysis.  The patient initially refused such intervention, but ultimately consented to such on the evening of admission.  The renal consult team was asked to see the patient in the emergency department and managed her end-stage renal disease throughout her hospital course, receiving several rounds of hemodialysis prior to discharge.  The patient's outpatient nephrologist, Dr. [**Last Name (STitle) 1945**], evaluated the patient on a daily basis in the Medical Intensive Care Unit and contributed to her care.
+
+Psychiatry.  The patient expressed suicidal ideations and all her statements that indicated her noncompliance with medications and hemodialysis were secondary to her depression.  The psychiatry consult team evaluated the patient in the emergency department and consulted during her Medical Intensive Care Unit stay and deemed her competent to make decisions regarding her own care and not an acute risk to herself or others.
+
+Neurology.  Given the above-mentioned CT findings, the
+Neurology Stroke Consult Service was consulted and felt that the findings seen on CT were consistent with small-vessel disease resulting in a lacunar infarct.  Given the patient's nonfocal neurology exam, recommendations were made to control the patient's blood pressure adequately and start the patient on one daily aspirin.  Further lifestyle modifications, specifically that regarding recreational drug abuse and tobacco use were recommended as well as testing a baseline lipid panel, which was pending at the time of discharge.
+
+Lymphadenopathy.  During her Medical Intensive Care Unit stay, the patient was noted to have a tender left submandibular lymph node approximately 1 cm to 2 cm in size without evidence of pharyngitis or other oropharyngeal lesions.  In light of this, an HIV test was sent and was pending at the time of discharge; and the patient was instructed to followup with her primary care physician regarding the persistence of such a lesion.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIAGNOSES:  End-stage renal disease.
+
+Hypertension.
+
+DISCHARGE MEDICATIONS:
+1. Enalapril 10 mg 4 tablets p.o. q.d.
+2. Clonidine 0.3 mg per 24 hours patch, 1 patch weekly, transdermal.
+3. Amlodipine 5 mg 2 tablets p.o. q.d.
+4. Bumetanide 2 mg 1 tablet p.o. b.i.d
+5. Labetalol 200 mg tablets 3 tablets p.o. t.i.d.
+6. Quetiapine 25 mg 1 tablet p.o q.a.m. and 2 tablets p.o. q.h.s.
+7. Ferrous gluconate 325 mg 1 tablet p.o. q.d.
+
+FOLLOW-UP PLANS:  The patient has an appointment with Dr. [**Last Name (STitle) 1945**] on [**2011-07-30**].
+
+[**Name6 (MD) **] [**Name8 (MD) **], [**State/Zipcode 1489**]
+
+Dictated By:[**Dictator Info 1994**]
+MEDQUIST36
+D:  [**2011-09-14**] 13:02:52
+T:  [**2011-09-14**] 14:46:36
+Job#:  [**Job Number 2720**]
+Signed electronically by: DR. [**First Name (STitle) **] ERNST on: TUE [**2011-09-20**] 10:36 AM
+(End of Report)
+

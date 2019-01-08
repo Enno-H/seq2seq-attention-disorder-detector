@@ -1,0 +1,3 @@
+87704	||||	5955	||||	22377	||||	ECG_REPORT	||||	2013-01-29 10:13:00.0	||||		||||		||||		||||	
+Sinus rhythm followed by pause and junctional rhythm rate, 40 Intraventricular conduction delay - probably left bundle branch block Clinical correlation is suggested Since previous tracing of the same date, probably no significant change
+

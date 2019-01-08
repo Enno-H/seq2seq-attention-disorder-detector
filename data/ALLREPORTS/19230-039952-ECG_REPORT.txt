@@ -1,0 +1,5 @@
+39952	||||	19230	||||	832	||||	ECG_REPORT	||||	2012-11-19 18:46:00.0	||||		||||		||||		||||	
+Baseline artifact
+Sinus tachycardia with atrial premature complexes 
+Low limb lead QRS voltages - is nonspecific and probably within normal limits Since previous tracing of [**2012-11-15**], sinus tachycardia rate faster and atrial ectopy present
+

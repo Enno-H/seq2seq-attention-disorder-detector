@@ -1,0 +1,3 @@
+93639	||||	19246	||||	14504	||||	ECG_REPORT	||||	2010-04-22 20:18:00.0	||||		||||		||||		||||	
+Dual chamber pacemaker, rate 70. Since the previous tracing of [**2010-03-17**], other than the slower rate, there are probably no significant changes.
+

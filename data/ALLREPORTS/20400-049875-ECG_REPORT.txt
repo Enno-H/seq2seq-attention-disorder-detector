@@ -1,0 +1,6 @@
+49875	||||	20400	||||	6126	||||	ECG_REPORT	||||	2013-03-25 09:39:00.0	||||		||||		||||		||||	
+Atrial fibrillation
+Ant/septal+lateral T wave changes 
+Low QRS voltages in limb leads
+Since previous tracing, no significant change
+

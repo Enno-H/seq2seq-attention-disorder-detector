@@ -1,0 +1,12 @@
+360395	||||	3392	||||	4043	||||	RADIOLOGY_REPORT	||||	2017-07-31 12:14:00.0	||||	D51 NASO-INTESTINAL TUBE PLACEMENT (W/FLUORO)	||||		||||	Clip # 345-1565  Actual report	||||	
+DATE: [**2017-07-31**] 12:14 PM
+[**Last Name (un) 210**]-INTESTINAL TUBE PLACEMENT (W/FLUORO)                       [**Clip Number (Radiology) 4093**] Reason: Pt w/ ESLD, needs Placement of post-pyloric feeding tube.   Admitting Diagnosis: ANEMIA-THROMBOCYTOPENIA-COAGULOPATHY ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+37 year old woman with                                                          REASON FOR THIS EXAMINATION: Pt w/ ESLD, needs Placement of post-pyloric feeding tube.                       ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  End stage liver disease, please place post pyloric feeding tube.
+
+PROCEDURE:  A feeding tube was advanced via the right nostril under direct fluoroscopic guidance to the level of the Ligament of Treitz.  10 cc of water soluble contrast was injected to confirm proper positioning.  There were no immediate complications.  Surgical staples overlie the mid abdomen.  An IVC filter is in place.
+

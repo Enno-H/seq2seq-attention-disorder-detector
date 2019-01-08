@@ -1,0 +1,87 @@
+21294	||||	19649	||||	3200	||||	DISCHARGE_SUMMARY	||||	2011-07-26 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-07-23**]     Discharge Date:  [**2011-07-26**]
+
+Date of Birth:   [**1957-05-11**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 54-year-old male with a history of myocardial infarction in [**1999**], two stents placed in [**2007**], as well as diabetes, who presented after
+[**10-14**] sharp substernal chest pain that woke him from sleep at 3 am on the 19th.  Patient noted diaphoresis, shortness of breath, nausea, and radiation to his jaw, and generalized weakness.  Patient at that time took two sublingual nitroglycerin with no improvement in his chest pain.  The paramedics were then called, and arrived, and gave him two aspirin, and he was then taken to the Emergency Department. The paramedics noted him to have a heart rate between 38 and 42 and a blood pressure that was 70/palp.  In route, he was given atropine with no effect.
+
+In the Emergency Department, the patient was found to be bradycardic at 38 with a blood pressure of 84/50.  In the
+Emergency Department, he received 6 liters of normal saline, and his electrocardiogram noted him to have ST elevation inferior leads.  Also of note, he had A-V dissociation. Because of this, a temporary pacing wire was successfully inserted as heart rate was then paced to the 90s and his blood pressure rose.  During that time dopamine and Morphine were also given.  Because of the patient's acute myocardial infarction, he was taken to the Catheterization Laboratory, and was found to have reocclusion of his previus RCA stent which was reopened and two new stents were placed.  Also a distal mid PDA disease was found, but it was left untreated because of good flow.  He was also found to have equalization of filling pressures.  Follow-up echocardiogram was ordered, which showed no tamponade and only trace pericardial effusion with good ejection fraction.
+
+PAST MEDICAL HISTORY:
+1. Diabetes.
+2. Coronary artery disease.
+3. History of two myocardial infarctions.
+4. Asthma.
+5. Left knee arthritis.
+6. Sleep apnea.
+
+FAMILY HISTORY:  Two brothers with coronary artery disease and a father with coronary artery disease.
+
+MEDICATIONS ON ADMISSION:
+1. Aspirin.
+2. Multivitamin.
+3. Glyburide.
+4. Lipitor.
+5. Triamterene/hydrochlorothiazide.
+6. Norvasc.
+7. Vitamin E.
+8. Isosorbide.
+9. Albuterol.
+10. Metoprolol 50.
+
+SOCIAL HISTORY:  Was significant for positive tobacco use of a 30 pack year history, no alcohol.  He is retired.
+
+Upon admission, the patient was placed on aspirin,
+Integrilin, Plavix 75, Lipitor 10, captopril 12.5 tid, and put on an insulin-sliding scale, ranitidine bid, and ipratropium nebulizer prn.
+
+PHYSICAL EXAMINATION:  Patient's vital signs on admission: temperature of 98.7.  Heart rate ranged between 84-94.
+Respirations ranged 17-22.  Blood pressure systolic ranged 112-144/46-83.  His pulmonary artery pressures systolic ranged 31-40/14-21.  He was net positive 800 in with his in's at 1,021.  Out's 220.  On examination, the patient was calm in no apparent distress.  Head and neck examination:  His mucosa were moist, nonicteric.  His lungs are clear to auscultation anteriorly and posteriorly.  Cardiac examination:  He had a regular rate, S1, S2, no murmurs or rubs were noted.  His abdomen was obese with positive bowel sounds, nontender, and nondistended.  His extremities:  He had a right groin catheter at that time with good distal pulses 1+ bilaterally, feet were warm to the touch. Neurologic examination:  He was alert and oriented times three.  Pupils are equal, round, and reactive to light.
+Extraocular movements are intact, grossly nonfocal.
+
+LABORATORIES:  White count of 15.6, hemoglobin 13.1, hematocrit 38.7, platelets 233.  Sodium 139, potassium 3.9, chloride of 105, bicarb 24, BUN 29, creatinine of 1.3, and a glucose of 316.  His PT was 17.8, PTT 29.6, INR of 1.1.
+Patient initially had a calcium of 5.4, phosphorus of 2.6, magnesium of 1.7, which followup levels revealed a calcium of 7.7, phosphorus 4.0, magnesium of 1.8.  His CPK peaked at 2722 on the 19th at 10 am.
+
+His echocardiogram showed left ventricle of normal size with an ejection fraction of over 55%, small pericardial effusion, no sinus tamponade.  His catheterization was significant for marked increased filling pressures, a right dominant heart with RCA occlusion of previous stents.  Two stents were placed with TIMI-III flow.  There is also a distant occlusion which tried to be manipulated with a wire, which could not be reopened, and the patient was given 190 cc of contrast.
+
+HOSPITAL COURSE:  The day following his admission his
+Swan-Ganz catheter was removed as well as his temporary pacer.  His ACE inhibitor was continued, and was increased to 25 mg bid.  Also a beta blocker was added at that time, metoprolol 12.5 bid.  At that time, he was also transferred to the floor.
+
+On the following day, [**07-25**], he was on the floor.  He was switched from captopril to lisinopril 10 mg q day.  On telemetry, some ectopic beats were noted as well as a right bundle branch block.
+
+The following day on [**07-26**], telemetry showed decreased frequency of these ectopic beats, but continued right bundle branch block.  His lisinopril was increased to 15 mg q day, and patient was discharged.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSIS:  Acute myocardial infarction.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin.
+2. Plavix.
+3. Lipitor.
+4. Metoprolol 50 mg bid.
+5. Lisinopril 15 mg q day.
+6. Glyburide 10 mg am, 5 mg in the pm.
+
+Patient was also given a prescription for Accu-Chek machine as well as glucose strips to monitor his diabetes.
+
+FOLLOW-UP INSTRUCTIONS:  The patient was told to followup with his primary care physician, Dr. [**First Name (STitle) 5321**].  Patient noted that he would make an appointment within the next 1-2 weeks. The patient also noted he also had a follow-up appointment with his cardiologist, Dr. [**Last Name (STitle) 5322**], who is a cardiologist at [**Hospital **].  The patient notes that he has an appointment this coming Monday.
+
+Patient's cardiac risk factors were discussed, and the patient has decided to stop smoking to prevent future cardiac events, and the patient notes that he will take his medication as prescribed, and was told if he had any recurrent chest pains, shortness of breath, nausea, lightheadedness, palpitations, that he should return to the
+Emergency Department.
+
+[**First Name11 (Name Pattern1) 290**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1441**]
+
+Dictated By:[**Dictator Info 5088**]
+
+MEDQUIST36
+
+D:  [**2011-07-26**]  16:23
+T:  [**2011-08-03**]  12:41
+JOB#:  [**Job Number 5323**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 290**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: FRI [**2011-08-05**] 12:14 PM
+(End of Report)
+

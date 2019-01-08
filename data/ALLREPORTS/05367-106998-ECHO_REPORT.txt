@@ -1,0 +1,31 @@
+106998	||||	5367	||||	15218	||||	ECHO_REPORT	||||	2015-03-11 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. Myocardial infarction. BP (mm Hg): 99/55
+HR (bpm): 62
+Status: Inpatient
+Date/Time: [**2015-03-11**] at 12:32
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is mildly dilated. 
+
+LEFT VENTRICLE: The left ventricular cavity size is normal. There is mild regional left ventricular systolic dysfunction. 
+
+AORTIC VALVE: The aortic valve leaflets are mildly thickened. There is no aortic valve stenosis. No aortic regurgitation is seen. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. 
+
+PERICARDIUM: There is a small pericardial effusion. There are no echocardiographic signs of tamponade. 
+
+GENERAL COMMENTS: Suboptimal image quality due to poor echo windows. 
+
+Conclusions: 
+The left atrium is mildly dilated. The left ventricular cavity size is normal. There is mild regional left ventricular systolic dysfunction with inferior and inferolateral akinesis/hypokinesis. Right ventricular free wall appears hypokinetic. The aortic valve leaflets are mildly thickened. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. There is a small pericardial effusion. 
+

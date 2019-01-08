@@ -1,0 +1,6 @@
+10906-067559-ECG_REPORT.txt||Disease_Disorder||CUI-less||94||106
+10906-067559-ECG_REPORT.txt||Disease_Disorder||CUI-less||117||139
+10906-067559-ECG_REPORT.txt||Disease_Disorder||CUI-less||152||177
+10906-067559-ECG_REPORT.txt||Disease_Disorder||CUI-less||201||222
+10906-067559-ECG_REPORT.txt||Disease_Disorder||C0175677||276||282
+10906-067559-ECG_REPORT.txt||Disease_Disorder||C0021308||283||293

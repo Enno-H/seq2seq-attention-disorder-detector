@@ -1,0 +1,40 @@
+97836	||||	500	||||	19685	||||	ECHO_REPORT	||||	2018-05-04 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: intraop monitoring for AAA repair
+Status: Inpatient
+Date/Time: [**2018-05-04**] at 18:35
+Test: Portable TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo contrast is seen in the LAA. All four pulmonary veins not identified. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. A catheter or pacing wire is seen in the RA. Normal interatrial septum. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Normal regional LV systolic function. Low normal LVEF. 
+
+LV WALL MOTION: basal anterior - normal; mid anterior - normal; basal anteroseptal - normal; mid anteroseptal - normal; basal inferoseptal - normal; mid inferoseptal - normal; basal inferior - normal; mid inferior - normal; basal inferolateral - normal; mid inferolateral - normal; basal anterolateral - normal; mid anterolateral - normal; anterior apex - normal; septal apex - normal; inferior apex - normal; lateral apex - normal; apex - normal; 
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Mild global RV free wall hypokinesis. 
+
+AORTA: Complex (>4mm) atheroma in the ascending aorta. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets. Mild (1+) MR. 
+
+TRICUSPID VALVE: Mild [1+] TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+Left ventricular ejection fraction is normal with no regional wall motion abnormality..There is mild symmetrical hypertrophy of the left ventricular wall. Right ventricular is mildly dilated with mild hypokinesis of the free wall. There is mild mitral regurgitation .There is mild tricuspid regurgitation.  The ascending and descending thoracic aorta is normal in size with complex atheromatous disease. 
+

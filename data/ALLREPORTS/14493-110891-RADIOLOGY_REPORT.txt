@@ -1,0 +1,18 @@
+110891	||||	14493	||||	6336	||||	RADIOLOGY_REPORT	||||	2014-01-01 06:27:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 359-5741  Actual report	||||	
+DATE: [**2014-01-01**] 6:27 AM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 4143**] Reason: Please assess interval change                               Admitting Diagnosis: LUNG CANCER
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+60 year old man with NSCLC, encasement of L mainstem, intubated, awaiting stent s/p thoracentesis and bronch. Please assess interval change. REASON FOR THIS EXAMINATION: Please assess interval change                                                   ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  History of lung cancer, assess for interval change.
+
+COMPARISON:  Portable AP chest of [**2013-12-31**].
+
+AP UPRIGHT CHEST:  Endotracheal tube identified, approximately 6 cm above the carina.  There is a right-sided central line, with its tip in the distal SVC. NG tube identified, with its tip off the inferior margin of the film.  Again identified is a large left hilar mass, somewhat impinging on the left main bronchus, corresponding to the patient's known lung cancer.  Elevation of the left hemidiaphragm.  Interval resolution of left-sided pleural effusion; however, there remains a small pocket of loculated effusion seen on the lateral wall.  Interval improvement in right-sided pulmonary edema.  No new infiltrates identified.  Visualized osseous and soft tissue structures are unremarkable.
+
+IMPRESSION:
+1) Interval improvement in predominantly right-sided pulmonary edema. 2) Interval resolution of left-sided pleural effusion. 3) Stable appearance of left-sided hilar mass.
+

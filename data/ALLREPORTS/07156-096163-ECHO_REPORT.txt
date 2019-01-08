@@ -1,0 +1,40 @@
+96163	||||	7156	||||	5114	||||	ECHO_REPORT	||||	2012-04-30 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: 43 M s/p cardiomyopathy and CABG. LVEF follow-up Weight (lb): 213
+BP (mm Hg): 120/70
+HR (bpm): 113
+Status: Inpatient
+Date/Time: [**2012-04-30**] at 11:02
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is normal in size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is moderately dilated. 
+
+LEFT VENTRICLE: There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. There is severe global left ventricular hypokinesis. Overall left ventricular systolic function is severely depressed. 
+
+RIGHT VENTRICLE: The right ventricular wall thickness is normal. Right ventricular chamber size is normal. Right ventricular systolic function appears depressed. 
+
+AORTA: The aortic root is normal in diameter. The ascending aorta is mildly dilated. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is mild mitral annular calcification. Mild (1+) mitral regurgitation is seen. 
+
+TRICUSPID VALVE: Mild tricuspid [1+] regurgitation is seen. There is mild pulmonary artery systolic hypertension. 
+
+PERICARDIUM: There is a small pericardial effusion. 
+
+Conclusions: 
+The left atrium is normal in size. The right atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. There is severe global left ventricular hypokinesis with relative sparing of the base of the heart.. Overall left ventricular systolic function is severely depressed. Right ventricular chamber size is normal. Right ventricular systolic function appears depressed. The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is a small pericardial effusion. 
+
+Compared with the prior study of [**2012-04-21**], no change. 
+

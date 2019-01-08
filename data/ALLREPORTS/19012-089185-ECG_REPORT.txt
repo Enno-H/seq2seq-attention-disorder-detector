@@ -1,0 +1,4 @@
+89185	||||	19012	||||	730	||||	ECG_REPORT	||||	2015-04-10 12:12:00.0	||||		||||		||||		||||	
+Sinus rhythm. Prior inferior myocardial infarction. Diffuse ST segment abnormalities without change compared to the previous tracing of [**2015-04-08**]. The rate has slowed.
+TRACING #1
+

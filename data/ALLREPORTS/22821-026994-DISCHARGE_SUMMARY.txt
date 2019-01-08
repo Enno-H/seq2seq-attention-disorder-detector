@@ -1,0 +1,149 @@
+26994	||||	22821	||||	14126	||||	DISCHARGE_SUMMARY	||||	2013-06-28 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-06-03**]              Discharge Date:   [**2013-06-28**]
+
+Date of Birth:  [**1976-10-25**]               Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies: 
+Penicillins / Bactrim
+
+Attending:[**Attending Info 1518**] 
+Chief Complaint:
+Sudden onset HA and neck pain radiating to L sided temporal and neck pain.
+
+Major Surgical or Invasive Procedure:
+Coil embolization of a ruptured distal right PICA aneurysm 
+
+History of Present Illness:
+36 yo HIV+ M in his usual state of health until the AM of 5/13 when he developed a severe L-sided HA with radiation to his neck and temporal area associated with photophobia.  He denies however, N/V, CP, SOB or anticedent trauma.
+
+Past Medical History:
+1.  Enuresis seen by Sleep Clinic.
+2.  Alcohol abuse; no alcohol for 12 years.
+3.  Human immunodeficiency virus diagnosed in [**2003**].  History of pneumocystis carinii pneumonia.  Has been on HAART, now off since [**2011-11-19**] due to insurance reasons.  Viral load last undetectable in 11/2003.
+
+Social History:
+Patient is a gay male, runs a restaurant, is a current 2 ppd smoker for many
+years.  Prior alcohol and cocaine 11 years ago.  
+
+Family History:
+Lives alone.  + for CAD, but neg for prior know CVD.
+
+Physical Exam:
+96.5  134/70    68   16   100%RA
+NAD
+CTA-B/RRR
+EXT: smooth, symmetric, purposeful motion of all 4 ext, sensation intact no edema
+ABD NT/ND
+NEURO: AOx3, NEG pronator drift.  CN[**MD Number 2468**] intact B, EOMI, PERRLA
+
+Pertinent Results:
+[**2013-06-03**] 06:00AM BLOOD WBC-9.0# RBC-4.84 Hgb-13.9* Hct-39.5*  MCV-82 MCH-28.7 MCHC-35.2* RDW-14.0 Plt Ct-183
+[**2013-06-03**] 05:18PM BLOOD WBC-7.3 RBC-4.10* Hgb-12.0* Hct-33.7*  MCV-82 MCH-29.1 MCHC-35.4* RDW-14.1 Plt Ct-172
+[**2013-06-04**] 03:15AM BLOOD WBC-9.6 RBC-4.15* Hgb-11.8* Hct-33.8*  MCV-81* MCH-28.4 MCHC-34.9 RDW-14.2 Plt Ct-175
+[**2013-06-14**] 03:30AM BLOOD WBC-3.9* RBC-4.02* Hgb-11.7* Hct-32.6*  MCV-81* MCH-29.0 MCHC-35.8* RDW-14.5 Plt Ct-206
+[**2013-06-26**] 03:12AM BLOOD WBC-5.5 RBC-3.55* Hgb-10.3* Hct-31.4*  MCV-88 MCH-29.0 MCHC-32.9 RDW-15.7* Plt Ct-439
+[**2013-06-27**] 06:25AM BLOOD WBC-5.3 RBC-3.64* Hgb-10.1* Hct-31.8*  MCV-87 MCH-27.9 MCHC-31.9 RDW-15.5 Plt Ct-396
+[**2013-06-03**] 06:00AM BLOOD PT-12.1 PTT-23.9 INR(PT)-1.0
+[**2013-06-03**] 06:00AM BLOOD Plt Ct-183
+[**2013-06-03**] 05:18PM BLOOD PT-13.4* PTT-79.9* INR(PT)-1.2
+[**2013-06-03**] 05:18PM BLOOD Plt Ct-172
+[**2013-06-04**] 03:15AM BLOOD PT-12.9 PTT-24.2 INR(PT)-1.1
+[**2013-06-04**] 03:15AM BLOOD Plt Ct-175
+[**2013-06-20**] 02:47AM BLOOD PT-11.2* PTT-26.3 INR(PT)-0.8
+[**2013-06-20**] 02:47AM BLOOD Plt Ct-440
+[**2013-06-26**] 03:12AM BLOOD PT-11.2* PTT-20.7* INR(PT)-0.8
+[**2013-06-26**] 03:12AM BLOOD Plt Ct-439
+[**2013-06-03**] 06:00AM BLOOD  WBC-9.0 Lymph-29 Abs [**Last Name (un) 823**]-2610 CD3%-88  Abs CD3-2303* CD4%-11 Abs CD4-284* CD8%-75 Abs CD8-1955*  CD4/CD8-0.2*
+[**2013-06-04**] 02:00PM BLOOD  WBC-9.6 Lymph-19 Abs [**Last Name (un) 823**]-1824 CD3%-86  Abs CD3-1569 CD4%-14 Abs CD4-249* CD8%-70 Abs CD8-1285*  CD4/CD8-0.2*
+[**2013-06-03**] 06:00AM BLOOD Glucose-169* UreaN-14 Creat-0.9 Na-136  K-3.6 Cl-102 HCO3-23 AnGap-15
+[**2013-06-04**] 03:15AM BLOOD Glucose-113* UreaN-9 Creat-0.6 Na-137  K-4.1 Cl-105 HCO3-22 AnGap-14
+[**2013-06-04**] 02:00PM BLOOD Glucose-123* UreaN-8 Creat-0.6 Na-137  K-4.2 Cl-108 HCO3-22 AnGap-11
+[**2013-06-12**] 03:55AM BLOOD Glucose-106* UreaN-10 Creat-0.5 Na-129*  K-4.1 Cl-99 HCO3-20* AnGap-14
+[**2013-06-13**] 03:46AM BLOOD Glucose-117* UreaN-10 Creat-0.5 Na-132*  K-4.2 Cl-101 HCO3-20* AnGap-15
+[**2013-06-14**] 03:30AM BLOOD Glucose-107* UreaN-9 Creat-0.5 Na-132*  K-4.0 Cl-101 HCO3-23 AnGap-12
+[**2013-06-15**] 04:05AM BLOOD Glucose-200* UreaN-9 Creat-0.5 Na-137  K-3.6 Cl-103 HCO3-24 AnGap-14
+[**2013-06-16**] 03:29AM BLOOD Glucose-138* UreaN-9 Creat-0.4* Na-142  K-3.3 Cl-106 HCO3-25 AnGap-14
+[**2013-06-16**] 11:24AM BLOOD Glucose-248* UreaN-11 Creat-0.4* Na-141  K-3.3 Cl-105 HCO3-25 AnGap-14
+[**2013-06-18**] 03:47AM BLOOD Glucose-148* UreaN-14 Creat-0.5 Na-142  K-3.7 Cl-105 HCO3-27 AnGap-14
+[**2013-06-19**] 02:07AM BLOOD Glucose-123* UreaN-16 Creat-0.6 Na-143  K-3.8 Cl-106 HCO3-28 AnGap-13
+[**2013-06-26**] 03:12AM BLOOD Glucose-98 UreaN-16 Creat-0.5 Na-143  K-3.9 Cl-105 HCO3-29 AnGap-13
+[**2013-06-27**] 06:25AM BLOOD Glucose-106* UreaN-10 Creat-0.5 Na-143  K-4.2 Cl-107 HCO3-28 AnGap-12
+[**2013-06-03**] 06:00AM BLOOD ALT-26 AST-32 AlkPhos-71 Amylase-40  TotBili-0.3
+[**2013-06-22**] 06:00AM BLOOD ALT-107* AST-26
+[**2013-06-03**] 05:18PM BLOOD Calcium-7.3* Phos-3.6 Mg-1.5*
+[**2013-06-04**] 02:00PM BLOOD Calcium-7.5* Phos-2.2* Mg-2.1
+[**2013-06-04**] 10:23PM BLOOD Calcium-8.3* Phos-1.8* Mg-2.2
+[**2013-06-22**] 03:36AM BLOOD Calcium-6.4* Phos-2.8 Mg-1.4*
+[**2013-06-26**] 03:12AM BLOOD Calcium-9.1 Phos-5.0* Mg-2.0
+
+IMAGING:
+
+CT ([**06-02**]):  Diffuse subarachnoid hemorrhage seen predominantly in the 
+sylvian fissures, tentorium, third ventricle, and in the proximal cervical  spine surrounding the cord. CT angiogram is recommended for further  evaluation of this finding, or a conventional angiogram, to rule out a 
+ruptured aneurysm. 
+
+ANGIO ([**06-03**]):  Successful coil embolization of a ruptured distal right PICA 3 [**01-20**] x 3 x 2.8 mm aneurysm with GDC three-dimensional and Ultrasoft coils. 
+
+CT ([**06-04**]):  A ventricular drainage catheter is again seen. There is interval reduction in size of the ventricular system, which is now fairly slit-like. There is a small amount of blood seen within the third and fourth ventricles. No other specific interval changes are seen. 
+CONCLUSION: Status post coiling of right posterior-inferior cerebellar artery aneurysm with other findings as noted above. 
+
+CTA ([**06-11**]): No clear evidence of vasospasm or new infarction. 
+There is a small amount of hemorrhage seen along the catheter tract which appears new compared to the prior study. Layering hemorrhage seen within the occipital horns of both lateral ventricles is slightly decreased from the prior study. 
+
+CXR ([**06-13**]):  IMPRESSION: Faint opacity at the right lung base, which appears improved in 
+comparison to the prior study, and likely represents improving pneumonia. 
+
+LENIs ([**06-21**]):  NEG for DVT
+
+CTA/CT ([**06-22**]): 
+1) Status post removal of right ventricular drainage catheter. No evidence  of hydrocephalus. Resolution of previously seen intraventricular blood  products. 
+2) Unchanged appearance of the cerebral vasculature in comparison with CTA  dated [**2013-06-10**]. 
+
+Brief Hospital Course:
+Patient was admitted to the ICU s/p subarchnoid hemorrhage with hydrocephalus. He had a ventricular drain placed on [**06-03**]. He was taken to Angio on [**06-03**] which showed a right PICA aneurysm which was coiled successfully. The Patient was then monitored in the ICU for vasospasm. He had difficulties with hyponatremia requiring 3% saline and high dose hydrocortisone. He remained in the ICU until [**06-25**] when he was transfered to the step down unit.  He remained neurologically intact throughout his ICU stay. He was in step down unit for two days then transfered to the regular floor. He was cleared for discharge home by physical therapy and was discharged on [**06-28**] in stable condition with followup with Dr [**Last Name (STitle) 119**] in two weeks.
+
+Medications on Admission:
+Atevol
+Celexa
+(off HAART)
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed. Disp:*40 Tablet(s)* Refills:*0*
+3. Phenytoin 100 mg/4 mL Suspension Sig: Ten (10) ml PO three times a day for 3 weeks. Disp:*qs 630 ml* Refills:*2*
+4. Zolpidem Tartrate 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). Disp:*15 Tablet(s)* Refills:*0*
+5. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0*
+6. Didanosine 250 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+7. Efavirenz 200 mg Capsule Sig: Three (3) Capsule PO DAILY (Daily). Disp:*30 Capsule(s)* Refills:*0*
+8. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).
+Disp:*14 Patch 24HR(s)* Refills:*0*
+9. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*1*
+10. Sodium Chloride 1 g Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1) Subarachnoid hemorrage
+2) Hydrocephalus
+3) PICA aneurysm
+
+Discharge Condition:
+Good, improving
+
+Discharge Instructions:
+Discharge to home with instructions to follow up as stipulated below.  If you experience severe HA, visual disturbances, nausea/vomitting, dyscoordination or other symptoms concerning to you, please seek medical evaluation at a convenient [**Doctor First Name 45**]. You may resume your regular diet.   You may resume your home medications with the below additions. You should avoid moderate to strenuous at least until your follow up visit with Dr. [**Last Name (STitle) 119**].
+
+Followup Instructions:
+Please call Dr.[**Last Name (STitle) 2312**] office to schedule a follow-up appointment: 
+([**Telephone/Fax (2) 1167**] LMOB 3B Neurosurgery 
+
+[**Name6 (MD) **] [**Name7 (MD) **] MD, PHD 30-AAV
+
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] RNC 80-AKU [**2013-06-28**] @ 1054
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: FRI [**2013-07-05**] 8:39 PM
+(End of Report)
+

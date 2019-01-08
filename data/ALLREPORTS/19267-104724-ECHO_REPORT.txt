@@ -1,0 +1,40 @@
+104724	||||	19267	||||	11156	||||	ECHO_REPORT	||||	2018-03-16 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure. Coronary artery disease. Left ventricular function. Myocardial infarction. Preoperative assessment. Height: (in) 62
+Weight (lb): 160
+BSA (m2): 1.74 m2
+BP (mm Hg): 110/60
+HR (bpm): 84
+Status: Inpatient
+Date/Time: [**2018-03-16**] at 19:16
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The IVC is normal in diameter with <50% decrease during respiration (estimated RAP 11-15mmHg). 
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size. No LV mass/thrombus. Trabeculated LV apex. Severely depressed LVEF. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size. Mild global RV free wall hypokinesis. 
+
+AORTIC VALVE: ?# aortic valve leaflets. Mildly thickened aortic valve leaflets. 
+
+MITRAL VALVE: Mild mitral annular calcification. No MS. Moderate (2+) MR. [Due to acoustic shadowing, the severity of MR may be significantly UNDERestimated.] Normal LV inflow pattern for age. 
+
+TRICUSPID VALVE: Physiologic TR. Indeterminate PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor parasternal views. Suboptimal image quality - ventilator. Emergency study performed by the cardiology fellow on call. 
+
+Conclusions: 
+The estimated right atrial pressure is 11-15mmHg. Left ventricular wall thicknesses and cavity size are normal. No masses or thrombi are seen in the left ventricle. Overall left ventricular systolic function is severely depressed with global hypokinesis and akinesis of the distal LV and apex. Right ventricular chamber size is normal. There is mild global right ventricular free wall hypokinesis. The number of aortic valve leaflets cannot be determined. The aortic valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. 
+

@@ -1,0 +1,45 @@
+109559	||||	15770	||||	8679	||||	ECHO_REPORT	||||	2014-09-11 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. Bubble study.
+Height: (in) 66
+Weight (lb): 264
+BSA (m2): 2.25 m2
+BP (mm Hg): 87/54
+HR (bpm): 122
+Status: Inpatient
+Date/Time: [**2014-09-11**] at 11:38
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: Saline
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD or PFO by 2D, color Doppler or saline contrast with maneuvers. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Small LV cavity. Hyperdynamic LVEF. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber size. Normal RV systolic function. 
+
+AORTA: Normal aortic root diameter. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. No MVP. Normal mitral valve supporting structures. Normal LV inflow pattern for age. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Normal tricuspid valve supporting structures. Moderate PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. Normal main PA. No Doppler evidence for PDA 
+
+PERICARDIUM: Small to moderate pericardial effusion. Effusion circumferential. No echocardiographic signs of tamponade. No RA or RV diastolic collapse. No significant respiratory variation in mitral/tricuspid valve flows. 
+
+GENERAL COMMENTS: Contrast study was performed with 1 iv injection of 8 ccs of agitated normal saline at rest. Patient was unable to cooperate with maneuvers. 
+
+Conclusions: 
+The left atrium is normal in size. No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity is unusually small. Left ventricular systolic function is hyperdynamic (EF 80%). Right ventricular chamber size is normal. Right ventricular systolic function is normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. There is moderate pulmonary artery systolic hypertension. There is a small to moderate sized pericardial effusion. The effusion appears circumferential. There are no echocardiographic signs of tamponade. No right atrial or right ventricular diastolic collapse is seen. 
+

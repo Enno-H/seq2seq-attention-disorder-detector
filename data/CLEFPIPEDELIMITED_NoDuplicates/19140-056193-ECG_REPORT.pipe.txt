@@ -1,0 +1,6 @@
+19140-056193-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+19140-056193-ECG_REPORT.txt||Disease_Disorder||CUI-less||108||125
+19140-056193-ECG_REPORT.txt||Disease_Disorder||C0340312||138||164
+19140-056193-ECG_REPORT.txt||Disease_Disorder||CUI-less||165||180
+19140-056193-ECG_REPORT.txt||Disease_Disorder||C0022116||194||202
+19140-056193-ECG_REPORT.txt||Disease_Disorder||CUI-less||219||233

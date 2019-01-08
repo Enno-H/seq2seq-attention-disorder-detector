@@ -1,0 +1,62 @@
+673	||||	17473	||||	21290	||||	DISCHARGE_SUMMARY	||||	2010-10-29 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2010-10-23**]     Discharge Date:  [**2010-10-29**]
+
+Date of Birth:   [**1967-03-27**]     Sex:  F
+
+Service:  Gynecology
+
+HISTORY OF PRESENT ILLNESS:  This is a 43-year-old gravida 2, para 2-0-0-2 with a history of abnormal periods with heavier periods lasting increased number of days, coming more frequently, every 23 days, for over the course of the last year.  The patient reports several ultrasounds done in the past with findings of small fibroids.  The patient was recently started on oral contraceptive pills by her gynecology doctor.  She was started on [**Hospital Unit Name 762**] Tri-Cyclen three weeks ago.  The patient reports heavy bleeding began three days ago.  She reports soaking up to one pad or tampon per hour with large clots.  She denies cramping.  She denies abdominal pain.  The patient reports she has not had an endometrial biopsy for evaluation.  She reports some lightheadedness and dizziness today.  Her last ultrasound was done on [**09-16**] which showed hydrosalpinx on the right, reportedly unchanged from prior examination 10 months ago, and a small uterine fibroid.  Prior to that, her ultrasound was done on [**2010-03-11**], which showed an anteverted uterus with central hypoechogenic mass of about 2.2 cm butting into the endometrium with lining about 9 mm, but with a posterior fundal fibroid.
+
+PAST GYNECOLOGICAL HISTORY:  The patient had menarche at age 12.  Her cycles use to be 28 to 30 days.  Over the course of the past year have become every 23 days with bleeding increasing from 5 to 7 days in the past up to 7 to 10 days this past year.  Over the course of the past year she has had heavy bleeding, using an increasing number of pads during her cycles.  She has no history of abnormal PAP smears.  She denies any sexually transmitted diseases.  Her last menstrual period was [**2010-09-24**].
+
+PAST OBSTETRICAL HISTORY:  Past obstetrical history is significant for two normal spontaneous vaginal deliveries 10 years ago and 15 years ago with two full-term babies.
+
+PAST MEDICAL HISTORY:   The patient is status post thyroidectomy in [**1985**], status post neurofibroma removal from her spinal canal in [**1996**] times two of the sacrum with both anterior x 2 and posterior approach, parotid tumor removal several years ago.
+
+MEDICATIONS ON ADMISSION:  Synthroid.
+
+ALLERGIES:  PENICILLIN causes a rash.
+
+SOCIAL HISTORY:  Denies any tobacco, alcohol or drugs.  The patient teaches computers.
+
+FAMILY HISTORY:  Denies any gynecological cancers.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs on admission were temperature 99.1, pulse 80, blood pressure of 100/58, respiratory rate of 18, 100% oxygen saturation on room air.
+Physical examination in general, the patient appeared pale and weak.  Cardiovascular examination was a regular rate and rhythm, with a normal S1 and S2.  Pulmonary examination revealed the patient was clear to auscultation bilaterally. Abdominal examination revealed positive bowel sounds, soft, nontender, and nondistended.  Pelvic examination revealed large amounts of blood and clot came from the os.  Normal vulva and vagina were seen.  No lesions or polyps were seen on the cervix.  No cervical motion tenderness or adnexal tenderness was elicited.  Much pooling in the os occurred even after cleaning out the vault.  Extremities had no clubbing, cyanosis or edema.
+
+LABORATORY DATA ON ADMISSION:  The patient had a white blood cell count of 9.3, hemoglobin of 6.5, hematocrit of 20.4, platelets of 360.  PT was 13.1, PTT was 24.9, INR was 1.1.
+Chemistry was sodium 136, potassium 4, chloride 101, bicarbonate 23, BUN 15, creatinine 0.8, and a glucose of 111.
+
+HOSPITAL COURSE:  This 43-year-old gravida 2, para 2 was admitted for heavy vaginal bleeding for emergent medical management.  Initially, the patient had a hematocrit of 20.4 on admission, but was clinically stable.  The patient was initially started on intravenous Premarin 25 mg q.4h. times two doses and Provera 10 mg p.o. b.i.d.   She was kept n.p.o. over the course of the night and had a repeat hematocrit after four hours of Premarin therapy.  Her repeat hematocrit came back 15.3.  The patient was still clinically stable with normotensive blood pressure and heart rate.  The patient was consented for blood transfusion and received 2 units of packed red blood cells and intravenous fluids, and was consented for the operating room.  The patient received 4 units preoperatively with a hematocrit preoperatively of 33.2.
+
+The patient was taken to the operating room on [**2010-10-24**], and underwent a supracervical hysterectomy and a right salpingo-oophorectomy for heavy vaginal bleeding, and lysis of adhesions.  Gynecology/Oncology team was consulted intraoperatively.  The patient underwent the procedure and tolerated the procedure well.
+
+Postoperatively, her hematocrit was 30.4, PT was 13.9, PTT was 28.7, INR was 1.3.  She was admitted to the Gynecology
+Service for postoperative care.  The patient remained stable with a stable hematocrit, and clinically adequate urine output, and vital signs over the course of her postoperative stay.  She had a slow return of bowel function.
+
+However, by postoperative day three she was tolerating clears, and by postoperative day four she was tolerating solids.
+The patient's pain was controlled with Tylenol No. 3.  Her urine output remained adequate throughout her stay, and she was ambulating, and appeared well.  On postoperative day five, she was discharged to home with Tylenol No. 3, Motrin, and Colace.  The patient was to follow up with Dr. [**Last Name (STitle) 2202**] in two weeks.
+
+DISCHARGE DIAGNOSES:   Status post supracervical hysterectomy, and right salpingo-oophorectomy, and lysis of adhesions secondary to heavy vaginal bleeding.
+
+CONDITION AT DISCHARGE:  The patient's condition on discharge was stable.
+
+MEDICATIONS ON DISCHARGE:  Tylenol No. 3 and Motrin for pain, and Colace.
+
+DISCHARGE FOLLOWUP:  The patient was to follow up with
+Dr. [**Last Name (STitle) 2202**] in two weeks' time.
+
+[**Doctor First Name 2203**] [**Doctor Last Name **], M.D.  [**MD Number 2204**]
+
+Dictated By:[**Dictator Info 917**]
+
+MEDQUIST36
+
+D:  [**2010-10-29**]  17:54
+T:  [**2010-10-31**]  09:47
+JOB#:  [**Job Number 2205**]
+
+(cclist)
+Signed electronically by: DR. [**First Name (STitle) 2203**] [**Name (STitle) **] on: FRI [**2010-11-12**] 2:03 AM
+(End of Report)
+

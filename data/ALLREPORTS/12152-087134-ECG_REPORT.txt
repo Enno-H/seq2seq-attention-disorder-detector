@@ -1,0 +1,4 @@
+87134	||||	12152	||||	23210	||||	ECG_REPORT	||||	2016-03-26 01:40:00.0	||||		||||		||||		||||	
+Atrial fibrillation with a slow ventricular response. Non-specific ST-T wave changes. Compared to the previous tracing of [**2016-03-25**] the rate is slower and the
+ST-T wave changes are less prominent. 
+

@@ -1,0 +1,45 @@
+104422	||||	17582	||||	28867	||||	ECHO_REPORT	||||	2020-06-09 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Source of embolism. 
+Height: (in) 62
+Weight (lb): 250
+BSA (m2): 2.10 m2
+BP (mm Hg): 134/64
+HR (bpm): 77
+Status: Inpatient
+Date/Time: [**2020-06-09**] at 14:04
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: Saline
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+This study was compared to the prior study of [**2020-02-26**]. 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD or PFO by 2D, color Doppler or saline contrast with maneuvers. 
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and systolic function (LVEF>55%). Normal regional LV systolic function. No resting LVOT gradient. 
+
+AORTA: Normal aortic diameter at the sinus level. Normal ascending aorta diameter. Normal aortic arch diameter. Normal descending aorta diameter. No 2D or Doppler evidence of distal arch coarctation. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Trace AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral annular calcification. Mild thickening of mitral valve chordae. Trivial MR. Normal LV inflow pattern for age. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No TR. Normal PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. 
+
+Conclusions: 
+The left atrium is normal in size. No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%). Regional left ventricular wall motion is normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is a trivial/physiologic pericardial effusion. 
+
+Compared with the prior study (images reviewed) of [**2020-02-26**], estimated pulmonary artery pressures are lower. No intracardiac shunt is evident. 
+

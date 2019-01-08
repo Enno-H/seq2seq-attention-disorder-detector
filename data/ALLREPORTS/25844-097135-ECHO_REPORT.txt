@@ -1,0 +1,42 @@
+97135	||||	25844	||||	8722	||||	ECHO_REPORT	||||	2018-11-14 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Endocarditis. 
+Height: (in) 64
+Weight (lb): 130
+BSA (m2): 1.63 m2
+BP (mm Hg): 114/65
+HR (bpm): 71
+Status: Inpatient
+Date/Time: [**2018-11-14**] at 14:50
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Mild LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and systolic function (LVEF>55%). Normal regional LV systolic function. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+1. The left atrium is mildly dilated. 
+2. Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%). Regional left ventricular wall motion is normal. 3. No evidence of endocarditis seen. 
+

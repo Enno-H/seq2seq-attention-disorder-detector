@@ -1,0 +1,22 @@
+290421	||||	1487	||||	25856	||||	RADIOLOGY_REPORT	||||	2010-02-24 13:04:00.0	||||	J32 CAROTID SERIES COMPLETE	||||		||||	Clip # 284-6317  Actual report	||||	
+DATE: [**2010-02-24**] 1:04 PM
+CAROTID SERIES COMPLETE                                         [**Clip Number (Radiology) 4864**] Reason: Preop for CABG in AM.  ? carotid disease. ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+79 year old woman with severe CAD.  Preop for CABG in AM.   ? carotid disease. REASON FOR THIS EXAMINATION:
+Preop for CABG in AM.  ? carotid disease.
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  PREOP FOR AAA REPAIR, QUESTIONABLE BRUIT.
+
+FINDINGS:  Minimal plaque involving the origin of the left ICA, moderate hypoechoic right ICA plaque.  Peak systolic velocities on the right are 171, 62, and 138 cm/s for the ICA, CCA, and ECA respectively.  The ICA/CCA ratio is 2.8.  The findings indicate a 60 to 69% right ICA stenosis.
+
+On the left, the peak systolic velocities are 89, 81, and 88 cm/s for the ICA, CCA, and ECA respectively.  The ICA/CCA ratio is normal.  The findings indicate no significant left ICA stenosis.  There is antegrade flow in both vertebral arteries.
+
+IMPRESSION:
+
+1.  Moderate predominantly hypoechoic right ICA plaque with an associated 60 to 69% stenosis.
+
+2.  Minimal left ICA plaque, no appreciable associated stenosis.
+

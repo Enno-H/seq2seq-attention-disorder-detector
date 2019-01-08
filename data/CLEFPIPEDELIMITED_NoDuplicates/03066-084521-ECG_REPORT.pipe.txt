@@ -1,0 +1,2 @@
+03066-084521-ECG_REPORT.txt||Disease_Disorder||CUI-less||94||106
+03066-084521-ECG_REPORT.txt||Disease_Disorder||C0428977||172||179||187||197

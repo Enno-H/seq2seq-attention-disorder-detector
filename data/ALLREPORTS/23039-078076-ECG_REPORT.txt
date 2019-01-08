@@ -1,0 +1,4 @@
+78076	||||	23039	||||	23211	||||	ECG_REPORT	||||	2018-03-05 08:06:00.0	||||		||||		||||		||||	
+Sinus rhythm. Prolonged QTc interval. Compared to the previous tracing of [**2018-03-04**] the QTc interval has increased. Clinical correlation is suggested. 
+TRACING 32
+

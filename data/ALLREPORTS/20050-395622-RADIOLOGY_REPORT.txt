@@ -1,0 +1,22 @@
+395622	||||	20050	||||	11408	||||	RADIOLOGY_REPORT	||||	2012-05-10 12:06:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 372-8259  Actual report	||||	
+DATE: [**2012-05-10**] 12:06 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 1188**] Reason: s/p left subclavian line placement; assess for              Admitting Diagnosis: AMPULARY ADENOMA/SDA
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+82M s/p POD 25, continued elevated WBC                                  
+
+REASON FOR THIS EXAMINATION:
+s/p left subclavian line placement; assess for                                  ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  Postoperative day 25, with persistent leukocytosis.  Evaluate left subclavian line placement.
+
+TECHNIQUE:  Single portable AP view of the chest was obtained, compared with examination of [**2012-05-05**].
+
+FINDINGS:  A tracheostomy tube is again seen, appropriately placed.  There is a left-sided subclavian central venous catheter, which has been placed, with the tip probably at the junction of the left brachiocephalic vein and the SVC. Probable abdominal drainage catheters are seen, although not well characterized on this study.  There are relatively low lung volumes, with retrocardiac opacity essentially unchanged since prior examination.  In addition, in the left lateral mid lung zones, there is a more patchy region of opacity which was not evident on the study 5 days ago.  Atelectasis is also appreciated at the right lung base.  No significant osseous abnormalities are seen.
+
+IMPRESSION:
+1)  Patchy opacity, right lower lobe.
+2)  Retrocardiac opacity and left peripheral mid lung zone opacity could represent atelectasis or pneumonia.
+

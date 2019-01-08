@@ -1,0 +1,4 @@
+12050-081563-ECG_REPORT.txt||Disease_Disorder||C0004238||114||133
+12050-081563-ECG_REPORT.txt||Disease_Disorder||CUI-less||141||167
+12050-081563-ECG_REPORT.txt||Disease_Disorder||CUI-less||208||238
+12050-081563-ECG_REPORT.txt||Disease_Disorder||C0151636||291||309

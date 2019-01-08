@@ -1,0 +1,17 @@
+289890	||||	10124	||||	11355	||||	RADIOLOGY_REPORT	||||	2016-04-11 12:20:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 432-5910  Actual report	||||	
+DATE: [**2016-04-11**] 12:20 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 6247**] Reason: effusion? infiltrate?                                       ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+83 year old woman with low sats and shortness of breath                       REASON FOR THIS EXAMINATION: effusion? infiltrate?                                                           ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  83-year-old woman with hypoxia and shortness of breath.  Previous ascending and descending dissection.
+
+COMPARISON:  CTA of the chest from [**2014-04-01**], chest x-rays from [**08-17**], 2005 and [**2016-03-28**].
+
+PORTABLE AP UPRIGHT CHEST:  Again seen is an enlarged tortuous thoracic aorta with abnormally located calcifications, unchanged in appearance since [**2013**]. 
+Several median sternotomy wires are again seen, with fracture of the second most superior wire, also unchanged.  Heart size is enlarged but stable.  No new consolidation is identified.  No pulmonary vascular engorgement is identified.  No pleural effusions are clearly seen.
+
+IMPRESSION:  Overall stable appearance to the chest.  A PA and lateral chest radiograph is recommended when the patient is able.
+

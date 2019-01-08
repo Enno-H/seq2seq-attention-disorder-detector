@@ -1,0 +1,16 @@
+322989	||||	7978	||||	14098	||||	RADIOLOGY_REPORT	||||	2012-09-23 08:03:00.0	||||	E252R ANKLE (AP, MORTISE & LAT) RIGHT	||||		||||	Clip # 380-4401  Actual report	||||	
+DATE: [**2012-09-23**] 8:03 AM
+ANKLE (AP, MORTISE & LAT) RIGHT                                 [**Clip Number (Radiology) 4537**] Reason: fracture?                                                   ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+27 year old man s/p MVC                                                         REASON FOR THIS EXAMINATION: fracture?                                                                       ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  Motor vehicle collision.
+
+COMPARISON:  No previous studies.
+
+FINDINGS:  AP, oblique and lateral views of the right ankle.  There is no fracture or malalignment.  The ankle mortise is congruent with the talar dome. Other visualized joints also appear unremarkable.  Soft tissue swelling is noted circumferentially around the ankle joint.
+
+IMPRESSION:  No fracture or malalignment.
+

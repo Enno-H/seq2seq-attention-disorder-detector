@@ -1,0 +1,6 @@
+06567-071352-ECG_REPORT.txt||Disease_Disorder||C0085610||94||111
+06567-071352-ECG_REPORT.txt||Disease_Disorder||CUI-less||113||133
+06567-071352-ECG_REPORT.txt||Disease_Disorder||C0149721||154||182
+06567-071352-ECG_REPORT.txt||Disease_Disorder||CUI-less||188||205
+06567-071352-ECG_REPORT.txt||Disease_Disorder||C2063775||216||257
+06567-071352-ECG_REPORT.txt||Disease_Disorder||CUI-less||259||284

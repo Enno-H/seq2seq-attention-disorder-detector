@@ -1,0 +1,3 @@
+22818-041469-ECG_REPORT.txt||Disease_Disorder||C0004238||95||114
+22818-041469-ECG_REPORT.txt||Disease_Disorder||CUI-less||129||146
+22818-041469-ECG_REPORT.txt||Disease_Disorder||CUI-less||148||171

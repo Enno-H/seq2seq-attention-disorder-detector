@@ -1,0 +1,20 @@
+183267	||||	24813	||||	3148	||||	RADIOLOGY_REPORT	||||	2012-11-04 12:08:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 329-3894  Actual report	||||	
+DATE: [**2012-11-04**] 12:08 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 8076**] Reason: eval for acute process, pt SOB, tachy                       Admitting Diagnosis: PERFORATED DUODENUM
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+71 year old woman with septic pict,recent tension PTX at OSH                 
+
+REASON FOR THIS EXAMINATION:
+eval for acute process, pt SOB, tachy                                           ______________________________________________________________________________
+
+FINAL REPORT
+CHEST, SINGLE AP FILM
+
+History of shortness of breath.
+
+A left subclavian CV line overlies the proximal SVC.  Dual-chamber right-sided pacemaker with atrial ventricular leads in situ.  Heart size is borderline for technique.  No evidence for CHF.  No pneumothorax.  Since the prior film of [**2012-10-27**], there has been significant resolution of the atelectasis, less consolidation in the left lower lobe, and there are no new lung lesions.
+
+IMPRESSION:  No evidence for CHF.  Significant resolution of the left lower lobe atelectasis/consolidation.  No pneumothorax.
+

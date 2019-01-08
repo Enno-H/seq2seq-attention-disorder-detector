@@ -1,0 +1,74 @@
+14879	||||	14888	||||	4203	||||	DISCHARGE_SUMMARY	||||	2014-03-29 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-03-18**]       Discharge Date:  [**2014-03-29**]
+
+Date of Birth:   [**1937-01-19**]       Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 77-year-old woman with a long history of aortic stenosis followed with serial echocardiograms.  The patient is currently undergoing evaluation for orthopedic procedure which prompted repeat TTE and cardiac catheterization.  The new TTE and cardiac catheterization revealed severe aortic stenosis with preserved left ventricular ejection fraction and one vessel coronary artery disease.  The patient is asymptomatic with no orthopnea, paroxysmal nocturnal dyspnea or edema, but is very sedentary secondary to degenerative joint disease.  No history of cerebrovascular accident of transient ischemic attack.  No history of atrial fibrillation.  The patient denies claudication.
+
+PAST MEDICAL HISTORY:
+1.  Aortic stenosis
+2.  Coronary artery disease
+3.  Degenerative joint disease
+4.  History of [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 7713**] disease diagnosis
+
+PAST SURGICAL HISTORY:
+1.  Open reduction internal fixation of right hip
+2.  Cesarean section
+3.  Total abdominal hysterectomy
+4.  Left knee scope
+5.  Carpal tunnel surgery
+6.  Breast biopsy
+
+PHYSICAL EXAM:
+HEAD, EARS, EYES, NOSE AND THROAT:  Murmur radiating to bilateral carotids.
+LUNGS:  Clear
+HEART:  Regular rate and rhythm with a 3/6 systolic murmur.
+ABDOMEN:  Slightly obese, soft, nontender.
+EXTREMITIES:  Warm, no edema, palpable pulses bilaterally.
+
+LABS:  Hematocrit 30.3, white count 8.6, platelets 266.
+Chem-7 144.0, 102, 29, 24, 1.0 and 113.
+
+HOSPITAL COURSE:  The patient was admitted on [**2014-03-18**] and was taken to the Operating Room on [**2014-03-19**] for an aortic valve replacement and coronary artery bypass graft x1 with saphenous vein graft to the RCA.  A #23 CE Bovine pericardial valve was used for the aortic valve repair.  Postoperatively, the patient did well and was transferred to the CSRU.
+
+On postoperative day #1, the patient's nitroglycerin drip was weaned off.  The patient's Swan-Ganz catheter was removed and the patient's chest tube was removed.  The patient was transferred to the floor on postoperative day #1.
+
+On postoperative day #2, the patient continued to do well, but was noted to be atrial fibrillation.  An amiodarone bolus was started and the patient was started on amiodarone po tid. On postoperative day #2, the patient was seen by physical therapy who felt that at that time she might need cardiac rehabilitation.
+
+On postoperative day #3, the patient continued to do well and her wires were removed.  The patient was still in atrial fibrillation, but with a rate of approximately 80.
+
+On postoperative day #4, the patient was in sinus rhythm with a rate of 73.  Plans were made for discharge to rehabilitation the following day.  On the evening of postoperative day #4, the patient had nausea and bilious emesis.  An obstruction series was obtained and the patient looked as though she had small bowel obstruction with dilated loops of small bowel and assisted living facility.  An nasogastric tube was placed.  The patient was made NPO and started on intravenous fluids.  The patient was given a
+Fleet's enema and multiple Dulcolax suppositories for significant stool impaction seen on the KUB.
+
+The patient was continued NPO with intravenous fluids until postoperative day #8 when the patient began passing gas spontaneously.  The patient's nasogastric tube was removed on postoperative day #8.  The patient was started on sips of clears.  The patient was seen again by physical therapy who felt that at this time the patient was independent and could be discharged to home without rehabilitation.
+
+On postoperative day #9, the patient was advanced to a regular diet.  Plans for discharge were made for postoperative day #10, [**2014-03-29**].  The patient was told that she should probably see her outpatient gastroenterologist for work up, as this small bowel obstruction questioned cancer vs adhesions from prior abdominal surgery.
+The patient was discharged to home on [**2014-03-29**] in good condition on the following medications:
+1.  Colace 100 mg po bid
+2.  Mobic 7.5 mg po qd
+3.  Lipitor 30 mg po q hs
+4.  Amiodarone 400 mg po bid x7 days, then amiodarone 400 mg po qd x7 days, then off
+5.  Percocet 5/325 1 to 2 tablets po q 4 to 6 hours prn
+6.  Lopressor 50 mg po bid
+
+DISCHARGE DIAGNOSES:
+1.  Status post AVR
+2.  Coronary artery bypass graft x2
+
+FOLLOW UP:  The patient is to follow up with Dr. [**Last Name (STitle) **] in four weeks and with her primary care physician, Dr. [**Last Name (STitle) 7714**], in three to four weeks.
+The patient had been previously scheduled for colonoscopy. 
+She was advised to keep this appointment.
+
+[**First Name11 (Name Pattern1) 640**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 3084**]
+
+Dictated By:[**Dictator Info 7059**]
+MEDQUIST36
+
+D:  [**2014-03-28**]  10:21
+T:  [**2014-03-28**]  10:29
+JOB#:  [**Job Number 7715**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 640**] [**Last Name (NamePattern1) **] on: FRI [**2014-03-28**] 1:41 PM
+(End of Report)
+

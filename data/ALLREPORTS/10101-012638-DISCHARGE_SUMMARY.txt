@@ -1,0 +1,112 @@
+12638	||||	10101	||||	10901	||||	DISCHARGE_SUMMARY	||||	2016-03-16 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-03-14**]              Discharge Date:   [**2016-03-16**]
+
+Date of Birth:  [**1943-07-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Morphine / Vicodin
+
+Attending:[**Attending Info 2438**] 
+Chief Complaint:
+fatigue and weakness
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+72 y/o male with PMHx of NSCLC, PE, who presented to the [**Doctor First Name **] on [**03-14**] with generally increasing fatigue and tachypnea.  
+
+In the [**Doctor First Name **], He underwent CTA chest and abdomen which no PE but marked progression of metastatic disease including innumerable new metastases in the lungs and liver and increased size of metastases in the adrenals, kidneys, mesentary, soft tissues. He had negative CT head and EKG. His hematocrit was 26 from baseline around 30, and INR was 3.6 on admission. He received FFP, 1 unit PRBC, and a dose of cefepime vanc. Due to slightly low blood pressure, the patient was also given steroids and 1L NS and admitted to the FICU.  
+
+In the ICU, his HCT improved and BP remained stable in the 100's, and HR in the 90-100's. EGD or further GI workup was refused. Oncology came to meet with the patient and his family, and decided that focusing goals of care on comfort was most appropriate. He was made DNR/DNI but medications were continued, and he was admitted to [**Hospital Unit Name 595**].  
+
+ROS: He denies chest pain, shortness of breath. He does feel somewhat fatigued. He reports some right flank/back pain, [**08-29**] before receiving IV dialudid. He denies other concerns.  
+
+Onc History: Initially found to have a large right sided mass on CXR in 10/06 performed for 1 month history of cough. CT scan confirmed the mass and biopsy of [**Last Name (un) 2439**] nodes were suspicious, but FNA of the primary mass showed likely NSCLC. PET showed abnormality on the right thyroid. He started radiation therapy in 11/06 and started cycle 1 of cisplatin/etoposide in 12/06 and cycle 2 in 1/07. He completed XRT [**2015-12-28**]. He was hospitalized for chest pain and found to have a PE in 1/07, and started on coumadin. PET scan in 2/06 demonstrated metastatic disease to the adrenals, so he was changed to taxotere therapy in 3/07 which he tolerated reasonably well.  
+
+Past Medical History:
+PMH:  
+1. NSCLC- former smoker, originally presented to PCP [**09-24**] with cough x 1 mo., CXR with lg R-lung mass, CT showed right upper lobe posterior segment mass abutting the chest wall but not invading with an enlarged upper R paratracheal node and lower R paratracheal node, s/p TBNA of mediastinal LAD [**10-14**] showing highly atypical cells suggestive of NSCLC and CT-guided biopsy of the lung mass [**10-21**] confirming NSCLC, MRI brain negative for met, s/p 2 cycles of cisplatinum/etoposide + XRT (completed [**2015-12-28**]). Had PET scan 
+2. HTN- per son used to be on meds but has been normotensive  
+3. Hypercholesterolemia  
+4. LBP  
+
+Social History:
+SH: Born in [**Country 2440**], lives in Montreal, [**Ethnicity 2441**] citizen, 3 children who live in the area. Retired owner of a restaurant. Primarily speaks [**Ethnicity 2442**], speaks little English. + remote tobacco, 40pk-yr, quit at age 36, extensive passive exposure at the restaurant. No asbestos exposure.  
+
+Family History:
+
+FH: No history of malignancy.  
+
+Physical Exam:
+V: 96.5 BP 120/60 HR 106 R 18 Sat 98% 2L, 93% RA  
+Gen: 72 yo M sitting in a chair, NAD, comfortable  
+Heent: AT/NC, EOMI, PERRLA, anicteric, MMM  
+Neck: supple no JVD  
+Lungs: decreased BS at L base, o/w CTAB no w/r/r  
+Abd: soft, obese, ND/NT +BS  
+Ext: trace to 1+ pretibial edema, wwp, good pulses  
+Neuro: A&Ox3. Mild intention tremor. CN II-XII in tact.  
+
+Pertinent Results:
+[**2016-03-14**] 11:15AM   PT-33.4* PTT-33.5 INR(PT)-3.6*
+[**2016-03-14**] 11:15AM   WBC-26.3* RBC-3.18* HGB-9.6* HCT-30.5* MCV-96  MCH-30.3 MCHC-31.5 RDW-20.1*
+[**2016-03-14**] 11:15AM   NEUTS-75* BANDS-9* LYMPHS-3* MONOS-9 EOS-2  BASOS-0 ATYPS-1* METAS-0 MYELOS-1*
+[**2016-03-14**] 11:53AM   LACTATE-2.3*
+[**2016-03-14**] 04:46PM   CK-MB-NotDone cTropnT-<0.01
+[**2016-03-14**] 12:55PM   GLUCOSE-137* UREA N-24* CREAT-0.7 SODIUM-126*  POTASSIUM-4.6 CHLORIDE-94* TOTAL CO2-22 ANION GAP-15
+[**2016-03-14**] 11:36PM URINE  OSMOLAL-234
+
+Brief Hospital Course:
+72 y/o M with PMHx of NCSLC who presents with increased weakness and fatigue with progressive lung cancer. 
+
+The patient had a brief stay in the FICU and was transferred to the floor after the goals of care were transitioned to a goal for a move to hospice. He arrived on the floor on [**03-15**], vitals were stable. Overnight, the patient had increased work of breathing and became diaphoretic and tachycardic and with the family and attending's involvement, the goal of care became comfort measures only.
+The patient passed away at 11:52am on [**2016-03-16**].
+
+Medications on Admission:
+Home meds:  
+Pantoprazole  
+Docusate Sodium 100 mg PO BID  
+Senna 8.6 mg PO BID  
+Acetaminophen 325 mg  
+Hydromorphone 2 mg prn q4-6  
+Fentanyl 25 mcg/hr Patch 72HR  
+Coumadin 2.5 mg/5mg alternate days qhs  
+Florinef 0.1  
+decadron 4 qd  
+
+Meds on Transfer  
+HYDROmorphone (Dilaudid) 2-4 mg PO Q4-6H:PRN  
+Dexamethasone 4 mg PO DAILY  
+Docusate Sodium 100 mg PO BID  
+Pantoprazole 40 mg PO Q24H  
+Fentanyl Patch 50 mcg/hr TP Q72H  
+Senna 1 TAB PO BID:PRN  
+Fludrocortisone Acetate 0.1 mg PO DAILY  
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Non small cell lung cancer
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+[**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number 2443**]
+
+Completed by: [**First Name8 (NamePattern2) 423**] [**Last Name (NamePattern1) 424**] MD [**MD Number 425**] [**2016-03-16**] @ 1457
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: WED [**2016-03-16**] 5:07 PM
+(End of Report)
+

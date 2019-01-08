@@ -1,0 +1,144 @@
+10823	||||	2115	||||	18284	||||	DISCHARGE_SUMMARY	||||	2015-05-31 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-05-16**]              Discharge Date:   [**2015-05-31**]
+
+Date of Birth:  [**1927-09-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1362**] 
+Chief Complaint:
+CODE STROKE
+
+Major Surgical or Invasive Procedure:
+MRI/MRA head
+MRA neck
+endotracheal intubation
+
+History of Present Illness:
+The pt is an 87 year-old right-handed woman with a prior history of stroke who presented with alteration in mental status.
+
+The pt was unable to offer a history at the time of my encounter.
+Therefore, the following history is per the primary team, the medical record, and the pt's daughter.
+
+She had been in her usual state of health until approximately 1440 today. At that time, she was sitting in her wheelchair [**Location (un) 478**] the newspaper when her daughter suddenly saw the pt's right arm moving abnormally (not clear if rhythmically). The pt's
+face appeared "contorted" and her eyes were clamped closed. Her extremities appeared turned in and clinched together except for her right arm that was moving abnormally for an uncertain amount of time. Her daughter had never witnessed such an event in the past. She became concerned and called EMS who brought the pt to the [**Hospital1 16**] [**Doctor First Name **]. Code stroke was called at 1530 and neurology was immediately at the bedside. NIHSS was documented as follows:
+
+Past Medical History:
+-multiple strokes, most significant event around 10 years ago with resultant left hemiparesis. Has been wheelchair bound since that time. -atrial fibrillation, warfarin was discontinued 10 days PTA for supratherapeutic level -history of congenital heart defect (unclear of exact etiology) -nephrolithiasis
+-history of blood clot in small bowel
+-congestive heart failure, EF unknown
+
+Social History:
+Lives with daughter wheelchair bound at baseline.
+Dependent on others for ADLs. No history of tobacco, alcohol, illicit drug use.
+
+Family History:
+-
+
+Physical Exam:
+Vitals: T: 98.6F P: 64 R: 16 BP: 125/46 SaO2: 99% NRB
+General: Lying in bed with eyes closed and NRB in place.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx
+Neck: No JVD or carotid bruits appreciated. No nuchal rigidity Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: irregularly irregular rhythm, nl. S1S2, no murmur noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.
+Extremities: No C/C/E bilaterally, 1+ radial, DP pulses bilaterally.
+
+Neurologic:
+-mental status: Opens eyes transiently to verbal or noxious stimuli, but very inattentive. Oriented to self only. Language nonfluent with intact repetition for one word phrases, inconsistently follows commands.
+
+-cranial nerves:  PERRL 3 to 2mm. Funduscopic exam revealed no papilledema, exudates, or hemorrhages. VFF to threat. EOMI. Left facial droop. Tongue protrudes in midline.
+
+-motor: Atrophic musculature throughout. Tone is spastic on the left. Dense left hemiplegia. Withdraws to noxious stimuli on the right and is at least antigravity strength throughout on the right(formal strength testing limited by impersistence). No adventitious movements noted. 
+
+-sensory: Grimaces to noxious stimuli in all four extremities.
+
+-DTRs: 
+[**Name2 (NI) **] Tri [**Last Name (un) 3127**] Pat Ach
+L  3   3   3    3   0
+R  3   3   3    3   0
+
+Plantar response was extensor bilaterally.
+
+Pertinent Results:
+Laboratory Data:
+
+6.5> 13.4 <177   MCV 99
+40.7  
+
+PT: 12.2  PTT: 29.4  INR: 1 
+
+Na:143
+K:5.2
+Cl:110       TCO2:21
+Glu:80
+Lactate:3.3 
+
+BUN 29 Creatinine 1.8
+
+UA positive
+
+Radiologic Data:
+NCHCT: Large area of encephalomalacia in MCA territory on the right.
+No evidence of hemorrhage or evolving infarction. 
+
+Brief Hospital Course:
+In brief, the patient is an 87 year old woman with history of right MCA stroke who was admitted with signs and symptoms consistent with seizure activity potentially related to a new cerebral infarct whose course was complicated by asystolic arrrest, and anoxic brain injury.
+
+1.) Neurologically, as mentioned above patient has history of right MCA stroke with residual left hemiplegia.  Differential for her acute mental status change included seizure, infectious, metabolic, cardioembolic with clot dissolution.  An MRI an acute ischemic event to left insula and the left parietotemporal lobe. An EEG showed encephalopathy and frequent posterior temporal-occipital sharp and slow wave discharges but no clear seizure activity.  There were no witnessed convulsive seizures during the admission.  As the patient had a good clinical description and reason for seizure focus, she was started on Keppra 500IV BID and increased up to 750mg BID after 72 hours.  Fasting lipid profile was acceptable and was not started on statin.  She was normotensive.  Her mental status did not improve significantly during the admission.  She continued to be largely unresponsive only very rarely speaking, and never responding appropriately.  It was thought that she was debilitated by the old right hemisphere infarct combined with the new left sided infarct.  As her quality of life prior to admission was questionable, her daughter requested palliative care involvement.  Patient's UTI undergoing treatment and recent acute stroke were discussed with palliative care.  After discussing with palliative care, the daughter requested continuing all non invasive medical care to see if there would be any improvement.  On [**05-21**], the daughter requested a trial of tube feeds for 12-24 hours to see if this would improve the patient's strength and ability to interact.  ON [**05-22**] she requested that the tube feeds be continued throughout the weekend.  Repeat CT [**05-22**] showed evolving infarct in the distribution seen on MRI, and no new processess.  A second EEG study [**05-23**] showed continued intermittent spike/waves from the area of the old infarct, but no epileptiform activity.  Her course was further complicated as she suffered an asystolic arrest on [**2015-05-26**] which was of unclear etiology but could relate to depressed mental status with resulting aspiration pneumonia/pneumonitis.  Following this event she was transferred to the [**Hospital Unit Name 154**] team, however she recovered no meaningful neurologic function.  In discussions with her daughter following the arrest, her code status was confirmed to be DNR. Her GCS and brainstem function over 3 days were consistent with very poor prognosis for recovery.  She could not complete an apnea test secondary to abrupt development of hypotension that recovered following early termination of the test.  EEG showed no cortical activity at 30 minutes.  Cerebral blood flow studies revealed a trace amount of blood flow.  Ultimately, the patient's condition worsened and she expired.  The family was notified. Autopsy was declined.  Arrangements were made for the patient to be flown to [**Country **] for burial arrangements.
+
+Patient has history of afib and was subtherapeutic on admission. Telemetry showed intermittent afib/flutter.  She was ruled out for MI with 3 consecutive cardiac enzymes.  Heparin drip was started and titrated for goal PTT of 40-60, and patient was unable to take coumadin due to failed swallow studies.
+
+Infectious Disease: patient had positive Urinalysis for infection and cultures grew Ecoli sensitive to ceftriaxone.  Infection was treated with rocephin 1gm IV daily.
+
+GI: she failed swallow study on [**05-18**] and she was maintained NPO.  
+NG tube feeds were initially not started per daughter's request as patient had previous poor baseline.  However, as explained above daughter requested tube feeds [**05-21**].
+
+Renal: There were no acute issues on presentation, however following her arrest she developed acute non-oliguric renal failure likely secondary to ATN.
+
+Endocrine: TSH was normal. HbA1c: 5.6
+
+Disp: As above. The patient was pronounced dead on [**2015-05-31**].
+
+Medications on Admission:
+-sertraline 50mg po daily
+-mirtazapine 15mg po qhs
+-warfarin 3mg po qhs (on hold for the past 10 days) -pantoprazole 40mg po daily
+-folate 1mg po daily
+-atenolol 12.5mg po daily
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary:
+Seizure
+Stroke
+Cardiac Arrest
+Anoxic brain injury
+aspiration pneumonitis
+
+Secondary:
+urinary tract infection
+atrial fibrillation
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 1365**] MD [**MD Number 1366**]
+
+Completed by: [**Name6 (MD) **] BLACK MD [**MD Number 2962**] [**2015-05-31**] @ 2203
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: WED [**2015-06-03**] 5:38 PM
+(End of Report)
+

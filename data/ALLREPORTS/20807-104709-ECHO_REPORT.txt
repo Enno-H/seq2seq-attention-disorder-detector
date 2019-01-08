@@ -1,0 +1,46 @@
+104709	||||	20807	||||	14417	||||	ECHO_REPORT	||||	2015-03-02 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Dilated cardiomyopathy.VF.
+Height: (in) 68
+Weight (lb): 158
+BSA (m2): 1.85 m2
+Status: Inpatient
+Date/Time: [**2015-03-02**] at 10:10
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is mildly dilated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is mildly dilated. A catheter or pacing wire is seen in the right atrium and/or right ventricle. 
+
+LEFT VENTRICLE: The left ventricular cavity is severely dilated. There is severe global left ventricular hypokinesis. Overall left ventricular systolic function is severely depressed. 
+
+RIGHT VENTRICLE: The right ventricular cavity is mildly dilated. Right ventricular systolic function appears depressed. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. 
+
+TRICUSPID VALVE: Moderate to severe [3+] tricuspid regurgitation is seen. 
+
+PULMONIC VALVE/PULMONARY ARTERY: The pulmonic valve leaflets appear structurally normal with physiologic pulmonic regurgitation. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+Conclusions: 
+1. The left atrium is mildly dilated. 
+2. The left ventricular cavity is severely dilated. There is severe global left ventricular hypokinesis to akinesis. Overall left ventricular systolic function is severely depressed. 
+3. The right ventricular cavity is mildly dilated. Right ventricular systolic function appears depressed. 
+4. The aortic valve leaflets (3) are mildly thickened. 
+5. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. 
+6/ Moderate to severe [3+] tricuspid regurgitation is seen. 
+

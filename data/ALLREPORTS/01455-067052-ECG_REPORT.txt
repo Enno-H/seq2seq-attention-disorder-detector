@@ -1,0 +1,4 @@
+67052	||||	1455	||||	18439	||||	ECG_REPORT	||||	2014-03-26 16:08:00.0	||||		||||		||||		||||	
+Atrial fibrillation with a rapid ventricular response. Prior anterior myocardial infarction. Low limb lead voltage. Compared to the previous tracing of [**2014-03-26**] no diagnostic interim change.
+TRACING #1
+

@@ -1,0 +1,85 @@
+36	||||	9001	||||	21969	||||	DISCHARGE_SUMMARY	||||	2008-10-23 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2008-10-10**]       Discharge Date:  [**2008-10-22**]
+
+Date of Birth:   [**1920-10-09**]       Sex:  F
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 88 year old female with coronary artery disease, congestive heart failure and diabetes mellitus who presented with fever, abdominal pain after being found down at her nursing home.  Her history patient is a resident at [**Hospital 192**] who was found status post questionable fall the morning of admission and was noted to have a left-sided weakness without head trauma or loss of consciousness.  The fall was unwitnessed.  Subsequently the patient had a large occult blood positive stool and was also found to have complaints of abdominal pain.  At the nursing home the temperature was 102.1 with a pulse of 126, blood in by ambulance to [**Hospital 86**]
+Emergency Department for evaluation with a temperature of
+103.2, pulse 120, blood pressure 108/40 and respiratory rate of 30 with an oxygen saturation of 94%.  In the Emergency Department the patient was found to have an increased respiratory rate.  She denied cough, chest pain, shortness of breath, nausea and vomiting or dysuria.  She did complain of abdominal pain and diarrhea.  The patient is demented at baseline.  The patient denied any fevers or chills prior though it is unclear but it is possibly p.o. intake had been decreased for several days.
+
+PAST MEDICAL HISTORY:  Coronary artery disease, status post congestive heart failure with last admission in [**7-11-09**] for diastolic heart failure, Type 2 diabetes, dementia, benign positional vertigo, status post cholecystectomy, status post femoral neck fracture on the right with a hemiarthroplasty, chronic anemia with hematocrit of 29 and
+B12 deficiency.
+
+ALLERGIES:  Benzodiazepine which causes severe agitation.
+
+ADMISSION MEDICATIONS:
+1.  Multivitamin
+2.  Enteric coated Aspirin 325 mg p.o. q.d.
+3.  Lasix 40 mg p.o. q.d.
+4.  Prinivil 30 mg p.o. q.d.
+5.  Megace 400 mg p.o. b.i.d.
+6.  Lopressor 25 mg p.o. b.i.d.
+7.  Isordil 30 mg p.o. t.i.d.
+8.  Neurontin 100 mg p.o. q. 6
+9.  Colace 100 mg p.o. b.i.d.
+
+PHYSICAL EXAMINATION:  Physical examination revealed a temperature of 103.2, pulse 120, blood pressure 108/40 and respiratory rate of 30 and oxygen saturation of 94%.  The patient was an awake, alert, tachypneic elderly white female in mild distress.  Pupils were left, surgical, minimally reactive, right reactive.  Extraocular muscles grossly intact.  Oropharynx, mucous membranes were dry, edentulous.
+Neck was supple with jugulovenous distension of 10 cm, no lymphadenopathy.  Cardiovascular examination, tachycardiac, normal S1 and S2.  Lungs with decreased breath sounds bilaterally anteriorly at the bases, otherwise clear to auscultation.  Abdomen was diffusely tender with bowel sounds, no masses, no organomegaly and mild distention.
+Occult blood positive brown stool per the Emergency
+Department.  Back examination, positive costovertebral angle tenderness bilaterally per Emergency Department.  Extremities with 1+ pitting bilaterally with no edema.  Left hip with 5 cm erythematous abrasion, no pelvic instability, no pain to passive range of motion of the left hip.  No abrasions on the upper extremity.  Neurological examination, per the Emergency Department, alert answering questions in [**Ethnicity 193**].  Cranial nerves III through XII grossly intact.  Left arm, flaccid, no response to pain.  Left leg withdraws to pain but also flaccid.
+
+LABORATORY DATA:  Admission laboratory data revealed a white blood cell count 17.1, hemoglobin 10.0, hematocrit 30.0, platelets 346,000.  PT was 12.2, PTT 19.1, INR 1.0.  100 white blood cells on urinalysis.  Glucose was 308, BUN 74, creatinine 2.1, sodium 148, potassium 5.8, chloride 113, bicarbonate 12, ALT 54, AST 125, CK 6,163, alkaline phosphatase 53, total bilirubin 0.5, CK MB 84.  Albumin 3.8, calcium 9.1, phosphorus 6.3, magnesium 2.7.  Cardiac troponin greater than 50.
+
+Base x-ray on [**10-10**] revealed a right lower lobe opacity with atelectasis and probable pneumonia.  Computerized tomography scan on [**10-10**] revealed no evidence of acute intracranial hemorrhage.  Computerized tomography scan of the abdomen on [**10-10**] revealed a small right pleural effusion with bibasilar atelectasis right greater than left with dense vascular calcification.  There was a large hiatal hernia, nonspecific large bowel wall thickening without stranding or pneumatosis which could not exclude bowel ischemia, probable sacral myelocele was there as well.  Computerized tomography scan of the cervical spine on [**10-10**] revealed degenerative joint disease without evidence of acute fracture.
+
+HOSPITAL COURSE:  The patient was admitted to the Medicine
+Intensive Care Unit.  Given her high troponin levels,
+Cardiology was seen in consultation and they felt that it was not appropriate to cardiac catheterize the patient at that time.  Given her history of large bloody stool, the patient was not deemed a candidate for heparinization either.  She was maintained on Aspirin, Beta blocker and as lytes improved an ACE inhibitor was added as well.  During her course in the hospital the patient did continue to have transient chest pain which was often relieved by Nitroglycerin but no electrocardiogram changes were found.  Some episodes of chest pain did have to be treated with 1 mg of intravenous morphine.  The patient was placed on Nitropaste to provide longterm pain relief and the patient's episodes of chest pain subsided.
+
+Infectious Disease - The patient was seen to have probable sepsis with several possible etiologies including the possibility of ischemic bowel as indicated by the computerized tomography scan as above, infectious colitis and urosepsis.  The patient was treated with antibiotics and a
+Surgery consultation was obtained.  The patient was taken to the Operating Room on [**10-11**] for an exploratory laparotomy to rule out ischemic bowel and it was ruled out by this procedure.  Please see the operative note dictation for further details of this procedure.  To continue the workup of her diarrhea, the patient received stool cultures which were all negative and Clostridium difficile cultures which were negative times three.  The patient's diarrhea continued and ultimately it was felt that possibly the diarrhea was caused by her antibiotics.  After an acceptable course of antibiotic therapy for her urosepsis and pneumonia these were discontinued and the diarrhea did resolve.  The patient did receive a transfusion of 4 units of packed red blood cells over her stay in the hospital due to a low hematocrit and her history of coronary artery disease and recent myocardial infarction.
+
+Renal - The patient did have acid based abnormalities with a respiratory alkalosis and metabolic acidosis likely lactic acidosis secondary to sepsis with an anion gap.  There was no evidence of ketones.  Electrolytes and bicarbonate were administered to adjust the patient's electrolyte status.  The patient's renal failure was attributed to prerenal azotemia and she was hydrated to relieve this.  Electrolyte adjustment continued throughout her stay in the Medicine Intensive Care Unit as well as her stay on the floor.
+
+Neurologic - The patient was considered as possibly having had a cerebrovascular accident.  Computerized tomography scan in the Emergency Department was negative for any new ischemia.  It was felt that sepsis and/or ischemia may be unmasking left-sided weakness.  The patient was followed with a repeat computerized tomography scan and was seen by the
+Neurology Consult Service.  The patient's weakness did resolve.  No further workup ensued at this point.
+
+Gastrointestinal - The patient was admitted with bloody diarrhea as described above.  The workup above was undertaken and in addition further computerized tomography scans were obtained after the patient was transferred from the Medicine Intensive Care Unit to the General Medical Floor because of ongoing diarrhea.  One of these abdominal computerized tomography scans revealed a small well circumscribed lesion in the pancreas.  The patient's lipase was elevated.  The question was raised as to whether or not the patient may be experiencing pancreatitis and the patient was maintained on a BRAT diet, lipase levels declined.  It was felt that this may be contributing to the patient's abdominal complaint.  An abdominal ultrasound on [**10-21**] revealed no additional changes in this lesion.  Eventually the patient's diarrhea declined.
+
+Genitourinary - One of the aforementioned computerized tomography scans also revealed a fluid-filled uterus.  To workup this discovery a transvaginal ultrasound was undertaken which revealed a uterine stripe of 0.45 cm.  This was reviewed with the Gynecology Consult Service and they recommended the patient have an outpatient uterine biopsy.
+They felt that there were no urgency to working up this problem at this time.
+
+With respect to the above issues, the patient's status gradually improved.  CKs continued to trend down.  Lipase trended down.  Electrolytes improved.  Diarrhea subsided.
+The patient was also seen by the Speech and Swallow Service who felt that the patient could tolerate ground food given her swallowing problems.  The patient also developed a urinary tract infection with yeast.  This was treated with Diflucan.  On [**2008-10-22**], the patient was deemed stable for discharge back to the [**Hospital 192**] Nursing Home.
+
+DISCHARGE INSTRUCTIONS:  The patient should continue a ground diet with thick liquids to resume physical therapy as tolerated.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 mg p.o. q.d.
+2.  Multivitamin 1 tablet p.o. q.d.
+3.  Protonix 40 mg p.o. q.d.
+4.  Nystatin Swish and Swallow 46 ml p.o. q.i.d.
+5.  Lopressor 100 mg p.o. t.i.d.
+6.  Captopril 37.5 mg p.o. t.i.d.
+7.  Diflucan 400 mg p.o. q.d. to complete a four day course
+
+FINAL DIAGNOSIS:
+1.  Myocardial infarction
+2.  Left-sided weakness
+3.  Lactic acidosis
+4.  Pancreatitis
+5.  Pneumonia
+6.  Urosepsis
+7.  Diarrhea, unknown origin
+
+[**First Name11 (Name Pattern1) 194**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 195**], M.D.  [**MD Number 196**]
+
+Dictated By:[**Dictator Info 197**]
+MEDQUIST36
+
+D:  [**2008-10-21**]  14:04
+T:  [**2008-10-21**]  16:17
+JOB#:  [**Job Number 198**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 194**] [**Last Name (NamePattern1) 195**] on: WED [**2008-10-22**] 10:29 AM
+(End of Report)
+

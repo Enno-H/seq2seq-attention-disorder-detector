@@ -1,0 +1,1 @@
+00534-017453-DISCHARGE_SUMMARY.txt||Acronym_Abbreviation||CUI-less||216||217||CUI-less

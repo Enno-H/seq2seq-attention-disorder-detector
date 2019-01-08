@@ -1,0 +1,4 @@
+07761-036998-ECG_REPORT.txt||Disease_Disorder||C0039239||93||110
+07761-036998-ECG_REPORT.txt||Disease_Disorder||CUI-less||158||202
+07761-036998-ECG_REPORT.txt||Disease_Disorder||C0039239||251||268
+07761-036998-ECG_REPORT.txt||Disease_Disorder||CUI-less||295||312

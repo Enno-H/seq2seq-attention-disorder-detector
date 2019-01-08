@@ -1,0 +1,44 @@
+101538	||||	9665	||||	18338	||||	ECHO_REPORT	||||	2018-09-28 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Hypertension.  Left ventricular function. 
+Height: (in) 61
+Weight (lb): 154
+BSA (m2): 1.69 m2
+BP (mm Hg): 182/71
+HR (bpm): 75
+Status: Inpatient
+Date/Time: [**2018-09-28**] at 16:23
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Mild LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and systolic function (LVEF>55%). Normal regional LV systolic function. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. Normal ascending aorta diameter. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild to moderate ([**02-19**]+) 
+MR. [**First Name (Titles) 36**] LV inflow pattern for age. 
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild [1+] TR. Moderate PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS. 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+The left atrium is mildly dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%). Regional left ventricular wall motion is normal. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild to moderate ([**02-19**]+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. 
+

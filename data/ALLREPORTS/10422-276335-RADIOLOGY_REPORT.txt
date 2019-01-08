@@ -1,0 +1,22 @@
+276335	||||	10422	||||	9757	||||	RADIOLOGY_REPORT	||||	2019-06-30 17:58:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 407-1173  Actual report	||||	
+DATE: [**2019-06-30**] 5:58 PM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 1128**] Reason: Possible aspiration event-pt. w/hematemesis intubated [**Female First Name (un) 1129**] Admitting Diagnosis: GASTROINTESTINAL BLEED
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+66 year old man with delta MS, found down, transiently hypoxic                 
+
+REASON FOR THIS EXAMINATION:
+Possible aspiration event-pt. w/hematemesis intubated earlier this week.        ______________________________________________________________________________
+
+FINAL REPORT
+TWO VIEW CHEST [**2019-06-30**].
+
+COMPARISON:  [**2019-06-28**].
+
+INDICATION:  Aspiration event.
+
+Cardiac silhouette is upper limits of normal in size and stable.  Bibasilar areas of discoid atelectasis are again demonstrated, likely superimposed upon a more chronic underlying interstitial basilar abnormality as well as underlying upper lobe emphysema.  There are no confluent areas of consolidation, and there are no pleural effusions.  As compared to the recent study, there has been removal of endotracheal tube and nasogastric tube.
+
+IMPRESSION:  Bibasilar discoid atelectasis.  Likely underlying upper lobe emphysema and basilar fibrosis.
+

@@ -1,0 +1,186 @@
+3873	||||	19791	||||	19646	||||	DISCHARGE_SUMMARY	||||	2019-01-31 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-01-19**]              Discharge Date:   [**2019-01-31**]
+
+Date of Birth:  [**1963-08-10**]             Sex:   F
+
+Service: SURGERY
+
+Allergies: 
+Sulfa (Sulfonamides)
+
+Attending:[**Attending Info 2145**] 
+Chief Complaint:
+Abdominal Pain
+Jaundice
+Nausea/Vomiting
+
+Major Surgical or Invasive Procedure:
+Small Bowel Resection; IOUS
+Roux-en-Y Cholecysto-jejunostomy
+Pseudocyst-Jejunosotmy
+J-tube Placement
+
+History of Present Illness:
+This 55-year-old lady has a history of chronic alcoholic-induced pancreatitis. She has had a pseudocyst problem in the past that resolved over time and has previously had an open J tube placement in the last year for malnutrition during this period.
+
+She recently presented with overt jaundice from bile duct obstruction and a history of many weeks of decline. She has only lost 4 pounds over this period of time, but has been malnourished and unable to eat regular foods and has sustained herself only on liquids because of gastric outlet obstruction. She was transferred to our care for assessment of her biliary obstruction and thoughts of therapeutic approaches to this and the large pseudocyst that was identified that was on the order of 10 x 10 cm in her mid- abdomen. When we assessed her CAT scan, it was clear that she had three problems.
+
+1.  Biliary obstruction from an obstructed bile duct.
+2.  Gastric outlet obstruction from the duodenum being splayed across this large pseudocyst in the head of the pancreas.
+3.  Sinistral hypertension from her pseudocyst as well.
+
+It was clear that the whole upper abdomen was full of massive venous collaterals in that in fact the superior mesenteric vein drained into the splenic vein in order to drain her bowels. The interface between the lower aspect of the portal vein and the superior mesenteric vein was completely splayed out and attenuated and probably thrombosed by the pseudocyst mass effect. With Dr. [**First Name (STitle) **] [**Name (STitle) 1453**], we decided that there was no value in any endoscopic approaches to either the pseudocyst or the biliary obstruction and it was clear that an operative approach was the safest and only way to approach this.
+
+Past Medical History:
+Alcoholic pancreatitis, hyperlipidemia, EtOH abuse (last drink 10 days ago), h/o regional thrombosis, cirrhosis, glaucoma  PSH: J-tube (removed [**08-07**]), C-section x2, tonsillectomy  
+
+Social History:
+No tobacco
+Last drink [**2019-01-09**]
+Lives with Husband, 2 boys, and her mother
+[**Name (NI) 2614**] as consultant
+
+Family History:
+Father with bladder CA
+family HTN in f
+
+Physical Exam:
+VS: 100.6, 85, 140/80, 18, 96% RA
+Gen: fatigued appearing, thin woman, NAD. Jaundice, Scleral icteric
+Chest: CTA bilat.
+CV: RRR, normal S1, S2. No M/R/G.
+Abd: soft, ND, +BS, TTP over epigastrim, no ascities.
+Ext: 2+ DP pulses, warm, no C/C/E
+
+Pertinent Results:
+[**2019-01-24**] 02:43AM BLOOD WBC-10.3 RBC-3.85* Hgb-11.5* Hct-34.0*  MCV-88 MCH-29.8 MCHC-33.7 RDW-15.5 Plt Ct-389
+[**2019-01-24**] 02:43AM BLOOD Glucose-156* UreaN-3* Creat-0.6 Na-138  K-4.5 Cl-105 HCO3-25 AnGap-13
+[**2019-01-19**] 09:45PM BLOOD ALT-83* AST-55* AlkPhos-611* Amylase-58  TotBili-12.5* DirBili-9.4* IndBili-3.1
+[**2019-01-23**] 08:28PM BLOOD ALT-43* AST-54* AlkPhos-311* Amylase-26  TotBili-10.1*
+[**2019-01-24**] 02:43AM BLOOD Phos-4.5 Mg-1.7
+CHEST PORT. LINE PLACEMENT  [**2019-01-24**] 11:00 AM
+
+CHEST PORT. LINE PLACEMENT
+
+Reason: ? line position 
+
+UNDERLYING MEDICAL CONDITION:
+55 year old woman with cholecystojeje and pancreatic pseudocyst jeje with new RIJ cvl 
+REASON FOR THIS EXAMINATION:
+? line position 
+AP PORTABLE CHEST FOR LINE PLACEMENT ON [**2019-01-24**] AT 10:55 A.M.
+
+HISTORY: New right internal jugular approach central venous catheter.
+
+COMPARISON: [**2019-01-23**].
+
+FINDINGS: Patient has been extubated and the nasogastric tube removed. The large right internal jugular sheath has been removed as well. There is an indwelling right internal jugular approach central line with the distal tip at the cavoatrial junction. Lung volumes are markedly diminished, however, there is no focal consolidation. Minimal left basilar atelectasis is seen. No pleural effusion or pneumothorax is evident. There is residual contrast within the colon. Midline surgical skin staples are seen overlying the abdomen.
+
+IMPRESSION: Central venous catheter as above. No pneumothorax.
+
+Brief Hospital Course:
+She was transferred here from an OSH with a larger pancreatic pseudocyst. After reviewing the CT from the OSH, it was determined that she will need a biliary drainage. An ERCP was considered, but then felt that there was no value in any endoscopic approaches to either the pseudocyst or the biliary obstruction and it was clear that an operative approach was the safest and only way to approach
+this.
+
+She was NPO, with an NGT and IV fluids. She was receiving a Banana Bag for electrolyte replacement. She was receiving IV antibiotics empirically. She received 2 days of vitamin K prior to the OR.
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+________________________________________________________________
+
+She went to the OR on [**2019-01-23**]. She tolerated the procedure well. She had a feeding J-tube placed and Cyst J-tube to gravity. She remained intubated overnight and was extubated in the morning. She was slightly hypotensive post-operatively and responded well to IV fluids.
+
+Pain: She was receiving Dilaudid for pain control with good effect. She continued on a PCA until she was tolerating clears and then switched to PO pain meds on POD 6.
+
+FEN: She initially was NPO, with IV fluids. She was started on tube feedings at a slow rate and her rate was increased over the next few days. She was started on sips on POD 4 and advanced to clears, then fulls and a regular diet on POD 8. She had a feeding J-tube in place and was tolerating 1/2 strength tube feedings. The feedings were stopped on POD 9.
+
+Abd: She had an ascitic abdomen that was very large, round, and soft. The JP drain in the RLQ was draining large amounts of sero-sanguinous fluid. A JP Amylase was 4 on POD 5. The drain was D/C'd on POD 7 and a U-stitch placed. She was appropriately tender with good bowel sounds.  The staples were in place. These were left in place due to her abdominal distension. The staples will be removed at her follow-up appointment.
+She had a Cyst J-tube to gravity that drained initially, but there was no drainage by POD 4. The J-tube was capped and will remain in place.
+
+Activity: She was seen by PT and performed stairs without difficulty. She was cleared to go home.
+
+Medications on Admission:
+Cosopt 1 gtt each [**Hospital Unit Name 151**] bid 
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+2. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for 4 weeks. Disp:*50 Tablet(s)* Refills:*0*
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Abdominal Pain
+Jaundice
+Pancreatic Pseudocyst HOP
+Biliary Obstruction
+Portal Hypertension
+Ascities
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+You should contact your MD if you experience: * Increasing pain
+* Fever (>101.5 F)
+* Inability to eat or persistent vomiting
+* Inability to pass gas or stool 
+* Increasing shortness of breath
+* Chest pain
+
+Please resume all of your regular medications and take any new meds as ordered. 
+Continue to ambulate several times per day.
+Staples to be removed at follow-up appointment.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] in 3 weeks. Call ([**Telephone/Fax (2) 2157**] to schedule an appointment.
+
+Please follow-up with Dr. [**Last Name (STitle) 1443**] (Pancreatologist). Call ([**Telephone/Fax (2) 4841**] to schedule an appointment.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 2158**] MD [**MD Number 2159**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 2461**] NP 80-CBX [**2019-01-31**] @ 1131
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: FRI [**2019-02-01**] 9:18 AM
+(End of Report)
+

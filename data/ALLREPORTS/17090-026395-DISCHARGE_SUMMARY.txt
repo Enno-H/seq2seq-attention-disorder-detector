@@ -1,0 +1,63 @@
+26395	||||	17090	||||	29256	||||	DISCHARGE_SUMMARY	||||	2012-07-17 00:00:00.0	||||		||||		||||		||||	
+[**Unit Number 872**]
+Admission Date: [**2012-07-14**]
+Discharge Date: [**2012-07-17**]
+Date of Birth:  [**1947-04-25**]
+Sex:  M
+Service:  [**Last Name (un) 752**]
+
+CHIEF COMPLAINT:  Right femoral artery pseudoaneurysm.
+
+HISTORY OF PRESENT ILLNESS:  This is a 65 year old male who was transferred from [**Hospital 873**] as a direct admit to the [**Hospital Unit Name 47**] for bleeding, status post right hip replacement surgery. Surgery underwent with the same intraop bleeding noted yesterday a.m., which apparently stopped at the end of the case, but total blood loss was estimated at 2000 cc. The patient was given 1 unit of autologous packed red blood cells and 2 units of packed red blood cells during the case, as well as 2 units of FFP. The patient apparently was hemodynamically stable postoperatively until about 0300 on [**2012-07-14**], when he became hypotensive with the systolic blood pressures in the 40's. Hematocrit dropped from 30.7 to 21.7. The patient was given 4 units of packed red blood cells, as well as vitamin K and 2 units of FFP. The patient was taken emergently to angiography, where the femoral arterial sheath placed. The patient was found to have left common femoral artery injury with active blushing of contrast dye. The patient continued to require blood products and transferred to [**Hospital 617**] for
+definitive management.
+
+The patient arrived, oriented x3, systolic blood pressure in the 150's, O2 sats 98% with a heart rate in the 90's. Not intubated, but in severe right pain hip and right thigh pain. The patient now is admitted to the [**Hospital 874**] for definitive management.
+
+PAST MEDICAL HISTORY:  Hypertension, GERD, dysphagia, ankylosing spondylitis and history of BPH.
+
+PAST SURGICAL HISTORY:  Significant for esophageal dilatation x2, right total hip replacement in [**2002**], a left total hip replacement in [**1999**].
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  Medications on transfer were morphine, Bactrim, Ancef, Senna tabs and multivitamin tablets, aspirin,
+Phenergan, Lipitor, Quinapril and Xanax.
+
+SOCIAL HISTORY:  Negative for tobacco use. He does admit to a glass of red wine daily.
+
+FAMILY HISTORY:  Noncontributory.
+
+PHYSICAL EXAMINATION:  Physical exam on admission:
+Temperature 100.7. Blood pressure 171/64. Pulse 82.
+Respirations 33. O2 sat 99% on room air. General appearance: Oriented x3. Anxious and in pain. Heart is regular rate and rhythm without murmurs. Lungs are clear to auscultation bilaterally. Abdominal exam was unremarkable. The right hip dressing is saturated with blood with drains to suction canisters full of blood. The right thigh is tense and with tenderness out of proportion to the exam. Sensory motor intact bilateral lower extremities. Pulse exam shows palpable radials, brachial's, carotids bilaterally, 2+ femoral on the right. I was not able to examine the left groin. He had a sheath in it. The popliteal on the right could not be examined, and on the left he had a 2+ palpable pulse. The dorsalis pedis and posterior tibial pulses were palpable bilaterally 2+.
+
+HOSPITAL COURSE:  The patient underwent transfer to the [**Hospital Unit Name 47**] and then underwent an urgent repair of the right common femoral arterial laceration, and drainage of a thigh hematoma. The patient tolerated the procedure well. The patient had 2 Hemovacs placed. The patient was transferred to the PACU, extubated and hemodynamically stable with pain well controlled.
+
+Admitting labs: White count was 9.0, hematocrit 29.3, platelets 103K. BUN 14, creatinine 1.0.
+
+Postoperative white count was 10.1, hematocrit 32.1. BUN and creatinine remained stable. The patient had 2+ DP and PT pulses with a warm right lower extremity. Sensory and motor were intact.
+
+The patient remained in the PACU and then was transferred to the VICU for continued hemodynamic monitoring. Postoperative day 1 there were no overnight events. The patient was hemodynamically stable. T-max was 101.1 to 100.2. Lungs are clear to auscultation bilaterally. Incisions were clean, dry and intact. There is minimal erythema with a small amount of oozing at the superior aspect of the incision. This was likely secondary to skin bleeding. The right foot pulses remained palpable. Hematocrit was unmonitored. The patient remained in the VICU.
+
+Postoperative day 2 T-max was 101 to 100.1. The patient was begun on Lovenox and aspirin. Exam remained unchanged.
+Continued our perioperative Kefzol. The drains were managed by orthopedic service and those were removed on postoperative day #2. The patient will be allowed partial weightbearing with weightbearing as tolerated. The Lovenox will be continued 40 mg subcu daily for a total of 4 weeks from the date of surgery. Keflex 500 mg q.i.d. will be continued for 10 days.
+
+The patient was seen by physical therapy, who thought he would be able to be discharged to home. The remaining hospital course was unremarkable. The patient was discharged home on postoperative day 4 and no post voiding difficulties. He will continue his Keflex for a total of 10 days. He should follow up with Dr. [**First Name (STitle) 875**], his orthopedist, as directed. He will continue the Lovenox as directed. He will be given
+Percocet tablets for pain and he will resume all preadmission medications.
+
+DISCHARGE DIAGNOSES:
+1. Right common femoral laceration, status post repair.
+2. Status post total right hip replacement.
+3. Hypertension, controlled.
+4. Postoperative blood loss anemia, corrected.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. 02AAJ
+
+Dictated By:[**Dictator Info 876**]
+MEDQUIST36
+D:  [**2012-07-17**] 08:51:31
+T:  [**2012-07-17**] 09:35:00
+Job#:  [**Job Number 877**]
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: MON [**2012-07-23**] 7:08 AM
+(End of Report)
+

@@ -1,0 +1,16 @@
+299900	||||	23969	||||	25350	||||	RADIOLOGY_REPORT	||||	2018-07-02 15:36:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 433-9253  Actual report	||||	
+DATE: [**2018-07-02**] 3:36 PM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 1251**] Reason: Evaluate for infiltrate/edema                               ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+62 year old woman with bilateral LE edema and fatigue                           REASON FOR THIS EXAMINATION: Evaluate for infiltrate/edema                                                   ______________________________________________________________________________
+
+FINAL REPORT
+TWO VIEWS OF THE CHEST DATED [**2018-07-02**]
+
+HISTORY:  62-year-old woman with bilateral lower extremity edema and fatigue; evaluate for infiltrate or edema.
+
+FINDINGS:  Two views are compared with remote radiographs dated [**2015-01-10**], as well as more recent CECT of the chest, dated [**2018-02-01**].  There is evidence of pulmonary hyperinflation and "simplification" suggestive of underlying obstructive airways disease, and the CT demonstrates relatively mild centrilobular emphysema.  Other than biapical pleural thickening, as before, the lungs are clear.  The cardiomediastinal silhouette is within normal limits, and there is no pulmonary vascular congestion, pleural effusion, or other evidence of CHF.  There is diffuse osteopenia, but no thoracic vertebral compression is identified.
+
+IMPRESSION:  Evidence of underlying obstructive lung disease, with no acute process.
+

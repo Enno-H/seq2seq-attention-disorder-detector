@@ -1,0 +1,18 @@
+400001	||||	587	||||	22383	||||	RADIOLOGY_REPORT	||||	2012-03-13 13:03:00.0	||||	Q116 CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST	||||		||||	Clip # 361-6033  Actual report	||||	
+DATE: [**2012-03-13**] 1:03 PM
+CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    [**Clip Number (Radiology) 5189**] Reason: please evaluate for sinusitis                               Admitting Diagnosis: SPLENOMEGALIA
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man with new bilateral ear fullness                                 REASON FOR THIS EXAMINATION: please evaluate for sinusitis                                                   No contraindications for IV contrast
+______________________________________________________________________________
+
+FINAL REPORT
+CLINICAL INFORMATION: Bilateral ear fullness, question sinusitis.
+
+NONCONTRAST CT OF THE SINUSES AND AXIAL AND CORONAL PROJECTION
+
+FINDINGS: The visualized paranasal sinuses are clear with the exception of some slight thickening of central ethmoid cells on the right. The osteomeatal units demonstrate soft tissue compromise. There appears to be a medial maxillotomy on the right. The nasal septum deviates to the left with a rather large spur. The cribriform plates are symmetric in height. The anterior clinoids are not pneumatized. The sphenoid septum inserts on the right carotid groove. The mastoid sinuses are clear. The nasal pharynx is symmetric in appearance.
+
+IMPRESSION: Minimal ethmoid sinus thickening. Evidence of prior right maxillary surgery. Otherwise, negative study. 
+

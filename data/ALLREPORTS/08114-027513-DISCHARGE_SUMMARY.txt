@@ -1,0 +1,117 @@
+27513	||||	8114	||||	28155	||||	DISCHARGE_SUMMARY	||||	2016-01-25 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-01-15**]              Discharge Date:   [**2016-01-25**]
+
+Date of Birth:  [**1955-07-30**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 565**] 
+Chief Complaint:
+60 year old white female s/p CABG [**2016-01-05**] with fever and sternal wound drainage.
+
+Major Surgical or Invasive Procedure:
+Sternal debridement and pectoralis flaps.
+
+History of Present Illness:
+This 60 year old white female is s/p CABG on [**2016-01-05**], had an uncomplicated post op course, and was discharged to home on [**2016-01-12**].  On [**01-14**] she was readmitted to [**Hospital 1872**] with fever,  WBC, and purulent drainage from her sternal wound. She was transferred to [**Hospital1 79**] for definitive treatment. 
+
+Past Medical History:
+s/p CABG [**2016-01-05**] 
+NIDDM
+Arthritis
+Anxiety
+HTN
+Depression
+s/p CCY
+s/p TAH
+s/p tubal ligation
+
+Social History:
+Lives with husband.
+cigs: none
+ETOH: none
+
+Family History:
+unremarkable
+
+Physical Exam:
+Elderly white female in NAD
+Temp: 100 VSS
+HEENT: NC/AT, PERLA, EOMI, oropharynx benign
+Neck: supple, FROM, no lymphadenopathy or thyromegaly, carotids 2+=bilat. without bruits.
+Lungs: Clear to A+P
+CV: RRR without R/G/M
+Abd: + BS, soft, nontender, without masses or hepatosplenomegaly Chest: wound w/ purulent drainage, sternum stable.
+Neuro: nonfocal
+
+Pertinent Results:
+Hematology 
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct [**2016-01-25**] 05:50AM    9.6 4.07* 11.8* 36.7 90 29.1 32.2 15.2 735* 
+BASIC COAGULATION (PT, PTT, PLT, INR) Plt Ct 
+[**2016-01-25**] 05:50AM    735* 
+
+Chemistry 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+[**2016-01-25**] 05:50AM    101 13 0.6 140 4.7 100 31* 14 
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron 
+
+[**2016-01-25**] 05:50AM          8.9 4.7* 1.9     
+
+Brief Hospital Course:
+The patient was admitted on [**2016-01-15**] and was the wound was cultured and she was started on Vanco, Gent, and Flagyl.  She was taken to the OR and underwent sternal debridement and pectoralis flap advancement with the plastic surgery service.  She tolerated the procedure well and was transferred to the CSRU in stable condition.  She was extubated on POD#1 and ID was consulted.  On POD#3 her chest tube was d/c'd and she was transferred to the the floor.  Her wound grew out MRSA and she was continued on Vancomycin.  She continued to progress and had a PICC placed.  She initially had 4 JP drains in and had 2 of them d/c'd.  She needs 6 weeks of IV vanco form the date of her debridement.  She will be seen in Plastic Surgery Clinic in 1 week for evaluation of JP removal.  
+
+Medications on Admission:
+Percocet [**12-27**] PO q 4-6 hours PRN
+Lasix 40 mg PO daily
+KCl 20 mEq PO daily
+Plavix 75 mg PO daily
+Risperidone 1 mg PO qhs
+Glipizide 5 mg PO daily
+Metformin 500 mh PO daily
+ASA 81 mg PO daily
+Lopressor 75 mg PO daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+3. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+5. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed.  
+6. Glipizide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+7. Metformin HCl 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+9. Vancomycin HCl 1000 mg IV Q8H  
+10. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN  
+Peripheral IV - Inspect site every shift
+11. Risperidone 1 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 1921**] Specialty Hospital - [**Location (un) 1873**]
+
+Discharge Diagnosis:
+Sternal wound infection.
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs for 3 months.
+You should shower, let water flow over wounds, pat dry with a towel.
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 4832**] when discharged from rehab. Make an appointment with Dr. [**Last Name (STitle) **] for 4 [**E-mail address 4833**] Make an appointment with Plastic Surgery clinic for 1 week for JP [**E-mail address 4834**]
+
+[**Name6 (MD) **] [**Name7 (MD) 574**] MD [**MD Number 575**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) 6**] [**Last Name (NamePattern4) 576**] PA 80-BGS [**2016-01-25**] @ 1249
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: FRI [**2016-02-19**] 3:26 PM
+(End of Report)
+

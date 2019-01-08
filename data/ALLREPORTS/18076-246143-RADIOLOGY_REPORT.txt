@@ -1,0 +1,26 @@
+246143	||||	18076	||||	16803	||||	RADIOLOGY_REPORT	||||	2015-04-10 06:31:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 284-2737  Actual report	||||	
+DATE: [**2015-04-10**] 6:31 AM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 1177**] Reason: 54 yo s/p PEA arrest; ?aspiration PNA ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+54 year old man with hepatic abscess, intubated for resp failure, with ETT on previous cxr near carina.
+code called for acute resp arrest
+REASON FOR THIS EXAMINATION:
+54 yo s/p PEA arrest; ?aspiration PNA
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATIONS:  Repositioning of endotracheal tube in patient with respiratory failure.
+
+Compared to study done one day earlier.
+
+An endotracheal tube is present, in satisfactory position.  A right internal jugular central venous catheter left PICC line and nasogastric tube also remain in satisfactory position.  Note is again made of an additional PICC line in the left axilla, which does not enter the thoracic cavity.
+
+The cardiac and mediastinal contours are stable in the interval.  There remains evidence of an asymmetric bilateral perihilar alveolar pattern, worse on the right than the left.  A small left pleural effusion is noted.  Please note the right lateral costophrenic sulcus region has been excluded from the study and cannnot be assessed.
+
+IMPRESSION:
+
+1.  Bilateral asymmetric perihilar alveolar pattern, which may be due to either asymmetric pulmonary edema or infection.
+
+2.  Two left PICC lines are present, one terminating in the left axilla and the second terminating in the superior vena cava.
+

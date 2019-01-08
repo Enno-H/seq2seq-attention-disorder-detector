@@ -1,0 +1,18 @@
+260776	||||	22264	||||	2798	||||	RADIOLOGY_REPORT	||||	2014-11-07 16:45:00.0	||||	A18 PORTABLE ABDOMEN	||||		||||	Clip # 327-1447  Actual report	||||	
+DATE: [**2014-11-07**] 4:45 PM
+PORTABLE ABDOMEN                                                [**Clip Number (Radiology) 2643**] Reason: pt c/o abd distention and nausea with ng tube in place      Admitting Diagnosis: LIVER FAILURE
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+68 year old woman with s/p liver transplant                                   
+
+REASON FOR THIS EXAMINATION:
+pt c/o abd distention and nausea with ng tube in place                          ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  68 year old woman status post liver transplant.  Now complains of abdominal distention and nausea.
+
+KUB: Comparison is made to prior radiograph dated [**2014-11-05**] as well as the CT scan of the abdomen and pelvis dated [**2014-11-06**].  The study is technically limited by positioning and motion artifact. An NG tube tip is in the stomach. There are mildly prominent loops of small bowel in the mid- abdomen, a nonspecific finding. There is gas in the colon to the level of the sigmoid. Retained barium is seen in the colon. Two drains overlie the right upper quadrant.
+
+IMPRESSION:  Limited study; nonspecific bowel gas pattern; early or partial small bowel obstruction cannot be excluded. Continued radiographic evaluation is recommended to assess for interval change.
+

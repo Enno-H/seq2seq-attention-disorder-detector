@@ -1,0 +1,14 @@
+178988	||||	19584	||||	22272	||||	RADIOLOGY_REPORT	||||	2011-02-07 11:13:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 307-7368  Actual report	||||	
+DATE: [**2011-02-07**] 11:13 AM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 5541**] Reason: evaluate for effusion                                       ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+86 year old woman s/p mva with multiple injuries - s/p b/l CTs, now with ?  aspiration, poor inspir effort, Sats high 80s on RA
+REASON FOR THIS EXAMINATION:
+evaluate for effusion                                                           ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  Status post MVA with multiple injuries.  Poor inspiratory effort and poor oxygenation.
+
+AP AND LATERAL CHEST:  Comparison [**2011-02-06**].  Allowing for differences in technique, there is no significant interval change.  The lung volumes are low. There are bilateral pleural effusions, right greater than left. There is patchy opacity in the right mid-lung zone laterally, stable.  There is bibasilar atelectasis.  There is no CHF or new focal consolidation.  There are unusual calcific densities in the soft tissues of the left neck, of uncertain etiology.
+

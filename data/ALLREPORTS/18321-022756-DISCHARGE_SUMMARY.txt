@@ -1,0 +1,89 @@
+22756	||||	18321	||||	963	||||	DISCHARGE_SUMMARY	||||	2011-10-16 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-10-13**]              Discharge Date:   [**2011-10-16**]
+
+Date of Birth:  [**1961-02-15**]             Sex:   F
+
+Service: [**Hospital Unit Name **]
+
+Allergies: 
+Nifedipine / Penicillins / Codeine / Sulfonamides
+
+Attending:[**Attending Info 6368**] 
+Chief Complaint:
+Vommiting blood
+
+Major Surgical or Invasive Procedure:
+upper endoscopy
+
+History of Present Illness:
+PT is a 50 yo woman presenting complaining to 7 episodes of vomitting bright red blood.  For past several days pt has been gagging and vomimitting up mucous secondary to post nasal drip.  On day of admission she ate a [**Location (un) 1065**] and immedately after vommitted about a glass and a half worth of blood.  After vommitting about seven more times that day she began to feel dizzy and so cam to the [**Doctor First Name **]. Pt denies chest pain, sob, syncope, melena, hematochezeia.  Pt staes this has never happened before, she has no history of bleeding problems, no liver problems, no GERD, no NSAID or steroid use. 
+
+Past Medical History:
+Irregular menstrual cycle
+LBP s/p MVA
+Htn
+
+Social History:
+Occassional alcohol, no tob, no drugs.  Lives with husband.
+
+Family History:
+Father with MI- age unknown
+
+Physical Exam:
+Afebrile, HR 88, BP 162/88, RR 14 99% on RA
+HEENT: PERRLA, anicteric, no subconjunctival pallor
+Neck: supple, no JVD, no thyromegaly
+Card: RRR nl s1s2 no m/r/g
+Lungs: cta
+Abd: soft, nt, nd, normal bs
+Ext: wwp, no c/c/e
+Neuro: AAOx3, MAE
+
+Pertinent Results:
+[**2011-10-13**] 08:30PM   WBC-5.0 RBC-3.29* HGB-11.3* HCT-33.5*  MCV-102* MCH-34.4* MCHC-33.8 RDW-14.2
+[**2011-10-13**] 10:40PM   WBC-5.9 RBC-2.72* HGB-9.5* HCT-27.4* MCV-100*  MCH-34.9* MCHC-34.7 RDW-14.3
+
+EGD showed hiatal hernia and vertical laceration in distal esphagus with blood in stomach and overlying lac.
+
+Brief Hospital Course:
+In the [**Doctor First Name **] pt had several more episodes, NG lavage showed bright red blood, decreasing hct over the course of the several hours she was in the [**Doctor First Name **].  Upon arrival to the ICU pt was transfused 2u PRBC and was hemodynamically stable.  Gastroenterology arrived and an EGD was performed within 1 hour of arrival on the unit.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1309**] [**Last Name (NamePattern1) 1310**] tear was found by EGD and was treated with clipping and application of epinephrine at the site.  There was no further bleeding throughout the hospital stay.  Pt was noted to be hypertensive to a maximum of 200/110 and was restarted on her home blood pressure medications and treated episodically with hydralazine. During periods of hypertension there were no signs or symptoms of end organ damage.  Blood pressure was improved on these medications but pt remained on average above 140's/90's.  She advanced her diet without difficulty and was d/c'd directly from the ICU to home with instruction to take Prilosec and follow up with GI clinic, and to see her PCP to regain tighter control of her BP, and address work-up of possible secondary etiologies.
+
+Medications on Admission:
+1. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO QD (once a day). [**Last Name (NamePattern1) 7554**]:*30 Tablet(s)* Refills:*0* 2. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). [**Last Name (NamePattern1) 7554**]:*120 Tablet(s)* Refills:*0* 3. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). [**Last Name (NamePattern1) 7554**]:*120 Tablet(s)* Refills:*0* 
+
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO QD (once a day). [**Last Name (NamePattern1) 7554**]:*30 Tablet(s)* Refills:*0* 2. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). [**Last Name (NamePattern1) 7554**]:*120 Tablet(s)* Refills:*0* 3. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). [**Last Name (NamePattern1) 7554**]:*120 Tablet(s)* Refills:*0* 4. Compazine 5 mg Tablet Sig: One (1) Tablet PO three times a day as needed for nausea for 5 days. [**Last Name (NamePattern1) 7554**]:*15 Tablet(s)* Refills:*0* 5. Prilosec 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day for 14 days:  Continue until instructed to discontinue by gastrointestinal doctor. [**Last Name (Titles) 7554**]:*14 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+[**First Name9 (NamePattern2) 8756**]
+[**Female First Name (un) **] weiss tear
+blood loss anemia
+thrombocytopenia
+hypertensive urgency
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+You have anemia from the bleeding in your esophagus and your need to take a medication to help your esophagus heal. It is called Prilosec.
+
+Please continue the same blood pressure medications you take at home.
+
+Followup Instructions:
+Talk with your doctor about having testing for your high blood pressure to see if it has other causes
+
+Have your anemia checked and your renal function checked at your next appointment with your primary care doctor in 2 weeks
+
+See the gastroenterologists, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1252**] in 4-8 weeks. Call to make an appointment at [**Telephone/Fax (2) 318**].
+
+Provider: [**First Name11 (Name Pattern1) 8757**] [**Name7 (MD) 8758**], MD, PHD Where: [**Hospital 2626**] [**Hospital 2693**] Phone:[**Telephone/Fax (2) 1652**] Date/Time:[**2011-11-01**] 6:30
+
+[**Name6 (MD) **] [**Name7 (MD) 6373**] MD [**MD Number 6374**]
+
+Completed by: [**First Name8 (NamePattern2) 8409**] [**Last Name (NamePattern1) **] MD [**MD Number 8410**] [**2011-10-18**] @ 1324
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: TUE [**2011-11-29**] 2:50 PM
+(End of Report)
+

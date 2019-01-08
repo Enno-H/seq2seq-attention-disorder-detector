@@ -1,0 +1,39 @@
+96953	||||	25497	||||	22794	||||	ECHO_REPORT	||||	2016-02-08 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Massive pulmonary embolism.  Evaluate right ventricular function. Weight (lb): 120
+BP (mm Hg): 102/70
+HR (bpm): 128
+Status: Inpatient
+Date/Time: [**2016-02-08**] at 12:03
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and no color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and systolic function (LVEF>55%). 
+
+RIGHT VENTRICLE: Moderately dilated RV cavity. Normal RV systolic function. Abnormal septal motion/position consistent with RV pressure/volume overload. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to moderate [[**02-16**]+] TR. 
+Moderate PA systolic hypertension. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Emergency study performed by the cardiology fellow on call. Results were reviewed with the Cardiology Fellow involved with the patient's care. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%). The right ventricular cavity is moderately dilated. Right ventricular systolic function is normal. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is moderate to severe pulmonary artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Right ventricular cavity enlargement with preserved systolic function. Moderate pulmonary artery systolic hypertension. 
+

@@ -1,0 +1,149 @@
+26760	||||	19709	||||	25007	||||	DISCHARGE_SUMMARY	||||	2018-08-23 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-08-11**]              Discharge Date:   [**2018-08-23**]
+
+Date of Birth:  [**1996-03-19**]               Sex:   F
+
+Service: ORTHOPAEDICS
+
+Allergies: 
+Azithromycin / Cefazolin / Vancomycin
+
+Attending:[**Attending Info 1795**] 
+Chief Complaint:
+motor vehicle collision
+
+Major Surgical or Invasive Procedure:
+ORIF right tibia & fibula fractures
+Closed reduction right radial head fracture
+
+History of Present Illness:
+The patient was an unrestrained driver in a high-speed motor vehicle collision vs tree. She was ejected approximately 40 feet and arrived to the [**Hospital1 79**] [**Doctor First Name 45**] amnestic to the event. A passenger in the same vehicle was found to have fixed & dilated pupils and subsequently expired.
++EtOH 
+
+Past Medical History:
+low back disc herniation
+chronic back pain
+
+Social History:
++EtOH, denies smoking, other drugs
+
+Family History:
+noncontributory
+
+Physical Exam:
+98.8   106   108/p   20   100%RA
+A&Ox3 PERRLA, EOMI
+small amount blood in oropharynx, teeth intact, midface stable, TMs clear, nares w/o blood/fluid large approx 8cm cresentic head lac left parieto-occipital trachea midline
+RRR
+CTA bilaterally
++RUQ tenderness, soft, nondistended
+pelvis stable
++ sacral tenderness, no other midline or paraspinous tenderness, no deformity or step-off, no abrasions or ecchymoses to back Right tib/fib deformity, abrasion right lateral knee abrasion left ankle
++ deformity right elbow
++ femoral, DP, PT, radial pulses bilaterally
+guiac negative, normal tone
+
+Pertinent Results:
+[**2018-08-11**] 08:45PM URINE  RBC->50 WBC-[**05-05**] BACTERIA-OCC YEAST-NONE  EPI-[**05-05**]
+[**2018-08-11**] 08:45PM URINE  BLOOD-LGE NITRITE-NEG PROTEIN-100  GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0  LEUK-TR
+[**2018-08-11**] 08:45PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 83**]-1.007
+[**2018-08-11**] 08:45PM   FIBRINOGE-166
+[**2018-08-11**] 08:45PM   PT-13.4* PTT-28.1 INR(PT)-1.2
+[**2018-08-11**] 08:45PM   PLT COUNT-268
+[**2018-08-11**] 08:45PM   WBC-17.1* RBC-3.62* HGB-12.0 HCT-35.5* MCV-98  MCH-33.2* MCHC-33.9 RDW-13.0
+[**2018-08-11**] 08:45PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2018-08-11**] 08:45PM   ASA-NEG ETHANOL-166* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2018-08-11**] 08:45PM   AMYLASE-38
+[**2018-08-11**] 08:45PM   UREA N-9 CREAT-0.6
+[**2018-08-11**] 09:01PM   HGB-12.8 calcHCT-38
+
+R elbow [**08-11**]: There is a slightly angulated fracture through the right radial neck. There are no other fractures identified. 
+
+R tib/fib [**08-11**]: Two views of the femur and three views of the right tibia and fibula were obtained. There are obliquely oriented displaced fractures through the distal right tibia and fibula with significant lateral and posterior displacement of the distal fracture fragments. There are several small associated bony fragments. A minimally displaced fracture is also noted through the proximal right fibula. The femur demonstrates no evidence of fracture.
+
+CT Head: neg
+CT Cspine: neg
+
+CT Abd: TECHNIQUE: Multidetector CT scanning of the chest, abdomen and pelvis was performed following administration of 150 cc of Optiray contrast. Coronal and sagittal reformations were also obtained.
+CT OF THE CHEST WITH INTRAVENOUS CONTRAST. The heart, pericardium and great vessels are within normal limits. The airways are patent to the segmental level bilaterally. There are patchy bilateral areas of parenchymal opacity best appreciated in the posterior aspects of the upper lobes as well as the lower lobes bilaterally consistent with contusions. Linear densities are also appreciated in the lower lobes bilaterally which could be consistent with atelectatic change. There is no pneumothorax or effusion. CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST. There is a linear defect through the right inferior and posterior aspect of the liver consistent with a laceration. A tiny punctate focus of hyperdensity is appreciated along the medial aspect of this laceration within the liver parenchyma which is felt to be most consistent with a small vessel rather than active extravasation. The remainder of the liver, gallbladder, spleen and pancreas are unremarkable. The intra-abdominal loops of large and small bowel are within normal limits. There is a moderate amount of high density material in the right retroperitoneal region expanding the perirenal space with associated perirenal stranding. The kidneys are otherwise within normal limits with symmetric nephrograms. The adrenals are unremarkable. There is no free air. CT OF THE PELVIS WITH INTRAVENOUS CONTRAST. A Foley is present within the nondistended bladder. The distal ureters, rectum, uterus and adnexa are within normal limits. There is no pathologic adenopathy. BONE WINDOWS: There are no suspicious lytic or sclerotic lesions. No fractures are identified. CT RECONSTRUCTIONS: The above findings were confirmed with coronal and sagittal reformations.
+IMPRESSION:
+1. Liver laceration of the right posterior liver. 
+2. Right-sided perirenal/retroperitoneal hematoma with preserved renal function. 3. Pulmonary contusions.
+
+CXR: [**08-15**]: Patchy opacities in bilateral lower lobes, probably representing combination of contusion and atelectasis in this patient status post motor vehicle accident.
+
+Brief Hospital Course:
+The patient was admitted to the Trauma [**Hospital Unit Name 47**] on [**08-11**] with the injuries listed above. She remained hemodynamically stable on presentation and throughout her stay. On HD#2 she went to the OR with orthopedics for ORIF right tib/fib, closed reduction right radial head.  On HD#3 she was transferred to the floor. Her pain was initially controlled with a Dilaudid PCA. SHe was still having persistent pain all over and acute pain service was consulted. She was switched to oral oxycodone and percocet, with adequate pain control during the rest of her stay. On HD#4 her Hct had trended down to 20 and she was transfused 2 units PRBC with appropriate increase of her Hct. Her Hct remained stable during the rest of her stay.  Repeat CT of her abdomen showed improved perirenal hematoma, improved liver laceration.
+She was seen by PT & OT and her activity advanced. 
+She was also seen by social work and psychiatry for occasionally voiced suicidal thoughts. She was cleared by psychiatry, although it was thought that she would benefit from continued evaluation by psychiatry at her rehab center and eventual outpatient psychiatry follow-up. she was seen by dr [**Last Name (STitle) 259**] and he felt she was developing an eschar on her rt medial leg she was transfered to [**Hospital Unit Name 258**] and started on abx  her wound over the next three days remain unchanged and she was accepted to [**Hospital1 **]  she was starting to put more effort in to her ot of her rt elbow  and was ready for transfer to rehab
+
+Medications on Admission:
+percocet
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+2. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as needed.  
+3. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed.  
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q3-4H () as needed for Pain.  
+7. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3-4H () as needed for Breakthrough Pain.  
+8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  9. Haloperidol Lactate 5 mg/mL Solution Sig: 0.5-2 mg Injection Q4H (every 4 hours) as needed for agitation.  
+10. Enoxaparin Sodium 40 mg/0.4mL Syringe Sig: One (1)  
+Subcutaneous Q 24H (Every 24 Hours).  
+11. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: One (1) Tablet Sustained Release 12HR PO Q12H (every 12 hours).  
+12. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+13. Clindamycin Phosphate 150 mg/mL Solution Sig: One (1)  
+Injection Q8H (every 8 hours): till follow up with dr [**Last Name (STitle) 259**] in one week.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 54**] - [**Location (un) 55**]
+
+Discharge Diagnosis:
+motor vehicle collision
+liver laceration
+perirenal hematoma - right
+bilateral pulmonary contusions
+Displaced distal right tibia and fibula fractures
+Minimally displaced proximal right fibula fracture 
+Right radial neck fracture
+
+Discharge Condition:
+Fair
+
+Discharge Instructions:
+Keep your splints and casts clean and dry.
+
+Take the pain medication as prescribed as needed.
+Physical Therapy:
+Activity:  Activity as tolerated
+Right lower extremity:  Non weight bearing
+Right upper extremity:  Non weight bearing
+walker with arm support
+
+Treatments Frequency:
+Site: R Leg 
+Type:  Surgical
+Cleansing [**Doctor Last Name 460**]:  Saline
+Dressing:  Gauze - dry
+Comment: to remain in AO splint- [**Hospital Unit Name **] Team to do any dressing changes 
+Site: R Arm 
+Type:  Other
+Dressing:  Other
+Comment: Splint with sling- [**Hospital Unit Name **] Team to do any splint changes 
+
+rt popiteal fossa leave open to iar
+
+Followup Instructions:
+With orthopedics in 1 week. Please call ([**Telephone/Fax (2) 2561**] as soon as possible to schedule a follow-up appointment.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 1797**] MD [**MD Number 1798**]
+
+Completed by: [**First Name11 (Name Pattern1) 106**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] PA 80-BHE [**2018-08-23**] @ 1518
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: TUE [**2018-09-04**] 4:25 PM
+(End of Report)
+

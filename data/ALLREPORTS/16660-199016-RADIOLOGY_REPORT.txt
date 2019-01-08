@@ -1,0 +1,28 @@
+199016	||||	16660	||||	19936	||||	RADIOLOGY_REPORT	||||	2019-12-09 09:45:00.0	||||	J32 CAROTID SERIES COMPLETE	||||		||||	Clip # 420-6269  Actual report	||||	
+DATE: [**2019-12-09**] 9:45 AM
+CAROTID SERIES COMPLETE                                         [**Clip Number (Radiology) 5911**] Reason: CAD, PREOP CABG AND VALVE REPAIR
+Admitting Diagnosis: CORONARY ARTERY DISEASE
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+70 year old man with CAD                                                        REASON FOR THIS EXAMINATION: assess for carotid artery thrombosis                                            ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION FOR EXAM:  This is a 78-year-old man with CAD, with suspected carotid artery thrombosis.
+
+RADIOLOGISTS:  This exam was read by Dr. [**Last Name (STitle) 425**] and [**Doctor Last Name 2158**].
+
+TECHNIQUE:  Extracranial ultrasound evaluation of bilateral carotids was performed by B-mode, spectral, and color Doppler ultrasound modes.
+
+FINDINGS:  On grayscale examination, there is minimal amount of plaque seen within bilateral internal carotid arteries.
+
+On the right, peak systolic velocities are 77, 68, and 55 cm/sec in the internal, common, and external carotid arteries, respectively.  The right ICA to CCA ratio is 1.28.
+
+Left peak systolic velocities are 71, 74, and 66 cm/sec in the internal, common, and external carotid arteries, respectively.  The left ICA to CCA ratio is 0.95.
+
+Both vertebral arteries present with antegrade flow.
+
+COMPARISON:  None available.
+
+IMPRESSION:  No evidence of internal carotid artery stenosis on either side, in their extracranial portion.
+

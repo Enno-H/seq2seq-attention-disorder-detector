@@ -1,0 +1,45 @@
+105850	||||	20996	||||	25341	||||	ECHO_REPORT	||||	2019-06-07 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Cardiac defects? Fever, hypotension, sepsis.
+Height: (in) 68
+Weight (lb): 136
+BSA (m2): 1.74 m2
+BP (mm Hg): 89/56
+HR (bpm): 75
+Status: Inpatient
+Date/Time: [**2019-06-07**] at 15:36
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size. Overall normal LVEF (>55%). No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic diameter at the sinus level. Normal ascending aorta diameter. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild to moderate [[**02-26**]+] TR. Normal PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. 
+
+GENERAL COMMENTS: Left pleural effusion. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. The tricuspid valve leaflets are mildly thickened. The estimated pulmonary artery systolic pressure is normal. There is a trivial/physiologic pericardial effusion. 
+

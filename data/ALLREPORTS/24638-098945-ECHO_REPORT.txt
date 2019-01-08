@@ -1,0 +1,45 @@
+98945	||||	24638	||||	8495	||||	ECHO_REPORT	||||	2013-07-17 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Endocarditis. 
+Height: (in) 66
+Weight (lb): 150
+BSA (m2): 1.77 m2
+BP (mm Hg): 141/74
+HR (bpm): 83
+Status: Inpatient
+Date/Time: [**2013-07-17**] at 10:10
+Test: Portable TTE (Complete)
+Doppler: Full doppler and color doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Elongated LA. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. 
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size. Mild global LV hypokinesis. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Moderate PA systolic hypertension. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. Based on 1997 AHA endocarditis prophylaxis recommendations, the echo findings indicate a low risk (prophylaxis not recommended). Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data. 
+
+Conclusions: 
+The left atrium is mildly elongated. Left ventricular wall thicknesses and cavity size are normal. There is mild global left ventricular hypokinesis without regionality. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation may be present. The mitral valve appears structurally normal with trivial mitral regurgitation. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Aortic valve sclerosis. Moderate pulmonary artery systolic hypertension. Mild global left ventricular systolic dysfunction. No discrete vegetations or pathologic flow identified. 
+
+Based on 1997 AHA endocarditis prophylaxis recommendations, the echo findings indicate a low risk (prophylaxis not recommended). Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data. 
+

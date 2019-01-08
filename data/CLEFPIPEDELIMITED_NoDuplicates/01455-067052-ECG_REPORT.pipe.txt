@@ -1,0 +1,3 @@
+01455-067052-ECG_REPORT.txt||Disease_Disorder||C0004238||94||113
+01455-067052-ECG_REPORT.txt||Disease_Disorder||CUI-less||121||147
+01455-067052-ECG_REPORT.txt||Disease_Disorder||C0340293||155||185

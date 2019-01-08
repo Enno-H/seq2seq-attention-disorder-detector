@@ -1,0 +1,7 @@
+77411	||||	15621	||||	17910	||||	ECG_REPORT	||||	2011-11-07 11:04:00.0	||||		||||		||||		||||	
+Sinus tachycardia
+Probable left ventricular hypertrophy with ST-T changes
+Consider left atrial abnormality
+Cannot exclude ischemia - clinical correlation is suggested
+No previous tracing for comparison
+

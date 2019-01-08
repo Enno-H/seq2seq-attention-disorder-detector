@@ -1,0 +1,81 @@
+14138	||||	11439	||||	29105	||||	DISCHARGE_SUMMARY	||||	2015-05-25 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-05-23**]     Discharge Date:  [**2015-05-25**]
+
+Date of Birth:   [**1955-01-22**]     Sex:  M
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  This is a 60-year-old male with no significant past medical history who was seen initially in the Emergency Department on [**05-22**] after presenting with melena, a syncopal episode, and dyspnea on exertion.
+
+The patient described three days of black and tarry stools prior to the [**05-22**] Emergency Room visit.  On [**05-21**], he had a syncopal episode while at work and refused transport to the Emergency Department at that time.
+
+On [**05-22**], the patient was seen in his primary care physician's office complaining fatigue and the above symptoms where he was found to be orthostatic and with guaiac-positive stool.  After the primary care physician's and wife's urging, the patient agreed to be seen in the Emergency Department on [**05-22**] where vital signs showed a temperature of 99.3, heart rate of 105, blood pressure of 136/74, respiratory rate of 22, oxygen saturation of 98% on room air.  The patient denied chest pain or shortness of breath.  However, the patient was found to have a hematocrit of 23.2, but the patient refused admission and signed out against medical advice.
+
+The patient returned to the Emergency Department on [**05-23**] complaining of weakness, lightheadedness, and continued melena.  His hematocrit was found to be 20.3.  He denied nausea, vomiting, and abdominal pain.  An nasogastric lavage was performed which was negative for blood.  The patient was transfused with 2 units of packed red blood cells starting in the Emergency Department.
+
+The Gastrointestinal Service was consulted, and the patient was taken to the esophagogastroduodenoscopy where four chronic crater nonbleeding ulcers (3 mm to 7 mm) were found in the posterior and distal duodenal bulb.  Empiric
+Helicobacter pylori therapy was started with Protonix 40 mg p.o. b.i.d. times five days, clarithromycin 500 mg p.o. b.i.d. times 14 days, and amoxicillin 1 g p.o. b.i.d. times 14 days.
+
+Following esophagogastroduodenoscopy, the patient was transferred to the Blumgart Firm for admission.
+
+PAST MEDICAL HISTORY:  None.
+
+MEDICATIONS ON ADMISSION:  None.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is married and lives in [**Location 3011**].  He owns an electronic store.  He drinks approximately two to three glasses of wine with meals.  No tobacco history.
+
+FAMILY HISTORY:  Father died of gastrointestinal bleeding.
+
+REVIEW OF SYSTEMS:  Review of systems revealed weight stable at 160 pounds.  No fevers, chills, headache, nausea, vomiting, abdominal pain.  Melena per the History of Present Illness.  Lightheadedness, dyspnea on exertion, and syncope all positive (per the History of Present Illness).  Positive postprandial epigastric pain with fatty foods over the past two months.  He denies a history of peptic ulcer disease, nonsteroidal antiinflammatory drug use, and aspirin use.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Temperature of 99.1, pulse of 60, blood pressure of 124/60, respiratory rate of 20.  In general, a pleasant and attentive male in no apparent distress, spoke in full sentences.  Head, eyes, ears, nose, and throat revealed sclerae were clear.
+Conjunctivae were pale.  Pupils were equal, round, and reactive to light.  Mucous membranes were moist without lesions.  Heart had a regular rate and rhythm.  No third heart sound or fourth heart sound or murmurs.  Lungs were clear to auscultation bilaterally.  The abdomen was soft, nontender, and nondistended.  No masses.  Extremities were pale without edema.  Neurologically, alert and oriented times three.  Cranial nerves II through XII were intact.  Strength was [**04-26**] in the upper and lower extremities bilaterally.
+Sensation was intact to light touch throughout.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:  Laboratories on admission revealed a white blood cell count of 14.8, hematocrit of 20.3, platelets of 230.  INR of 1.1, PT of 12.6, PTT of 23.  Sodium of 137, potassium of 3.8, chloride of 101, bicarbonate of 26, blood urea nitrogen of 30, creatinine of 0.9, and blood glucose of 190.
+Helicobacter pylori antibody test was positive.
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  GASTROINTESTINAL:  The patient was treated with clarithromycin, amoxicillin, and Protonix.  As listed in the History of Present Illness, the Helicobacter pylori antibody returned positive.  The patient was without abdominal pain, nausea, vomiting, or significant bowel movements during this admission.  He tolerated a regular diet by the time of discharge.
+
+2.  HEMATOLOGY:  Because of the patient's severe anemia, he was transfused 3 units of packed red blood cells.  On hospital day two, his hematocrit had not increased approximately (20 to 26 following 3 units of packed red blood cells).  He was transfused a fourth and final unit of packed red blood cells, and his hematocrit was monitored.  His hematocrit remained stable throughout the remainder of the admission, and at discharge hematocrit was 31.6.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIET:  Diet as tolerated.
+
+DISCHARGE ACTIVITY:  Activity as tolerated.
+
+DISCHARGE INSTRUCTIONS:
+1.  Continue with clarithromycin and amoxicillin for 14 days.
+2.  Continue with Protonix 40 mg p.o. b.i.d. for three days; followed by 40 mg p.o. q.d. for at least six weeks.
+3.  The patient was to follow up with the Gastrointestinal
+Clinic with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on Monday, [**06-22**], at 9:30 a.m., [**Street Address **], eighth floor; (telephone number [**Telephone/Fax (2) 1770**]).
+4.  The patient was to follow up with Dr. [**First Name4 (NamePattern1) 1362**] [**Last Name (NamePattern1) 1537**] (primary care physician) one week following discharge.
+
+DISCHARGE DIAGNOSES:
+1.  Chronic duodenal ulcers.
+2.  Anemia.
+
+MEDICATIONS ON DISCHARGE:
+1.  Amoxicillin 1 g p.o. b.i.d. (times 11 days).
+2.  Clarithromycin 500 mg p.o. b.i.d. (times 11 days).
+3.  Protonix 40 mg p.o. b.i.d. times three days; then 40 mg p.o. q.d. for at least six weeks.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1748**]
+
+Dictated By:[**Dictator Info 6268**]
+
+MEDQUIST36
+
+D:  [**2015-05-25**]  19:16
+T:  [**2015-05-26**]  16:39
+JOB#:  [**Job Number 6269**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (un) **] on: SAT [**2015-07-04**] 8:37 PM
+(End of Report)
+

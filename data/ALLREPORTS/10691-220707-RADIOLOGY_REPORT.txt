@@ -1,0 +1,56 @@
+220707	||||	10691	||||	27392	||||	RADIOLOGY_REPORT	||||	2014-05-27 00:00:00.0	||||	 PERSANTINE MIBI	||||		||||	Clip # 433-3340  Actual report	||||	
+PERSANTINE MIBI                                                 [**Clip Number (Radiology) 3791**] Reason: 58 Y/O WOMAN WITH DYSPNEA ON EXERTION, R/O ISCHEMIA ______________________________________________________________________________
+
+FINAL REPORT
+
+RADIOPHARMECEUTICAL DATA:
+10.9 mCi Tc-99m Sestamibi Rest ([**2014-05-27**]);
+33.0 mCi Tc-99m Sestamibi Stress ([**2014-05-28**]);
+HISTORY:  
+59-year-old woman referred for evaluation of dyspnea. 
+
+SUMMARY OF DATA FROM THE EXERCISE LAB:  
+
+Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142  mg/kg/min. She had no ischemic symptoms or ECG changes.  
+
+METHOD:  
+
+Resting perfusion images were obtained with Tc-99m sestamibi.  Tracer was injected approximately one hour prior to obtaining the resting images.  
+
+Two minutes after the cessation of infusion of dipyridamole, approximately three times the resting dose of Tc99m sestamibi was administered IV.  Stress images were obtained approximately one hour following tracer injection.  
+
+Imaging protocol: Gated SPECT.  
+
+This study was interpreted using the 17-segment myocardial perfusion model.  
+
+INTERPRETATION:  
+
+The image quality is adequate but limited due to breast attenuation. 
+
+Left ventricular cavity size is normal. 
+
+Rest and stress perfusion images reveal uniform tracer uptake throughout the left ventricular myocardium.    
+
+Gated images reveal normal wall motion.  
+
+The calculated left ventricular ejection fraction is 72% with an EDV of 78 ml.  
+
+IMPRESSION:  
+
+1. Normal myocardial perfusion. 
+
+2. Normal left ventricular cavity size and systolic function.
+
+(Over)
+
+PERSANTINE MIBI                                                 [**Clip Number (Radiology) 3791**] Reason: 58 Y/O WOMAN WITH DYSPNEA ON EXERTION, R/O ISCHEMIA ______________________________________________________________________________
+
+FINAL REPORT
+(Cont)
+
+[**First Name11 (Name Pattern1) 1205**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 3792**], M.D.      Approved: FRI [**2014-05-30**] 1:26 PM
+
+Date Mailed: [**2014-06-02**]
+
+RADLINE [**Telephone/Fax (1) 282**]; A radiology consult service. To hear preliminary results, prior to transcription, call the Radiology Listen Line [**Telephone/Fax (2) 283**].
+

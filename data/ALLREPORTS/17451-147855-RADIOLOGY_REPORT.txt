@@ -1,0 +1,20 @@
+147855	||||	17451	||||	14564	||||	RADIOLOGY_REPORT	||||	2015-05-11 19:44:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 314-8807  Actual report	||||	
+DATE: [**2015-05-11**] 7:44 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 3876**] Reason: eval after intubation
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+39 year old man with poly substance od, ms change
+REASON FOR THIS EXAMINATION:
+eval after intubation
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  Polysubstance abuse, overdose mental status changes after intubation.
+
+No prior chest radiographs available for comparison.
+
+AP CHEST RADIOGRAPH:  The endotracheal tube tip is at the thoracic inlet. Heart size is within normal limits. The mediastinal contours appear slightly widened, but this may be due to low lung volumes.  Follow up with dedicated PA and lateral chest radiograph is recommended when clinically feasible.  Linear areas of atelectasis are present in the right lung.  Hazy areas of opacity are present in the left hilum and in the left lung base which may represent developing aspiration.  Note is made of a markedly distended stomach.
+
+IMPRESSION:  Endotracheal tube tip at thoracic inlet.  Apparent widening of mediastinal contours, follow up with dedicated PA and lateral chest radiograph when clinically feasible.  Possible developing aspiration in the left lung and markedly distended stomach. Consider NG tube placement.
+

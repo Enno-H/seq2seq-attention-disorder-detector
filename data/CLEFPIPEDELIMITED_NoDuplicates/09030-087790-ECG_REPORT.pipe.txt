@@ -1,0 +1,2 @@
+09030-087790-ECG_REPORT.txt||Disease_Disorder||C0039239||94||111
+09030-087790-ECG_REPORT.txt||Disease_Disorder||CUI-less||164||168

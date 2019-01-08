@@ -1,0 +1,5 @@
+14158-075452-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+14158-075452-ECG_REPORT.txt||Disease_Disorder||C0085614||108||130
+14158-075452-ECG_REPORT.txt||Disease_Disorder||C0344711||131||154
+14158-075452-ECG_REPORT.txt||Disease_Disorder||C0027051||174||195
+14158-075452-ECG_REPORT.txt||Disease_Disorder||CUI-less||240||263

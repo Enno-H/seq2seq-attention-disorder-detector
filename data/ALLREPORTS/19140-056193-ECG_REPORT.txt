@@ -1,0 +1,7 @@
+56193	||||	19140	||||	15637	||||	ECG_REPORT	||||	2012-03-24 20:52:00.0	||||		||||		||||		||||	
+Sinus rhythm
+Short PR interval
+Considerold lateral myocardial infarct
+Biphasis T wave in V1-V2 - ? ischemia
+Since last ECG, T wave changes improved
+

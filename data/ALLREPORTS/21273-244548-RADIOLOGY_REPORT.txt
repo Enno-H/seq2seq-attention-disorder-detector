@@ -1,0 +1,20 @@
+244548	||||	21273	||||	19155	||||	RADIOLOGY_REPORT	||||	2019-07-04 10:30:00.0	||||	V99111 36569 PICC W/O PORT	||||		||||	Clip # 406-2495  Actual report	||||	
+DATE: [**2019-07-04**] 10:30 AM
+PICC LINE PLACMENT SCH                                          [**Clip Number (Radiology) 2734**] Reason: Please place PICC                                           Admitting Diagnosis: SEIZURE ********************************* CPT Codes ******************************** * 36569 PICC W/O [**State/Zipcode 19**] FLUOR GUID PLCT/REPLCT/REMOVE * * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 20**],[**First Name3 (LF) 21**]/CENT/MID(NOT D* ****************************************************************************
+
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+56 year old man with frontotemporal dementia, s/p seizure with resolved PNA and C. Diff
+REASON FOR THIS EXAMINATION:
+Please place PICC                                                               ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  56-year-old man with frontotemporal dementia, status post seizure, pneumonia, and C. difficile, need for antibiotics.
+
+PROCEDURE/FINDINGS:  The procedure was performed by Drs. [**Last Name (STitle) 870**] and [**Doctor Last Name 1015**], the attending radiologist, who was present and supervising throughout.
+
+As no suitable superficial vein was present, the deep venous system of the right upper extremity was examined with ultrasound.  The right brachial vein was found to be patent and compressible.  The area was prepped and draped in the usual sterile fashion.  Local anesthesia with 2 cc of 1% lidocaine was administered subcutaneously.  Using realtime ultrasound guidance, a 21-gauge needle was advanced into the right brachial vein.  A hard copy ultrasound image before and after establishing puncture was obtained.  A 0.018-inch guide wire was then advanced into the needle and into the superior vena cava under fluoroscopic guidance.  The needle was then removed and exchanged for a 4 [**Ethnicity 23**] introducer sheath.  Based upon the markers on the wire, the single lumen PICC was trimmed to length of 40 cm.  The PICC was then advanced through the sheath over the wire.  The wire and the peel-away sheath were removed.  A final fluoroscopic image demonstrates the tip of the catheter in the superior vena cava.  The lumen of the catheter was then flushed, aspirated, capped, and heplocked.  The catheter was fixed in place using a StatLock device, and a sterile dressing applied.  There were no immediate postprocedural complications.  The line is ready for use.
+
+IMPRESSION:  Successful placement of a 40 cm long single lumen PICC via the right brachial vein terminating in the SVC using fluoroscopic and ultrasound guidance.  The line is ready for use.
+

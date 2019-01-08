@@ -1,0 +1,47 @@
+95720	||||	5967	||||	14456	||||	ECHO_REPORT	||||	2009-11-10 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function.  Aortic valve disease.  Hypertension. Height: (in) 65
+Weight (lb): 280
+BSA (m2): 2.28 m2
+BP (mm Hg): 120/62
+Status: Inpatient
+Date/Time: [**2009-11-10**] at 13:20
+Test: TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is elongated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is mildly dilated. 
+
+LEFT VENTRICLE: There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. The ascending aorta is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets are mildly thickened. There is no aortic valve stenosis. Trace aortic regurgitation is seen. 
+
+MITRAL VALVE: The mitral valve appears structurally normal with trivial mitral regurgitation. There is mild mitral annular calcification. 
+
+TRICUSPID VALVE: The tricuspid valve appears structurally normal with trivial tricuspid regurgitation. The pulmonary artery systolic pressure could not be determined. 
+
+PULMONIC VALVE/PULMONARY ARTERY: The pulmonic valve is not well seen. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality due to poor echo windows. Based on 1997 AHA endocarditis prophylaxis recommendations, the echo findings indicate a low risk (prophylaxis not recommended). Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data. 
+
+Conclusions: 
+The left atrium is elongated. There is mild symmetric left ventricular hypertrophy with normal cavity size and systolic function (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets are mildly thickened. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. 
+
+IMPRESSION: Symmetric left ventricular hypertrophy with normal global biventricular systolic function. 
+
+Based on 1997 AHA endocarditis prophylaxis recommendations, the echo findings indicate a low risk (prophylaxis not recommended). Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data. 
+

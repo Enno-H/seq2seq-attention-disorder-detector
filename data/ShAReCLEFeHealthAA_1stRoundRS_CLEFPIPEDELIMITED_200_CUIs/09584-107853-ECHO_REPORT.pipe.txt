@@ -1,0 +1,4 @@
+09584-107853-ECHO_REPORT.txt||Acronym_Abbreviation||C0013516||33||37
+09584-107853-ECHO_REPORT.txt||Acronym_Abbreviation||C0005902||230||233
+09584-107853-ECHO_REPORT.txt||Acronym_Abbreviation||C0005823||248||250
+09584-107853-ECHO_REPORT.txt||Acronym_Abbreviation||C0430462||337||340

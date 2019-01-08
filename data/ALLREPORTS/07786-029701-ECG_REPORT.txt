@@ -1,0 +1,3 @@
+29701	||||	7786	||||	2725	||||	ECG_REPORT	||||	2013-01-11 10:13:00.0	||||		||||		||||		||||	
+Normal sinus rhythm with atrial premature depolarizations. Borderline low QRS voltage in the limb leads. Non-diagnostic repolarization abnormalities. Delayed anterior precordial R wave progression. Compared to the previous tracing of [**2013-01-07**] cardiac rhythm is now sinus mechanism.
+

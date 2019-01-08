@@ -1,0 +1,4 @@
+47357	||||	10612	||||	15922	||||	ECG_REPORT	||||	2012-03-12 15:43:00.0	||||		||||		||||		||||	
+Atrial sensed ventricular paced
+Since last ECG, no significant change
+

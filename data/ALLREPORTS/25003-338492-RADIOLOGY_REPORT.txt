@@ -1,0 +1,47 @@
+338492	||||	25003	||||	29181	||||	RADIOLOGY_REPORT	||||	2014-07-22 13:37:00.0	||||	Q432 CT PELVIS W/CONTRAST	||||		||||	Clip # 295-3909  Actual report	||||	
+DATE: [**2014-07-22**] 1:37 PM
+CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        [**Clip Number (Radiology) 1621**] CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+Reason: Assess pleural/abdominal effusions                          Field of view: 42 Contrast: OPTIRAY Amt: 150
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+58 year old man with                                                            REASON FOR THIS EXAMINATION: Assess pleural/abdominal effusions                                              ______________________________________________________________________________
+
+FINAL REPORT
+MEDICAL HISTORY:  58 year old status post gastroesophagectomy for cancer with a history of esophageal leak.
+
+TECHNIQUE:  Helically-acquired axial images were obtained from the chest, abdomen and pelvis.  The patient had 100 cc of diluted Conray administered through the nasogastric tube to evaluate for leak at the anastomosis.
+
+CONTRAST:  150 cc Optiray was administered secondary to patient history of allergies, in addition to oral contrast.
+
+COMPARISON:  [**2014-07-10**].
+
+FINDINGS:  There is a tracheostomy tube present and a nasogastric tube is seen.  There is a left lower lung consolidation seen with a loculated left pleural effusion.  Compared to the prior study, these findings have not changed significantly in extent.  On the right side, there is again noted a loculated hydropneumothorax.  There is a right-sided pigtail seen in the collection.  In the right-sided pleural effusion, there is layering hyperdense fluid seen which is consistent with contrast which was seen on the prior study and was from extravasation from an anastomosis.  After additional dilute Conray contrast was administered to the nasogastric tube in this study, there was no change seen in this layering collection.  There has, however, been an increase in the extent of the right lower lung consolidation which now involves the right middle lung.  There is shotty prevascular and pretracheal lymph nodes seen.
+
+CT OF THE ABDOMEN WITH CONTRAST:  The liver, spleen, gallbladder, and kidneys are unremarkable.  There are no fluid collections or free air seen in the abdomen.  There are a few surgical clips present.
+
+CT OF THE PELVIS WITH CONTRAST:  The bowel is normal in course and caliber. There is no free air or fat stranding seen.  There are no fluid collections seen.  There is a large-to-moderate amount of stool seen throughout the colon. The bladder is collapsed and cannot be evaluated.  Multiple sub-cm soft- tissue densities are seen.  These are just underneath the skin surface and consistent with injection granulomas.
+
+BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+
+IMPRESSION:
+
+(Over)
+
+DATE: [**2014-07-22**] 1:37 PM
+CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        [**Clip Number (Radiology) 1621**] CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+Reason: Assess pleural/abdominal effusions                          Field of view: 42 Contrast: OPTIRAY Amt: 150
+______________________________________________________________________________
+
+FINAL REPORT
+(Cont)
+1) There has been no significant change in the consolidation and loculated effusion seen on the left side.
+
+2) There is a right loculated hydropneumothorax which has not changed significantly.
+
+3) There has been an increase in the extent of the right lung pneumonia.
+
+4) No evidence of leak from the anastomosis.
+
+5) There is a right adrenal adenoma.
+

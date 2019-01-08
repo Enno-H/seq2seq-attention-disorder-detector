@@ -1,0 +1,47 @@
+109632	||||	21286	||||	10971	||||	ECHO_REPORT	||||	2019-04-03 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Coronary artery disease. Acute inferior ST elevation post CABG, evaluate LV function Height: (in) 70
+Weight (lb): 180
+BSA (m2): 2.00 m2
+BP (mm Hg): 108/53
+HR (bpm): 94
+Status: Inpatient
+Date/Time: [**2019-04-03**] at 20:28
+Test: Portable TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+Patient was intubated and monitored by the CSRU nurse. 60 mg of IV propofol was given. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the RA and extending into the RV. No ASD by 2D or color Doppler. 
+
+LEFT VENTRICLE: Mild regional LV systolic dysfunction. 
+
+LV WALL MOTION: Regional LV wall motion abnormalities include: mid anteroseptal - hypo; mid inferoseptal - hypo; mid inferior - hypo; septal apex - hypo; 
+
+RIGHT VENTRICLE: Normal RV chamber size. Normal RV systolic function. 
+
+AORTA: Simple atheroma in aortic arch. There are complex (>4mm) atheroma in the descending thoracic aorta. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. Physiologic (normal) PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify I was present in compliance with HCFA regulations. The patient was monitored by a nurse [**First Name (Titles) 2**] [**Last Name (Titles) 3**] throughout the procedure. The patient was sedated for the TEE. Medications and dosages are listed above (see Test Information section). No TEE related complications. 
+
+Conclusions: 
+No atrial septal defect is seen by 2D or color Doppler. There is mild regional left ventricular systolic dysfunction with very mild septal and inferior hypokinesis and preserved left ventricular function with an ejection fraction of 50-55%. Right ventricular systolic function is normal. There are simple atheroma in the aortic arch. There are complex (>4mm) non-mobile atheroma in the descending thoracic aorta. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. There is no pericardial effusion. 
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction with mild hypokinesis of the septum and inferior walls. Aortic atherosclerotic plaque. 
+

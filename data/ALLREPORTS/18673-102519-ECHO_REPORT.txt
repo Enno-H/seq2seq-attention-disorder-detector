@@ -1,0 +1,49 @@
+102519	||||	18673	||||	26732	||||	ECHO_REPORT	||||	2019-07-16 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure. 
+Height: (in) 61
+Weight (lb): 180
+BSA (m2): 1.81 m2
+BP (mm Hg): 115/49
+HR (bpm): 82
+Status: Inpatient
+Date/Time: [**2019-07-16**] at 10:52
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+This study was compared to the prior study of [**2018-01-29**]. 
+
+LEFT ATRIUM: Marked LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. Normal IVC diameter with >50% decrease during respiration (estimated RAP [**06-27**] mmHg). 
+
+LEFT VENTRICLE: Mild symmetric LVH. Mildly dilated LV cavity. Suboptimal technical quality, a focal LV wall motion abnormality cannot be fully excluded. Overall normal LVEF (>55%). No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic diameter at the sinus level. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Mild AS (AoVA 1.2-1.9cm2). No AR. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. [**First Name (Titles) 1**] LV inflow pattern for age. 
+
+TRICUSPID VALVE: Indeterminate PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. 
+
+Conclusions: 
+The left atrium is markedly dilated. The right atrium is moderately dilated. The estimated right atrial pressure is [**06-27**] mmHg. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity is mildly dilated. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened. There is mild aortic valve stenosis (area 1.2-1.9cm2). No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is an anterior space which most likely represents a fat pad. 
+
+Compared with the prior study (images reviewed) of [**2018-01-29**], overall left ventricular systolic function now appears improved. Previously described anteroseptal and apical wall motion abnormalities are probably still present, but current study is technically suboptimal for full evaluation of regional wall motion. The severity of aortic stenosis has increased. 
+

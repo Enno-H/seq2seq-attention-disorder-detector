@@ -1,0 +1,140 @@
+22078	||||	16994	||||	609	||||	DISCHARGE_SUMMARY	||||	2015-07-26 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-07-19**]              Discharge Date:   [**2015-07-26**]
+
+Date of Birth:  [**1947-07-09**]             Sex:   F
+
+Service: [**Hospital Unit Name **]
+
+Allergies: 
+Motrin / Lipitor
+
+Attending:[**Attending Info 7105**] 
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+Intubation.
+
+History of Present Illness:
+68 yo F with HIV (CD4 385), ESRD on HD, CAD s/p 2 MI's, DM2, CHF, COPD who presented with resp failure secondary to diast dysf and HTN.  Pt was SOBx 1 day no CP,N,V.  Cousin called 911 and brought to [**Doctor First Name **] w/ O2 sats 53% and RR in 30's .  
+
+Past Medical History:
+PAST MEDICAL HISTORY:  Coronary artery disease status post non-ST elevation MI in [**2012-05-29**], status post PTCA/stent to the left circumflex, status post PTCA/stent of mid left circumflex in [**2014-05-29**], latest catheterization in [**2014-10-29**] with two-vessel disease.  ETT MIBI done on [**2015-05-21**] significant for no symptoms, EKG changes, and with only a fixed inferior defect, ejection fraction 58 percent.
+
+Diabetes mellitus type 2, diet controlled.
+
+HIV.  Last viral load undetectable.  CD count 41 in [**2015-01-29**].
+
+Factor VIII deficiency diagnosed in [**2010-10-29**] thought secondary to a rapid steroid taper.
+
+End-stage renal disease on hemodialysis.
+
+History of GI bleed in the setting of coagulopathy and NSAID use.
+
+Recent pericarditis.
+
+Eosinophilic pneumonia diagnosed in [**2015-04-30**] and treated with prednisone.
+
+Chronic anemia of end-stage renal disease.
+
+Vulvar intraepithelial neoplasia diagnosed in [**2014-04-29**].
+
+CHF with her latest echo in [**2015-04-30**] with an ejection fraction of 60 percent and 3 plus MR.
+
+COPD.
+
+Social History:
+SOCIAL HISTORY:  The patient currently lives in [**Location 7106**] with her niece.  She was previously a housewife.  She denies alcohol or drug use.  She smoked 2 packs a day for 40 years.
+
+Physical Exam:
+Vs T98.5 P107 Bp 138/60 R18 O2 100% on AC
+Gen intubated , sedated on propofol
+HEENT - anicteric, no JVD
+CV - tachy, no mormurs
+Lungs - good air mvt b/l, mild exp wheezes, no rhonchi
+Abd - S/Nt/ND +Bs
+Ext l AVF +bruit/thrill, no LE edema
+
+Pertinent Results:
+[**2015-07-19**] 06:40PM   PT-12.2 PTT-21.4* INR(PT)-1.0
+[**2015-07-19**] 06:40PM   PLT COUNT-170
+[**2015-07-19**] 06:40PM   WBC-13.8* RBC-2.96* HGB-12.7 HCT-40.2  MCV-136* MCH-42.9* MCHC-31.6 RDW-18.2*
+[**2015-07-19**] 06:40PM   CALCIUM-8.4 PHOSPHATE-5.9*# MAGNESIUM-2.6
+[**2015-07-19**] 06:40PM   CK-MB-3 cTropnT-0.11*
+[**2015-07-19**] 06:40PM   CK(CPK)-123
+[**2015-07-19**] 06:40PM   GLUCOSE-267* UREA N-66* CREAT-6.8* SODIUM-136  POTASSIUM-6.4* CHLORIDE-91* TOTAL CO2-27 ANION GAP-24*
+[**2015-07-19**] 07:25PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+
+Brief Hospital Course:
+Resp - Pt was intubated shortly after admission.  Upon intubation the pt's sats returned to high 90's.  Pt thought to be experiencing COPD exacerbation and given azith and steroids, but CXR was more consistant with heart failure.  She stabalized with aggresive BP control and dialysis removoal of 6-7 L.  Pt weaned from vent and extubated on [**07-21**] and developed flash edema.  The edema resolved on dialysis, hydralyzine, and lasix.  She was transfered to the floor on [**07-22**]. Pt received an echo in [**Hospital Unit Name 44**] which demonsrtated no change in pts 3+MR.  Pt had decided against surgical options with outpt cardiologist in past and no further work up of MR was done.
+
+ID - [**07-21**] urine Cx grew enterococcus and vanc started.  This was later found to be VRE and Linezolid started [**07-22**].  Also BAL from bronch [**07-21**] revealed pseudomonas and Ceftaz started [**07-22**].  Upon arival to floor SBP fell to hihg 80's which was thought to be due to dialysis or possible sepsis from UTI, lungs, or line.  She received IVF.  By [**07-23**] pt's SBP came back to >100 and has remained stable.  Also pt has remained afebrile.  
+
+ESRD - Cont on dialysis mon, wed, fri.
+DM - Insulin Sliding Scale.  Glucose was fairly well controlled during stay. GI- Pt had 3 episodes of Diarrhea on [**04-22**].  Cdiff was negative.  
+Only one episode since.
+
+Medications on Admission:
+1. Zidovudine 200 mg po bid.  
+2. Nevirapine 200 mg po bid.  
+3. Lamivudine 50 mg po qd.  
+4. Nephrocaps 1 cap po qd.  
+5. Metoprolol 50 mg po qd.  
+6. Isosorbide dinitrate 10 mg po bid.  
+7. Aspirin, enteric-coated, 325 mg po qd.  
+8. Pantoprazole 40 mg po qd.  
+9. Calcium carbonate 1,000 mg po bid prn.  
+10. Nitroglycerin sublingual prn chest pain.  
+11. Senna 2 tablets po bid.  
+12. Colace 100 mg po bid.  
+13. Calcium acetate 667 mg 2 tablets po tid with meals.  
+14. Metoclopramine 10 mg po qd.  
+15. Albuterol 1-2 puffs inhaled q 6 h prn.  
+16. Atroven 1 puff inhaled qid prn shortness of breath or  wheezing.  
+17. Albuterol 1 neb q 6 h prn shortness of breath or wheezing.  
+18. EPO at HD  
+19. Loratadine 10 mg po qod for 1 month.  
+
+Discharge Medications:
+1. Zidovudine 100 mg Capsule Sig: Two (2) Capsule PO BID (2 times a day).  
+2. Nevirapine 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  
+3. Lamivudine 10 mg/mL Solution Sig: Five (5) ml PO QD (once a day).  
+4. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO QD (once a day). Disp:*30 Cap(s)* Refills:*2*
+5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO QD (once a day).  
+6. Insulin Regular Human 100 unit/mL Solution Sig: as directed  Injection ASDIR (AS DIRECTED): Pt has an insulin sliding scale at home.  She checks 3 times per day.  
+7. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 6 days: take for 6 days. Disp:*12 Tablet(s)* Refills:*0*
+8. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours).  
+9. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO QD (once a day). Disp:*15 Tablet(s)* Refills:*2*
+10. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation four times a day as needed for shortness of breath or wheezing.  
+
+11. Atrovent 18 mcg/Actuation Aerosol Sig: One (1) puff 
+Inhalation four times a day as needed for shortness of breath or wheezing.  
+12. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation four times a day as needed for shortness of breath or wheezing.  
+
+13. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+14. Cipro 250 mg Tablet Sig: One (1) Tablet PO twice a day for 10 days. Disp:*20 Tablet(s)* Refills:*0*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Repiratory failure due to CHF.
+UTI with VRE
+Pseudomonas in sputum.
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Pt to go home with VNA services.  Please call primary care provider if fevers, shortness of breath, or chest pain develops.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. Where: [**Hospital 2626**] CARDIAC SERVICES Phone:[**Telephone/Fax (2) 3635**] Date/Time:[**2015-09-08**] 11:45
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 7107**] MD [**MD Number 7108**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 7109**] MD [**MD Number 7110**] [**2015-07-26**] @ 1444
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: FRI [**2015-09-11**] 8:41 AM
+(End of Report)
+

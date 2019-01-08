@@ -1,0 +1,37 @@
+102867	||||	9536	||||	21511	||||	ECHO_REPORT	||||	2014-10-03 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Pericardial effusion. ? Tamponade
+BP (mm Hg): 90/60
+Status: Outpatient
+Date/Time: [**2014-10-03**] at 12:08
+Test: TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is normal in size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is severely depressed. There is severe global left ventricular hypokinesis. 
+
+RIGHT VENTRICLE: Right ventricular chamber size is normal. Right ventricular systolic function is normal. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened. 
+
+MITRAL VALVE: Mild (1+) mitral regurgitation is seen. 
+
+PERICARDIUM: There is a large pericardial effusion. There are no echocardiographic signs of tamponade. 
+
+GENERAL COMMENTS: A left pleural effusion is present. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is moderate to severely depressed. There is moderate to severe global left ventricular hypokinesis. Right ventricular systolic function is normal. The aortic valve leaflets (3) are mildly thickened. Mild (1+) mitral regurgitation is seen. There is a large pericardial effusion. There are no echocardiographic signs of tamponade. By report, compared to the [**2013-11-16**] the pericardial effusion is much larger and the LV function is unchanged. 
+

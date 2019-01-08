@@ -1,0 +1,4 @@
+34160	||||	16333	||||	5120	||||	ECG_REPORT	||||	2010-04-20 05:48:00.0	||||		||||		||||		||||	
+Sinus bradycardia. Prior anteroseptal lateral myocardial infarction without change compared to the previous tracing of [**2010-04-19**].
+TRACING #2
+

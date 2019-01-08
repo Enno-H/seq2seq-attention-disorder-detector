@@ -1,0 +1,128 @@
+26171	||||	2410	||||	20111	||||	DISCHARGE_SUMMARY	||||	2014-07-24 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-07-13**]              Discharge Date:   [**2014-07-24**]
+
+Date of Birth:  [**1943-07-08**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 4235**] 
+Chief Complaint:
+Aortic Stenosis
+
+Major Surgical or Invasive Procedure:
+Redo Sternotomy, AVR(23mm St. [**Male First Name (un) **]) [**2014-07-15**]
+
+History of Present Illness:
+The patient is a 71 year old man.
+He was approximately 19 years status post coronary bypass grafting. All the grafts are patent, including the left internal mammary artery to the left anterior descending artery. He had a 70% lesion of the proximal circumflex graft. He has, however, severe aortic stenosis, aortic insufficiency, and recent onset atrial fibrillation. It was proposed to perform re-do sternotomy, aortic valve replacement and possible bypass grafting to the circumflex artery.
+
+Past Medical History:
+Myocardial infarction 1980
+CABGx4 1986
+Atrial fibrillation [**11-18**]
+Failed cardioversion [**03-21**]
+S/P TURP
+Past Pneumonia/sepsis
+Hyperlipidemia
+Hypercholesterolemia
+
+Social History:
+40 pack year smoking history quit in [**1972**]. Drinks 2-3 drinks nightly. Married and lives in [**Location 684**]
+
+Family History:
+Notable for coronary artery disease. 
+
+Physical Exam:
+Gen: elderly gentleman in no acute distress
+HEENT: Normocephalic/atraumatic, Pupils equal, round and reactive. Oropharynx benign.
+LUNGS: CLear
+Heart:III/VI systolic murmur, irregular rate and rhythm
+Abd: soft, nontender, nondistended, normal active bowel sounds/ EXT: no clubbing, cyanosis or edema. Right leg saphenectomy partial left leg saphenectomy. Pulses 2+ femoral, 1+ DP/PT.
+Neuro: nonfocal
+
+Pertinent Results:
+[**2014-07-13**] 11:51PM   PT-13.4* PTT-47.3* INR(PT)-1.2
+[**2014-07-13**] 05:16PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 7**]-1.018
+[**2014-07-13**] 05:16PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG  GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0  LEUK-NEG
+[**2014-07-13**] 03:54PM   GLUCOSE-107* UREA N-22* CREAT-1.0 SODIUM-139  POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-25 ANION GAP-15
+[**2014-07-13**] 03:54PM   ALT(SGPT)-33 AST(SGOT)-22 ALK PHOS-92  AMYLASE-39 TOT BILI-1.0
+[**2014-07-13**] 03:54PM   WBC-5.3 RBC-4.33* HGB-13.4* HCT-39.0* MCV-90  MCH-30.9 MCHC-34.4 RDW-13.7
+[**2014-07-19**] 05:15AM BLOOD WBC-4.8 RBC-2.51* Hgb-7.5* Hct-23.3*  MCV-93 MCH-30.0 MCHC-32.3 RDW-13.9 Plt Ct-132*
+[**2014-07-19**] 01:00PM BLOOD Hct-24.7*
+[**2014-07-23**] 06:10AM BLOOD Glucose-114* UreaN-12 Creat-1.1 Na-139  K-5.0 Cl-103 HCO3-26 AnGap-15
+[**2014-07-13**] 03:54PM BLOOD ALT-33 AST-22 AlkPhos-92 Amylase-39  TotBili-1.0
+
+EKG
+-[**2014-07-13**] 
+Atrial fibrillation 
+Consider prior inferior myocardial infarction although is nondiagnostic 
+Modest right ventricular conduction delay 
+Left ventricular hypertrophy by voltage 
+Since previous tracing of [**2014-07-07**], limb lead QRS voltage more prominent 
+-[**2014-07-15**] 
+Sinus tachycardia 
+Consider prior inferior myocardial infarction although is nondiagnostic 
+Nonspecific ST-T abnormalities 
+Since previous tracing of [**2014-07-13**], atrial fibrillation absent and sinus 
+tachycardia with ST-T wave changes now seen 
+
+CXR
+-[**2014-07-15**] 
+1) Tiny right apical pneumothorax; no other acute cardiopulmonary process.
+2) Multiple lines and tubes as described above; NG tube could be advanced several cm
+
+-[**2014-07-23**]
+No pleural effusions are identified.
+
+Brief Hospital Course:
+Mr. [**lastname **] was admitted to the [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1505**] [**Hospital **] Medical Center on [**2014-07-13**] for preoperative anticoagulation and surgical management of his aortic valve disease. Heparin was started and he was worked-up in the usual preoperative manner. On [**2014-07-15**],  Mr. [**lastname **] was taken to the operating room where he underwent a redo sternotomy with an aortic valve replacement utilizing a 23mm St. [**Male First Name (un) **] mechanical valve. Postoperatively he was taken to the cardiac surgical intensive care unit for monitoring. On postoperative day one, Mr. [**lastname **] [**Last Name (Titles) 7875**] neurologically intact and was extubated. He was then transferred to the cardiac surgical step down unit for further recovery. He was gently diuresed towards his preoperative weight. Coumadin was started for anticoagulation for his mechanical valve and atrial fibrillation. Mr. [**lastname **] had pain with swallowing and his medications were changed to elixirs. The physical therapy service was consulted for assistance with his postoperative strength and mobility. The otolaryngology service was consulted who noted a mucosal irregularity on the posterior pharyngeal wall. Saline gargles were recommended and bactroban nasal ointment for epistaxis prophylaxis. Follow-up was recommended in 3 weeks to assess resolution of the lesion. Mr. [**Name13 (STitle) **] sore throat slowly improved so that he was able to adequately take in sufficient nutrition. As his INR was subtherapeutic, heparin was started until his INR was within range. Ultimately, his INR rose above 2.0 and his heparin was discontinued. Mr. [**lastname **] continued to make steady progress and was discharged home on postoperative day ten. He will follow-up with Dr. [**Last Name (STitle) 457**], his cardiologist and his primary care physician as an outpatient.
+
+Medications on Admission:
+Zocor 20mg daily
+Digoxin 0.25mg daily
+Atenolol 12.5mg daily
+Coumadin
+
+Discharge Medications:
+1. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours) for 10 doses. Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*50 Tablet(s)* Refills:*0*
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2*
+7. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed. Disp:*20 Tablet(s)* Refills:*0*
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+9. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). Disp:*90 Tablet(s)* Refills:*2*
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2*
+12. Coumadin 5 mg Tablet Sig: 1.5 Tablets PO once a day: Take as directed by Dr. [**First Name (STitle) 1525**] for INR goal of 2.5-3. Disp:*45 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Aortic stenosis
+
+Discharge Condition:
+Good.
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs. for 3 months.
+You should shower, let water flow over wounds, pat dry with a towel.
+Do not use creams, lotions, or powders on wounds.
+Call our office if you have sternal drainage, temp>101.5.
+
+Followup Instructions:
+With [**Hospital 75**] clinic [**Telephone/Fax (2) 8766**] in 2-3 weeks Make an appointment with Dr. [**First Name (STitle) **] for 1-2 weeks. Make an appointment with Dr. [**Last Name (STitle) 457**] for 4 weeks.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) **] MD [**MD Number 4238**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7876**] PA 80-BYE [**2014-07-25**] @ 1030
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: FRI [**2014-07-25**] 3:43 PM
+(End of Report)
+

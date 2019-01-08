@@ -1,0 +1,20 @@
+325902	||||	14835	||||	24494	||||	RADIOLOGY_REPORT	||||	2017-04-15 10:41:00.0	||||	Q111 CT HEAD W/O CONTRAST	||||		||||	Clip # 369-4642  Actual report	||||	
+DATE: [**2017-04-15**] 10:41 AM
+CT HEAD W/O CONTRAST                                            [**Clip Number (Radiology) 6909**] Reason: Bleed                                                       Admitting Diagnosis: SUBDURAL HEMATOMA
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+83 year old man with                                                            REASON FOR THIS EXAMINATION: Bleed                                                                           No contraindications for IV contrast
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION: This is a patient with bilateral subdural hematomas.
+
+COMPARISON: Comparison is made to [**2017-04-14**].
+
+TECHNIQUE:  64-MDCT axial images of the head and were obtained without IV contrast.
+
+FINDINGS:  There is no evidence of new intracranial hemorrhage.  There is again noted  post-surgical changes of the bilateral hematoma evacuation. There is again noted pneumocephalus in a similar amount when compared to the prior study.  There is more pneumocephalus in the posterior aspect of the left hemisphere.  This is most likely due to the shift of air.  There is again noted loculated fluid/hemorrhage posteriorly, which is unchanged in size when compared to the prior study.  The amount of mass effect is unchanged.  There is no CT evidence of major vascular territorial infarcts or herniations.  The ventricles are essentially of normal size.  Surgical drains in the subcutaneous tissues are unchanged in position.  The bone structures are unchanged when compared to the prior study.
+
+IMPRESSION:  Overall stable appearance of the brain.  There is no evidence of new intracranial hemorrhage.
+

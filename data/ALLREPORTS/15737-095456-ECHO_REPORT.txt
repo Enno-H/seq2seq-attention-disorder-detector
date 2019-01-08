@@ -1,0 +1,41 @@
+95456	||||	15737	||||	9261	||||	ECHO_REPORT	||||	2014-07-25 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Atrial fibrillation/flutter. 
+Weight (lb): 233
+BP (mm Hg): 91/50
+HR (bpm): 86
+Status: Inpatient
+Date/Time: [**2014-07-25**] at 15:12
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: Definity
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Moderate LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Moderate symmetric LVH. Small LV cavity. Suboptimal technical quality, a focal LV wall motion abnormality cannot be fully excluded. Hyperdynamic LVEF. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. Focal calcifications in aortic root. Normal ascending aorta diameter. Focal calcifications in ascending aorta. 
+
+AORTIC VALVE: ?# aortic valve leaflets. Mildly thickened aortic valve leaflets. No AS. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Mild mitral annular calcification. Mild thickening of mitral valve chordae. Calcified tips of papillary muscles. No MS. Trivial MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Normal tricuspid valve supporting structures. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. Suboptimal image quality - poor parasternal views. Suboptimal image quality - poor apical views. 
+
+Conclusions: 
+The left atrium is moderately dilated. There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity is unusually small. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Left ventricular systolic function is hyperdynamic (EF 70-80%). Right ventricular chamber size and free wall motion are normal. The number of aortic valve leaflets cannot be determined. The aortic valve leaflets are mildly thickened. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. There is no pericardial effusion. 
+

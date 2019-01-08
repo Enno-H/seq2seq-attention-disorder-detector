@@ -1,0 +1,117 @@
+3484	||||	16888	||||	27843	||||	DISCHARGE_SUMMARY	||||	2013-12-20 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-11-22**]              Discharge Date:   [**2013-12-20**]
+
+Date of Birth:  [**1965-10-20**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Bactrim / Epinephrine / Percocet / Codeine / Latex
+
+Attending:[**Attending Info 189**] 
+Chief Complaint:
+SSCP
+
+Major Surgical or Invasive Procedure:
+[**11-23**] RVAD insertion/ECMO decannulation
+
+History of Present Illness:
+48 yo F presented to [**Location (un) 1871**] [**Doctor First Name 3**] [**11-22**] with new onset SSCP, +  STEMI. She was taken emergently to the cath lab, where 3 bare metal stents were placed in a totally occluded RCA. She became hypotensive, an IABP was placed, doapmine and levophed were started. She then suffered a PEA arrest, after ACLS she was stabilized and transferred with [**Hospital1 2**] for definitive treatment.
+
+Past Medical History:
+Epstein's cardiac valve anomaly (congenital)
+Junctional rhythm with reentry
+Right heart dilatation with h/o syncopal events and palpitations Thalassemia minor
+Hypothyroidism
+Hypertension
+Depression
+Low back pain
+Polycystic ovaries
+Glaucoma
+Hypertriglyceridemia
+
+Social History:
+Pt smokes [**01-28**] ppd. Rarely consumes alcohol
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Deferred, intubated, sedated, taken emergently to the OR. 
+
+Pertinent Results:
+[**2013-12-20**] 03:00AM BLOOD WBC-9.3 RBC-3.07* Hgb-9.7* Hct-26.6*  MCV-87 MCH-31.5 MCHC-36.4* RDW-15.8* Plt Ct-48*
+[**2013-12-19**] 03:09AM BLOOD WBC-11.4* RBC-3.82* Hgb-11.5* Hct-32.3*  MCV-85 MCH-30.0 MCHC-35.5* RDW-15.6* Plt Ct-68*
+[**2013-12-20**] 03:00AM BLOOD PT-17.2* PTT-30.8 INR(PT)-1.6*
+[**2013-12-20**] 03:00AM BLOOD Glucose-70 UreaN-103* Creat-2.4* Na-153*  K-4.1 Cl-121* HCO3-25 AnGap-11
+[**2013-12-19**] 03:13PM BLOOD UreaN-114* Creat-2.8* Na-150* Cl-118*  HCO3-23
+
+Brief Hospital Course:
+She was initially stable after transfer but after 2-3 hours decompensated and was taken to the cath lab. She was found to have patent stents, but she continued to deteriorate. She was placed on ECMO, and then was taken to the OR with vascular surgery for repair of her Left CFA, CFV, and EIA at the site of the previous IABP.  TEE showed Ebsteins anomaly with markedly dilated RA/RV with focal RV hypokinesis, severe TR, small LV with focal inferior hypokinesis with EF > 60%, trace MR, no AI. On [**11-23**] she was taken to the operating room where she underwent placement of and RVAD and removal of ECMO. She was transferred to the [**Hospital Unit Name 8**] on epinephrine, milrinone, levophed and propofol as well as Nitric oxide. She developed fevers for which she was cultured and ID was consulted. Cultures remained negative, she was placed on broad antibiotic coverage. She remained intubated and paralyzed, with likely ARDS. She was seen by hematology for difficulty maintaining a therapeutic ptt and thrombocytopenia. She was HIT -, and the thrombocytopenia was thought to be secondary to the VAD as well as illness. She was started on tube feeds. Vascular continued to follow her for her groin incisions, which eventually required VAC dressing. Her sternal wound developed purulent draiange, and the wound was opened and a vac dressing was applied there as well. She remained on vanco, zosyn and flagyl. CT scan of head/chest abdomen/pelvis on [**12-02**] was essentially negative for infection with the exception of a 7.3 cm right groin fluid collection. There as no bleed or infarct on head CT. She was seen by optho for conjunctivitis and placed on erythromycin ointment.  She continued to have fever and white count, but negative cultures. TEE on [**12-04**] showed no eveidence of endocarditis. Her respiratory status improved and her sedation was weaned. CXR showed slow resolution of ARDS. Her zosyn was changed to meropenum given the continued fevers, as well as fluconazole for some yeast growth from her wounds. She remained febrile despite antibiotic change, however her white count began to improve.  She was taken to the cath lab on [**12-16**] for placement of a PA cath in preparation for RVAD weaning.   Fevers continued, she remained on vanco, fluc, and ceftaz was started on [**12-17**].  On [**12-17**] she was found to have melena  and HCT drop, and GI was consulted. Gastric lavage showed maroon/black but no fresh blood. She was started on a protonix drip. EGD showed blood in the stomach, and findings consistent with hemorrhagic gastritis. 
+
+Her heparin was stopped and she was started on Dextran.
+Her LFTs increased, and then began to improve. Her [**Last Name (un) 3685**] was dc'd. Hepatitis serologies were sent.  Her fever started on improve and at the time of discharge she was afebrile for about 48 hours. 
+
+Medications on Admission:
+hydrocodone, omeprazole, levoxyl, lexapro, hctz, kcl, verapamil
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  
+3. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 times a day).  
+4. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  Injection INFUSION (continuous infusion).  
+5. Timolol Maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic  BID (2 times a day).  
+6. Acetaminophen 160 mg/5 mL Solution Sig: [**01-28**]  PO Q4-6H (every 4 to 6 hours) as needed for fever.  
+7. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic  Q8H (every 8 hours) as needed.  
+8. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Four (4) Puff Inhalation Q4H (every 4 hours).  
+9. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+10. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID (4 times a day) as needed.  
+11. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical  BID (2 times a day) as needed.  
+12. Potassium Chloride 20 mEq / 50 ml SW IV PRN K<4.4 and CR<2.0 
+
+** Concentrated KCL must be given via central line only ** 
+13. Erythromycin 5 mg/g Ointment Sig: One (1)  Ophthalmic  BID (2 times a day).  
+14. Ibuprofen 100 mg/5 mL Suspension Sig: One (1)  PO Q8H (every 8 hours) as needed for T>102.  
+15. Pantoprazole 40 mg Recon Soln Sig: Eight (8) Recon Soln Intravenous  INFUSION (continuous infusion).  
+16. Furosemide 80 mg IV BID 
+17. Metoclopramide 10 mg IV Q6H:PRN nausea/vomiting 
+18. Vancomycin HCl 1000 mg IV Q 24H 
+19. Metoprolol 10 mg IV Q4H 
+20. Dextran 40 in D5W 500 ml IV 500 ML Q 24 
+21. CeftazIDIME 1 gm IV Q12H 
+22. HydrALAZINE HCl 20 mg IV Q6H:PRN sbp>160 
+23. Morphine Sulfate 1-5 mg IV Q4H:PRN 
+24. Lorazepam 0.5-1 mg IV Q4H:PRN 
+25. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Thirty Five (35) units Subcutaneous BREAKFAST (Breakfast): 35 units QAM 25 units QPM.  
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Acute MI, Cardiogenic shock, RV failure, Recent RCA stents
+Ebsteins Anomaly
+s/p Left THR 3 weeks ago secondary to AVN ([**2013-10-17**])
+Inferior STEMI
+lipids
+LBP
+hypothyroid
+thallesemia minor
+DM2
+PUD
+GERD
+Glaucoma s/p multiple surgeries
+Obesity
+tobacco abuse
+h/o junctional rhythm
+depression
+
+Discharge Condition:
+Stable
+
+[**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number 200**]
+
+Completed by: MARK [**Name7 (MD) 2502**] NP 80-AUO [**2013-12-20**] @ 1358
+Signed electronically by: DR. [**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: TUE [**2013-12-24**] 2:15 PM
+(End of Report)
+

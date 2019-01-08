@@ -1,0 +1,115 @@
+20154	||||	13033	||||	4775	||||	DISCHARGE_SUMMARY	||||	2015-12-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-11-22**]     Discharge Date:  [**2015-12-05**]
+
+Date of Birth:   [**1981-03-17**]     Sex:  M
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  This is a 34-year-old male with history of type 1 diabetes complicated by autonomic neuropathy ,
+gastroparesis, and chronic renal insufficiency with coronary artery disease and malignant hypertension that has led to multiple admissions to [**Hospital 126**] fo
+r
+nausea, vomiting, abdominal pain, and hypertensive urgency, wh o was last discharged from the hospital three days prior, and wh o presents again with abdominal pain for two hours duration with associated nausea and vomiting for the past hour up to five episodes.  There was no blood in the vomitus.  His blood press [**Last Name (un) **]
+was 240/130 by EMS.
+
+In the Emergency Department, he received labetalol, hydralazine, Morphine, and Ativan to control his symptoms.
+He denies fevers, chills, diarrhea, chest pain, changes in vision, dizziness.  Further review of systems was noncontributory.  Patient states that this is his usual presentation of his symptoms associated with high blood pressure.
+
+PAST MEDICAL HISTORY:
+1. Type 1 diabetes diagnosed 13 years ago and complicated by autonomic neuropathy, gastroparesis.
+2. Malignant hypertension with poor control of his blood pressure which is quite labile and has led to multiple admissions to [**Hospital 126**] for abdominal pain, nausea, and vomiting.  An extensive workup to date has revealed no cause.
+3. Coronary artery disease.
+4. Chronic renal insufficiency with a baseline creatinine of
+1.7-1.9.
+5. History of [**Female First Name (un) 1309**]-Weiss tears.
+6. Depression.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1. Aspirin 81 mg p.o. q.d.
+2. Nifedipine CR 60 mg p.o. q.d.
+3. Clonidine patch.
+4. Famotidine 20 mg p.o. b.i.d.
+5. Erythromycin 250 mg p.o. q.i.d.
+6. Metoclopramide 10 mg p.o. q.i.d.
+7. Lopressor 150 mg p.o. b.i.d.
+8. Lisinopril 10 mg p.o. q.d.
+9. Glargine 5 units subQ q.h.s.
+10. Ativan 2 mg p.o. q.6h.
+11. Morphine 50 mg p.o. q.6h. prn.
+
+SOCIAL HISTORY:  Lives in [**Location 1107**].  Denies alcohol, tobacco, or intravenous drug use.
+
+FAMILY HISTORY:  His father has diabetes.
+
+PHYSICAL EXAMINATION:  Well-nourished [**Ethnicity 537**] [**Ethnicity 538**] male in no acute distress.  Vital signs:  Temperature 99.4, blood pressure 130/80, heart rate 84, respiratory rate 22, and pulse oximetry 96% on room air.  HEENT:  Extraocular muscles are intact.  Pupils are equal, round, and reactive to light. Anicteric sclerae.  Oropharynx is clear, dry mucosal membranes.  Neck:  No lymphadenopathy, no JVD, supple.  Heart regular, rate, and rhythm, normal S1, S2, no murmurs, rubs, or gallops.  Lungs are clear to auscultation bilaterally.
+Abdomen is soft, nontender, nondistended, no masses.
+Extremities:  No clubbing, cyanosis, or edema.  Neurologic: cranial nerves II through XII are grossly intact.
+
+LABORATORY DATA ON ADMISSION:  White count 9.3.
+Differential:  84.2% neutrophils, 10.2% lymphocytes, 3.9% monocytes.  Hematocrit 33.9, platelet count 236.
+Electrolytes:  Sodium 137, potassium 4.4, chloride 103, bicarbonate 27, BUN 33, creatinine 1.6, glucose 274.
+
+HOSPITAL COURSE:
+1. Cardiovascular:  Patient presented with prior poor control of his hypertension.  He was restarted on all of his regular antihypertensive medications including Lopressor, nifedipine, lisinopril, and clonidine, and for poor control of his blood pressure, hydralazine and labetalol prn were added.
+
+As further history was gathered during his hospital stay indicated that the patient's symptoms may have been preceded by micturition.  The possibility of an intracystic pheochromocytoma was considered despite the fact that the patient has had negative urine metanephrines in the past.  To evaluate this possibility further, a MIBG scan was scheduled for the following week.  In preparation for this MIBG scan, the patient was weaned off his alpha and calcium-channel blockers as this was necessary for an accurate [**Location (un) 655**].
+
+During this time, his blood pressure remained quite labile.
+The first labetalol and hydralazine were used for control, but after further episodes of poorly controlled hypertension, nitroglycerin IV drip was used as needed.  Patient was transferred to the West Campus in preparation for this MIBG scan.  As his blood pressure continued to be quite labile, it was clear that closer monitoring and better control of his blood pressure was indicated, therefore the patient was transferred to the [**Hospital Unit Name 44**] on [**12-01**], where a Nipride drip was started.  Patient was weaned off all of his calcium-channel blockers, alpha blockers, and beta blockers in preparation for the MIBG scan, which occurred on [**12-02**] and [**12-04**].
+
+Patient was transferred back to Medicine floor on [**12-04**] and on [**12-05**], his blood pressure was well controlled on his regular oral antihypertensive regimen.  The results of the MIBG scan were pending at the time of discharge.
+
+2. Endocrine:  Patient has a history of type 1 diabetes.  He was continued on his regular glargine dose with regular insulin-sliding scale to cover for elevated blood sugars, fingersticks continued q.i.d.
+
+3. Gastroparesis:  When the patient was taking p.o. diet, he was continued on his regular regimen per treatment of his gastroparesis including erythromycin, Reglan, and famotidine, antiemetics including Zofran were also used to control intermittent nausea.
+
+4. Fluids, electrolytes, and nutrition:  Patient was advanced slowly to his regular diet on admission after having a history of nausea and vomiting.  As his symptoms were thought to sometimes follow eating he was made NPO to evaluate this possible connection.  During this time the patient received
+PPN and then TPN and then nutrition consultation on [**11-27**].  He resumed his regular diabetic diet.  IV fluids were often administered during his hospital stay to address increase in creatinine.
+
+5. Renal:  Patient has a baseline creatinine of 1.7 to 1.9.
+During his hospital stay, his creatinine rose up to 2.6.  IV fluids were administered to address this renal failure. Prerenal etiology was initially suspected but was not supported by FENa calculation as creatinine elevation was thought to be due to hypertensive and diabetic nephropathy. At the time of discharge, his creatinine had trended towards baseline.
+
+6. Intravenous access:  Patient had a Port-A-Cath and a right IJ line placed during his hospital stay.
+
+DISCHARGE CONDITION:  Hemodynamically stable, afebrile with blood pressure well controlled on p.o. medications.  Patient is asymptomatic.
+
+DISCHARGE STATUS:  Patient is being discharged to home.  He will be visiting his father, who is hospitalized at a local hospital.
+
+DISCHARGE DIAGNOSES:
+1. Malignant hypertension.
+2. Gastroparesis.
+3. Type 1 diabetes.
+4. Renal failure.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 81 mg p.o. q.d.
+2. Azithromycin 250 mg p.o. q.i.d.
+3. Lisinopril 10 mg p.o. q.d.
+4. Metoclopramide 10 mg p.o. q.i.d.
+5. Hydralazine 25 mg p.o. q.4h.
+6. Metoprolol tartrate 100 mg 1.5 tablets p.o. b.i.d.
+7. Clonidine 0.1 mg/24 hour patch one patch q.d.
+8. Nifedipine 60 mg one tablet p.o. q.d.
+9. Famotidine 20 mg p.o. q.d.
+10. Lorazepam 1 mg 1-2 tablets p.o. q.6h. prn nausea.
+11. Morphine sulfate 15 mg one tablet p.o. q.6h. prn pain.
+12. Glargine 8 units subcutaneous q.d.
+13. Humulin insulin-sliding scale as previously prescribed.
+
+DISCHARGE INSTRUCTIONS:  Please take all medications as prescribed.  Please continue to check your blood pressure at least two times per day.  If systolic blood pressures greater than 150, please contact your primary care physician.  [**Name10 (NameIs) **] systolic blood pressures greater than 170, please report to the Emergency Department for blood pressure control.  Please return to the Emergency Department if you have nausea, vomiting, abdominal pain, headache, or other worrisome symptoms.
+
+RECOMMENDED FOLLOWUP:  Please contact your primary care physician for an appointment on [**12-07**] or [**12-08**] to monitor your blood pressure and manage your medications.
+Please keep the following appointment with Dr. [**First Name (STitle) 2143**] in the [**Doctor Last Name 232**] Center Neurology [**2015-12-24**].
+
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1116**], M.D. [**MD Number 1248**]
+
+Dictated By:[**Dictator Info 2144**]
+
+MEDQUIST36
+
+D:  [**2015-12-22**]  10:28
+T:  [**2015-12-25**]  08:48
+JOB#:  [**Job Number 2145**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1116**] on: [**First Name8 (NamePattern2) **] [**2016-01-31**] 6:13 PM (End of Report)
+

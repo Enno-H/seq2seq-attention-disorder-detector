@@ -1,0 +1,129 @@
+28800	||||	1314	||||	22413	||||	DISCHARGE_SUMMARY	||||	2018-01-25 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-01-14**]              Discharge Date:   [**2018-01-25**]
+
+Date of Birth:  [**1947-07-23**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 905**] 
+Chief Complaint:
+S/P MVA
+
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy with 1 foot small bowel resection
+ORIF of R tibia, R olecranon
+
+History of Present Illness:
+Pt is a 70 year old male unrestrained driver, lost control of vehicle and hit pole travelling at approx 45 mph.  Possible LOC, chest struck steering wheel.  C/o facial laceration, right elbow pain, L hand laceration, diffuse chest pain, R knee swelling.
+
+Past Medical History:
+Unknown congenitcal spine abnormality
+
+Social History:
+Noncontributory
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Pt AAOx3
+PERRLA
+HEENT: midface stable, large through& through lip laceration CHEST: crepitus on palpation of L chest with palpable bony instability. CTA
+CARD: RRR
+ABD: soft, diffusely tender, stable pelvis, rectal neg
+EXT: LUE diffusely tender, decreased ROM
+L hand lacerated, no visible tendons or deep structures bilateral knee abrasions
+
+Pertinent Results:
+[**2018-01-14**] 03:00PM   WBC-12.8* RBC-5.13 HGB-15.5 HCT-45.1 MCV-88  MCH-30.2 MCHC-34.4 RDW-13.9
+[**2018-01-14**] 03:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2018-01-14**] 03:00PM   AMYLASE-65
+[**2018-01-14**] 03:15PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2018-01-14**] 05:52PM   HGB-11.1* calcHCT-33
+[**2018-01-14**] 05:52PM   TYPE-ART PO2-125* PCO2-32* PH-7.43 TOTAL  CO2-22 BASE XS--1
+
+Studies on Presentation:
+
+Head CT: IMPRESSION: No mass effect, hemorrhage, or skull fractures. 
+
+C-Spine CT: IMPRESSION: No fractures or dislocations. 
+
+CT TLS Spine: 
+IMPRESSION: Bilateral spondylolysis L5/S1 without spondylolisthesis. No evidence of fracture. 
+
+CT Chest/Abd/Pelvis: 
+IMPRESSION
+1. Left pneumo- and hemothorax.
+2. Left-sided pulmonary contusions.
+3. Multiple left-sided rib fractures and sternal fracture.
+4. Left-sided subcutaneous emphysema and air around the pectoralis muscles.
+5. Small amount of mesenteric stranding likely representing mesenteric injury and hemorrhage.
+
+CT Facial Cuts:
+IMPRESSION: Nasal fracture. No definite acute fracture. Sinus disease. 
+
+XR Bilateral UE: FINDINGS: Two views of the right forearm and a single view of the left hand show an avulsion fracture of the olecranon process. There is distraction of approximately 2 cm between fracture fragments. There is no evidence of dislocation. No radio- opague foreign bodies are seen. Extensive soft tissue swelling is seen in the right elbow. A minimally displaced fracture of the sahft of the proximal phalanx of the left thumb is also seen.
+
+R Tib/FIb XR:
+FINDINGS: An oblique minimally displaced right tibial plateau fracture traverses the knee joint from the lateral tibial plateau to the metaphysis medially. There is minimal step-off at the articular surface. No other fractures are seen. Associated lipohemarthrosis is seen.
+
+Brief Hospital Course:
+The pt presented to the trauma bay on [**2018-01-14**] by EMS. Vitals on presentation were normal and stable.  Physical exam and results of studies obtained on admission are as above.  When the L hemopneumothorax was noted on CXR, a L chest tube was placed.  Orhtopedics was consulted for the tibial plateau and elbow fx.  Plastics was consulted for the hand fx.  OMFS was consulted for the nasal fx.  The pt was admitted to the trauma [**Hospital Unit Name 47**].  Plastics placed the L hand in thumb SPICA splint and planned on following up with the pt in clinic.  Orthopedics placed the R arm in a posterior splint and the R knee in an immobilizer with a plan for operative fixation of injuries the following day.  OMFS repaired the pt's lip laceration and upon review of the facial CT stated there was no nasal fracture.
+
+While waiting in the Emergency department for a trauma [**Hospital Unit Name 47**] bed to become available, the pt was noted to become tachycardic and hypotensive to the 80s with a Hct drop of 14 points 4 hours after arrival.  A repeat abdominal CT was obtained showing evolution of the mesenteric hematoma noted on the initial scan.  The pt was then brought to the OR for an emergent exploratory laparotomy during which a branch of the SMA was noted to be lacerated and was clamped.  A one-foot section of non-viable small bowel was resected.  Post operatively, the pt was transferred to the Trauma [**Hospital Unit Name 47**] still intubated.
+
+The pt did well on the night of 1/9 and on [**01-15**] was taken to the 
+OR by othopedics for ORIF of the Right elbow and Right tibial plateau fx.  The pt remained stable until [**01-19**] when he was extubated.  From [**01-19**] to [**01-21**] the pt was noted to have severl bloody stools, likely from oozing from his small bowel anastomosis.  His hct trended downward over this period to 25.  He was given 2 units PRBCs on [**01-20**] which increased his HCT to 
+31.5 on [**01-21**].  He was transferred to the floor in the evening of 
+[**01-21**].  Hct remained stable throughout his stay on the floor and the pt had no adverse events until discharge.
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  Injection ASDIR (AS DIRECTED): See sliding scale.  
+2. Acetaminophen 650 mg Suppository Sig: One (1) Suppository Rectal Q6H (every 6 hours) as needed.  
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed.  
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours).  
+5. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs PO Q4-6H (every 4 to 6 hours) as needed.  
+6. Hydralazine HCl 10 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).  
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.  
+8. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).  
+9. Enoxaparin Sodium 40 mg/0.4mL Syringe Sig: One (1) syringe Subcutaneous Q12H (every 12 hours).  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 1021**] for the Aged - Acute Rehab
+
+Discharge Diagnosis:
+R olecranon fx
+L hemopneumothorax
+L [**02-12**] rib fx with flail chest
+Mesenteric vessel injury
+L 1st metacarpal fx
+
+Discharge Condition:
+Improved
+
+Discharge Instructions:
+Please take all medications as directed.  
+
+Return to the ER if you develop:
+chest pain, shortness of breath, severe nausea or vomiting, high fever, weakness
+
+Followup Instructions:
+Please arrange to follow up with Dr. [**Last Name (STitle) **] from orthopedics in 2 weeks.  His number is ([**Telephone/Fax (2) 2561**].  You will need to arrange to have a pin placed in your elbow.
+
+Please follow up with Dr. [**Last Name (STitle) 7687**] from gerontology, your new PCP. [**Name10 (NameIs) **] expects to see you on Thursday, [**03-01**] at 3:30 PM.  
+Her address is [**Street Address **], [**Location (un) 55**], 1st floor. Please call ahead to confirm your appointment.
+
+[**First Name11 (Name Pattern1) 407**] [**Name7 (MD) 906**] MD, PHD 02-239
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 4348**] MD [**MD Number 4349**] [**2018-01-25**] @ 1511
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 407**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: [**First Name8 (NamePattern2) **] [**2018-01-28**] 10:01 AM (End of Report)
+

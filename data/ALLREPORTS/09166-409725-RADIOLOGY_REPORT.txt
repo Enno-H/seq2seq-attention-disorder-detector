@@ -1,0 +1,30 @@
+409725	||||	9166	||||	11097	||||	RADIOLOGY_REPORT	||||	2020-04-01 20:44:00.0	||||	Q311 CT C-SPINE W/O CONTRAST	||||		||||	Clip # 429-0503  Actual report	||||	
+DATE: [**2020-04-01**] 8:44 PM
+CT C-SPINE W/O CONTRAST                                         [**Clip Number (Radiology) 5817**] Reason: fracture?                                                   ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+26 year old woman s/p MVC                                                       REASON FOR THIS EXAMINATION: fracture?                                                                       No contraindications for IV contrast
+______________________________________________________________________________
+
+WET READ:
+No fracture or malalignment of the c-spine.  Fractures involving both maxillary sinuses, other fractures of the skull better assessed on the head CT performed concurrently.
+
+Large left apical hematoma.  CTA chest recommended to rule out injury to the great vessels.
+
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  26-year-old female status post motor vehicle collision.
+
+COMPARISONS:  Non-contrast head CT performed concurrently and dictated separately.
+
+TECHNIQUE:  Non-contrast MDCT axial images of the cervical spine with sagittal and coronal reconstructions.
+
+FINDINGS:  In the sagittal view, the skull base to the superior endplate of C3 were well visualized.  There is no evidence of fracture or malalignment of the component vertebra.  Straightening of the normal cervical lordosis is likely secondary to the cervical collar.  Vertebral body and disc space heights are preserved.  Multiple facial fractures are better characterized on the accompanying head CT.  Dense consolidation at the left lung apex is concerning for possible hematoma or collapsed lung.  The right apex is grossly clear. Mixed density fluid consistent with hemorrhage is seen within the maxillary, sphenoid and ethmoid sinuses.
+
+IMPRESSION:
+1.  No fracture or malalignment of the cervicle spine.
+2.  Multiple facial fractures.  Please referred to the head CT performed concurrently for further details ([**Clip Number (Radiology) 5818**]). 3.  Dense consolidation at the left lung apex representing possible contusion/hematoma versus collapsed lung.  Further characterization with chest CT is recommended.
+
+Findings were discussed with Dr. [**First Name8 (NamePattern2) 1283**] [**Last Name (NamePattern1) 5819**] upon completion of the study.
+

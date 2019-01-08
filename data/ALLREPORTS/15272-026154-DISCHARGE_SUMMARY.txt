@@ -1,0 +1,78 @@
+26154	||||	15272	||||	27483	||||	DISCHARGE_SUMMARY	||||	2012-05-21 00:00:00.0	||||		||||		||||		||||	
+[**Unit Number 8819**]
+Admission Date: [**2012-05-14**]
+Discharge Date: [**2012-05-21**]
+Date of Birth:  [**1960-08-17**]
+Sex:  F
+Service:  CSU
+
+HISTORY OF PRESENT ILLNESS:  This 51-year-old female had an aortic valvuloplasty performed via a sternotomy in [**1987**] at [**Hospital 422**] with a known diagnostic of bicuspid aortic valve and complaints of increasing fatigue and decreasing exercise tolerance over the past year. She had been followed by cardiologists, Dr. [**First Name8 (NamePattern2) 879**] [**Last Name (NamePattern1) 7729**] and Dr. [**Last Name (STitle) 8820**] [**Name (STitle) 8821**] at [**Hospital 422**]. Recently, echocardiogram and cath were performed which revealed severe aortic stenosis.
+Preoperatively, a cardiac cath was performed at [**Hospital 8239**] Hospital. It showed normal coronaries and aortic valve area of 0.6 cm to 0.8 cm2, and a gradient of 60 mmHg. Cardiac echo performed on [**2012-04-19**] showed a bicuspid aortic valve with a gradient of 103 mmHg, normal LV function, normal sinus, normal aortic root, and no aortic regurgitation. Her ascending aorta was 3.9 cm.
+
+PAST MEDICAL HISTORY:
+1. Aortic valvuloplasty in [**1987**].
+2. Prior surgical history also includes inguinal herniorrhaphy on the right in [**2003**].
+3. Tonsillectomy and adenoidectomy as a child.
+4. Laparotomy in [**1998**].
+
+MEDICATIONS PRIOR TO ADMISSION:
+1. Calcium and Vitamin D daily.
+2. Multivitamin 1 daily.
+3. Antibiotics p.r.n. for dental procedures.
+
+ALLERGIES:  No known drug allergies.
+
+FAMILY HISTORY:  Noncontributory.
+
+SOCIAL HISTORY:  She lives with her husband and works as a housewife. She had a dental exam in [**2012-02-21**]. She has no tobacco history. Consumed 1 glass of wine periodically. She had no history of other recreational drugs.
+
+PREOP LAB WORK:  White count 7.5, hematocrit 41.8, platelet count 330,000, PT 12.1, PTT 27.7, INR 1.0. Urinalysis negative. Sodium 142, K 3.8, chloride 101, bicarb 31, BUN 14, creatinine 0.8, blood sugar 79, HPA1C of 5.2%. ALT 17, AST 20, alkaline phosphatase 73, total bilirubin 0.5, total protein 7.1, albumin 4.8, globulin 2.3. Preop chest x-ray showed prior median sternotomy with a tortuous aorta. Lungs were clear. Prior EKG preoperatively showed sinus rhythm at 60 with a poor R wave progression.
+
+EXAM:  She was in sinus rate at a rate of 80, respiratory rate 16, blood pressure 118/78 on the left, height 5 feet 1 inch tall, weight 118 pounds. She appeared her stated age and was in no apparent distress. She had no obvious skin lesions and was unremarkable. Her EOMs were intact. Her pupils were round and reactive to light and accommodation. Her neck was supple. She had full range of motion with no lymphadenopathy or thyromegaly noted. Her lungs were clear bilaterally without any rales or rhonchi. She had a well-healed sternal incision from her aortic valvuloplasty. Heart was regular rate and rhythm with a grade IV/VI systolic ejection murmur that radiated throughout her chest. Her abdomen was soft, nontender, nondistended with positive bowel sounds.
+Extremities were warm and well-perfused with no peripheral edema. She had no obvious large varicosities. She was grossly intact neurologically with cranial nerves II through XII grossly intact with a nonfocal exam, was alert and oriented x3. She had bilateral 2+ femoral, DP and PT pulses. She had no carotid bruit noted.
+
+Sh[**Last Name (STitle) 8822**]admitted on [**2012-05-14**] and underwent redo sternotomy and aortic valve replacement with a 21 mm CE Magna ThermaFix pericardial valve and a 22 mm Gelweave thoracic outlet ascending aorta graft by Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 162**] and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8823**]-[**Doctor Last Name 5000**] of [**Hospital 422**]. She was transferred to the cardiothoracic ICU in a stable condition in sinus rhythm on an epinephrine drip at 0.02 mcg/kg/min, a Levophed drip of 0.03 mcg/kg/min, and a propofol drip of 50 mcg/kg/min. Of note, the patient did have 2 separate cardiopulmonary bypass runs. Please refer to the operative dictated report.
+
+On postoperative day 1, the patient was weaning slowly, was agitated on CPAP, with a cardiac index of 3.34, a stable blood pressure of 93/62, and T-max of 100.6. She was in sinus rhythm at 86 with a postoperative white count of 8.4, hematocrit 27.9, and creatinine of 0.7. She was in no apparent distress and was alert. Her heart was regular rate and rhythm, and her chest was stable. Her lungs were clear bilaterally. She had 2+ peripheral edema in her extremities. She was on a nitroglycerin drip at 1.0 and an epinephrine drip at 0.02, as well as an insulin drip at 3 units/h, and was started on her low-dose aspirin. She also began Lasix diuresis.
+
+She was seen postoperatively also by Dr. [**Last Name (STitle) 8824**], her surgeon from [**Hospital1 **], as well as the cardiology fellow from [**Hospital 422**]. She was also seen and evaluated by case management.
+
+On postoperative day 2, she was off her epinephrine drip and began gentle beta blockade with Lopressor 12.5 p.o. b.i.d.
+She was in sinus rhythm with a pressure of 92/46. She also had decreased breath sounds at her bases. Chest tubes remained in place, and the patient had been extubated the day prior.
+
+On postoperative day 2, the patient was also transferred out to the floor and was encouraged to increase her pulmonary toilet with incentive spirometry, was started on a low dosed statin, and was given Toradol IV q. 6 for several doses and then switched over to Ultram. Mediastinal chest tubes and pacing wires were removed. Lasix was switched over to p.o. dosing 20 mg b.i.d. The patient was encouraged to increase her activity level. She remained in sinus rhythm with a stable creatinine of 0.6, and a stable hematocrit at 26.2.
+Her sternal incision was clean, dry and intact and was stable. The patient had some flatus that morning, but no bowel movement at the time, and was again encouraged to increase her activity level and fluid intake.
+
+Of note, on postoperative day 3, the patient had a blood pressure of 90-100/50 with a little bit of elevated JVP. She was also seen and evaluated by her [**Hospital1 **] cardiology attending, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 940**]. Her Lopressor was held for her blood pressure at that time. The patient remained pleasant and cooperative and well-oriented. She received 1 unit of packed cells on the 26th with a blood pressure of 83/42 prior to transfusion. She continued to work with nurses and physical therapist. Her mediastinal chest tube and her pacing wires had been removed that morning also. Her beta blockade was discontinued. Pleural tubes remained in place. Her Foley was on gravity drainage with a plan to discontinue the Foley later in the afternoon.
+
+On postoperative day 5, the patient had no events overnight, remained off her beta blockade. A chest x-ray was ordered.
+She was encouraged to continue ambulating, and discharge planning was begun. She had a moderate amount of drainage from her left pleural chest tube site. Her central venous line had already been removed, and pacing wires had already also been removed. She was alert and oriented and nonfocal. Her heart was regular rate and rhythm, and sternal incision was clean, dry and intact. She remained afebrile.
+
+On[**Last Name (STitle) 233**]perative day 6, the patient continue on diuresis with Lasix 20 mg b.i.d. Hematocrit remained stable at 29.2, and her exam was otherwise unremarkable. Her peripheral edema remained only trace at that time, and she continued to make excellent progress. Her left pleural tube was also removed on postoperative day 6, and she was discharged to home in stable condition with VNA services on [**2012-05-21**] with the following recommendations for follow-up: She was instructed to follow-up with Dr. [**Last Name (STitle) 8825**] in 2-3 weeks postdischarge, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 8826**], her primary care, in 1-2 weeks postdischarge, to see her cardiologist, Dr. [**Last Name (STitle) 7729**], postoperatively, and to follow-up with Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 162**] in the office at 4 weeks for postop surgical visit.
+
+DISCHARGE DIAGNOSES:
+1. Status post redo sternotomy with aortic valve replacement and replacement of ascending aorta.
+2. Status post aortic valvuloplasty in [**1987**].
+3. Status post right inguinal herniorrhaphy, tonsillectomy and adenoidectomy.
+
+DISCHARGE MEDICATIONS:
+1. Colace 100 mg p.o. b.i.d. for 30 days.
+2. Enteric-coated aspirin 81 mg p.o. once daily.
+3. Tramadol 50 mg p.o. q. [**03-28**] h. as needed.
+4. Potassium chloride 20 mEq p.o. b.i.d. for 7 days.
+5. Lasix 20 mg p.o. b.i.d. for 7 days.
+6. Zantac 150 mg p.o. b.i.d.
+
+The patient was discharged to home in stable condition on [**49-02-12**].
+
+[**First Name4 (NamePattern1) 160**] [**Name Prefix (Prefixes) 161**] [**Last Name (Prefixes) 162**], M.D. 02351
+
+Dictated By:[**Dictator Info 239**]
+MEDQUIST36
+D:  [**2012-07-06**] 11:09:48
+T:  [**2012-07-06**] 11:49:54
+Job#:  [**Job Number 8827**]
+
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: MON [**2012-07-16**] 5:35 PM
+(End of Report)
+

@@ -1,0 +1,6 @@
+40506	||||	3990	||||	26269	||||	ECG_REPORT	||||	2016-11-10 22:39:00.0	||||		||||		||||		||||	
+Sinus rhythm with 1st degree A-V block.
+Left bundle branch block
+Nonspecific inferior/lateral ST-T changes 
+Since previous tracing, atrial fibrillation resolved
+

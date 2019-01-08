@@ -1,0 +1,3 @@
+02034-037300-ECG_REPORT.txt||Disease_Disorder||CUI-less||113||125
+02034-037300-ECG_REPORT.txt||Disease_Disorder||C0085615||127||152
+02034-037300-ECG_REPORT.txt||Disease_Disorder||C0033036||201||214

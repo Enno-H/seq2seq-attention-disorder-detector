@@ -1,0 +1,8 @@
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0013516||31||35
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||CUI-less||123||124
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0231290||125||128
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0010055||148||152
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0428772||154||158
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0005823||186||188
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0018810||205||207
+07156-096163-ECHO_REPORT.txt||Acronym_Abbreviation||C0430462||289||292

@@ -1,0 +1,7 @@
+61373	||||	8870	||||	8042	||||	ECG_REPORT	||||	2009-12-23 16:42:00.0	||||		||||		||||		||||	
+Sinus rhythm
+Left axis deviation
+Anteroseptal myocardial infarction with anterolateral ST elevation - may be acute/recent
+Consider prior inferior myocardial infarction
+Since previous tracing same date: no significant change
+

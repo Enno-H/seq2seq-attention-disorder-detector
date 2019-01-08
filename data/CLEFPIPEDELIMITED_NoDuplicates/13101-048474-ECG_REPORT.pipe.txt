@@ -1,0 +1,4 @@
+13101-048474-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+13101-048474-ECG_REPORT.txt||Disease_Disorder||CUI-less||123||135
+13101-048474-ECG_REPORT.txt||Disease_Disorder||C0340914||234||259
+13101-048474-ECG_REPORT.txt||Disease_Disorder||C0340923||241||250||268||275

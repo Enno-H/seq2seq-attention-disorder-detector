@@ -1,0 +1,5 @@
+08870-061373-ECG_REPORT.txt||Disease_Disorder||CUI-less||93||105
+08870-061373-ECG_REPORT.txt||Disease_Disorder||CUI-less||106||125
+08870-061373-ECG_REPORT.txt||Disease_Disorder||C0264699||126||160
+08870-061373-ECG_REPORT.txt||Disease_Disorder||CUI-less||166||192
+08870-061373-ECG_REPORT.txt||Disease_Disorder||C0340305||230||260

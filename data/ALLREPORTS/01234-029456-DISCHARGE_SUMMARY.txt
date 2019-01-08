@@ -1,0 +1,140 @@
+29456	||||	1234	||||	14329	||||	DISCHARGE_SUMMARY	||||	2017-11-30 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2017-11-29**]              Discharge Date:   [**2017-11-30**]
+
+Date of Birth:  [**1934-07-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+No Drug Allergy Information on File
+
+Attending:[**Attending Info 1071**] 
+Chief Complaint:
+hypoxia
+
+Major Surgical or Invasive Procedure:
+n/a
+
+History of Present Illness:
+Resident admit note reviewed and appreciated.  Information presented here largely gleaned from that source given non-verbal status of patient.  83 yo m w/ vascular dementia, recently admitted to NEBH for R cerebellar stroke w/ subsequent g-tube placement.  On 1day of admission, pt noted to be tachypnic w/ o2 sat to 84% and moderately thick whitish secreations. Pt suctioned w/ improvement to 94%.  Febrile to 102.
+
+In [**Doctor First Name **] given vanc, ceftriaxone and azithro, started on sepsis protocol w/ lac 5.0
+
+Past Medical History:
+PUD
+s/p R AKA [**06-16**]
+dementia
+CVA
+GIB (on coumadin)
+h/o DVT
+
+Echo at NEBH [**06-16**]: LVEF 55%, trace MR.  
+
+Social History:
+nh resident since [**2009**].
+
+Family History:
+nc
+
+Physical Exam:
+t 99.8, bp 111/44, p 115, r 18, 98% 10L NRB
+Minimally arousable, localized pain.  
+Pupils pinpoint.
+OP- midline lesion of upper hard palate, generally yellow and discolored.
+Dry MMM.
+Regular s1,s2. no m/r/g
+b/l coarse rhonchi w/ assoc upper airway sounds.  +bs. PEG site clean/dry, minimal erythema surrounding. mildly distended. soft. 
+R BKA, amputions site C/D/I.  
+L w/o le edema, poor foot hygiene.
+trace dp pulse
+skin: by report, sacral decubitus.
+
+Pertinent Results:
+CBC
+[**2017-11-28**] 10:33PM BLOOD WBC-3.4* RBC-4.23* Hgb-12.6* Hct-34.5*  MCV-82 MCH-29.8 MCHC-36.5* RDW-15.1 Plt Ct-340
+[**2017-11-28**] 10:33PM BLOOD Neuts-55 Bands-22* Lymphs-4* Monos-14*  Eos-0 Baso-0 Atyps-2* Metas-2* Myelos-1*
+
+Coags:
+[**2017-11-28**] 11:40PM BLOOD PT-14.1* PTT-32.7 INR(PT)-1.3
+
+Chemistries:
+[**2017-11-28**] 11:40PM BLOOD Glucose-108* UreaN-21* Creat-0.8 Na-142  K-3.7 Cl-106 HCO3-26 AnGap-14
+[**2017-11-28**] 11:40PM BLOOD ALT-6 AST-20 LD(LDH)-180 CK(CPK)-743*  AlkPhos-68 Amylase-63 TotBili-0.6
+[**2017-11-28**] 11:40PM BLOOD cTropnT-<0.01
+[**2017-11-28**] 11:40PM BLOOD Albumin-2.4* Calcium-8.0* Iron-PND
+[**2017-11-28**] 11:40PM BLOOD Cortsol-PND
+
+Blood Gas:
+[**2017-11-29**] 03:25AM BLOOD Type-ART Temp-38.8 pO2-133* pCO2-47* pH-7.34* calHCO3-26 Base XS-0
+[**2017-11-29**] 01:06AM BLOOD Lactate-3.0*
+[**2017-11-29**] 02:01AM BLOOD Lactate-3.3*
+[**2017-11-29**] 03:02AM BLOOD Lactate-4.6*
+
+Urine
+[**2017-11-28**] 11:40PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.023
+[**2017-11-28**] 11:40PM URINE Blood-NEG Nitrite-NEG Protein-TR  Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG [**2017-11-28**] 11:40PM URINE RBC-0 WBC-0-2 Bacteri-OCC Yeast-NONE  Epi-0-2
+
+Micro:
+[**2017-11-29**] BLOOD CULTURE EMERGENCY [**Hospital1 **] Pending 
+[**2017-11-28**] BLOOD CULTURE EMERGENCY [**Hospital1 **] Pending 
+[**2017-11-28**] URINE EMERGENCY [**Hospital1 **] Pending 
+
+ECG: 100bpm, nl axis, nl intervals, no st-tw changes. 
+
+CXR: 1.  Suboptimal positioning of central venous catheter within the mid-right 
+atrium.  This should be withdrawn by 5 cm. 
+2.  Increasing parenchymal opacities at the left lung base.  This likely  represents asymmetric edema.  Alternatively, this could be a manifestation of  aspiration. 
+
+KUB: Diffusely  dilated  loops  of  small  bowel  with  air-filled  colonic
+loops. These  findings  could  represent  ileus  or  early  small  bowel  obstruction.
+
+ABG:7.34/47/133 on NRB 
+
+Brief Hospital Course:
+83 yo m w/ h/o recent cva and g-tube placement who p/w new onset hypoxia, w/ rhonchi on exam, LLL opacity on cxr, elevated lactate on MUST protocol.
+
+1) MUST- Lactate remains elevated despite high svo2.  BPs stable so no indication for pressors/inotropes.  Pt rec'd 4L NS in [**Doctor First Name **] so adequately volume resuscitated by criteria.  Cortisol stim test pending.  Does not meet criteria for APC given recent CVA and low [**Doctor First Name 2672**] score (11).  Likely etiology is infectious given significant bandemia, most probable is pulmonary given LLL findings and lung exam.  PNA vs aspiration. Other possibilities included enteric given findings on KUB and recent surgical placement of PEG tube.  Covered w/ vanc/ceftriaxone/azithro, no indication for additional pseudomonal coverage w/ cefepime. Used NS boluses to maintain cvp>8 and patient was continued on MUST protocol.  Hospital course as below.
+
+2) PNA-presumptively treating for, pt rec'd 
+vanc/azithro/ceftrixone/cefepime/clindamycin in [**Doctor First Name **].  Simplified regimen to include vanc/ceftriaxone/azithro. Sputum culture grew out e.coli and klebsiella.  Over the hospital course the patient's respiratory status deteriorated.  In d/w family, patient's goals of care were changed to CMO given his ongoing decompensation.  Patient passed away on HD2 of respiratory failure. 
+
+3) illeus- also possible that pt may have transmigrated bacteria secondary to illeus.  covered for gram neg on admission.  
+
+4) glucose- RISS, QID fs
+
+5) prophylaxis- maintained on gi, hep sc, pneumoboots (aggressive given h/o DVT)
+
+6) contact: [**Last Name (LF) 194**], [**First Name3 (LF) **] h:[**Telephone/Fax (2) 2673**], w:[**Telephone/Fax (2) 2674**]
+
+Medications on Admission:
+Prevacid 30mg pgt daily
+Metoprolol 25 mg po 
+Duonebs
+Bowel regimen
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Doctor Last Name **] Healthcare-[**Location (un) 78**]
+
+Discharge Diagnosis:
+sepsis
+pna
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+
+Followup Instructions:
+
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] WEISS MD [**MD Number 1073**]
+
+Completed by: [**First Name11 (Name Pattern1) **] [**Name7 (MD) 737**] MD [**MD Number 738**] [**2018-07-18**] @ 1101
+Signed electronically by: DR. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] WEISS on: WED [**2018-08-01**] 11:53 AM
+(End of Report)
+

@@ -1,0 +1,15 @@
+342648	||||	1427	||||	12755	||||	RADIOLOGY_REPORT	||||	2016-01-10 19:57:00.0	||||	W841 -76 BY SAME PHYSICIAN	||||		||||	Clip # 421-2406  Actual report	||||	
+DATE: [**2016-01-10**] 7:57 PM
+CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Clip Number (Radiology) 4443**] Reason: s/p right central line placement                            Admitting Diagnosis: CLAUDICATION/SDA
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+77 year old woman s/p CVl placement                                             REASON FOR THIS EXAMINATION: s/p right central line placement                                                ______________________________________________________________________________
+
+FINAL REPORT
+CHEST, SINGLE VIEW, ON [**01-10**]
+
+HISTORY:  Status post central line placement.
+
+FINDINGS:  There are bilateral IJ lines.  The left IJ line is at the junction of the IJ and left subclavian vein.  The right IJ line tip is in the superior vena cava.  The right subclavian line tip is in the superior vena cava.  There continues to be bilateral pleural effusions that are probably smaller than on the film from earlier the same day and dense retrocardiac opacification likely due to volume loss/infiltrate.  There continues to be pulmonary vascular redistribution and some perihilar haze suggesting fluid overload.  The endotracheal tube tip is 3 cm above the carina.  There is no pneumothorax.
+

@@ -1,0 +1,2 @@
+22682-065777-ECG_REPORT.txt||Disease_Disorder||C0004239||103||117
+22682-065777-ECG_REPORT.txt||Disease_Disorder||CUI-less||123||137

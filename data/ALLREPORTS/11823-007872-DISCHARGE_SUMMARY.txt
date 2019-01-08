@@ -1,0 +1,96 @@
+7872	||||	11823	||||	13419	||||	DISCHARGE_SUMMARY	||||	2018-02-02 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2018-01-30**]              Discharge Date:   [**2018-02-02**]
+
+Date of Birth:  [**1991-11-13**]               Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 685**] 
+Chief Complaint:
+history of seizures; work-up revealed dilated aortic root and left common carotid artery aneurysm
+
+Major Surgical or Invasive Procedure:
+ascending aorta-left common carotid artery bypass graft [**01-30**]
+
+History of Present Illness:
+26 yo male who developed seizures in 12/04. Work-up revealed dilated aortic root and left common carotid artery aneursym. Referred to Dr. [**Last Name (STitle) **] for surgical repair.
+
+Past Medical History:
+seizures
+GERD
+left common carotid aneursym
+
+Social History:
+lives with parents
+warehouse worker
+smokes [**02-26**] to one ppd since age 20
+no alcohol use
+
+Family History:
+mother had CABG
+grandmother had CAD
+
+Physical Exam:
+5'8"  175 #
+NAD
+warm dry skin
+no c/c/e with 2+ bilat. fem/DP/PT pulses
+PERRL, anicteric sclera, OP benign, teeth in fair repair left supraclavicular nose versus small mass
+CTAB
+RRR S1 S2 with grade [**02-26**]/ 6 SEM
+abd unremarkable
+
+Pertinent Results:
+[**2018-02-01**] 04:19AM BLOOD WBC-13.3* RBC-2.96* Hgb-9.3* Hct-24.8*  MCV-84 MCH-31.4 MCHC-37.5* RDW-12.8 Plt Ct-170
+[**2018-01-30**] 01:00PM BLOOD PT-12.8 PTT-26.7 INR(PT)-1.1
+[**2018-02-01**] 04:19AM BLOOD Plt Ct-170
+[**2018-02-01**] 04:19AM BLOOD Glucose-102 UreaN-10 Creat-0.7 Na-136  K-4.4 Cl-104 HCO3-25 AnGap-11
+[**2018-02-01**] 04:19AM BLOOD Calcium-8.4 Phos-1.8* Mg-1.6
+
+[**2018-02-02**] CXR
+Small left apical pneumothorax unchanged, small bilateral pleural effusions increased slightly. Lungs grossly clear. 
+Normal postoperative cardiomediastinal silhouette stable.
+
+Brief Hospital Course:
+Admitted on [**2018-01-30**] and underwent ascending aorta to left common carotid artery bypass graft with Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) **]. Postoperatively he was transferred to the cardiac surgical intensive care unit for monitoring. On postoperative day one, he awoke neurologically intact and was extubated. Aspirin and beta blockade were resumed. He was then transferred to the cardiac surgical step down unit for further recovery. He was gently diuresed towards his preoperative weight. His drains were removed per protocol. The physical therapy service was consulted for assistance with his postoperative strength and mobility. Mr. [**lastname 2798**] continued to make steady progress and was discharged to his home on postoperative day three. He will follow-up with Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **], his cardiologist, his neurologist, Dr. [**Last Name (STitle) **] and his primary care physician as an outpatient. 
+
+Medications on Admission:
+dilantin 400/500 mg alternating
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q2H (every 2 hours) as needed. Disp:*30 Tablet(s)* Refills:*0*
+3. Dilantin 100 mg Capsule Sig: 4 tablets on even days (400mg); 5 tablets on odd days (500mg) Capsules PO once a day. Disp:*150 Capsule(s)* Refills:*2*
+4. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day. Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation for 1 months. Disp:*30 Capsule(s)* Refills:*0*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+s/p L common carotid aneurysm
+seizures
+heart murmur
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+1) No lotions , creams or powders on incision until it has healed.
+2) May shower over incision and pat dry
+3) No lifting greater than 10 pounds for 10 weeks 4) No driving for one month
+5) Monitor wounds for signs of infection. These include redness, drainage or increased pain.
+6) Report any fever greater then 100.5.
+7) Report any weight gain of 2 pounds in 24 hours or 5 pounds in one week. 8) Call with any questions or concerns.
+
+Followup Instructions:
+follow up with Dr. [**Last Name (STitle) **] in 1-2 weeks follow up with Dr. [**Last Name (STitle) 2799**] in 2-3 weeks follow up with Dr. [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (2) 46**]) follow up with Dr. [**Last Name (STitle) **] (vasc) in 4 weeks Call all providers for appointments.
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] MD [**MD Number 690**]
+
+Completed by: [**firstname **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 950**] PA 80-BYE [**2018-02-02**] @ 1156
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: [**First Name9 (NamePattern2) 244**] [**2018-02-27**] 12:50 PM (End of Report)
+

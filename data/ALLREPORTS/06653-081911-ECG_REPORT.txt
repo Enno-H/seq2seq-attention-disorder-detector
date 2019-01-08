@@ -1,0 +1,7 @@
+81911	||||	6653	||||	3153	||||	ECG_REPORT	||||	2010-12-01 21:46:00.0	||||		||||		||||		||||	
+Sinus bradycardia
+Consider left atrial abnormality
+Right bundle branch block
+Clinical correlation is suggested
+No previous tracing for comparison
+

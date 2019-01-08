@@ -1,0 +1,20 @@
+362538	||||	20145	||||	25015	||||	RADIOLOGY_REPORT	||||	2016-06-21 10:45:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 374-8750  Actual report	||||	
+DATE: [**2016-06-21**] 10:45 AM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 2148**] Reason: CT to h2o seal, r/o ptx                                     Admitting Diagnosis: CHEST PAIN\CATH
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+64 year old man with COPD, 3vd on cath, h/o multilobar PNA at OSH              
+
+REASON FOR THIS EXAMINATION:
+CT to h2o seal, r/o ptx                                                         ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  COPD, CAD, status post CABG.  Evaluate pneumothoraces.
+
+PA AND LATERAL CHEST:  Compared to the prior day's film.  There remains tiny biapical pneumothoraces, not significantly changed.  There is a small lateral and basal component of the pneumothorax on the right.  Left IJ line remains unchanged in position.  There is worsening of underlying subcutaneous emphysema since the prior day study.  The right-sided chest tube remains unchanged in position, crossing the midline and overlying the left upper lung zone.  Interval clearing of left retrocardiac opacity, likely representing atelectasis.  Persisting small bilateral effusions.  Background emphysematous changes.
+
+IMPRESSION:
+1) Persisting tiny apical pneumothoraces.
+2) Chest tube remains crossing the midline to opposite hemithorax. 3) Increase in underlying subcutaneous emphysema. 4) Persisting bilateral pleural effusions with interval clearing of left retrocardiac atelectasis.
+

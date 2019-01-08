@@ -1,0 +1,35 @@
+107599	||||	21662	||||	3643	||||	ECHO_REPORT	||||	2015-02-11 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Chronic lung disease. Pulmonary embolus. 
+Height: (in) 73
+Weight (lb): 130
+BSA (m2): 1.79 m2
+Status: Inpatient
+Date/Time: [**2015-02-11**] at 13:19
+Test: Portable TTE (Complete)
+Doppler: Focused pulse and color flow
+Contrast: Saline
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT VENTRICLE: The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+
+RIGHT VENTRICLE: The right ventricular cavity is markedly dilated. There is severe global right ventricular free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. 
+
+TRICUSPID VALVE: Mild tricuspid [1+] regurgitation is seen. There is severe pulmonary artery systolic hypertension. 
+
+PERICARDIUM: There is a small pericardial effusion. 
+
+GENERAL COMMENTS: Contrast study was performed with one iv injection of 8 ccs of agitated normal saline at rest. 
+
+Conclusions: 
+The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). The right ventricular cavity is massively dilated. There is severe global right ventricular free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. There is severe pulmonary artery systolic hypertension. There is a small pericardial effusion. Echodense region seen in the main pulmonary artery and proximal left pulmonary artery suggestive of thrombus. 
+
+Compared to the prior study of [**2015-02-10**], findings are similar (estimated pulmonary artery systolic pressure is now slightly lower). The proximal pulmonary artery was better visualized in the current study. 
+
+The interatrial septum is bowed toward the left atrium. Contrast study revealed a shunt (passage of bubbles right to left) consistent with the presence of a stretched patent foramen ovale or atrial septal defect. 
+

@@ -1,0 +1,114 @@
+27967	||||	4269	||||	23223	||||	DISCHARGE_SUMMARY	||||	2016-03-28 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-03-21**]              Discharge Date:   [**2016-03-28**]
+
+Date of Birth:  [**1976-04-05**]               Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 2111**] 
+Chief Complaint:
+Pleuritic Chest Pain and Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+Mechanical Ventilation and Intubation.
+
+History of Present Illness:
+39 yo previously healthy [**Ethnicity 796**]-[**Ethnicity 797**] male patient is transferred from an outside hospital with respiratory distress.  The patient was in his usual state of good health until approximately one week prior to transfer when he had an episode of vomiting and believes he may have aspirated. He developed a right sided chest pain, sharp and pleuritic in nature.  He subsequently developed shortness of breath and presented to the hospital where he works. He was noted to have concerning lesion on chest X-ray and he was admitted and placed on 100% oxygen. He was given broad spectrum antibiotics with gatifloxacin and clindamycin. Linezolid was eventually added. He was transferred to [**Hospital1 79**] per the family's request.
+
+On arrival, the patient continues to report shortness of breath and pleuritic right-sided chest pain. He states that when he takes the oxygen off, he can only speak two sentences before becomming short of breath. He denies fevers, chills and night sweats.
+
+Past Medical History:
+None
+
+Social History:
+The patient lives in [**Location 6016**] with his girlfriend and her parents. He and his girlfriend have been together and monogomous for over six years. He has had less than five sexual partners in his lifetime, all women. He denies travel outside of the state in over ten years. His girlfriend's parents just got a new dog. He works as a health aid at [**Hospital **] and does direct patient care. He has a ten-pack year smoking history. One beer per night. No illicit drug use.
+
+Family History:
+Mother and father alive and healthy.
+
+Physical Exam:
+T 102 BP 110/57 HR 113 RR 27 100% on 100% NRB
+General: Young man in moderate respiratory distress. Able to speak, but cannot complete full sentences.
+HEENT: moist mucous membranes, posterior OP erythema, white tongue but no evidence of plaques
+Neck: supple, FROM, no evidence of JVD, LAD, or thyromegaly
+Chest: no dullness to percussion, scattered wheezes, no egophony Card: tachycardic, regular rhythm, nml S1S2, no m/r/g
+Abd: NABS, soft NTND
+Ext: no edema, 2+ DP pulses bilaterally, no calf tenderness, PPD site on right forearm with no evidence of induration at this time (placed earlier today)
+
+Pertinent Results:
+Labs at OSH ([**2016-03-20**]): 
+WBC 12.0 (88% N, 8% L, 3.5% M), Hct 35.7, Plt 454
+Na 136, K 3.8, Cl 95, CO2 29, BUN 4, Cr 0.9
+ALT 13, AST 42, Alk phos 84, TB 0.4, Alb 2.2, TP 6.1
+Fe 15, TIBC 162
+ABG: 7.44/50/74
+
+CXR (OSH): right upper lobe cavitary infiltrate
+
+Chest CT (OSH): diffuse prominent right upper lobe infiltrate with 5cm cavitary mass, 2cm right upper lobe cavitary mass, small right pleural effusion, some right hilar lymphadenopathy
+
+[**Hospital1 79**] LABS/STUDIES:
+
+CT CHEST ([**2016-03-23**]) - IMPRESSION: 1) 3.5-cm cavitary lesion with air-fluid level and thickened wall in the right middle lobe as described above, probably representing lung abscess, mentioned in the requisition. However, please also consider the possibility of septic emboli. 2) Multiple patchy opacities in bilateral lungs, more on the right, which may represent multifocal pneumonia versus atypical edema. 3) Bilateral diffuse opacity, representing pulmonary edema due to ARDS. 4) Bilateral pleural effusion, greater on the right, associated with bibasilar atelectasis. 5) Perivascular lymphadenopathy. 
+
+ECHO/TTE ([**2016-03-22**]): The LA is mildly dilated. LV wall thicknesses are normal. The LV cavity is moderately dilated. Overall LV systolic function is normal (LVEF 60%). No masses or thrombi are seen in the LV. There is no VSD. Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated. The AV leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. No masses or vegetations are seen on the AV. The MV appears structurally normal with trivial mitral regurgitation. There is no MVP. No mass or vegetation is seen on the MV. The estimated pulmonary artery systolic pressure is normal. No vegetation/mass is seen on the pulmonic valve. There is no pericardial effusion. The absence of a vegetation by 2D echocardiography does not exclude endocarditis if clinically suggested.  
+
+Brief Hospital Course:
+1) Respirtory Distress/PNA: The patient presented to an OSH with fever, bandemia, and respiratory discomcomfort. He was then transferred to [**Hospital1 79**] with ARDS-like findings (ARDS, PNA or lung injury via mechanical ventilation) and a RUL cavitary lesion (Infarction vs Abscess/Infection). He was then intubated and mechanically ventilated for respiratory failure with an intialy ABG of 7.46/44/103/32. He was afebrile over his course. Since his admission to the outside hospital, he had been on  Gatifloxacin, Linezolid, Clindamycin, Zosyn, and Vancomycin. His final antibiotic regimen was Levofloxacin and Clindamycin for CAP/Aspiration PNA coverage. Bronchoscopy/BAL was not revealing. HIV, PPD, Legionalla Urine Ag, BCXR, UCXR, BAL/AFB, and a Viral Panel were negative. He was continued on Albuterol/Atrovent nebulizers as needed. Of note, a TTE/ECHO showed a normal EF without clear signs of endocarditis. The patient had improved dramatically over his course and was comfortable on room air upon discharge. He was discharged with pulmonary follow-up. He was counseled in regards to smoking cessation.
+
+2) Normocytic Anemia: He had a HCT in the high 20's to low 30's early in his course. The baseline was unknown. His iron studies, LDH/Bili/Hapto, B12/Folate were normal. His clinical picture was consistent with anemia of chronic disease and as his pulmonary inflammation/infection resolved, his HCT improved.
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6 hours) as needed. Disp:*qs 1 week ML(s)* Refills:*0*
+2. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation every 4-6 hours as needed for shortness of breath or wheezing for 1 weeks. Disp:*1 inh* Refills:*0*
+3. Nicotine 21 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24HR(s)* Refills:*0*
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 2 weeks. Disp:*14 Tablet(s)* Refills:*0*
+5. Clindamycin HCl 300 mg Capsule Sig: One (1) Capsule PO four times a day for 3 months. Disp:*360 Capsule(s)* Refills:*0*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1) Right Upper Lobe Pneumonia with Cavitary Lesion. 2) Right Upper Lobe Mass. 3) Bilateral Pulmonary Infiltrates.
+
+Secondary Diagnosis:
+4) Idiopathic Anemia.
+
+Discharge Condition:
+Good/Stable.
+
+Discharge Instructions:
+1) Please call your doctor or return to the ER if you have any trouble breathing, increased cough, fevers, chills, fatigue, or any other concenring symptoms.
+
+2) Please take your oral temperature twice daily. If you have a fever, call your pulmonary doctor (see below for the number).
+
+3) If you resume smoking, stop taking the nicoderm patch.
+
+Followup Instructions:
+1) Please see your new primary doctor for the following appointment.  Your primary doctor will follow up on your anemia and albumin levels:
+
+Provider [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 939**] [**Last Name (NamePattern1) 940**], MD Where: [**Hospital 56**] [**Hospital 496**] Phone:[**Telephone/Fax (2) 58**] Date/Time:[**2016-04-08**] 1:30
+
+2) Please have a CT of your chest for the following appointment: 
+
+CAT SCAN Where: [**Hospital 56**] RADIOLOGY Phone:[**Telephone/Fax (2) 1141**] Date/Time: [**2016-04-18**] 11:30. 
+
+2) Please see your new lung doctor and obtain pulmonary function tests at the [**Hospital1 79**] Pulmonary Clinic for the following appointment:
+
+Provider PULMONARY BREATHING TESTS Where: [**Hospital 56**] PULMONARY FUNCTION LAB Phone:[**Telephone/Fax (2) 1185**] Date/Time:[**2016-04-25**] 12:45
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 2122**] MD [**MD Number 2123**]
+
+Completed by: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (un) **] MD [**MD Number 3886**] [**2016-04-10**] @ 1535
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: SAT [**2016-04-30**] 3:14 PM
+(End of Report)
+

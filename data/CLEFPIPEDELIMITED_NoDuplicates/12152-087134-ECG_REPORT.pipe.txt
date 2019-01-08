@@ -1,0 +1,5 @@
+12152-087134-ECG_REPORT.txt||Disease_Disorder||C0004238||95||114
+12152-087134-ECG_REPORT.txt||Disease_Disorder||CUI-less||122||147
+12152-087134-ECG_REPORT.txt||Disease_Disorder||CUI-less||149||179
+12152-087134-ECG_REPORT.txt||Disease_Disorder||CUI-less||238||252
+12152-087134-ECG_REPORT.txt||Disease_Disorder||CUI-less||261||278

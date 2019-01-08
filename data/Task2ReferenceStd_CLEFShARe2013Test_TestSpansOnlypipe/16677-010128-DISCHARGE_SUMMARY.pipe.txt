@@ -1,0 +1,1 @@
+16677-010128-DISCHARGE_SUMMARY.txt||Acronym_Abbreviation||YOUR_CUI||219||220

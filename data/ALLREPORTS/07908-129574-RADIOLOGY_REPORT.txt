@@ -1,0 +1,31 @@
+129574	||||	7908	||||	3233	||||	RADIOLOGY_REPORT	||||	2010-07-19 10:31:00.0	||||	U311 ABDOMEN U.S. (COMPLETE STUDY)	||||		||||	Clip # 321-0526  Actual report	||||	
+DATE: [**2010-07-19**] 10:31 AM
+ABDOMEN U.S. (COMPLETE STUDY); DUPLEX [**Last Name (un) 378**] ABD/PEL              [**Clip Number (Radiology) 3901**] Reason: assess for ascites, kidneys, portal flow, liver, gallbladder ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+45 year old man with hep C cirrhosis, new mental status change, possible ascites, elevated alk phos, new renal failure
+REASON FOR THIS EXAMINATION:
+assess for ascites, kidneys, portal flow, liver, gallbladder ______________________________________________________________________________
+
+WET READ:
+normal direction of flow of the hepatic vessels, cirrhotic liver, gallstone, no hydro, not enough ascites to "mark the spot" ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  45-year-old man with Hepatitis C cirrhosis with  new mental status changes and probable ascites, elevated alk phos and new renal failure.
+
+ABDOMINAL ULTRASOUND WITH DOPPLER:  Again, the liver has a shrunken and nodular appearance compatible with cirrhosis.  The main portal vein, left portal vein, right portal vein, hepatic arteries and hepatic veins are all patent with appropriate direction of flow.  There is blunting of the hepatic venous wave forms as expected in cirrhosis. There is normal directional flow in the splenic vein.  There is splenomegaly. The spleen measures 16.4 cm. The gallbladder is not distended and contains a stone within its neck.  The right kidney measures 11.1 cm and the left kidney measures 11.2 cm.  Both kidneys are free of hydronephrosis.  The common bile duct appears normal and measures 2 mm.  There is only limited visualization of the pancreas.  Within the lower quadrants there is a small amount of ascites.
+
+Comparison is made to [**2010-07-15**] and demonstrates no significant change.
+
+IMPRESSION:
+
+1) Small nodular liver consistent with the patient's known cirrhosis with appropriate direction of the hepatic blood flow.
+
+2)  Small amount of ascites.
+
+3)  Splenomegaly.
+
+4)  No evidence of hydronephrosis.
+
+5)  Cholelithiasis.
+

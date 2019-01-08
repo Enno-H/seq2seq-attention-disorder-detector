@@ -1,0 +1,22 @@
+413490	||||	7700	||||	20127	||||	RADIOLOGY_REPORT	||||	2014-02-21 19:56:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 393-5522  Actual report	||||	
+DATE: [**2014-02-21**] 7:56 PM
+CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Clip Number (Radiology) 2419**] Reason: Please evaluate placement of OGT                            Admitting Diagnosis: PNEUMONIA
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+38 year old man s/p; R VATS with OGT placed.                  
+
+REASON FOR THIS EXAMINATION:
+Please evaluate placement of OGT                                                ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  Orogastric tube placement.
+
+Single portable chest radiograph demonstrates a nasogastric tube coiled in the stomach.  Contrast material was again seen within the stomach and is unchanged from radiograph obtained earlier the same day.
+
+Two right-sided chest tubes are again noted and are unchanged in position. Bibasilar atelectasis, worse on the left remains similar in appearance. Cardiomediastinal contours are unchanged.  There is probably mild pulmonary edema which is unchanged.  A right internal jugular central venous catheter is again noted in the SVC.  Surgical drain projects over the epigastrium.
+
+IMPRESSION:
+
+Nasogastric tube coiled within the stomach.  Otherwise, no significant interval change.
+

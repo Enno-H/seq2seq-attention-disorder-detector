@@ -1,0 +1,49 @@
+16139	||||	98	||||	15836	||||	DISCHARGE_SUMMARY	||||	2015-03-24 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-03-17**]       Discharge Date:  [**2015-03-24**]
+
+Date of Birth:   [**1974-10-03**]       Sex:  F
+
+Service: Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 40-year-old female with complaints of headache and dizziness.  In [**2015-01-14**], the patient had headache with neck stiffness and was unable to walk for 45 minutes.  The patient also had a similar episode a year and a half ago where she had inability to walk without pain.  She had a headache at that time which was relieved with Tylenol.
+
+PAST MEDICAL HISTORY:  Hypothyroidism.
+
+ALLERGIES:  Penicillin and Bactrim which causes a rash.
+
+MEDICATIONS:  Levoxyl 1.75 mg.
+
+PHYSICAL EXAMINATION:  On physical examination, her blood pressure was 104/73, pulse 79.  In general, she was a woman in no acute distress.  HEENT:  Nonicteric.  Pupils are equal, round, and reactive to light.  Extraocular movements are full.  Pharynx is benign.  Tongue midline.  Neck is supple.
+Chest was clear to auscultation.  Cardiac:  S1, S2, regular, rate, and rhythm.  Abdomen is soft, nontender, nondistended, negative bruits.  Extremities:  No clubbing, cyanosis, or edema.  Palpable pulses.  Gait was steady.
+
+The patient is being admitted status post cerebral aneurysm with clipping.  The patient underwent right MCA and a right
+A-comm aneurysm clipping via a right pterional craniotomy without intraoperative complication.  Postoperative vital signs are stable.  Patient was afebrile.  She was awake, alert.  Pupils are equal, round, and reactive to light.  EOMs are full.  No facial droop, no drift.  Strength down the legs was [**05-18**].
+
+On postoperative day #1, the patient was taken to arteriogram, where she underwent a cerebral angiogram to evaluate clipping of the aneurysm.  It was found at that time that the patient had a third aneurysm and that the MCA aneurysm which was clipped was at the origin of the anterior temporal artery and not the one at the MCA bifurcation.  The patient was therefore taken back to the operating room for a clipping of the second MCA aneurysm without intraoperative complication.
+
+The patient was monitored in the Surgical Intensive Care
+Unit.  She was alert, awake, oriented, complaining of severe headache, moving all extremities.  EOMs full, negative drift, a smile was symmetric, IP is [**05-18**].  The patient was then discharged to the floor on [**2015-03-20**].  She has been out of bed and ambulating with Physical Therapy, tolerating a regular diet, and voiding spontaneously.
+
+She has been seen by Physical Therapy, and was found to be safe to discharge to home with home physical therapy on
+[**2015-03-24**].  Her incision is clean, dry, and intact and she is neurologically stable.
+
+DISCHARGE MEDICATIONS:
+1. Hydromorphone 2-6 mg po q4h prn.
+2. Synthroid 175 mcg po q day.
+3. Colace 100 mg po bid.
+
+CONDITION ON DISCHARGE:  Stable.
+
+FOLLOW-UP INSTRUCTIONS:  She will follow up in 10 days for staple removal with Dr. [**Last Name (STitle) 570**].
+
+[**Location (un) 571**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 572**]
+
+Dictated By:[**Dictator Info 489**]
+MEDQUIST36
+
+D:  [**2015-03-23**]  08:14
+T:  [**2015-03-23**]  08:20
+JOB#:  [**Job Number 1537**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 571**] [**Name (STitle) **] on: WED [**2015-05-20**] 7:51 AM
+(End of Report)
+

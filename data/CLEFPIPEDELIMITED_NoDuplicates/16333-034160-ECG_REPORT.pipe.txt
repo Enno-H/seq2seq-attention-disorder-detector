@@ -1,0 +1,2 @@
+16333-034160-ECG_REPORT.txt||Disease_Disorder||C0085610||94||111
+16333-034160-ECG_REPORT.txt||Disease_Disorder||CUI-less||119||161

@@ -1,0 +1,19 @@
+347384	||||	7780	||||	23527	||||	RADIOLOGY_REPORT	||||	2017-07-30 20:06:00.0	||||	C15 CHEST (PRE-OP PA & LAT)	||||		||||	Clip # 379-3082  Actual report	||||	
+DATE: [**2017-07-30**] 8:06 PM
+CHEST (PRE-OP PA & LAT)                                         [**Clip Number (Radiology) 2923**] Reason: RE-DO CABBAGE\CORONARY ARTERY BYPASS GRAFT, RE-DO Admitting Diagnosis: RE-DO CABBAGE\CORONARY ARTERY BYPASS GRAFT, RE-DO ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+72 year old man with need for redo CABG [**2017-08-01**]                                  
+REASON FOR THIS EXAMINATION:
+assess for CPP                                                                  ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  Preoperative evaluation for redo CABG.
+
+COMPARISON:  [**2017-07-03**].
+
+FINDINGS:  PA and lateral views of the chest.  There is stable cardiomegaly with evidence of CABG.  The superior three sternal wires are broken, as seen previously.  There is increased upper zone redistribution in the pulmonary vascular, representing mild congestive heart failure.  A small round shadow is again noted overlying the right lower lung field on the PA view, probably representing a nipple shadow.  In the future, this may be confirmed by using nipple markers with chest radiographs.  There is no pleural effusion or pulmonary consolidation.  The aorta is tortuous.
+
+IMPRESSION:  Mild congestive heart failure.
+DFDkq
+

@@ -1,0 +1,106 @@
+27889	||||	211	||||	5653	||||	DISCHARGE_SUMMARY	||||	2014-04-08 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-03-28**]              Discharge Date:   [**2014-04-08**]
+
+Date of Birth:  [**1930-09-21**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 565**] 
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass graft 4.
+
+History of Present Illness:
+83 year-old woman, patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5005**], Dr. [**First Name (STitle) 5804**] [**Name (STitle) 2275**],  with increased SOB with activity, left shoulder blade/back pain at rest, + MIBI, referred for cardiac cath. This pleasant 83 year-old patient notes becoming SOB when walking up hills or inclines about one year ago. This SOB has progressively worsened and she is now SOB when walking [**01-19**] city block (flat surface).  She also notes new sharp pain in left shoulder blade/back area. This pain occurs at rest and is not associated with activity or SOB.  Adenosine MIBI at OSH showed +moderately reversible inferior defect, mild reversible anterior defect, nl LVEF 70%.  Referred for cath here today which showed 80% LMCA, 60% LAD at origin of D1, RCA diffusely diseased with 90% stenosis.  
+
+Past Medical History:
+arthritis
+carpal tunnel
+shingles right arm 2000
+needs right knee replacement
+left knee replacement in [**2010**]
+thyroidectomy 1978
+cholecystectomy [**1981**]
+hysterectomy 2001
+h/o LGIB 2000-2001 after taking baby ASA 81 QOD
+
+Social History:
+Her husband died recently. She has two children.
+
+Family History:
+Father died of MI at age 69.
+
+Physical Exam:
+PE: T 97.6  BP 142/70 R arm, 150/70  P 42-64  R 16  Sat 92% RA G: Elderly female, NAD
+HEENT: MMM, anicteric
+Neck: JVD diff to assess
+Lungs: +end exp rhonchi bilaterally upper lung zones
+CV: RRR, S1S2, distant heart sounds, +2/6 systolic murmur at apex
+Abd: Soft, NT, ND, BS+
+Ext: trace bilateral lower ext edema; R groin small hematoma, no bruits
+Nails: No bed abnormalities, lunulas present, no splinters, pulses
+Rectal: guiac neg
+
+Pertinent Results:
+[**03-28**] Cath: LMCA had 80% eccentric distal stenosis; LAD diffusely diseased with mid 60% stenosis at the origin of a large diagonal branch; LCX diffusely diseased; RCA mid 90% stenosis; r-PDA occluded; EF 60%.
+
+[**2014-04-07**] 06:10AM BLOOD WBC-7.4 RBC-3.53* Hgb-10.7* Hct-32.3* 
+MCV-92 MCH-30.3 MCHC-33.1 RDW-14.4 Plt Ct-339
+[**2014-04-07**] 06:10AM BLOOD Plt Ct-339
+[**2014-04-06**] 09:59AM BLOOD PT-13.3 PTT-25.1 INR(PT)-1.1
+[**2014-04-07**] 06:10AM BLOOD Glucose-124* UreaN-21* Creat-1.0 Na-141  K-4.5 Cl-100 HCO3-31* AnGap-15
+
+Brief Hospital Course:
+Mrs. [**lastname 2977**] was admitted [**2014-03-27**] for cardiac cath showing 3VD.  A cardiac surgery consult was obtained and after pre-operative testing, she proceeded top the operating room on [**2014-03-31**] with  Dr. [**Last Name (STitle) **].  She had a CABG x 4 with LIMA to the LAD, SVG to the PDA, SVG to the PLB, and SVG to the OM.  Please see op note for full details. She was transferred to teh CSRU post-op for hemodynamic monitoring. She was unsuccessfully weened on her operative evening and was kept on SIMV overnight ans successfully weened and extubated on POD one. POD three was significant for dropping oxygen saturation with increased pulmonary toilet.  She also had a drop in her blood pressure for which she was a-paced with effect and her lopressor was discontinued. On POD five, she was in a rapid atrial flutter with pauses.  She was started on amiodarone and woumadin for anticoaguation. POD six continued with bursts of atrial fibrillation.  She was also transferred to the inpatient floor for ongoing recovery and rehabilitation. On POD seven it was decided that she would benefit from rehabilitation prior to discharge home and on POD eight she was discharged to rehab.
+
+Medications on Admission:
+Levothyroxine 200 mcg daily.
+Avalide 300/12.5 daily.
+Norvasc 5 daily.
+Ferrous sulfate bid.
+Tylenol PRN.
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*0*
+3. Levothyroxine Sodium 200 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day for 10 days. Disp:*20 Tablet(s)* Refills:*0*
+5. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two (2) Capsule, Sustained Release PO twice a day for 10 days. Disp:*40 Capsule, Sustained Release(s)* Refills:*0*
+6. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) for 2 weeks then decrease to 200mg po qd. Disp:*60 Tablet(s)* Refills:*0*
+7. Coumadin as directed for goal INR 2.0-2.5
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 5805**] Manor - [**Location (un) 348**]
+
+Discharge Diagnosis:
+Coronary artery disease.
+s/p CABG
+post op atrial fibrillation
+
+Discharge Condition:
+Stable.
+
+Discharge Instructions:
+Shower daily and wash incisions with soap and water.  Rinse well.  Do not apply any creams, lotions, powders, or ointments. No tub bathing or swimming.
+No heavy lifting greater than 10 pounds.
+No driving for 6 weeks.
+check PT/INR qd and prn and dose coumadin for goal INR 2.0-2.5
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) **] in 4 weeks.
+Follow-up with Dr. [**Last Name (STitle) 5005**] in 1-2 weeks. Follow-up with Dr. [**Last Name (STitle) 2275**] in 1-2 weeks.
+
+[**Name6 (MD) **] [**Name7 (MD) 574**] MD [**MD Number 575**]
+
+Completed by: [**First Name11 (Name Pattern1) 352**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 353**] PA 80-AXP [**2014-04-08**] @ 1039
+Signed electronically by: DR. [**First Name (STitle) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] on: WED [**2014-04-16**] 11:09 AM
+(End of Report)
+

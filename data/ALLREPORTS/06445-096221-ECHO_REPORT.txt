@@ -1,0 +1,46 @@
+96221	||||	6445	||||	10055	||||	ECHO_REPORT	||||	2019-06-05 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Murmur. Source of embolism. 
+Height: (in) 73
+Weight (lb): 185
+BSA (m2): 2.08 m2
+BP (mm Hg): 112/57
+HR (bpm): 95
+Status: Inpatient
+Date/Time: [**2019-06-05**] at 11:35
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+large left pleural effusion. 
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal interatrial septum. No ASD by 2D or color Doppler. 
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and systolic function (LVEF>55%). Normal regional LV systolic function. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. Normal ascending aorta diameter. No 2D or Doppler evidence of distal arch coarctation. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. No masses or vegetations on aortic valve. No AS. 
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. No MVP. No mass or vegetation on mitral valve. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. No mass or vegetation on tricuspid valve. Mild [1+] TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: No PS. 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%). Regional left ventricular wall motion is normal. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. No masses or vegetations are seen on the aortic valve. There is no aortic valve stenosis. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. No mass or vegetation is seen on the mitral valve. There is no pericardial effusion. 
+
+IMPRESSION: No valvular vegetations seen. 
+

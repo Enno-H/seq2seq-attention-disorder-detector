@@ -1,0 +1,40 @@
+99659	||||	8087	||||	1517	||||	ECHO_REPORT	||||	2009-11-13 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: s/pcabg
+Height: (in) 70
+Weight (lb): 185
+BSA (m2): 2.02 m2
+BP (mm Hg): 113/62
+Status: Inpatient
+Date/Time: [**2009-11-13**] at 15:11
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is moderately dilated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. Overall left ventricular systolic function is severely depressed. 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened. Mild (1+) aortic regurgitation is seen. 
+
+MITRAL VALVE: There is moderate mitral annular calcification. Moderate (2+) mitral regurgitation is seen. 
+
+TRICUSPID VALVE: Mild tricuspid [1+] regurgitation is seen. There is borderline pulmonary artery systolic hypertension. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+Conclusions: 
+The left atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. Overall left ventricular systolic function is severely depressed with anterior, septal and inferior akinesis with some preservation of function of the base.. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened. Mild (1+) aortic regurgitation is seen. At least moderate (2+) mitral regurgitation is seen. There is borderline pulmonary artery systolic hypertension. There is no pericardial effusion. 
+

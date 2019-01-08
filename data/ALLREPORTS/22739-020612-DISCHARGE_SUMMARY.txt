@@ -1,0 +1,68 @@
+20612	||||	22739	||||	15278	||||	DISCHARGE_SUMMARY	||||	2012-09-07 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-09-04**]     Discharge Date:  [**2012-09-07**]
+
+Date of Birth:   [**1981-11-03**]     Sex:  M
+
+Service:  ACOVE
+
+HISTORY OF PRESENT ILLNESS:  This is a 30-year-old [**Ethnicity 3711**] male, who presents with a 3.5 week history of increasing thirst and urination.  He noticed he was drinking up to 3 gallons per day in the last several days and also urinating multiple times up to 5-6x/hour at night.  He has lost 37 pounds in the past month and is now at a weight of 187 from
+224.
+
+On the night prior to admission, at approximately 2 a.m., he began vomiting and had some associated abdominal discomfort. He was able to tolerate these symptoms and went to work that morning, but then decided to seek medical attention for his symptoms which then included dizziness as well.  Patient's primary care physician noted the patient to be tachycardic, hypertensive, who found his fingerstick blood sugar to be critically high and urinalysis showed the presence of ketones.  He was referred to the Emergency Department for evaluation and treatment of new onset diabetes.
+
+PAST MEDICAL HISTORY:  Genital herpes in [**2012-07-03**].
+
+MEDICATIONS:  Ibuprofen prn.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  No tobacco or alcohol use, no IV drug use, no illicit drug use.  Patient immigrated from [**Country 1114**] six years ago, currently works in the banking industry.
+
+FAMILY HISTORY:  Notable for a father who has hypertension, but there is no family history of coronary artery disease, diabetes mellitus, or cancer.
+
+PHYSICAL EXAM ON ADMISSION:  Vital signs:  Temperature 98.4, heart rate 108, blood pressure 152/82, respiratory rate 20, and oxygen saturation 97%.  General:  Pleasant, conversational, well built [**Ethnicity 537**] [**Ethnicity 538**] male.  HEENT: Pupils are equal, round, and reactive to light.  Extraocular muscles are intact.  Oropharynx clear, moist mucosal membranes.  Neck:  No jugular venous distention, no lymphadenopathy, supple.  Cardiovascular:  Regular, rate, and rhythm, normal S1, S2, 1/6 systolic murmur at the left sternal border.  Lungs are clear to auscultation bilaterally. No wheezes, no rales.  Abdomen is soft, nontender, nondistended, no masses, active bowel sounds.  Extremities:
+No clubbing, cyanosis, or edema.  Dorsalis pedis pulse is 1+ bilaterally.  Neurologically:  The patient is awake, alert, and oriented times three.  Cranial nerves II through XII intact.
+
+EKG:  Normal sinus rhythm at 100 beats per minute, normal intervals, normal axis, peak T waves V2 through V6.
+
+LABORATORY DATA ON ADMISSION:  White count 11.4, hematocrit
+55.4, platelet count 337.  White count differential:
+Neutrophils 88%, lymphocytes 8.6%, monocytes 3.0%.
+Electrolytes on admission:  Sodium 134, potassium 5.8, chloride 92, bicarb 21, BUN 27, creatinine 2.1, glucose 1,292.  Calcium 12.6, phosphate 6.9, magnesium 3.2.
+
+ASSESSMENT AND PLAN:  This is a 30-year-old male with no significant past medical history, who presents with new onset diabetes in diabetic ketoacidosis.
+
+HOSPITAL COURSE:  Patient was admitted to the Intensive Care Unit and treated with an insulin drip at 7 units/hour for nine hours until his fingersticks blood sugar level had reached 121 and the anion gap noted on presentation had closed to 6.
+
+On [**09-05**], he was changed to a regimen including NPH 18 units q.a.m., 9 units q.p.m. per the recommendations of the [**Last Name (un) 491**] Diabetes Team, Humalog sliding scale was also started.  This regimen was adjusted throughout the remainder of his hospital stay.  On [**09-07**], he was on a regimen of NPH 22 units q.a.m. and 12 units q.p.m. with an adjusted
+Humalog sliding scale as per the recommendations of the [**Last Name (un) 491**] Diabetes Team.
+
+The patient was referred to the [**Last Name (un) 491**] Diabetes for multiple follow-up appointments including nutrition, dietary consultation, education programs about diabetes, and glucose monitoring, and a follow-up appointment with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3712**] at [**Last Name (un) 491**] Diabetes Center.
+
+2. Fluids, electrolytes, and nutrition:  Careful monitoring of the patient's electrolytes was done throughout the administration of insulin to correct his sugars with particular attention to potassium and phosphate.  The patient was begun on a diabetic appropriate diet, and appropriate nutrition consultation and teaching occurred during his hospital stay.
+
+DISCHARGE CONDITION:  Good.  Blood sugars under adequate control.  Patient has no symptoms and is hemodynamically stable.
+
+DISCHARGE DIAGNOSES:
+1. Diabetic ketoacidosis.
+2. Type 1 diabetes mellitus, new onset.
+3. Hypovolemia.
+
+DISCHARGE MEDICATIONS:  Insulin NPH 22 units q.a.m. with breakfast, insulin NPH 12 units subcutaneous q.h.s.  Humalog insulin-sliding scale as prescribed by Dr. [**Last Name (STitle) 3712**].  Blood glucose test strips, lancets, controlled solution, insulin syringes.
+
+FOLLOW-UP PLANS:  The patient was recommended to attend the following classes available at [**Last Name (un) 491**] Diabetes:  On [**09-10**], First Steps at 8:30 a.m., [**09-13**], Nutrition
+Class "doc, what can I eat" at 10:30 a.m. and Weights and
+Balances at 1 p.m.  [**09-14**], Nutrition consultation with [**First Name5 (NamePattern1) 3713**] [**Last Name (NamePattern1) 3714**] at 5 p.m.  Follow-up appointment with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3712**] on [**09-21**] at 12:30 p.m.  Patient was advised to schedule a follow-up appointment with his primary care physician, Dr. [**Last Name (STitle) 3715**] within one week of his hospital stay.
+
+MARK [**Doctor Last Name 835**], M. D.   [**MD Number 1074**]
+
+Dictated By:[**Dictator Info 2144**]
+
+MEDQUIST36
+
+D:  [**2012-09-16**]  21:24
+T:  [**2012-09-18**]  10:16
+JOB#:  [**Job Number 3716**]
+
+cc:[**CC Contact Info 3717**]
+

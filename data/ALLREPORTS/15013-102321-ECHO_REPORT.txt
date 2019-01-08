@@ -1,0 +1,30 @@
+102321	||||	15013	||||	13914	||||	ECHO_REPORT	||||	2011-05-24 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: f/u pericardial effusion; 6 hrs s/p tap
+Height: (in) 65
+Weight (lb): 140
+BSA (m2): 1.70 m2
+BP (mm Hg): 139/62
+Status: Inpatient
+Date/Time: [**2011-05-24**] at 17:38
+Test: Portable TTE(Focused views)
+Doppler: No Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT VENTRICLE: LV systolic function appears depressed. 
+
+MITRAL VALVE: The mitral valve leaflets are structurally normal. 
+
+PERICARDIUM: There is a trivial/physiologic pericardial effusion. 
+
+Conclusions: 
+LV systolic function appears depressed. The mitral valve leaflets are structurally normal. There is a trivial/physiologic pericardial effusion. 
+
+Compared to the prior study earlier today, there has been no significant reaccumulation of fluid. 
+

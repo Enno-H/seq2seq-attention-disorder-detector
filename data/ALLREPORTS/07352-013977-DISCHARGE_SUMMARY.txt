@@ -1,0 +1,78 @@
+13977	||||	7352	||||	22880	||||	DISCHARGE_SUMMARY	||||	2010-05-28 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2010-05-22**]       Discharge Date: [**2010-05-28**]
+
+Date of Birth:   [**1942-06-10**]       Sex:  M
+
+Service:  GOLD SURGE
+
+HISTORY OF THE PRESENT ILLNESS:  Mr. [**lastname 538**] is a 67-year-old man with the past medical history significant for advanced multiple sclerosis, who underwent an endoscopic resection of the esophageal polyp on [**2010-05-21**] by
+Dr. ....................  The indication was for high grade dysplasia /Barrett's esophagus.  The patient tolerated the procedure well and was actually discharged the same day.  The patient returned home to [**Location (un) **].  The following morning, he woke up and had substernal chest pain, sharp in nature without radiation, no nausea or vomiting, no fevers or chills.  He went to his local [**Location (un) **] Hospital for evaluation.  There, he was started on a cardiac workup, but the chest x-ray revealed pneumomediastinum/widened mediastinum.  The patient received IV Ampicillin, Gentamicin, and Flagyl.  He also received an IV steroid bolus and he had a NG tube placed by direct vision.  He was then transferred to [**Hospital 1026**] for further
+evaluation.
+
+PAST MEDICAL HISTORY:
+1.  History is significant for hypertension.
+2.  Multiple sclerosis since [**1988**].
+3.  Osteoporosis.
+4.  Depression.
+5.  Gastroesophageal reflux disease/Barrett's esophagus status post endoscopic resection of polyp.
+6.  Obesity.
+7.  Status post excision of a pilonidal cyst.
+
+OUTPATIENT MEDICATIONS:
+1.  Prednisone 15 mg p.o.q.d
+2.  Detrol 4 mg p.o.q.d.
+3.  Prozac 20 mg p.o.q.d.
+4.  Cylert 75 mg p.o.q.d.
+5.  Fosamax 10 mg p.o.q.d.
+6.  Lopressor 50 mg p.o.q.d
+7.  Baclofen 100 mg p.o.q.d.
+8.  Methotrexate 2.5 three times weekly.
+9.  Avonex 1 mg one time a week.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient does not drink any alcohol.  He does not smoke.
+
+PHYSICAL EXAMINATION:  Upon admission, the patient's physical examination was significant for a temperature of 100.1, pulse 93, blood pressure 127/109.  He was alert, oriented.  He was in no acute distress.  He had decreased breath sounds at the bases.  He was also slightly tachypneic with no crepitus.
+CARDIOVASCULAR:  Tachycardia, but with a regular rate, normal S1 and S2 normal.  ABDOMEN:  Soft, nontender, no rebound or guarding.  He had a fascia defect approximately 2 cm at the umbilicus, with no incarceration.  Groin was notable for no hernia.  RECTAL:  Examination was guaiac negative, no masses. EXTREMITIES:  Examination was notable for peripheral edema.
+
+LABORATORY DATA:  Laboratory data revealed the following:
+White count at the outside hospital was 15, hematocrit 45, platelet count 150,000.  Electrolytes:  Within normal limits. LFTs were also within normal limits.  Chest x-ray: Significant for widening of the mediastinum.  EKG:  ST changes, but not significant.
+
+HOSPITAL COURSE:  The patient was admitted to the Surgical
+Intensive Care Unit and transferred to the ICU for close monitoring given his pneumomediastinum, most likely secondary to perforation during his endoscopic procedure.  At that point, it was unclear if he perforation was contained.  He underwent a CAT scan with oral and IV contract, which revealed that there was no extravasation of contrast from the esophagus into the mediastinum.
+
+The patient was made NPO with NG tube suction, given IV fluids and IV Ampicillin, Gentamicin, and Flagyl.  The patient was closely monitored in the ICU setting.
+
+On [**Hospital Unit Name 189**] day #3, the patient's condition was felt to be stable and he was transferred to the floor.  At this point, he was kept NPO with the NG tube to suction.  A thoracic consultation by Dr. .................... was obtained.  It was his opinion that the patient undergo a barium swallow to again re-evaluate his esophageal perforation.  Therefore, on hospital day #5, the patient underwent a barium swallow, which revealed no extravasation of barium from the esophagus. At this point, the patient's NG tube was discontinued, although he was kept NPO overnight.  TPN was continued and, therefore, on the next morning, hospital day #6, he was advanced to clears.  The patient tolerated the clears and on hospital day #7, the patient was advanced to regular diet.
+He was tolerating a regular diet, therefore, the TPN and central line were discontinued.  The antibiotics were changed from IV Ampicillin, Gentamycin, and Flagyl to p.o. Augmentin. Of note:  The patient's hypertensive medication was increased from Lopressor 50 q.d. to 50 b.i.d.  Of note: Given the patient's advanced multiple sclerosis, he has a chronic suprapubic catheter in place.  The Urology Service was consulted and on [**2010-05-28**] the patient's catheter was changed given that he was admitted when he was due to see his urologist in [**Location (un) **] to have it changed.  The patient was discharged home on [**2010-05-28**].  His personal care attendant was notified and will be seeing him at home to help him with activities of daily living.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  The patient is discharged home with services.
+
+DISCHARGE MEDICATIONS:
+1.  Detrol 4 mg p.o.q.d.
+2.  Prozac 20 mg p.o.b.i.d.
+3.  Prednisone 50 mg p.o.q.d.
+4.  Cylert 75 mg p.o.q.d.
+5.  Fosamax 10 mg p.o.q.d.
+6.  Lopressor 50 mg p.o.b.i.d.
+7.  Baclofen 100 mg p.o.q.d.
+8.  Methotrexate 2.5, three times a week.
+9.  Avonex 1 mg per week.
+10. The patient will also take a ten-day course of Augmentin of 875 p.o. b.i.d. 11. Protonix 40 mg p.o.q.d.
+
+DISCHARGE DIAGNOSIS:  Esophageal perforation.
+
+[**First Name8 (NamePattern2) **] [**Doctor Last Name **], M.D.  [**MD Number 2860**]
+
+Dictated By:[**Dictator Info 5942**]
+MEDQUIST36
+
+D:  [**2010-05-28**]  13:29
+T:  [**2010-05-28**]  14:40
+JOB#:  [**Job Number 5943**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: WED [**2010-07-14**] 3:55 PM
+(End of Report)
+

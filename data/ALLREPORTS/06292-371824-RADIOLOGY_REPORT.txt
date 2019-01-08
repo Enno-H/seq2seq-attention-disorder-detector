@@ -1,0 +1,16 @@
+371824	||||	6292	||||	19492	||||	RADIOLOGY_REPORT	||||	2013-01-16 18:01:00.0	||||	C91 CHEST PORT. LINE PLACEMENT	||||		||||	Clip # 391-0781  Actual report	||||	
+DATE: [**2013-01-16**] 6:01 PM
+CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Clip Number (Radiology) 5121**] Reason: assess effusion. r/o ptx                                    Admitting Diagnosis: NON-ST SEGMENT ELEVATION MYOCARDIAL INFARCTION;PEUMONIA\CATH ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+75 yoM s/p cabg and dart placement                                    REASON FOR THIS EXAMINATION: assess effusion. r/o ptx                                                        ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  75-year-old man status post CABG and DART placement.  Assess effusion and rule out pneumothorax.
+
+COMPARISON:  [**2013-01-16**], at 8:25 a.m.
+
+PORTABLE CHEST:  Cardiac, mediastinal and hilar contours are stable.  There is improved aeration of the left lung and decrease in the pleural effusion. There is no evidence of pneumothorax.  A small catheter is noted over the mid left chest.  The right hemidiaphragm remains elevated.  Linear atelectasis and mild pulmonary edema is observed on the right.  Osseous and soft tissue structures are stable.
+
+IMPRESSION:  Interval decrease in left pleural effusion and no evidence of pneumothorax status post left chest catheter placement.
+

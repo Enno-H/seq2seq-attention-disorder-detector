@@ -1,0 +1,29 @@
+340203	||||	14108	||||	17954	||||	RADIOLOGY_REPORT	||||	2013-12-09 22:05:00.0	||||	T9411 MR CERVICAL SPINE	||||		||||	Clip # 354-3895  Actual report	||||	
+DATE: [**2013-12-09**] 10:05 PM
+MR [**First Name (Titles) 101**] [**Last Name (Titles) 102**]; MR [**First Name (Titles) 103**] [**Last Name (Titles) 102**]                            [**Clip Number (Radiology) 484**] Reason: ligamentous injury ?                                        Admitting Diagnosis: S/P FALL TEMP. FRACTURE
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+53 year old man s/p fall from ladder                                            REASON FOR THIS EXAMINATION: ligamentous injury ?can go off tele                                             ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  Status post fall from ladder, evaluate for ligamentous injury.
+
+COMPARISON:  CT of the cervical spine from [**2013-12-07**].
+
+MRI OF THE CERVICAL SPINE:
+
+TECHNIQUE:  Sagittal T1W, T2W, STIR, and axial GRE and T2W images of the cervical spine were performed.
+
+FINDINGS:  Study is limited secondary to patient motion.  Allowing for this, there is no evidence of abnormal alignment of the cervical vertebral bodies, fracture, or abnormal signal within the cervical spine.  The extent of degenerative change and spinal stenosis cannot be fully assessed because of patient motion.  No abnormal signal is demonstrated within the prevertebral soft tissues.
+
+IMPRESSION:  Limited study secondary to patient motion.  No abnormal signal demonstrated within the cervical spine to suggest ligamentous injury.  No definite fracture seen.
+
+MRI OF THE THORACIC SPINE:
+
+TECHNIQUE:  Sagittal T1W, T2W, and STIR images were performed.
+
+FINDINGS:  Two small round foci of increased T1 & T2 signal are demonstrated within the T6 and T9 vertebral bodies consistent with hemangiomas.  Alignment of the thoracic spine is normal.  No areas of abnormal signal are demonstrated within the thoracic spine or spinal cord are present.  Height of the vertebral bodies and intervertebral discs is normal.  Alignment of the vertebral bodies is normal.
+
+IMPRESSION:  No abnormal alignment, fractures, or signal demonstrated within the thoracic spine.
+

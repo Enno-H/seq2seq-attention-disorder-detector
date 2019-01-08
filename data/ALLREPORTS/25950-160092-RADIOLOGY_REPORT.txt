@@ -1,0 +1,26 @@
+160092	||||	25950	||||	21413	||||	RADIOLOGY_REPORT	||||	2012-10-12 16:53:00.0	||||	Q1212 CT HEAD W/ & W/O CONTRAST	||||		||||	Clip # 276-1074  Actual report	||||	
+DATE: [**2012-10-12**] 4:53 PM
+CT HEAD W/ & W/O CONTRAST                                       [**Clip Number (Radiology) 2049**] Reason: s/p gsw now with fevers r/o abcess
+Contrast: OPTIRAY Amt: 100CC
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+44 year old woman with GSW to head. Now with fevers, ? abcess related to GSW REASON FOR THIS EXAMINATION:
+s/p gsw now with fevers r/o abcess
+______________________________________________________________________________
+
+FINAL REPORT
+CT OF HEAD WITHOUT AND WITH IV CONTRAST [**2012-10-12**].
+
+INDICATION:  Status post gunshot wound to head with fevers, evaluate for abscess.
+
+COMPARISON:  [**2012-10-10**].
+
+TECHNIQUE:  CT of head without and with IV contrast.  100 cc Optiray was administered.  Optiray was selected secondary to trauma history.
+
+FINDINGS:  There has been interval decrease in extent of pneumocephalus with a small amount of residual air located anterior to the left frontal lobe as well as air bubbles within the surgical bed in the region of the temporal lobe. There continues to be areas of low density fluid in the surgical bed.  There continues to be mass effect on the midline structures with shift of the normal midline structures to the contralateral side.  This extent of shift does not appear to have changed significantly.  Additionally there is no significant change in the size of the ventricles.  The fourth ventricle is patent.  There is no distinct pathologically enhancing lesion.  Specifically there is no evidence of an abscess.  The osseous structures are unchanged.  There continues to be partial opacification of the maxillary sinuses bilaterally.
+
+IMPRESSION:
+1.  No evidence of intracranial abscess.
+2.  No significant change compared with the prior study.
+

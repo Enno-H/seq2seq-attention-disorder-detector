@@ -1,0 +1,45 @@
+107159	||||	10668	||||	17610	||||	ECHO_REPORT	||||	2019-03-01 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Aortic valve disease. Murmur. 
+Height: (in) 71
+Weight (lb): 173
+BSA (m2): 1.98 m2
+BP (mm Hg): 118/86
+HR (bpm): 70
+Status: Inpatient
+Date/Time: [**2019-03-01**] at 12:38
+Test: TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. 
+
+LEFT VENTRICLE: Severe symmetric LVH. Normal LV cavity size. Normal regional LV systolic function. Overall normal LVEF (>55%). Severe resting LVOT gradient. Findings consistent with hypertrophic obstructive cardiomyopathy (HOCM). 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Mildly dilated aortic root. Mildly dilated ascending aorta. 
+
+AORTIC VALVE: Bicuspid aortic valve. Moderately thickened aortic valve leaflets. Moderate AS. Mild (1+) AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Severe mitral annular calcification. Trivial MR. LV inflow pattern c/w impaired relaxation. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. 
+
+Conclusions: 
+1. There is severe symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Regional left ventricular wall motion is normal. Overall left ventricular systolic function is normal (LVEF>55%). There is a severe resting left ventricular outflow tract obstruction. The findings are consistent with hypertrophic obstructive cardiomyopathy (HOCM). 2. The aortic root is mildly dilated. The ascending aorta is mildly dilated. 
+3. The aortic valve is bicuspid. The aortic valve leaflets are moderately thickened. There is moderate aortic valve stenosis. Mild (1+) aortic regurgitation is seen. 
+4. The mitral valve leaflets are mildly thickened. There is severe mitral annular calcification. Trivial mitral regurgitation is seen. 5. There is a trivial pericardial effusion. 
+

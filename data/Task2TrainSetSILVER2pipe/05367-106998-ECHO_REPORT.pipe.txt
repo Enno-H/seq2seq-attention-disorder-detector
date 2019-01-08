@@ -1,0 +1,5 @@
+05367-106998-ECHO_REPORT.txt||Acronym_Abbreviation||C0013516||33||37
+05367-106998-ECHO_REPORT.txt||Acronym_Abbreviation||C1271104||172||174
+05367-106998-ECHO_REPORT.txt||Acronym_Abbreviation||C0577802||190||192
+05367-106998-ECHO_REPORT.txt||Acronym_Abbreviation||C0430462||273||276
+05367-106998-ECHO_REPORT.txt||Acronym_Abbreviation||C0013516||984||988

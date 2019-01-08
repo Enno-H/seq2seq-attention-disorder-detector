@@ -1,0 +1,44 @@
+98383	||||	3702	||||	20229	||||	ECHO_REPORT	||||	2010-10-19 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Cerebrovascular event/TIA. 
+Height: (in) 72
+Weight (lb): 212
+BSA (m2): 2.19 m2
+BP (mm Hg): 117/46
+Status: Inpatient
+Date/Time: [**2010-10-19**] at 12:04
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: Saline
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is moderately dilated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is moderately dilated. No atrial septal defect is seen by 2D or color Doppler. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. LV systolic function appears depressed. Overall left ventricular systolic function cannot be reliably assessed. 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is moderately dilated. There are focal calcifications in the aortic root. The ascending aorta is moderately dilated. There are focal calcifications in the ascending aorta. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened but not stenotic. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. There is mild mitral annular calcification. There is mild thickening of the mitral valve chordae. There is no significant mitral stenosis. 
+
+TRICUSPID VALVE: The tricuspid valve appears structurally normal with trivial tricuspid regurgitation. 
+
+PULMONIC VALVE/PULMONARY ARTERY: The pulmonic valve leaflets appear structurally normal with physiologic pulmonic regurgitation. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality due to poor echo windows. 
+
+Conclusions: 
+The left atrium is moderately dilated. The right atrium is moderately dilated. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. LV systolic function appears depressed. Overall left ventricular systolic function cannot be reliably quantitated. Right ventricular chamber size and free wall motion are normal. The aortic root is moderately dilated. The ascending aorta is moderately dilated. The aortic valve leaflets (3) are mildly thickened but not stenotic. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. There is no pericardial effusion. 
+

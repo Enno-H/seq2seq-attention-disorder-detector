@@ -1,0 +1,106 @@
+15541	||||	16013	||||	23655	||||	DISCHARGE_SUMMARY	||||	2011-04-16 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-04-15**]     Discharge Date:  [**2011-04-16**]
+
+Date of Birth:   [**1924-02-02**]     Sex:  F
+
+Service:  [**Location (un) **]-M
+
+HISTORY OF PRESENT ILLNESS:  Miss [**lastname **] is an 87 year old Portugese-Creole speaking only woman who presented to the [**Hospital 1026**] Emergency Room on [**53-02-25**], complaining of left lower quadrant abdominal pain, sharp or knife-like in quality, which had begun the night prior to admission and increased with bowel movements.  There was no blood in the stool per the patient.  She denied vaginal bleeding, urinary symptoms, dysuria, recent travel or fevers.  In the Emergency Room, there was some question of whether the patient was having chest pain and in fact the patient was found to have a left bundle branch block with a tachycardia superimposed to the 140 range.
+
+In the Emergency Room, the patient was placed on a Diltiazem drip as well as heparin and her systolic blood pressure at one point was noted to be above 200, lowered to an acceptable range.  She received chest CT scan for a question of a pulmonary embolism and was sent initially to the Medical
+Intensive Care Unit for question of hypertensive crisis.
+
+PAST MEDICAL HISTORY:
+1.  PPD positive.
+2.  Chronic renal insufficiency.
+3.  Diabetes mellitus.
+4.  Transient ischemic attacks.
+5.  Peripheral vascular disease.
+6.  Chronic obstructive pulmonary disease (asthma), home O2.
+7.  Coronary artery disease status post coronary artery bypass graft in [**2003**], status post cholecystectomy.
+8.  History of pulmonary embolism in [**2009**]; recently on
+Coumadin for anti-coagulation.
+9.  History of what were evidently had been multiple myocardial infarctions.
+
+MEDICATIONS AT THE TIME OF ADMISSION:
+1.  Imdur 60 mg p.o. q. day.
+2.  NPH [**06-28**].
+3.  Lisinopril 20 mg p.o. q. day.
+4.  Protonix 40 mg p.o. q. day.
+5.  Klonopin 0.5 mg.
+6.  Lipitor.
+7.  Atenolol.
+8.  Paxil, 10 mg q. day.
+9.  Colace.
+10. Diltiazem 120 mg p.o. twice a day.
+11. Atenolol 25 mg p.o. q. day.
+
+PHYSICAL EXAMINATION:  At the time of admission in the
+Emergency Department, the patient had vital signs noted 97.2 F., temperature; heart rate 139 decreasing to 110 on a Diltiazem drip; blood pressure 180/120 decreasing to 145/61, again on the Diltiazem drip; respiratory rate was 39; 99% was the pulse oxygenation.  In general, a moderately obese woman in respiratory distress.  She was noted to be normocephalic with raccoon eyes.  Oropharynx was clear.  There were no bruits appreciated.  No jugular venous distention was noted. There was thought to be some accessory muscle use.  Breath sounds were coarse at the bases with rare rales.  The patient was, on cardiac examination, tachycardic.  S1 and S2 were normal.  No murmurs, rubs or gallops.  The abdomen was softly distended with tenderness to palpation epigastrically and in the left lower quadrant.  The rectal examination was negative with no stool.  There is no cyanosis, clubbing or edema.
+
+PHYSICAL EXAMINATION:  At the time of admission to the Floor some hours later was as follows:  Temperature 96.9 F.; blood pressure 162/90; pulse 90; respirations 20; 96% on two liters.  The patient speaking fluent Creole/Portugese, however, not clearly oriented to place or time, although difficulties with initial interpretation.  Extraocular movements were intact.  Pupils equally round and reactive to light bilaterally and directly and consensually with fundi obscured bilaterally with cataracts.  Extraocular movements did not show evidence for nystagmus.  There was some left conjunctival hemorrhage.  Mucous membranes were moist.
+Racoon's eyes were noted again bilaterally without battle signs.  Tympanic membranes were poorly visualized, but there was no clear evidence for hemotympanum.  The neck was supple. There was no jugular venous distention.  Cardiac examination was unremarkable.  The chest was clear with a left sided pleural rub heard throughout the left side of the chest.  The abdomen was soft with positive bowel sounds, not significantly distended, but some minor tenderness to palpation in the left lower quadrant.  There was a bruise of the right shin and the left heel appeared to be between 1 and 3 cm lower than the right.
+
+LABORATORY DATA:  CBC was as follows at admission, 7.7 was the white blood cell count, hematocrit 41.7, with 67% neutrophils, 25% lymphocytes, 5% monocytes.  Platelet count of 214.  PT on admission was 16.1, with an INR of 1.8.  PTT was 26.9.  Urinalysis was negative.
+
+Chem-7 at time of admission showed a sodium of 141, potassium of 3.7, chloride 101, bicarbonate 29, BUN 22, creatinine of
+1.1, glucose 368 at first measure.
+
+Cardiac enzymes were repeatedly cycled with values all within the 20 to 25 range.  Troponin were less than or equal to 0.4. Amylase was 190; lipase of 20, ALT 18, AST 18, alkaline phosphatase 117, total bilirubin 0.4, albumin 3.2, calcium
+9.0, phosphate 2.8, magnesium 1.7.  TSH is pending at the time of discharge.
+
+Stool studies are pending at the time of discharge.
+
+Urine culture showed 10 to 100,000 organisms of Proteus mirabilis.
+
+Chest x-ray on [**04-15**], was as follows:  No acute cardiopulmonary process.  A chest CT scan performed on the same day showed no pulmonary embolus, left pleural and parenchymal calcifications and left lower lobe volume loss, i.e. fibrothorax from prior inflammatory process as well as traction bronchiectasis.
+
+The head CT scan was performed on [**04-16**], with the following impression:  No intracranial hemorrhage, no evidence of skull fracture.
+
+Hip x-rays are pending at the time of this dictation.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+Intensive Care Unit with the above-stated complaints on a heparin drip as well as a Diltiazem drip.  The patient's cardiac issues rapidly settled with the patient once again developing a regular rate.  The patient's EKG was felt to represent tachycardia with left bundle branch block but without other pathology.  The patient ruled out by cardiac enzymes.  Once the patient was stabilized, the patient was rapidly transferred to the Floor for further management.
+
+Secondary to concerns surrounding the additional history that the patient gave of a fall approximately three days prior to admission with racoon's eyes on examination, the patient was sent for a CT scan of the head to rule out intra-cranial bleeding or base of the skull fracture.  This study was negative.
+
+In the absence of evidence to suggest acute cardiac process, heparin was discontinued.  Stool studies were sent which are pending at the time of this discharge.  The patient's urine did grow out between 10 and 100,000 organisms of Proteus mirabilis as stated above.  On [**04-16**], the patient was thought to be much improved with no significant abdominal tenderness and no Telemetry events overnight with a pulse in the 80s and systolic blood pressure in the 160s.  As the patient had formerly multiple times been evaluated for abdominal pain including mesenteric angiography and CT scan of the abdomen without a diagnosis being reached, the decision was made to discharge the patient home or appropriate outpatient follow-up with her outpatient provider, Dr. [**Last Name (STitle) 367**].
+
+MEDICATIONS AT DISCHARGE:
+1.  Imdur 60 mg p.o. q. day.
+2.  NPH [**06-28**].
+3.  Lisinopril 20 mg p.o. q. day.
+4.  Protonix 40 mg p.o. q. day.
+5.  Klonopin 0.5 mg.
+6.  Lipitor.
+7.  Atenolol.
+8.  Paxil, 10 mg q. day.
+9.  Colace.
+10. Diltiazem 120 mg p.o. twice a day.
+11. Atenolol 25 mg p.o. q. day.
+12. Bactrim DS, one tablet p.o. three times a day times ten days for presumed Proteus mirabilis urinary tract infection. 13. Please note that the patient will also be discharged on Metered-Dose Inhalers for presumed chronic obstructive pulmonary disease with reactive component and will follow-up with her primary care physician to determine whether this treatment is necessary.
+
+DISCHARGE DIAGNOSES:
+1.  Ruled out for myocardial infarction.
+2.  No evidence for pulmonary embolism.
+3.  No evidence of acute intracranial process.
+4.  Recurrence of chronic intermittent abdominal pain of unexplained etiology.
+5.  Diabetes mellitus.
+6.  Asthma.
+
+CONDITION AT DISCHARGE:   Stable.
+
+DISCHARGE INSTRUCTIONS:
+
+[**First Name8 (NamePattern2) **] [**Male First Name (un) **] M.D [**MD Number 6143**]
+
+Dictated By:[**Dictator Info 6367**]
+
+MEDQUIST36
+
+D:  [**2011-04-16**]  16:05
+T:  [**2011-04-18**]  13:55
+JOB#:  [**Job Number 8903**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Male First Name (un) **] on: FRI [**2011-05-13**] 2:04 PM
+(End of Report)
+

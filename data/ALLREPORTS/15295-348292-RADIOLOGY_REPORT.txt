@@ -1,0 +1,19 @@
+348292	||||	15295	||||	12622	||||	RADIOLOGY_REPORT	||||	2013-02-17 09:37:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 389-7196  Actual report	||||	
+DATE: [**2013-02-17**] 9:37 AM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 1913**] Reason: effusion?                                                   Admitting Diagnosis: CHF\CORONARY ARTERY BYPASS GRAFT; EPICARDIAL LEAD PLACEMENT/SDA ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+s/p CABGx3/Epicardial Lead Placement                                          
+
+REASON FOR THIS EXAMINATION:
+effusion?                                                                       ______________________________________________________________________________
+
+FINAL REPORT
+CHEST, SINGLE VIEW
+
+HISTORY:  Status post CABG and epicardial lead placement, question effusion.
+
+REFERENCE EXAM:  [**02-16**]
+
+FINDINGS:  Again noted are epicardial leads projecting over the cardiac apex. The patient is status post median sternotomy with skin staples in place. There is a right IJ Swan-Ganz catheter with tip poorly visualized.  It is unclear where the tip of the catheter is located.  If clinically indicated, this film should be repeated to ascertain location of the tip of Swan-Ganz catheter.  There are bilateral pleural effusions, right greater than left. There is left lower lobe consolidation/volume loss.
+

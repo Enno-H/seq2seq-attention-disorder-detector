@@ -1,0 +1,9 @@
+77812	||||	16817	||||	23170	||||	ECG_REPORT	||||	2016-02-01 23:49:00.0	||||		||||		||||		||||	
+Baseline artifact
+Sinus tachycardia
+Indeterminate QRS axis
+Low limb leads voltage - is nonspecific
+Prominent inferolateral Q waves - are nondiagnostic
+Consider chronic pulmonary disease
+Since previous tracing of [**2011-09-05**], sinus tachycardia present
+

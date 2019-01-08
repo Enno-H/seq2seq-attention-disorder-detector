@@ -1,0 +1,28 @@
+274571	||||	21215	||||	25725	||||	RADIOLOGY_REPORT	||||	2014-02-05 16:16:00.0	||||	Q424 CT ABD W&W/O C	||||		||||	Clip # 427-1170  Actual report	||||	
+DATE: [**2014-02-05**] 4:16 PM
+CT ABD W&W/O C; CT PELVIS W&W/O C                               [**Clip Number (Radiology) 2244**] Reason: evaluate for nephrolithiasis, hydronephrosis, urinary tract Admitting Diagnosis: ALCOHOL WITHDRAWAL
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+40 year old man with UTI/flank pain                                             REASON FOR THIS EXAMINATION: evaluate for nephrolithiasis, hydronephrosis, urinary tract anomoly             No contraindications for IV contrast
+______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  40-year-old male with UTI and flank pain.
+
+COMPARISON:  Abdominal ultrasound from two days prior.
+
+TECHNIQUE:  Multidetector CT scanning of the abdomen and pelvis was performed before and after the administration of intravenous contrast.  Coronal and sagittal reformations were obtained.
+
+CT OF THE ABDOMEN:  The lung bases are clear apart from dependent atelectasis. The visualized heart and pericardium appear unremarkable.  The liver is diffusely low in attenuation consistent with fatty infiltration.  No focal lesions are identified.  The gallbladder is collapsed.  The adrenal glands, pancreas, loops of bowel, and kidneys appear normal.  The spleen is enlarged measuring 18 cm.  There are nonspecific borderline lymph nodes in the celiac region measuring up to 12 mm in short axis.  There is no ascites, free intraperitoneal air, or drainable fluid collections.  Small retroperitoneal lymph nodes are seen, which do not meet criteria for pathologic enlargement. The abdominal aorta is of normal caliber throughout.
+
+CT OF THE PELVIS:  The ureters appear unremarkable throughout their course. The bladder, prostate, seminal vesicles, and rectum appear unremarkable. There is no evidence of nephrolithiasis.  There is no hydronephrosis.  Small bilateral fat containing inguinal hernias are seen.  There is no free fluid in the pelvis.  No pathologic pelvic or inguinal lymphadenopathy is seen.
+
+OSSEOUS STRUCTURES:  There is degenerative change of the spine without concerning lytic or sclerotic lesions.  Healing fractures in the eighth and ninth ribs on the left and healed fractures of the tenth right rib are seen.
+
+IMPRESSION:
+1.  No evidence of hydronephrosis or nephrolithiasis.  Normal renal enhancement without CT evidence of pyelonephritis.
+2.  Diffusely low attenuation liver consistent with fatty infiltration.
+3.  Splenomegaly.
+4.  Nonspecific borderline lymph nodes along the celiac axis.
+

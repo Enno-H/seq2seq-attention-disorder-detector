@@ -1,0 +1,6 @@
+58370	||||	25585	||||	29251	||||	ECG_REPORT	||||	2015-08-13 08:48:00.0	||||		||||		||||		||||	
+Regular rhythm
+Marked left axis deviation
+RBBB with left anterior fascicular block
+Since previous tracing of [**2015-08-12**], no significant change
+

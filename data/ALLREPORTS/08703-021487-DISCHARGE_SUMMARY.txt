@@ -1,0 +1,97 @@
+21487	||||	8703	||||	28634	||||	DISCHARGE_SUMMARY	||||	2017-05-08 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2017-05-01**]       Discharge Date:  [**2017-05-08**]
+
+Date of Birth:   [**1971-05-16**]       Sex:  M
+
+Service:  [**Hospital Unit Number 5715**]
+
+CHIEF COMPLAINT:  Chronic aspiration.
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 45-year-old male with Down's syndrome with frequent aspirations resulting in several episodes of aspiration pneumonia.  The patient has had a gastric feeding tube since [**2009-03-26**].  A swallowing video fluoroscopy in [**2008**] revealed moderate to severe oropharyngeal swallowing disturbance with aspiration after the swallow and poor laryngeal sensitivity noted by absent cough following the aspiration.
+
+PAST MEDICAL HISTORY:
+1.  Down's syndrome with profound mental retardation.
+2.  Hepatitis B carrier.
+3.  Osteoporosis.
+4.  Hiatal hernia.
+5.  Allergic rhinitis.
+6.  Constipation.
+7.  Left retractile testis.
+8.  Right hip subluxation.
+9.  Atopic dermatitis.
+
+PAST SURGICAL HISTORY:
+1.  Right total hip replacement in [**2015-08-24**].
+2.  G tube placement in [**2009-03-26**].
+3.  Excision of thigh lipoma in [**2009-07-25**].
+4.  Left cataract extraction with lens implant.
+
+ALLERGIES:  Keflex which causes a rash, Reglan which causes dystonia, and acetazolamide.
+
+ADMISSION MEDICATIONS:
+1.  Protonix 40 b.i.d.
+2.  Theophylline 200 q.p.m.
+3.  Multivitamin.
+4.  Milk of magnesia.
+5.  Loratadine 10 mg every evening.
+6.  Lactobacillus 40 b.i.d.
+
+SOCIAL HISTORY:  The patient is a resident of [**Location 843**] Developmental Center.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Cardiac:  Regular rate and rhythm.  Lungs:  Clear to auscultation bilaterally.
+Abdomen: Soft, nondistended, nontender with a G tube in place.  Extremities:  Severe muscular atrophy, no edema, clubbing, or cyanosis.
+
+HOSPITAL COURSE:  The patient was admitted to preop and holding where he underwent narrow-field laryngectomy.  The patient tolerated this procedure well.  Please see the operative note for details.  Chest x-ray postoperatively revealed a tracheostomy tube in good position with no pneumothorax.  The patient was transferred to the Surgical
+Intensive Care Unit on the ventilator.  He was placed on IV
+Clindamycin and IV Flagyl.
+
+On postoperative day number one, it was attempted to wean the patient off the ventilator.  The patient was weaned to CPAP; however, he was placed back on the ventilator due to desaturations.  Pink frothy sputum was noted at the site of the tracheostomy.  Chest x-ray showed a small amount of CHF; however, the patient's lungs were clear to auscultation and it was again attempted to wean the ventilator.  Tube feeds were also started on postoperative day number two at 10 cc per hour and tube feeds were advanced conservatively to a goal of 50 cc per hour.
+
+The patient was weaned from the ventilator on postoperative day number three successfully.  The patient was transferred from the ICU to a floor bed on postoperative day number five. His tracheostomy tube was removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5716**]-Singer tracheostomy tube was put in its place to support the stoma until it had matured.  Duoderm was placed in the parastomal area to protect skin from breakdown.  The patient was placed in a continuous 02 sat monitor setting.  He was kept n.p.o. and tube feeds were advanced to goal.
+
+On postoperative day number seven, it was attempted to obtain a Barium swallow study to test for any esophageal leak; however, per the Radiology staff, the patient was unable to cooperate with the Barium swallow in that he was unable to maintain proper positioning during the study and was unable to follow commands as to when to swallow the barium contrast. However, the patient was felt to be stable and was discharged on postoperative day number seven.  Throughout his hospital stay, his electrolytes were monitored and repleted as needed.
+
+Nutrition was consulted for advice regarding the patient's tube feeds and he remained stable throughout his hospital stay.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS: To an extended care facility.
+
+DISCHARGE DIAGNOSIS:
+1.  Chronic aspiration.
+2.  Status post narrow-field laryngectomy.
+
+DISCHARGE INSTRUCTIONS: The patient should follow-up with Dr. [**Last Name (STitle) 460**] in one week.  The office should be contacted for an appointment.
+
+DISCHARGE INSTRUCTIONS FOR THE TRANSFER FACILITY:
+1.  Remove and clean the [**Last Name (un) 5716**]-Singer tracheostomy device with warm water twice a day.
+2.  Clean the crust from his stoma using moist Q-Tips twice a day.
+3.  Keep Duoderm on the parastomal areas.
+4.  Continue humidified air to his stoma.
+
+DIET: The patient should follow a clear liquid diet.  He should receive Probalance full-strength tube feeds at 50 cc per hour and residuals should be checked every four hours and tube feedings should be held for residuals greater than or equal to 150 milliliters.  His tube should be flushed with 30 milliliters of water q. four hours and as needed.
+
+DISCHARGE MEDICATIONS:
+1.  Theophylline 200 mg per the G tube once a day.
+2.  [**Last Name (un) 374**] 60 mg twice a day per G tube.
+3.  Calcium carbonate 12.5 milliliters once a day per the G tube.
+4.  Flovent inhaler two puffs twice a day.
+5.  Colace 100 mg twice a day per the G tube.
+6.  Percocet [**07-03**] milliliters every four to six hours as needed for pain.
+7.  Benadryl 25 mg one capsule every six hours as needed for itching per the G tube.
+8.  Albuterol inhaler, one nebulizer treatment every six hours as needed for shortness of breath or wheezing.
+9.  Protonix 40 mg once a day per the G tube.
+10. Lopressor 37.5 mg three times a day per the G tube.
+11. Lasix 20 mg one tablet twice a day per the G tube.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. [**MD Number 4099**]
+
+Dictated By:[**Dictator Info 5717**]
+MEDQUIST36
+
+D:  [**2017-05-08**]  12:22
+T:  [**2017-05-08**]  12:35
+JOB#:  [**Job Number 5718**]
+
+cc:[**CC Contact Info 5719**]
+

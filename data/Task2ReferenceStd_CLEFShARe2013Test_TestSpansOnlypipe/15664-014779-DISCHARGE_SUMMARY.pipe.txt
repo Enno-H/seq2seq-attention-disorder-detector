@@ -1,0 +1,1 @@
+15664-014779-DISCHARGE_SUMMARY.txt||Acronym_Abbreviation||YOUR_CUI||218||219

@@ -1,0 +1,46 @@
+106200	||||	13913	||||	5755	||||	ECHO_REPORT	||||	2011-11-21 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Congestive heart failure.  Coronary artery disease.  Aortic valve disease. Height: (in) 60
+Weight (lb): 126
+BSA (m2): 1.54 m2
+BP (mm Hg): 119/48
+HR (bpm): 72
+Status: Inpatient
+Date/Time: [**2011-11-21**] at 09:01
+Test: TTE (Complete)
+Doppler: Full doppler and color doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Symmetric LVH. Normal LV cavity size. Depressed LVEF. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. 
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets. Severe AS. Right parasternal view used for AS gradient. Mild (1+) AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Severe mitral annular calcification. Moderate (2+) MR. Eccentric MR jet. 
+
+TRICUSPID VALVE: Moderate [2+] TR. Moderate PA systolic hypertension. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Compared to the findings of the prior study, the severity of aortic stenosis has increased. 
+
+Conclusions: 
+1. There is symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. LV systolic function appears depressed. Distal septal and apical hypokinesis is probably present. 
+2. The aortic valve leaflets are moderately thickened. There is severe aortic valve stenosis. Mild (1+) aortic regurgitation is seen. 
+3. The mitral valve leaflets are mildly thickened. There is severe mitral annular calcification. Moderate (2+) mitral regurgitation is seen. The mitral regurgitation jet is eccentric. 
+4. Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. 
+5. Compared to the findings of the prior study of [**2011-05-04**], the severity of aortic stenosis has increased. 
+

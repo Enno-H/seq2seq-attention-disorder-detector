@@ -1,0 +1,4 @@
+20807-104709-ECHO_REPORT.txt||Acronym_Abbreviation||C0013516||34||38
+20807-104709-ECHO_REPORT.txt||Acronym_Abbreviation||C0042510||146||148
+20807-104709-ECHO_REPORT.txt||Acronym_Abbreviation||C0005902||183||186
+20807-104709-ECHO_REPORT.txt||Acronym_Abbreviation||C0430462||271||274

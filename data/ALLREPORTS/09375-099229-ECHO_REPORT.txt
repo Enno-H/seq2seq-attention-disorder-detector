@@ -1,0 +1,41 @@
+99229	||||	9375	||||	8882	||||	ECHO_REPORT	||||	2013-06-21 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Elevated ESR and WBC.
+Weight (lb): 118
+BP (mm Hg): 103/58
+HR (bpm): 91
+Status: Inpatient
+Date/Time: [**2013-06-21**] at 11:53
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and systolic function (LVEF>55%). Suboptimal technical quality, a focal LV wall motion abnormality cannot be fully excluded. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. 
+
+AORTIC VALVE: Normal aortic valve leaflets. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. 
+
+Conclusions: 
+1. Left ventricular wall thickness, cavity size, and systolic function are normal (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. 
+2. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. 
+3. No clear evidence of endocarditis seen. 
+

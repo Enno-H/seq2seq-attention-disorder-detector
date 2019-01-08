@@ -1,0 +1,6 @@
+09040-052377-ECG_REPORT.txt||Disease_Disorder||CUI-less||113||134
+09040-052377-ECG_REPORT.txt||Disease_Disorder||CUI-less||155||174
+09040-052377-ECG_REPORT.txt||Disease_Disorder||CUI-less||176||195
+09040-052377-ECG_REPORT.txt||Disease_Disorder||C0085615||197||222
+09040-052377-ECG_REPORT.txt||Disease_Disorder||CUI-less||224||247
+09040-052377-ECG_REPORT.txt||Disease_Disorder||CUI-less||252||277

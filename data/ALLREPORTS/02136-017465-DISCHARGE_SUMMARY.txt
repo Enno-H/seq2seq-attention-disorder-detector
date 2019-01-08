@@ -1,0 +1,110 @@
+17465	||||	2136	||||	1793	||||	DISCHARGE_SUMMARY	||||	2011-02-22 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2011-02-15**]     Discharge Date:  [**2011-02-22**]
+
+Date of Birth:   [**1946-12-16**]     Sex:  M
+
+Service:  C-[**Hospital Unit Name **]
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 64-year-old male with a past medical history significant for end-stage renal disease (on hemodialysis) who was admitted on [**02-15**] to the Surgical Transplant Service for arteriovenous fistula revision and thrombectomy.
+
+PAST MEDICAL HISTORY:
+1.  End-stage renal disease (on hemodialysis on Monday,
+Wednesday, and Friday).
+2.  History of pancreatitis.
+3.  Status post cerebrovascular accident in [**1996**] with residual left hemiparesis.
+4.  History of gout.
+5.  Multiple Escherichia coli bacteremia infections.
+6.  Diverticulosis.
+7.  Chronic obstructive pulmonary disease.
+8.  Hypertension.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Enalapril 20 mg p.o. q.d.
+2.  Labetalol 200 mg p.o. q.d.
+3.  Isosorbide dinitrate 20 mg p.o. t.i.d.
+4.  Clonidine TTS #3 patch every Thursday.
+5.  Sevelamer 800 mg p.o. t.i.d.
+6.  Nephrocaps one tablet p.o. q.d.
+7.  Lipitor 40 mg p.o. q.d.
+
+SOCIAL HISTORY:  The patient is an emigrant from [**Country 1052**].  The patient is married and lives with his wife.  The patient speaks [**Ethnicity 1991**] Creole as well as some English.  The patient denies a history of tobacco, alcohol, as well as illicit drug use.
+
+FAMILY HISTORY:  Family history unknown.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Physical examination on transfer from the Surgery Service to Cardiology Service revealed temperature was 98.6, blood pressure was 140/70, heart rate was 91, respiratory rate was 16, and oxygen saturation was 98% on room air.  In general, the patient was a well-developed and well-nourished male complaining of chest pain.  In moderate distress.  Head, eyes, ears, nose, and throat examination revealed normocephalic and atraumatic.
+Sclerae were anicteric.  Pupils were equal, round, and reactive to light and accommodation.   The oropharynx was clear.  Mucous membranes were moist.  The neck was supple. No jugular venous distention or lymphadenopathy appreciated. Cardiovascular examination revealed a regular rate and rhythm.  Normal first heart sound and second heart sound.  A systolic murmur at the right upper sternal border with no third heart sound or fourth heart sound appreciated. Pulmonary examination was clear to auscultation bilaterally without wheezes, rhonchi, or rales.  Abdominal examination revealed soft and nondistended.  Diffusely tender without guarding or rebound.  Normal active bowel sounds.  Extremity examination revealed no edema.  Dorsalis pedis and posterior tibialis pulses were 2+.  Right arm arteriovenous fistula dressing was clean, dry, and intact with a palpable thrill.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  Admission laboratories revealed complete blood count with a white blood cell count of 5.2, hematocrit was 31.3, and platelets were
+121.  INR was 1.1.  Chemistry-7 revealed sodium was 138, potassium was 4.2, chloride was 99, bicarbonate was 19, blood urea nitrogen was 76, creatinine was 3.3, and blood glucose was 126.  Calcium was 9.4, magnesium was 2.1, and phosphate was 9.5.  The patient had multiple sets of cardiac enzymes with negative creatine kinase (peak of 90) and an evaluated troponin I with a peak of 29.  She also had a cholesterol panel during her hospitalization with a total cholesterol of 118, triglycerides were 87, high-density lipoprotein was 34, and low-density lipoprotein was 67.  Hemoglobin A1c was 5.8.
+
+RADIOLOGY/IMAGING:   The patient's electrocardiogram on hospital day two demonstrated a normal sinus rhythm at 68 with atrioventricular conduction delay.  New T wave inversions in leads I, aVL, V4 through V6.  Q waves in leads in III and aVF.
+
+HOSPITAL COURSE:   The patient underwent arteriovenous fistula repair and thrombectomy on hospital day one without complications.
+
+However, on postoperative day one, the patient developed the acute onset of substernal chest pain with diaphoresis, nausea, and vomiting.  An electrocardiogram demonstrated new T wave inversions in the anterolateral leads, and the patient was sent for emergent cardiac catheterization.
+
+Cardiac catheterization revealed 3-vessel disease with 70% proximal and 95% mid left anterior descending artery stenosis, 70% proximal left circumflex stenosis, 80% second obtuse marginal stenosis, and 75% proximal and 80% mid right coronary artery stenosis.  The patient underwent percutaneous transluminal coronary angioplasty and stenting (times two) of the left anterior descending artery with good results.
+
+The patient had a stable post catheterization course until
+[**02-17**]; when, during hemodialysis, the patient complained of abdominal pain with nausea and vomiting.  Hemodialysis was discontinued early, and the patient was returned to the floor where the nausea and vomiting continued, and the patient complained of recurrent chest pain.
+
+A repeat electrocardiogram demonstrated anteroinferior ST elevations, and the patient went for emergent re-look catheterization.  Catheterization was without evidence of acute thrombosis or change in anatomy, and no intervention was required.
+
+However, immediately status post catheterization, the patient developed large hematemesis; initially coffee-grounds emesis followed by bright red blood per rectum.  The patient was hemodynamically stable and without chest pain at the time and was transferred to the Cardiothoracic Intensive Care Unit for further management.
+
+The patient's blood pressure medications were held, and the patient was transfused one unit of packed red blood cells for a hematocrit of 25.6 (down from 31 twelve hours prior).  The patient refused a nasogastric lavage and was started on high-dose proton pump inhibitor without further episodes of hematemesis.  The patient continued to remain hemodynamically stable without further episodes of chest pain.
+
+An echocardiogram was performed which demonstrated mild left and right atrial dilatation, symmetric left ventricular hypertrophy, normal right and left ventricular size and function, with an ejection fraction of 55%, moderate aortic root dilatation, and 1+ aortic regurgitation, and trivial tricuspid regurgitation.
+
+The patient was transferred to the Cardiac Medicine floor where he remained for 48 hours.  The patient's hematocrit remained stable with a discharge hematocrit of 33.4.  There was no further need for a transfusion.  The patient remained hemodynamically stable, and blood pressure medications were restarted without complications.
+
+The patient has a history of end-stage renal disease (on hemodialysis three times per week).  The patient was continued on hemodialysis throughout the hospitalization via a temporary port while the arteriovenous fistula matured.
+The arteriovenous fistula remained dressed and without signs of infection.
+
+CONDITION AT DISCHARGE:  Condition on discharge was good; ambulating without difficulty, chest pain free, and without further evidence of bleeding.
+
+DISCHARGE DIAGNOSES:
+1.  Non-ST-elevation myocardial infarction.
+2.  Status post cardiac catheterization with percutaneous transluminal coronary angioplasty and stenting of the left anterior descending artery.
+3.  Upper gastrointestinal bleed (no intervention).
+4.  Status post arteriovenous fistula repair and thrombectomy.
+5.  End-stage renal disease (on hemodialysis).
+6.  Cerebrovascular accident with residual left hemiparesis.
+7.  Chronic obstructive pulmonary disease.
+8.  Gout.
+9.  Diverticulosis.
+10.  Multiple Escherichia coli bacteremia infections.
+
+MEDICATIONS ON DISCHARGE:
+1.  Plavix 75 mg p.o. q.d. (times three months).
+2.  Enalapril 20 mg p.o. q.d.
+3.  Labetalol 200 mg p.o. q.d.
+4.  Protonix 40 mg p.o. b.i.d.
+5.  Isosorbide dinitrate 20 mg p.o. t.i.d.
+6.  Sevelamer hydrochloride 800 mg p.o. t.i.d.
+7.  Nephrocaps one tablet p.o. q.d.
+8.  Sublingual nitroglycerin 0.3 mg tablet as needed (for chest pain). 9.  Clonidine patch TTS #3 every week.
+
+DISCHARGE STATUS:  The patient was discharged to home with
+Visiting Nurse Association services for medication teaching and compliance reinforcement.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient was instructed to continue hemodialysis as per usual on the day status post discharge.
+2.  An appointment with Vascular/Transplant Surgery; follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 201**] on [**03-03**] at 2 p.m. at [**Street Address 4745**].
+3.  The patient was scheduled with primary care physician (Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]) for an initial appointment on [**03-14**] at 3:30 p.m. in the [**Last Name (un) 636**] Building, sixth floor, [**Hospital 146**] Clinic. 4.  The patient was scheduled for an initial Gastroenterology appointment with Dr. [**Last Name (STitle) 915**] on [**03-15**] at 1:20 in the West Campus Clinic.
+5.  The patient was scheduled for an initial Cardiology appointment with Dr. [**Last Name (STitle) 3755**] on [**03-16**] at 9 a.m. at [**Street Address 4745**].
+
+[**First Name11 (Name Pattern1) 130**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 4445**]
+
+Dictated By:[**Dictator Info 1089**]
+
+MEDQUIST36
+
+D:  [**2011-02-25**]  12:48
+T:  [**2011-03-01**]  07:53
+JOB#:  [**Job Number 4746**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 130**] [**Last Name (NamePattern1) **] on: MON [**2011-03-14**] 2:58 PM
+(End of Report)
+

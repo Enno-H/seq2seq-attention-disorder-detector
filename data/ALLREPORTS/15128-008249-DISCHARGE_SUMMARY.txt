@@ -1,0 +1,118 @@
+8249	||||	15128	||||	16309	||||	DISCHARGE_SUMMARY	||||	2014-01-31 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-01-26**]              Discharge Date:   [**2014-01-31**]
+
+Date of Birth:  [**1959-01-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1383**] 
+Chief Complaint:
+hemetemesis and melena
+
+Major Surgical or Invasive Procedure:
+Upper endoscopy
+
+History of Present Illness:
+Pt is a 55y/o M w/ a PMH significant for EtOH abuse resulting in cirrhosis (s/p variceal bleed in 5/05) who presented to an OSH w/ hemetematsis and melena. He was transfused 5u PRBC, 2u FFP, and 5u Plts at the OSH and intubated for airway protection. EGD there demonstrated non-bleeding varices and a bleeding gastric ulcer (unable to successfully cauterize/epi inject). He was transfered here for further care.  
+
+On transfer, the patient was hemodynamically stable in the ER and was started on octreotide, nadolol, protonix, and levaquin. He received a repeat EGD which showed grade III non-bleeding varices in the lower 3rd of the esophagus along with extensive esophageal ulceration. In the stomach, they noted severe gastropathy along with a non-bleeding proximal stomach lesion. He was maintained on a CIWA scale throughout his stay. He has not received blood products since admission. The patient was extubated on [**01-27**], tolerated this well, and was weaned off supplemental O2 by the time he was called out to the floor. Today, the patient complains of intermittant diffuse abdominal pain that is relieved with passing gas/bowel movements. He also notes intermittant L sided CP that has happened on and off for the past several months only while he is active. He denies radiation or associated symptoms and states that it is happening ~ 1x/d and abates after approximately 1min. He denies any CP currently and also denies current abdominal pain, SOB, HA, weakness, palpatations, paresthesias. 
+
+Past Medical History:
+1. Alcoholism: pt still actively drinking 6 pack per day, never been treated for w/d, never seized  
+2. EtOH Cirrhosis s/p variceal bleed [**05-30**]  
+3. inguinal hernia repair 2003  
+4. HTN  
+5. Pancytopenia (?secondary to EtOHism)  
+6. s/p finger amputation 
+
+Social History:
+EtOh: 12 beers/day  
+No tobacco  
+Lives with wife in [**Name2 (NI) 3973**], worked as a meat cutter 32yrs.  states sober for 6 wks after his last variceal bleed but started drinking after this because of the stress of his job and caring for his mother and father-in-law
+
+Family History:
+n/c
+
+Physical Exam:
+98.7, 108/66, 77, 19, 95% RA
+Gen: well appearing male lying in bed in NAD  
+HEENT: Eyes - nl visual fields, EOMI, PERRLA Ears - TMs clear, CNVIII intact, Weber midline Mouth - MMM, red/purple ecchymoses on posterior palate, uvula
+Neck: small 2mm L cervical LN, non-tender  
+CV: nl PMI, RRR, -M/R/G  
+Lungs: good air entry, clear to percussion, CTA bilaterally  Abd: S/NT, mildly distended, +BS, -HSM,liver span 4cm in midclavicular line, - caput medusa/spider angiomata/palmar erythema  
+Ext: -C/C/E, no rashes  
+Neuro: CN [**03-09**] grossly intact, Strength 5/5 in UE and LE bilat, 2+ patellar reflexes, AAO x3 
+
+Pertinent Results:
+[**2014-01-26**] 07:23PM   PT-13.9* PTT-26.7 INR(PT)-1.3
+[**2014-01-26**] 07:23PM   PLT SMR-VERY LOW PLT COUNT-78*
+[**2014-01-26**] 07:23PM   WBC-6.9 RBC-3.54* HGB-11.8* HCT-32.3* MCV-91  MCH-33.3* MCHC-36.4* RDW-16.3*
+[**2014-01-26**] 07:23PM   ALBUMIN-3.0* CALCIUM-6.6* PHOSPHATE-2.2*  MAGNESIUM-1.6
+[**2014-01-26**] 07:23PM   CK-MB-8 cTropnT-<0.01
+[**2014-01-26**] 07:23PM   GLUCOSE-229* UREA N-10 CREAT-0.8 SODIUM-143  POTASSIUM-3.2* CHLORIDE-112* TOTAL CO2-21* ANION GAP-13
+[**2014-01-26**] 07:23PM   GLUCOSE-229* UREA N-10 CREAT-0.8 SODIUM-143  POTASSIUM-3.2* CHLORIDE-112* TOTAL CO2-21* ANION GAP-13
+[**2014-01-26**] 09:06PM   TYPE-ART RATES-/15 TIDAL VOL-600 O2-40 PO2-87  PCO2-41 PH-7.37 TOTAL CO2-25 BASE XS--1 -ASSIST/CON  INTUBATED-INTUBATED
+
+Abd U/S [**2013-01-27**]:  
+1. Nodular cirrhotic liver.  
+2. Small amount of ascites in the right upper quadrant. Too small to mark a spot for paracentesis.  
+3. Normal hepatic Dopplers.  
+4. Gallbladder wall edema, likely secondary to underlying liver disease  
+
+EGD [**2013-01-26**]: Lesion in proximal stomach body as previously noted, but not actively bleeding. Varices at the lower third of the esophagus  
+Small amounts of older clotted blood was seen in the body and fundus, but no active bleeding was seen. Extensive ulceration of the mid-distal esophagus. Severe erythema, congestion and nodularity in the stomach body and fundus compatible with severe portal gastrophathy.  
+Otherwise normal egd to second part of the duodenum  
+
+Brief Hospital Course:
+Pt presented to OSH, with hemetemesis and melena. There, his BP was 147/87 and HR was 100. An NGT was placed. Aspirate revealed 1400cc of red blood. An EGD revealed an actively bleeding gastric ulcer and nonbleeding esophageal varices. Initial Hct was found to be 28.8 and platelets were found to be 37,000. Pt was transfused 5u PRBC, 2u FFP, 5u Plts. Pt was intubated for airway protection and started on octreotide, protonix, levofloxacin, flagyl and ativan. Pt was transferred to [**Hospital1 33**] for further treatment.  On transfer to [**Hospital1 33**], pt's vital signs were stable. A repeat EGD was performed, which showed  non-bleeding grade III esophageal varices in the lower [**01-28**] of the esophagus. In addition, there were extensive ulcerations in both esophagus and stomach. The stomach was found to be diffusely erythematous, congested and nodular with evidence of severe gastropathy. There were a few dark clots with no active bleeding. In the greater curvature, there was heaped up mucosa, likely the area of recent hemorrhage. The nature of the lesion, (a gastric varix versus focal bleed of gastropathy versus bleeding ulcer) was unable to be determined. No intervention was performed. In the [**Hospital Unit Name **], pt was stable. He has not required any further blood products. Hct has been stable, fluctuating within a range of  30.5-33.8. He passed 2 more melenic stools in the [**Hospital Unit Name **]. Pt was extubated on [**01-27**] and tolerated a wean of supplemental O2. A RUQ U/S was obtained, which showed a small amount of ascites. The liver was nodular and superior mesenteric, portal and splenic veins and hepatic arteries and veins were patent. Pt was transferred to the floor on [**01-29**]. His vital signs remained stable. His Hct remained stable at 30-34 with no further episodes of hemetemesis or melena. Pt will obtain a repeat EGD as well as a colonoscopy as an outpatient. He will follow up the Liver clinic (Dr. [**Last Name (STitle) 3974**]) on Tuesday [**02-04**], to have a repeat EGD. Given the pt's history of chronic EtoH abuse, DT prophylaxis with diazepam was continued, following a CIWA scale.  On [**01-28**] and [**01-29**] the patient had 2 episodes of asymptomatic NSVT.  Mg and K were repleted as they were low normal. An Echo was performed which revealed preserved biventricular function. He continued to have low normal potassium and magnesium which was aggressively repleted. His electrolyte loss was attributed to his alcoholic liver disease.  The pt was also found to be pancytopenic which platelet counts in the 40s to 60s and mild leukopenia ranging aroun 3700. 
+Platelet counts and leukocytes remained stable.  
+Pt met with social worker to discuss outpatient addiction services. After contacting several programs, the patient decided to attend a daily group program with his son. His family is supportive of this decision. 
+
+Medications on Admission:
+Octreotide gtt  
+Levofloxacin 500mg IV X 1  
+Flagyl 500 mg IV X 1  
+Protonix 80 mg IV X 1  
+Ativan gtt  
+
+Discharge Medications:
+1. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+2. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 5 days. Disp:*5 Tablet(s)* Refills:*0*
+3. Venlafaxine 37.5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). Disp:*90 Tablet(s)* Refills:*2*
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+5. Mag-Caps 140 mg Capsule Sig: Three (3) Capsule PO three times a day: Do not take together with Levofloxacin. Disp:*180 Capsule(s)* Refills:*2*
+6. Nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Two (2) Tab Sust.Rel. Particle/Crystal PO twice a day. Disp:*120 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Gastrointestinal bleed, originating most likely from gastric lesion. No evidence of bleeding from esophageal varices. ...............
+Liver cirrhosis
+Esophageal varices
+Mild mitral regurgitation 
+Small ascites
+
+Discharge Condition:
+Stable hematocrit, good condition
+
+Discharge Instructions:
+Please come back to the hospital or see your primary care doctor if you have any, nausea, vomiting, bloody or dark stools, lightheadedness, dizziness or any other concerns.
+
+Please take all the medications as instructed.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 314**] on the [**02-04**]. Please be at the [**Wardname 266**]building at 8am to have your endoscopy at 9am. Afterwards you will see Dr. [**Last Name (STitle) 314**].
+
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 1387**]
+
+Completed by: [**First Name11 (Name Pattern1) 2339**] [**Name7 (MD) 2340**] MD [**MD Number 2341**] [**2014-01-31**] @ 1847
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on: SUN [**2014-03-02**] 10:36 PM
+(End of Report)
+

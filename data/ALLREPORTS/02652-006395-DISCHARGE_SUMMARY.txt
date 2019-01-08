@@ -1,0 +1,136 @@
+6395	||||	2652	||||	26172	||||	DISCHARGE_SUMMARY	||||	2015-05-13 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2015-05-07**]              Discharge Date:   [**2015-05-13**]
+
+Date of Birth:  [**1935-08-14**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: 
+Lipitor
+
+Attending:[**Attending Info 3249**] 
+Chief Complaint:
+Right flank pain
+
+Major Surgical or Invasive Procedure:
+Abscess excision, right flank
+
+History of Present Illness:
+79 year-old gentleman who presents with a 30-pound weight loss over 4 years duration and some feeling of fatigue and lack of function in addition to a mass, which has now become quite prominent. This first came to attention when he presented with an enlarging mass of the right flank approximately twelve months ago. He had a CT scan on [**2014-02-25**] which reported a subcutaneous mass and/or collection of 2.7 x 3.9 cm overlying the posterior lateral subcutaneous fat. He noted the mass enlarging in size for the past 6 months. He has slight discomfort when he sits.  He denies fever, chills, and redness. 
+
+Past Medical History:
+* CAD
+* CABG x 2
+* anterior MI at age 37
+* CHF, EF 25% s/p cardiac resynchronization and biv pacer placement
+* hypertension
+* dyslipidemia
+* ccy 2002
+* remote motor vehicle accident 
+
+Social History:
+retired sales officer, lives along in [**Location (un) 5357**], remote tobacco, occasional ETOH
+
+Family History:
+diabetes, hypertension on both sides of the family
+
+Physical Exam:
+Well appearing male in no acute distress
+Chest is clear
+Regular sinus rhythm, grade 3-4/6 mitral valve murmur
+Abdomen soft, non-tender, non-distended, well healed small laparoscopic scar at umbilicus.  On the right flank, there is a 12 x 13 cm mass, which is bulging upward and feels somewhat cystic. 
+No hernias
+
+Pertinent Results:
+Admission/Post-op Labs
+
+[**2015-05-07**] 02:10PM BLOOD WBC-12.1* RBC-3.87* Hgb-10.7* Hct-32.5* 
+MCV-84 MCH-27.8 MCHC-33.1 RDW-15.7* Plt Ct-233
+[**2015-05-07**] 02:10PM BLOOD Glucose-133* UreaN-24* Creat-1.1 Na-137  K-4.7 Cl-102 HCO3-28 AnGap-12
+[**2015-05-07**] 02:10PM BLOOD Calcium-7.9* Phos-3.7 Mg-2.0
+
+MICROBIOLOGY~~~~~~~~~~~~~~~~~
+#1 [**2015-05-07**] 12:40 pm TISSUE      CONTENTS OF ABSCESS. 
+GRAM STAIN (Final [**2015-05-07**]): 
+1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+NO MICROORGANISMS SEEN. 
+TISSUE (Final [**2015-05-10**]):    NO GROWTH. 
+ANAEROBIC CULTURE (Final [**2015-05-13**]):    NO GROWTH.
+
+#2 [**2015-05-07**] 11:50 am ABSCESS      RT FLANK. 
+GRAM STAIN (Final [**2015-05-07**]): 
+3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+NO MICROORGANISMS SEEN. 
+WOUND CULTURE (Final [**2015-05-09**]):    NO GROWTH. 
+ANAEROBIC CULTURE (Final [**2015-05-13**]):    NO GROWTH.
+
+PATHOLOGY~~~~~~~~~~~~~~~~~~~~~
+SPECIMEN SUBMITTED: ABSCESS RIGHT FLANK, CAVITY STONES, AND GALLSTONES (1).
+DIAGNOSIS: 
+I. Skin, right flank (A-C):
+Skin with subcutaneous abscess formation.
+II. Abscess cautery stones:
+Gross examination only.
+III. Gallstones:
+Gross examination only.
+
+RADIOLOGY~~~~~~~~~~~~~~~~~~~~
+CAROTID SERIES COMPLETE  [**2015-05-12**] 1:24 PM
+FINDINGS: Duplex evaluation was performed of both carotid arteries. Moderate plaque was identified on the right. On the right, peak systolic velocities are 136, 62, 75 in the ICA, CCA, and ECA respectively. The ICA to CCA ratio is 2.1. This is consistent with a 40-59% stenosis. On the left, peak systolic velocities are 95, 57, 66 in the ICA, CCA, and ECA respectively. The ICA to CCA ratio is 1.6. This is consistent with less than 40% stenosis.
+There is antegrade flow in both vertebral arteries.
+IMPRESSION: On the right, there is moderate plaque with a 40-59% carotid stenosis. On the left, there is a less than 40% stenosis.
+
+Brief Hospital Course:
+The patient was admitted on the day of surgery.  Due to his significant cardiac history a pulmonary artery catheter was placed in the OR for hemodynamic monitoring post-operatively.  He was extubated easily and transferred to the recovery room.  He was monitored in the intensive care unit post-operatively for fluid management and cardiology was involved for recommendations.  He was maintained on antibiotics throughout his hospital stay, however the culture from the operating room failed to reveal a pathogen.  He tolerated a regular diet POD1.  The PA catheter was removed on POD3.  He was transferred to the floor on POD4.  A carotid duplex ultrasound was obtained to evaluate a soft left carotid bruit heard during his hospital stay.  (see results section).  Dr. [**Last Name (STitle) 265**] of vascular surgery was consulted and will follow-up with the patient as an outpatient for further monitoring. 
+
+The patient had [**Location (un) 1320**]-[**Location (un) 1321**] drains placed during the surgery and these remained in for his hospitalization.  The output of each was less than 30cc of serosanguinous fluid at discharge.  He was instructed as to care and emptying of the drains and will record outputs regularly.  He will also have visiting nursing care to aid in his wound and drain care.  He was discharged to home on Augmentin for another week and will follow-up with Dr. [**Last Name (STitle) **] in clinic. 
+
+Medications on Admission:
+Lasix 10mg po bid
+Lopressor 50mg po bid
+Lanoxin 0.25mg po bid
+Fosinopril 10mg po qday
+Aspirin 325 po qday (held)
+Zetia 10mg po qday
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+2. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+6. Fosinopril 20 mg Tablet Sig: One (1) Tablet PO daily ().  
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+8. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO twice a day for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Dropped gallstone abscess, right flank
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please call if you are experiencing fevers (>101.5), are having a significant increase in pain or discomfort, notice increasing redness, swelling, or drainage from your wound.
+
+Followup Instructions:
+please call Dr.[**Last Name (STitle) 4340**] office for your follow-up appointment in 2 weeks.
+
+Follow-up with your outpatient cardiologist.  You may make an appointment with Dr. [**Last Name (STitle) 5358**] at ([**Telephone/Fax (2) 373**] if you wish to remain under his care for cardiology.
+
+Follow-up with Dr. [**Last Name (STitle) 265**] will be arranged through Dr. [**Last Name (STitle) **] after your follow-up visit.
+
+[**First Name11 (Name Pattern1) 126**] [**Name7 (MD) 3255**] MD [**MD Number 3256**]
+
+Completed by: [**First Name11 (Name Pattern1) 1113**] [**Name7 (MD) 1114**] MD [**MD Number 1115**] [**2015-05-14**] @ 0922
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 126**] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **] on: [**Doctor First Name 44**] [**2015-06-11**] 2:41 PM (End of Report)
+

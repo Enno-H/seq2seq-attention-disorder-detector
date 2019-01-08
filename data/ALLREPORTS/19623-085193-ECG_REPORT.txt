@@ -1,0 +1,4 @@
+85193	||||	19623	||||	19644	||||	ECG_REPORT	||||	2018-01-15 02:44:00.0	||||		||||		||||		||||	
+Sinus rhythm. Right bundle-branch block. Low voltage in the precordial leads. Compared to the previous tracing of [**2018-01-14**] no significant change.
+TRACING #3
+

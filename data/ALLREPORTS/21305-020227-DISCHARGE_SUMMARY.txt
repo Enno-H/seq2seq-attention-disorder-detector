@@ -1,0 +1,115 @@
+20227	||||	21305	||||	2771	||||	DISCHARGE_SUMMARY	||||	2016-12-21 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2016-12-12**]       Discharge Date:  [**2016-12-20**]
+
+Date of Birth:   [**1965-03-28**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 51 year old alcoholic man with a history of alcoholic pancreatitis, who recently presented to [**Hospital 2339**] Hospital on [**11-27**] with abdominal pain, increased abdominal girth and jaundice.  The patient was found to have an obstructive mass in the duodenum, left inguinal lymphadenopathy, ascites, pancreatitis and a bilirubin of 14.4.
+
+The patient underwent an endoscopic retrogram cholangiopancreatography on [**12-05**] with failure to cannulate ampulla resulting in respiratory failure during procedure and intubation.  The patient was found to have bilateral infiltrates and pulmonary effusions, thought to have adult respiratory distress syndrome, required minimal ventilatory settings, though.  The patient was started on Levofloxacin,
+Flagyl, Zosyn for concern of hospital acquired pneumonia.
+The patient was transferred to [**Hospital 377**] for percutaneous attempt at biliary drain.
+
+PAST MEDICAL HISTORY:
+1.  Diabetes mellitus type 2.
+2.  Alcoholism.
+3.  Alcoholic pancreatitis.  Recently diagnosed with obstructive jaundice and duodenal mass.
+
+ALLERGIES:   No known drug allergies.
+
+MEDICATIONS:  No medications at home.
+
+MEDICATIONS ON TRANSFER:
+1.  Zosyn 3.375 four times a day.
+2.  Diprivan 20 mics per kg per minute.
+3.  Regular insulin sliding scale.
+4.  Levofloxacin 500 q. day.
+5.  Flagyl 500 mg three times a day.
+6.  Versed GTTS.
+7.  Ipratropium.
+8.  Albuterol.
+
+SOCIAL HISTORY:  Homeless; two pack a day smoker.  Denies alcohol consumption in the past two months.
+
+FAMILY HISTORY:  Noncontributory.
+
+PHYSICAL EXAMINATION:  In evaluation on arrival, he was found to have a temperature spike of 104.5 F.; temperature on the
+Medical Intensive Care Unit was 100.0 F.; 88 pulse; 111/65 blood pressure; MAP 82; respiratory rate 20; 97% on ventilation.  In no acute distress, intubated and sedated. Pupils equally round and reactive to light and accommodation. Communications through use of hands.  Lung sounds are coarse bilaterally, diffuse expiratory and inspiratory wheeze.
+Regular rate and rhythm, no murmurs, rubs or gallops.
+Abdomen soft, mildly distended, positive biliary drain in right upper quadrant; no erythema.  Positive for ascites and shifting dullness, left inguinal mass with post surgical scar exudates.  Chronic venous stasis changes in lower legs bilaterally.  Plus two dorsalis pedis and posterior tibial. Two plus pitting edema.  Cranial nerves difficult to assess secondary to sedation.
+
+LABORATORY:  White blood cell count on admission 13.3, hematocrit 41, bilirubin 3.1, albumin 2.6, AST 75.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+Intensive Care Unit for work-up of obstructive jaundice and history of alcoholic pancreatitis.
+
+Endoscopic retrogram cholangiopancreatography was consulted with the recommendation of PTC.  Sections of the duodenum were obtained that showed mucosal eroding ulcerations with active inflammation; biopsy was obtained later which showed chronic inflammatory change and fibrosis; no evidence of malignancy.  Common bile duct brushings negative for malignancy as well.
+
+Ca-19 was found to be 77; CEA 6.9.
+
+Abdominal CT scan with intravenous contrast was obtained showing bilateral pleural effusions, right greater than left, ascites with hepatobiliary dilatation, presumed pancreatitis, no pancreas masses seen although small probably cystic area in the head of the pancreas seen.  There are additional left inguinal lymphadenopathy.
+
+Interventional Radiology placed bilateral biliary drains, internal exiting with decompression of biliary ductal system. Per IR, long area of stricture of the common bile duct, mild dilatation of the right and left intrahepatic ducts, and a biopsy was obtained of the lower common bile duct which again was negative for malignancy, positive for chronic inflammation changes.
+
+The patient's bilirubin continued to be trending down and right internal hepatic drain was internalized on [**2016-12-19**].
+The patient began tolerating sips of clear and p.o. intake with normal bowel movements.  Liver enzymes remained flat. Concern for portal vein thrombus as seen on CT scan.  Repeat right upper quadrant ultrasound revealed normal flow, no evidence of complete obstruction, although presence of thrombus could not be eliminated via this modality.
+
+Ascites were sent for analysis and cytology was pending at time of dictation.
+
+2.  ONCOLOGY:  Preliminary results from lymph node obtained from outside hospital was negative for malignancy.  Lymph node showed reactive vascular transformation.  Surgery was consulted and repeat biopsy was obtained; preliminary results show that it is positive for LCA, CD20 strong positive as well as 100% myotic index, is an indication of a high grade B cell lymphoma histologically, although clinically, the patient does not appear to be succumbing to a high grade lymphoma process.  The patient, at this time, declined further staging work-up and would recommend PET CT scan of the chest to delineate the presence or absence of mediastinal nodes.  CT scan of the abdomen done for obstructive jaundice was negative for intraperitoneal nodes.
+
+3.  RESPIRATORY FAILURE:  The patient was transferred after intubation from the endoscopic retrogram
+cholangiopancreatography.  He was subsequently weaned from the ventilator and extubated on hospital day three, requiring nebulizers and respiratory toilet therapy.  Subsequently he was breathing 98% on room air without sequelae.  He has small bilateral effusions which were tapped.  Cytology and chemistries are pending at this time of dictation.  Currently he is without evidence of pneumonia.  He was continued on course of Levofloxacin.
+
+4.  INFECTIOUS DISEASE:  Sputum, bile gram stain negative, blood cultures negative to date.  Outside hospital reported positive ventilator related pneumonia, continued on broad spectrum antibiotics and defeversced on hospital day five without temperature spikes.  Unasyn and Bactrim were discontinued.  The patient remained on Vancomycin and Zosyn to protect for SBP.  Currently afebrile without leukocytosis. HIV serology is negative.  Hepatology viral cultures pending at time of dictation.
+
+5.  DERMATOLOGIC:   The patient was found to have likely
+Condyloma on penis with areas around genitalia consistent with herpes simplex one and two, DFA sent.  Pending at time of dictation.  The patient continued on Famvir 300 three times a day to be discontinued on [**12-24**].
+
+6.  DIABETES MELLITUS:  The patient switched over to an [**Ethnicity 538**] Diabetic Association diet, tolerating p.o. well, coverage with regular insulin sliding scale with good control of blood sugar.
+
+7.  PROPHYLAXIS:  The patient was continued on subcutaneous heparin and continued ambulation per recommendations of
+Physical Therapy.
+
+DISPOSITION:   The patient very uncooperative to nursing staff and recommendations of further work-up for positive lymph node biopsy.  Declining studies for further evaluation and management.  Per request, would like to return to [**Hospital 2339**] Hospital for continuation of care and possible outpatient management of oncologic issues.
+
+Would recommend staging CT scan, PET preferably.
+
+DISCHARGE MEDICATIONS:
+1.  Famvir 500 p.o. three times a day to be continued until
+[**2016-12-24**].
+2.  Lactulose 30 ml p.o. three times a day.  Hold for stooling.
+3.  Zosyn 4.5 intravenous q. eight.
+4.  Vancomycin 1.5 grams intravenous q. 12.
+5.  Regular insulin sliding scale.
+6.  Tylenol p.r.n.
+7.  Albuterol and Ipratropium nebulizers q. four two puffs.
+8.  Heparin 5000 units q. eight subcutaneously.
+
+DISCHARGE INSTRUCTIONS:
+1.  Follow-up acute transfer to [**Hospital 2339**] Hospital in [**Location (un) 2339**], [**State **].
+
+CONDITION AT DISCHARGE:   The patient is transferred in Fair condition.
+
+Summary:
+1.ampullary mass- noted on ERCP as well as on abdominal CT. DDX includes adenocarcinoma and lymphoma (less likely). Reccommend outpatient follow up after treatment forlymphoma.
+2. obstructive jaundice- from #1. Only intervention here at [**Hospital1 189**] was internalization of the external biliary stent. Patient did not have an ERCP at [**Hospital1 189**].
+3. lymphoma- noted on left inguinal node biopsy. Needs treatment in near future. Needs staging. Considdr PET vs torso CT.
+4. ID- had been on Bactrim for xanthomonas maltophilia in his sputum though no overt evidence of pneumonia. Bacrtim stopped [**12-20**]. Presumably on Zosyn for biliary coverage. Would discontinue soon. Has been afebrile for several days.  DDX for source of fevers are SBP ( no evidence), ascending cholangitis, lung, decubitus, B symptoms from lymphoma. All blood cultures here are negative to date. Had been on vancomycin as well stopped [**12-20**].
+5. hypercalcemia- presumed hyperparathyroidism with PTH level of 78 in setting of mild hypercalcemia
+6. portal vein thrombosis- partial. Noted on CT.  Maintained on lovenox.
+7. ascites- unclear etiology. DDX includes portal hypertension, related to portal vein thrombosis, malignancy, pancreatic ascites.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1116**], M.D.
+
+Dictated By:[**Dictator Info 984**]
+MEDQUIST36
+
+D:  [**2016-12-20**]  12:47
+T:  [**2016-12-20**]  13:12
+JOB#:  [**Job Number 2340**]
+
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1116**] on: WED [**2016-12-21**] 3:28 PM
+(End of Report)
+

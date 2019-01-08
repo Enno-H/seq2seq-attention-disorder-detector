@@ -1,0 +1,128 @@
+5081	||||	4303	||||	14858	||||	DISCHARGE_SUMMARY	||||	2013-10-22 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-10-18**]              Discharge Date:   [**2013-10-22**]
+
+Date of Birth:  [**1956-05-01**]             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Attending Info 1196**] 
+Chief Complaint:
+I fell in my bathroom
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI: This is a 57 year old male who was transfered to [**Hospital1 2**] from [**Hospital 2601**] Hospital. At 11am on [**10-07**], the patient was urinating in his bathroom at home when he suddenly fell and hit his head against the toilet. There may have been a period of lightheadedness prior to falling down but the patient is unsure. He denies any loss of consciousness and was able to get up, go downstairs and watch TV. Throughout the day, he states he began to progressively feel lethargic and weak (entire body weakness). He called EMS and was taken to [**Hospital 2601**] Hospital, which showed cerebral contusions and a possible SAH. at [**Hospital1 2**], he was re-imaged and evaluated. The patient denies 
+nausea/vomiting/chest
+pain/shortness of breath. Currently, at time of evaluation, the pt is complaining of a headache.
+
+Past Medical History:
+PMHx:
+- Seizure ([**02-25**])
+- Pneumonia ([**02-25**])
+- Bronchitis ([**02-25**])
+- Numerous visits to the [**Doctor First Name 3**] s/p alcoholic episodes with various falls or episodes of unconsciousness
+
+Social History:
+Social Hx: This patient lives alone. He drinks 1 pint/day and smokes approximately 2 packs a day of cigarettes for the last 40 years (=80 pack year history). The patient is not married. He works for a company which restores cars. He lives in [**Location 1424**]. He
+has 3 children.
+
+Family History:
+Family Hx: Noncontributory.
+
+Physical Exam:
+on admission 
+-----PHYSICAL EXAM:-------------
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: 2.5 to 2mm bilaterally.       EOMs intact. No nystagmus. C-collar in place.
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused. No C/C/E.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal affect.
+Orientation: Alert and orientated X 2. Oriented to person, place,
+but not date.
+Recall: [**03-22**] objects at 5 minutes.
+Language: Speech fluent with good comprehension and repetition. Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light,2.5 to 2 mm bilaterally. Visual fields are full to confrontation. III, IV, VI: Extraocular movements intact bilaterally without nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to finger rub bilaterally.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power [**05-24**] throughout. No pronator drift
+
+Sensation: Intact to light touch bilaterally.
+
+Pertinent Results:
+[**2013-10-17**] 11:00PM   PT-11.5 PTT-24.9 INR(PT)-1.0
+[**2013-10-17**] 11:00PM   PLT COUNT-325
+[**2013-10-17**] 11:00PM   MACROCYT-1+
+[**2013-10-17**] 11:00PM   NEUTS-80.6* LYMPHS-13.6* MONOS-4.4 EOS-0.5  BASOS-0.9
+[**2013-10-17**] 11:00PM   WBC-6.7 RBC-3.96* HGB-13.9* HCT-39.8*  MCV-100* MCH-35.0* MCHC-34.9 RDW-13.2
+[**2013-10-17**] 11:00PM   GLUCOSE-86 UREA N-17 CREAT-0.6 SODIUM-140  POTASSIUM-3.9 CHLORIDE-100 TOTAL CO2-24 ANION GAP-20
+[**2013-10-18**] 02:45AM URINE  RBC-<1 WBC-<1 BACTERIA-OCC YEAST-NONE  EPI-<1
+[**2013-10-18**] 02:45AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR  GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-1 PH-6.0 LEUK-NEG [**2013-10-18**] 02:45AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 83**]->=1.035
+[**2013-10-18**] 02:45AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+
+CT HEAD W/O CONTRAST  [**2013-10-18**] 1:24 AM
+IMPRESSION:
+1. Hemorrhagic contusion in the left frontal lobe.
+2. Small subdural hematoma along the falx cerebri and tentorium.
+3. Probable chronic subdural hematoma along the left frontal convexity, and possibly along the right as well. The latter appearance of extraaxial widening is felt more likely due to atrophy, however.
+4. Sinus mucosal thickening with a small air-fluid level in the sphenoid.
+5. Nasal bone fractures.
+NOTE ADDED AT ATTENDING REVIEW: I agree that the right frontal extra axial fluid is most likely an enlarged subarachnoid space. 
+
+CT C-SPINE W/O CONTRAST  [**2013-10-18**] 1:24 AM
+IMPRESSION:
+1. No evidence of fracture or dislocation.
+2. Moderately severe emphysema.
+3. Findings suggesting chronic sinusitis in the left maxillary sinus. 4. Cervical spondylosis.
+
+Brief Hospital Course:
+This patient was admitted to [**Hospital1 2**] on [**2013-10-18**] after a fall in his bathroom. He was evaluated and admitted to the trauma service initially for neuro checks, a repeat CT head the following morning and observation (especially given his history of alcohol). Overnight, the patient was stable and he neurlogically was intact. A repeat CT in the morning showed a contusion which potentially was read as an underlying mass. The patient was hence kept for furthur observation. As an MRI was unable to be done, a repeat CT head with and without contrast was done, which showed no underlying lesions. THe patient had no other medical or surgical issues and was stable. Over the weekend from [**10-18**] to [**10-20**], the patient remained in the trauma  ICU awaiting a bed on the floor. He remained stable and without issues. He was put on a CIWA scale per his alcoholic history. He was intermittently confused at some points overnight, likely due to his pain medications and alcoholic history. He was seen by physical therapy on [**2013-10-21**], who reccomended one more session prior to discharge on [**2013-10-22**]. On [**10-22**] he was seen and evaluated by physical therapy and cleared for discharge.  He was seen by physical therapy on [**2013-10-22**], and then discharged in a stable condition. He is due to follow-up with Dr [**Last Name (STitle) **] in the clinic in 4 weeks with another repeat head scan. 
+
+Medications on Admission:
+- oxycontin (prescribed for the last 2 weeks as he has rib fractures from a previous fall)
+- regular vitamins
+
+Discharge Medications:
+1. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule PO TID (3 times a day) for 30 days. Disp:*45 Capsule(s)* Refills:*1*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain. Disp:*40 Tablet(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+traumatic brain injury s/p fall 
+
+Discharge Condition:
+neurologically stable
+
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the following: call if you have any lethargy, numbness tingling weakness, seizure or slurred speech.  * You experience new chest pain, pressure, squeezing or tightness.
+* New or worsening cough or wheezing.
+* If you are vomitting and cannot keep in fluids or your medications. * You are getting dehydrated due to continued vomitting, diarrhea or other reasons. Signs of dehydration include dry mouth, rapid heartbeat or feeling dizzy or faint when standing. * You see blood or dark/black material when you vomit or have a bowel movement. * Your skin, or the whites of your eyes become yellow. * Your pain is not improving within 8-12 hours or not gone within 24 hours. Call or return immediately if your pain is getting worse or is changing location or moving to your chest or back. * You have shaking chills, or a fever greater than 101.5 (F) degrees or 38(C) degrees. * Any serious change in your symptoms, or any new symptoms that concern you. 
+
+Followup Instructions:
+please call the office to be seen in 4 weeks with a cat scan of the brain.  The cat scan should be with and without contrast. Please call Dr.[**Last Name (STitle) 2602**] office at [**Telephone/Fax (2) **] for and appointment.  You should see your primary care doctor within 2 weeks for evaluation and follow up. 
+
+[**Name6 (MD) **] [**Name7 (MD) 1197**] MD [**MD Number 1198**]
+
+Completed by: [**First Name11 (Name Pattern1) 409**] [**Name7 (MD) 1308**] NP 80-BZE [**2013-10-22**] @ 0940
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: MON [**2013-12-30**] 1:25 PM
+(End of Report)
+

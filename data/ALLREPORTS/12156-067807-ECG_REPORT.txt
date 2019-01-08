@@ -1,0 +1,5 @@
+67807	||||	12156	||||	23208	||||	ECG_REPORT	||||	2014-04-01 10:11:00.0	||||		||||		||||		||||	
+Sinus tachycardia
+Possible old inferior infarct
+Since previous tracing, no significant change
+

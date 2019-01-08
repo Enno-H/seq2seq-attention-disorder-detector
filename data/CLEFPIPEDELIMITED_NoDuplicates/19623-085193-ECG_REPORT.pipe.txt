@@ -1,0 +1,2 @@
+19623-085193-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+19623-085193-ECG_REPORT.txt||Disease_Disorder||C0085615||109||134

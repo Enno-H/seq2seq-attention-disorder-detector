@@ -1,0 +1,44 @@
+100844	||||	2916	||||	22316	||||	ECHO_REPORT	||||	2019-07-08 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: avr
+Status: Inpatient
+Date/Time: [**2019-07-08**] at 15:20
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. 
+
+LEFT VENTRICLE: Wall thickness and cavity dimensions were obtained from 2D images. Normal LV wall thicknesses and cavity size. 
+
+LV WALL MOTION: basal anterior - normal; mid anterior - normal; basal anteroseptal - normal; mid anteroseptal - normal; basal inferoseptal - normal; mid inferoseptal - normal; basal inferior - normal; mid inferior - normal; basal inferolateral - normal; mid inferolateral - normal; basal anterolateral - normal; mid anterolateral - normal; anterior apex - normal; septal apex - normal; inferior apex - normal; lateral apex - normal; apex - normal; 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal ascending aorta diameter. Normal descending aorta diameter. Simple atheroma in descending aorta. 
+
+AORTIC VALVE: Three aortic valve leaflets. Severely thickened/deformed aortic valve leaflets. Severe AS (AoVA <0.8cm2). Moderate to severe (3+) AR. 
+
+MITRAL VALVE: Trivial MR. 
+
+TRICUSPID VALVE: Physiologic TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify I was present in compliance with HCFA regulations. No TEE related complications. The TEE probe was passed with assistance from the anesthesioology staff using a laryngoscope. The patient was under general anesthesia throughout the procedure. 
+
+Conclusions: 
+Pre-CPB: No spontaneous echo contrast is seen in the left atrial appendage. Left ventricular wall thicknesses and cavity size are normal. Right ventricular chamber size and free wall motion are normal. There are simple atheroma in the descending thoracic aorta. There are three aortic valve leaflets. The aortic valve leaflets are severely thickened/deformed. There is severe aortic valve stenosis (area <0.8cm2). Moderate to severe (3+) aortic regurgitation is seen. Trivial mitral regurgitation is seen. There is no pericardial effusion. 
+
+Post-CPB: There is an aortic valve prosthesis with no peri-valve leaks and no AI. Trivial MR. [**First Name (Titles) 75**] [**Last Name (Titles) 76**] systolic fxn. Aorta intact. Other parameters as pre-bypass. 
+

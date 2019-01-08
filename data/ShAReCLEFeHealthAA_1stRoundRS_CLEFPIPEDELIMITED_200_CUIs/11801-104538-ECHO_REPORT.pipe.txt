@@ -1,0 +1,9 @@
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||C0013516||34||38
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||C0005902||165||168
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||C0005823||183||185
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||C0430462||272||275
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||C0225897||594||596
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||C0225897||636||638
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||CUI-less||1863||1865
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||CUI-less||1957||1961
+11801-104538-ECHO_REPORT.txt||Acronym_Abbreviation||CUI-less||2022||2024

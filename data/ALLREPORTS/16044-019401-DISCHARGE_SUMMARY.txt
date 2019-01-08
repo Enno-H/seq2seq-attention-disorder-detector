@@ -1,0 +1,84 @@
+19401	||||	16044	||||	3166	||||	DISCHARGE_SUMMARY	||||	2012-11-26 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-11-22**]       Discharge Date:  [**2012-11-26**]
+
+Date of Birth:   [**1954-07-02**]       Sex:  F
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF PRESENT ILLNESS:  This is a 58 year old female patient with known aortic stenosis and aortic insufficiency. Recent echocardiogram revealed a decreased in left ventricular function and she was referred to Dr. [**Last Name (STitle) 220**] for an aortic valve replacement.  On [**2012-11-01**], she underwent cardiac catheterization which revealed normal coronary arteries, [**04-03**]+ aortic regurgitation, mild to moderate aortic stenosis and ejection fraction of 25%.
+
+PAST MEDICAL HISTORY:
+1.  Recent congestive heart failure admission to an outside hospital.
+2.  Status post total abdominal hysterectomy approximately twenty years ago.
+3.  Status post cholecystectomy approximately fifteen years ago.
+4.  Status post back surgery times three including fusion with rods placed.
+
+MEDICATIONS ON ADMISSION:
+1.  Desipramine 50 mg p.o. once daily.
+2.  Quinine 325 mg p.o. twice a day.
+3.  Lasix 40 mg p.o. once daily.
+4.  Gemfibrozil 600 mg p.o. twice a day.
+5.  Zoloft 50 mg p.o. once daily.
+6.  Digitek 0.125 mg p.o. once daily.
+7.  Omeprazole 20 mg p.o. once daily.
+8.  Zestril 5 mg p.o. once daily.
+9.  Lopressor 12.5 mg p.o. twice a day.
+10. Allopurinol 300 mg p.o. twice a day.
+11. Celebrex once daily.
+12. Tylenol with Codeine two to four tablets per day as needed for chronic complaints of back pain.
+
+ALLERGIES:  The patient states an allergy to Sulfa which causes itching and she claims that she is also lactose intolerant.
+
+PHYSICAL EXAMINATION:  Her physical examination preoperatively was unremarkable.
+
+The patient did have a preoperative positive urinalysis for which she was placed on three days of oral Ciprofloxacin prior to her surgical procedure.
+
+HOSPITAL COURSE:  The patient was admitted to the hospital on [**2012-11-22**], where she was admitted directly to the preoperative holding area.  She underwent an aortic valve replacement with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 220**] on that day with a #19mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 716**] aortic valve replacement.
+
+Postoperatively, she was transported to the Cardiac Surgery
+Recovery Unit in good condition.  She was later weaned from mechanical ventilation and extubated on the day of surgery. Due to what appeared to be vegetations on the valve found in the operating room, an infectious disease consultation was obtained although the patient had no fever or elevation in white blood cell count.  Postoperatively, the patient was on Dobutamine and Neo-Synephrine intravenous drip and these were subsequently weaned off by postoperative day one in the
+Cardiac Surgery Recovery Unit.
+
+The infectious disease consultation was obtained.  There were recommendations for repeat blood culture as well as urine culture, and everything has subsequently come back negative with the exception of urine which was positive for diphtheroids.  During her course of stay in the hospital, the patient was empirically covered with Vancomycin and
+Levofloxacin until the final culture of the aortic valve was obtained and these antibiotics were discontinued this morning.
+
+The patient has progressed well from a physical therapy standpoint.  She is ambulating independently.  She has had no hemodynamic complications whatsoever.  She was begun on
+Coumadin for her aortic valve replacement.  She is ready to be discharged home today on [**2012-11-26**], on postoperative day four.
+
+Physical examination today is as follows:  The patient is afebrile.  Neurologically, she is alert and oriented.  Her lungs are clear.  Cardiac examination is regular rate and rhythm, no murmur.  Her abdomen is soft, nontender, nondistended.  She has no peripheral edema.
+
+Most recent laboratory values include a white blood cell count of 12.3, hematocrit 25.4, and a platelet count of 265,000.  Sodium 134, potassium 3.8, chloride 98, CO2 27, blood urea nitrogen 18, creatinine 1.2, glucose 114.  Most recent INR is 1.7 today for which she is to receive 5 mg of
+Coumadin this evening.
+
+MEDICATIONS ON DISCHARGE:
+1.  Percocet 5/325 one to two tablets q3-4hours p.r.n. pain.
+2.  Colace 100 mg p.o. twice a day.
+3.  Desipramine 50 mg p.o. once daily.
+4.  Warfarin 5 mg p.o. today [**2012-11-26**], and tomorrow [**2012-11-27**]. The patient is then to see Dr. [**Last Name (STitle) 8657**] in his office Wednesday morning [**2012-11-28**], at 8:30 a.m. to have an INR drawn and his office will be dosing her Coumadin.  Target INR for this patient should be 2.5 to 3.0 for mechanical aortic valve.
+5.  Levofloxacin 250 mg p.o. once daily. This is for one week for empiric coverage of her previously discussed infectious disease issues as well as positive urinary tract infection.
+6.  Metoprolol 50 mg p.o. twice a day.
+7.  Aspirin 81 mg p.o. once daily.
+8.  Quinine Sulfate 325 mg p.o. twice a day.
+9.  Gemfibrozil 600 mg p.o. twice a day.
+10. Omeprazole 20 mg p.o. once daily.
+11. Allopurinol 300 mg p.o. once daily.
+12. Zoloft 50 mg p.o. once daily.
+
+FOLLOW-UP:  Dr. [**Last Name (STitle) 220**] in approximately four weeks.  She is also to follow-up with her primary care physician, Dr. [**Last Name (STitle) 8658**], in Renthem in two to three weeks.  She is also to follow-up with Dr. [**Last Name (STitle) 8657**], also in Renthem, who will be dosing her Coumadin in Dr.[**Last Name (STitle) 8659**] office and she is following up with him as previously stated the day after tomorrow,
+[**2012-11-28**], for Coumadin dose.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSIS:  Aortic stenosis/aortic regurgitation, status post aortic valve replacement.
+
+[**First Name11 (Name Pattern1) 221**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 222**]
+
+Dictated By:[**Dictator Info 2312**]
+MEDQUIST36
+
+D:  [**2012-11-26**]  17:37
+T:  [**2012-11-26**]  18:17
+JOB#:  [**Job Number 8660**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 221**] [**Last Name (NamePattern1) **] on: TUE [**2012-11-27**] 6:40 AM
+(End of Report)
+

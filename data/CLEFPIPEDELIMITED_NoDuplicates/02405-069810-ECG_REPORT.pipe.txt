@@ -1,0 +1,6 @@
+02405-069810-ECG_REPORT.txt||Disease_Disorder||CUI-less||94||106
+02405-069810-ECG_REPORT.txt||Disease_Disorder||C0033036||107||131
+02405-069810-ECG_REPORT.txt||Disease_Disorder||C0344711||132||155
+02405-069810-ECG_REPORT.txt||Disease_Disorder||C0264912||156||186
+02405-069810-ECG_REPORT.txt||Disease_Disorder||CUI-less||212||232
+02405-069810-ECG_REPORT.txt||Disease_Disorder||CUI-less||321||335

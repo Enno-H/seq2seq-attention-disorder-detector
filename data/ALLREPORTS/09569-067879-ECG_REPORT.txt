@@ -1,0 +1,6 @@
+67879	||||	9569	||||	12190	||||	ECG_REPORT	||||	2016-06-06 09:48:00.0	||||		||||		||||		||||	
+Sinus bradycardia
+Anterolateral myocardial infarct with ST-T wave configuration consistent with acute/recent/in evolution process
+Clinical correlation is suggested
+Since previous tracing of [**2016-06-05**], probably no significant change
+

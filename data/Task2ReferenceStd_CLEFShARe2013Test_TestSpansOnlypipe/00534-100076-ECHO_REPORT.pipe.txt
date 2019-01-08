@@ -1,0 +1,9 @@
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||31||35
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||129||132
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||159||162
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||197||200
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||215||217
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||234||236
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||317||320
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||737||741
+00534-100076-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||1513||1517

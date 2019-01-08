@@ -1,0 +1,30 @@
+17830	||||	23590	||||	17919	||||	DISCHARGE_SUMMARY	||||	2010-11-16 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2010-11-12**]     Discharge Date: [**2010-11-16**]
+
+Date of Birth:   [**1929-03-04**]     Sex:  F
+
+Service:
+
+ADDENDUM:
+
+The patient's dry weight is 77 kilograms.  The patient was noted to have positive urinalysis with positive nitrates, positive leukocyte esterase and 712 white blood cells with moderate bacteria on [**2010-11-16**].  She was started on
+Ciprofloxacin 500 mg p.o. b.i.d. to complete a seven day course.
+
+DISCHARGE MEDICATIONS:  To be addended on this discharge summary will include
+1.  Lasix 20 mg p.o. b.i.d.
+2.  Ciprofloxacin 500 mg p.o. b.i.d. to complete a seven day course with [**11-16**] being the first day.
+3.  Also the patient was discharged on Zestril 20 mg p.o. q.d. rather than Captopril 37.5 mg p.o. t.i.d.  The Captopril was discontinued.
+
+The culture and sensitivities of the urine will be followed up by Dr. [**Last Name (STitle) **] and called into the rehab facility.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 458**], M.D.  [**MD Number 1697**]
+
+Dictated By:[**Dictator Info 5516**]
+
+MEDQUIST36
+
+D:  [**2010-11-16**]  14:48
+T:  [**2010-11-16**]  15:03
+JOB#:  [**Job Number 5517**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 458**] on: [**Doctor First Name 32**] [**2010-11-25**] 1:12 PM (End of Report)
+

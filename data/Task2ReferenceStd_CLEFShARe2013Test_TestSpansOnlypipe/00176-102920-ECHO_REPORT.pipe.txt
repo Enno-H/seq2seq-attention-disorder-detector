@@ -1,0 +1,9 @@
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||31||35
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||176||179
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||194||196
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||213||215
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||287||290
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||746||750
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||762||764
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||1861||1865
+00176-102920-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||2218||2220

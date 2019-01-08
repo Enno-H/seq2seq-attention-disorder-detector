@@ -1,0 +1,4 @@
+74957	||||	7968	||||	10145	||||	ECG_REPORT	||||	2019-10-17 11:36:00.0	||||		||||		||||		||||	
+Atrial flutter with 2:1 A-V conduction, increased compared to the previous tracing of [**2019-10-17**]. Otherwise, no diagnostic interim change.
+TRACING #2
+

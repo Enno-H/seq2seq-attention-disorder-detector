@@ -1,0 +1,48 @@
+104538	||||	11801	||||	20360	||||	ECHO_REPORT	||||	2014-01-31 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Hypoxia.
+Height: (in) 71
+Weight (lb): 206
+BSA (m2): 2.14 m2
+BP (mm Hg): 110/50
+Status: Inpatient
+Date/Time: [**2014-01-31**] at 13:55
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: Saline
+Technical Quality: Suboptimal
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is mildly dilated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the right atrium and/or right ventricle. 
+
+LEFT VENTRICLE: LV systolic function appears depressed. 
+
+LV WALL MOTION: The following resting regional left ventricular wall motion abnormalities are seen: basal inferoseptal - dyskinetic; mid inferoseptal - hypokinetic; basal inferior - akinetic; mid inferior - akinetic; basal inferolateral - akinetic; mid inferolateral - akinetic; 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is mildly dilated. The ascending aorta is mildly dilated. 
+
+AORTIC VALVE: The aortic valve leaflets are mildly thickened. There is no significant aortic valve stenosis. No aortic regurgitation is seen. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. The left ventricular inflow pattern suggests delayed relaxation. 
+
+TRICUSPID VALVE: The tricuspid valve leaflets are normal. Mild to moderate [[**02-26**]+] tricuspid regurgitation is seen. 
+
+PULMONIC VALVE/PULMONARY ARTERY: The pulmonic valve leaflets appear structurally normal with physiologic pulmonic regurgitation. 
+
+PERICARDIUM: There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded. 
+
+GENERAL COMMENTS: Contrast study was performed with one iv injection of 8 ccs of agitated normal saline at rest. Suboptimal image quality due to poor echo windows. 
+
+Conclusions: 
+The left atrium is mildly dilated. LV systolic function appears depressed. Resting regional wall motion abnormalities include thinned and akinetic inferior and inferolateral segments with basal inferoseptal dyskinesis and mid inferoseptal hypokinesis/akinesis. Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated. The ascending aorta is mildly dilated. The aortic valve leaflets are mildly thickened. There is no significant aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. The left ventricular inflow pattern suggests delayed relaxation. There is at least moderate pulmonary artery systolic hypertension. 
+
+Compared to prior report of [**2014-01-20**], there is probably no significant change. 
+

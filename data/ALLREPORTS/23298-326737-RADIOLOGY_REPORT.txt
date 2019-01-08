@@ -1,0 +1,26 @@
+326737	||||	23298	||||	15290	||||	RADIOLOGY_REPORT	||||	2012-06-19 10:57:00.0	||||	T993 MR RECONSTRUCTION IMAGING	||||		||||	Clip # 314-9243  Actual report	||||	
+DATE: [**2012-06-19**] 10:57 AM
+MR ABDOMEN W&W/O CONTRAST; MR [**First Name (Titles) 1159**] [**Last Name (Titles) **]            [**Clip Number (Radiology) 3463**] Reason: pre-transplant mri. Would like eval of vessels and volume me Contrast: MAGNEVIST Amt: 20
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+46 year old man with repeated hepatitis due to Hep B virus. Listed for transplant.
+REASON FOR THIS EXAMINATION:
+pre-transplant mri. Would like eval of vessels and volume measurements.         ______________________________________________________________________________
+
+FINAL REPORT
+MR OF THE ABDOMEN:
+
+INDICATION:  Patient with Hepatitis B.  This is a pretransplant evaluation. Request to evaluate for liver volume.
+
+TECHNIQUE:  Multiplanar images were acquired including T1 in- and out-of- phase, 2D TOF, STIR, HASTE, HASTE with fat saturation, IR, precontrast VIBE and pre and post contrast turbo flash T1 images.
+
+COMPARISON:  Previous ultrasound from [**2012-06-14**].
+
+FINDINGS:  The patient is a nonbreath-hold patient evaluation in the arterial phase is limited.
+
+Tiny cyst is noted within the liver in segment V.  It measures 4 mm. Otherwise no gross focal lesion is noted within the liver.  There is no abnormal focal enhancement within the liver.  The volume of the liver is estimated at 1,811 cc.  The portal vein is widely patent and with hepatopetal flow.  The intra and extrahepatic bile ducts are not dilated.  There is irregularity of the anterior wall of the gallbladder with low signal of the wall in IR and HASTE images.  This may be consistent with adenomyomatosis of the gallbladder. No stones are noted.  No varices are noted around the distal esophagus.  The spleen is enlarged with a measurement of 15.5 cm.  Both adrenals, the pancreas and the upper part of both kidneys are unremarkable.  A tiny amount of ascites is noted around the liver and the spleen.
+
+IMPRESSION:
+1)  No gross focal lesion is noted within the liver. 2)  The portal vein is widely patent with hepatopetal flow. 3)  The estimated volume of the liver 1,811 cc. 4)  Splenomegaly. 5)  Adenomymatosis of the gallbladder.
+

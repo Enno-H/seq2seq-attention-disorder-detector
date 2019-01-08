@@ -1,0 +1,2 @@
+10612-047357-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||108
+10612-047357-ECG_REPORT.txt||Disease_Disorder||CUI-less||121||126

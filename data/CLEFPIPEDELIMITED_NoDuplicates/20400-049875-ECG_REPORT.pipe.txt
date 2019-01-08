@@ -1,0 +1,3 @@
+20400-049875-ECG_REPORT.txt||Disease_Disorder||C0004238||94||113
+20400-049875-ECG_REPORT.txt||Disease_Disorder||CUI-less||133||147
+20400-049875-ECG_REPORT.txt||Disease_Disorder||CUI-less||149||165

@@ -1,0 +1,46 @@
+97913	||||	3089	||||	27868	||||	ECHO_REPORT	||||	2012-06-22 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. /Post PM implant/hypotension post new RV lead. Height: (in) 60
+Weight (lb): 170
+BSA (m2): 1.74 m2
+BP (mm Hg): 92/59
+HR (bpm): 98
+Status: Inpatient
+Date/Time: [**2012-06-22**] at 12:09
+Test: Portable TTE (Focused views)
+Doppler: Limited doppler and color doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Dilated LA. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or pacing wire is seen in the RA. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Severely depressed LVEF. No resting LVOT gradient. No LV mass/thrombus. No VSD. 
+
+RIGHT VENTRICLE: Normal RV wall thickness. Normal RV chamber size. RV function depressed. Paradoxic septal motion consistent with conduction abnormality/ventricular pacing. 
+
+AORTA: Normal aortic root diameter. Focal calcifications in aortic root. Normal ascending aorta diameter. Focal calcifications in ascending aorta. 
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild mitral annular calcification. Mild thickening of mitral valve chordae. Calcified tips of papillary muscles. Mild (1+) MR. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Normal tricuspid valve supporting structures. Normal PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. Normal main PA. No Doppler evidence for PDA 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: The patient is in a ventricularly paced rhythm. 
+
+Conclusions: 
+The left atrium is dilated. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is severely depressed (ejection fraction 20 percent) secondary to severe hypokinesis of all walls except the posterior and lateral walls. No masses or thrombi are seen in the left ventricle. There is no ventricular septal defect. Right ventricular chamber size is normal. Right ventricular systolic function appears depressed. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. 
+
+Compared with the findings of the prior study (tape reviewed) of [**2012-06-19**], no major change is evident. 
+

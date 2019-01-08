@@ -1,0 +1,89 @@
+161	||||	14822	||||	21887	||||	DISCHARGE_SUMMARY	||||	2008-09-05 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2008-08-30**]       Discharge Date:  [**2008-09-05**]
+
+Date of Birth:   [**1935-04-22**]       Sex:  F
+
+Service:  Cardiothoracic
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 73-year-old woman with known three-vessel coronary artery disease who refused coronary artery bypass grafting in the past, admitted two days prior to this admission with chest pain, ruled out, refused catheterization at that time.  She now returns to [**Hospital 86**] with chest pain [**08-29**] x 2 hours associated with nausea and vomiting, unrelieved by nitroglycerin.  In the emergency room the patient was noted to be pain free after sublingual nitroglycerin as well as intravenous nitroglycerin and intravenous heparin.
+
+Her electrocardiogram showed [**Street Address 18**] depressions in V3 through V6 resolved after the patient became pain free.  The patient has agreed to undergo coronary artery catheterization on this admission.
+
+PAST MEDICAL HISTORY:  Her past medical history is significant for coronary artery disease.  She underwent a catheterization in [**2003**], which showed three-vessel disease including 80% right coronary artery, 90% left anterior descending coronary artery, 80% circumflex, and an echocardiogram in [**Female First Name (un) 200**] of this year, which showed normal left ventricle and right ventricle with an ejection fraction of 55% and no abnormal wall motion activity.  Also, the patient has diabetes mellitus type 2 and hypertension, as well as hypercholesterolemia.
+
+MEDICATIONS PRIOR TO ADMISSION:  Atenolol 25 mg once daily;
+Isordil 20 mg t.i.d.; Plavix 75 mg once daily; Zestril 10 mg once daily; NPH insulin 30 units q.a.m. and 20 units q.p.m.; Protonix 40 mg once daily; aspirin 325 once daily; and
+Lipitor dose undisclosed.
+
+SOCIAL HISTORY:  There is no tobacco use, no ETOH use.  The patient lives alone and has supportive children who look in on her frequently.
+
+PHYSICAL EXAMINATION:  Examination on admission showed vital signs afebrile, heart rate 90-120, blood pressure 100-130/70-80, respiratory rate 20, O2 saturation 96% on two liters.  In general the patient appeared pale, weak, but in no acute distress.  Head, eyes, ears, nose and throat showed mucous membranes moist; pupils equal, round and reactive to light; extraocular movements intact.  Heart sounds showed a regular rate and rhythm, S1 and S2, no murmur, no jugular venous distension.  Pulmonary examination was clear to auscultation bilaterally.  Abdominal examination was soft, nontender, nondistended; guaiac negative rectal examination. Extremities were warm with no edema.  Neurological examination was alert and oriented x 3, grossly intact.
+
+LABORATORY STUDIES:  On admission the white count was 10.7, hematocrit 29.9, platelet count 223, PTT 37.4, INR 1.1, sodium 136, potassium 4.3, chloride 103, CO2 21, BUN 20, creatinine 1.2, glucose 204, CK 352 with an MB of 12, and troponin 21.2.
+
+Chest x-ray showed no congestive heart failure or infiltrates.
+
+Electrocardiogram was normal sinus rhythm at 115, normal axis, normal intervals, [**Street Address 18**] depressions in V3 through V6; [**Street Address 726**] depression in 2; T wave inversions in 2, 3, and V3 through 6, that was with 8/10 chest pain.  When the patient was pain free after sublingual nitroglycerin and intravenous nitroglycerin as well as heparin, the electrocardiogram showed normal sinus rhythm at a rate of 92 with [**Street Address 726**] depression in V4 and 5 and T wave inversions in V3 through 5.
+
+HOSPITAL COURSE:  The patient was admitted to the Cardiology Service with a diagnosis of unstable angina for cardiac catheterization.  The patient was brought to the catheterization laboratory.  Please see the catheterization report for full details.  In summary, the catheterization showed 40% left main, 90% left anterior descending coronary artery, 95% circumflex coronary artery, and 90% right coronary artery.  No ejection fraction was obtained at that time.
+
+The patient continued to experience pain during the catheterization procedure and for that reason, an intra-aortic balloon pump was placed without complication.
+
+Following the catheterization, CT Surgery was consulted.  The patient was seen by CT Surgery and accepted for coronary artery bypass grafting.
+
+On [**2008-08-31**] the patient was brought to the operating room at which time she underwent coronary artery bypass grafting x 5 including a left internal mammary artery to the left anterior descending coronary artery, a vein graft to D2, a vein graft to obtuse marginal #1 and obtuse marginal #3 sequentially, and a vein graft to the posterior descending coronary artery. She tolerated the operation well and was transferred from the operating room to the Cardiothoracic Intensive Care Unit.  At the time of transfer the patient had an intra-aortic balloon pump at 1:1 propofol, milrinone at 5 mcg per kg per minute,
+Neo-Synephrine and nitroglycerin infusing.
+
+The patient did well in the immediate postoperative period.
+Her anesthetics were reversed.  She was weaned from the ventilator and extubated, however her balloon pump was left in place, and she was left on her milrinone throughout the course of her first operative day.
+
+On postoperative day one the patient was weaned from the intra-aortic balloon pump, which was discontinued at that time.  She did, however, continue to require small doses of milrinone to maintain adequate cardiovascular function.
+
+On postoperative day two the patient remained hemodynamically stable.  Her cardiac function was good.  Her milrinone was weaned to off and discontinued.  She did however, on that day, experience an episode of atrial fibrillation, which was treated with intravenous Lopressor and amiodarone, after which an initial loading dose the patient converted to normal sinus rhythm.  Also on postoperative day two the patient's chest tubes and Foley catheter were discontinued, and she was transferred to the floor for continuing postoperative care and cardiac rehabilitation.
+
+Over the next several days the patient's activity level was slowly progressed with the assistant of physical therapy.
+She remained hemodynamically stable, and on postoperative day five it was deemed that she was stable and ready for transfer to a rehabilitation setting for continuing postoperative care and cardiac rehabilitation.
+
+At the time of transfer the patient's physical examination was as follows:  Vital signs - temperature 98.8, heart rate 80 and sinus rhythm, blood pressure 145/85, respiratory rate 18, O2 saturation 96% on room air.  Her weight preoperatively was 92.2 kg; at discharge was 97.4 kg.
+
+Laboratory data showed an hematocrit of 28, potassium 4.2,
+BUN 22, creatinine 0.9, magnesium 2.
+
+The patient was alert and oriented x 3, moved all extremities, followed commands.  Her breath sounds were clear to auscultation on the right, diminished at the left base [**01-23**] of the way up.  Heart sounds were regular rate and rhythm, S1 and S2, no murmurs.  Sternum was stable, incision was with
+Steri-Strips, open to air, clean and dry.  Abdomen was soft, nontender, nondistended; positive bowel sounds with well-healed scars from a prior cholecystectomy and hysterectomy.  Extremities are warm and well perfused with 2+ edema.  Left leg incision had Steri-Strips, open to air, small amount of serosanguinous drainage from the upper thigh.
+
+DISCHARGE MEDICATIONS:
+1. Furosemide 40 mg b.i.d. x 7 days.
+2. Potassium chloride 20 mEq b.i.d. x 7 days.
+3. Colace 100 mg b.i.d.
+4. Aspirin 81 mg once daily.
+5. Protonix 40 mg once daily.
+6. Amiodarone 400 mg t.i.d. through [**2008-09-09**], then b.i.d. from [**2008-09-09**] through [**2008-09-16**], then once daily.
+7. Lopressor 25 mg b.i.d.
+8. Captopril 50 mg q. 8 hours.
+9. NPH insulin 30 units q.a.m., 20 units q.p.m..
+10. Regular insulin via sliding scale q. 6 hours.
+11. Ibuprofen 400 mg q. 6 hours p.r.n.
+12. Tylenol #3 one to two tablets q. 4 h. p.r.n.
+
+DISPOSITION:  The patient is to be discharged to [**Hospital 727**] in the acute setting.  She is to have follow up with Dr. [**Last Name (STitle) **] in three to four weeks, and follow up with her primary care physician in three to four weeks.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease status post coronary artery bypass grafting x 5.
+2. Diabetes mellitus type 2.
+3. Hypertension.
+4. Hypercholesterolemia.
+5. Status post cholecystectomy.
+6. Status post total abdominal hysterectomy/bilateral salpingo-oophorectomy.
+
+[**First Name11 (Name Pattern1) 12**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 13**], M.D.  [**MD Number 14**]
+
+Dictated By:[**Dictator Info 54**]
+MEDQUIST36
+
+D:  [**2008-09-05**]  11:01
+T:  [**2008-09-05**]  12:27
+JOB#:  [**Job Number 728**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 12**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 13**] on: WED [**2008-09-17**] 4:11 PM
+(End of Report)
+

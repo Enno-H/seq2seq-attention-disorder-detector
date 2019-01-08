@@ -1,0 +1,83 @@
+25655	||||	7514	||||	11643	||||	DISCHARGE_SUMMARY	||||	2013-03-12 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2013-03-08**]     Discharge Date:  [**2013-03-12**]
+
+Date of Birth:   [**1966-03-19**]     Sex:  M
+
+Service:  ICU
+
+CHIEF COMPLAINT:  Change in mental status.
+
+HISTORY OF PRESENT ILLNESS:  A 46-year-old male with a history of hepatitis-C cirrhosis on the transplant list, now admitted with change in mental status.  Per the family, the patient has been in his usual state of health, until two days prior to admission, when he became profoundly confused and somnolent after his lactulose was held prior to an elective cardiac catheterization on [**03-05**] for his liver transplant evaluation.  Per his wife, the patient did not get lactulose on three consecutive days and started developing confusion two days prior to admission.  He, also, had decreased PO intake at the time, but apparently no fever, chills, nausea or vomiting.  He has been having no bright red blood per rectum, no black stools, and no hematemesis.  He also has no chest pain, shortness of breath.  There were no sick contacts at home.  In the Emergency Department, despite multiple doses of Ativan and Haldol and PO lactulose, the patient's mental status did not improve.  A nasogastric tube was not placed secondary to the patient's mental status and non-cooperation. The patient was admitted to the Medical ICU for management of encephalopathy, given the risk of self-harm and question of airway protection, as well as continued administration of lactulose.
+
+PAST MEDICAL HISTORY:
+1.  Hepatitis-C cirrhosis.  The patient is on the transplant list status post interferon and ribavirin.  His previous EGD's have shown no varices.
+2.  Hypertension.
+3.  History of nephrolithiasis.
+4.  Cryoglobulinemia.
+
+MEDICATIONS:
+1.  Diovan, 80 PO q d.
+2.  Magnesium oxide, 100 PO b.i.d.
+3.  Lactulose, two tablespoons PO q a.m.
+4.  Nexium, 40 mg PO q d.
+5.  Oxycodone, 5 mg PO b.i.d. p.r.n.
+6.  Ambien, 10 mg q h.s.
+7.  Lasix, 20 mg PO q d.
+8.  Aldactone, 50 mg PO q d.
+9.  Multivitamins.
+
+ALLERGIES:  Codeine which gives him nausea and vomiting.
+SOCIAL HISTORY:  He works as a substance abuse counselor.  He is married.  He has a history of heavy alcohol use in the past.
+
+PHYSICAL EXAMINATION:  Temperature 98.8, heart rate 100, blood pressure 118/66, respiratory rate 20, saturation 100 on room air.  General: An agitated male, struggling in bed.
+HEENT: Anicteric sclerae.  Dry mucous membranes.  Nose mildly bloody.  Cardiovascular: S1, S2.  Tachycardiac.  No murmurs. Lungs: Clear to auscultation bilaterally.  Abdomen: Soft, nontender.  There is no evidence of caput medusae.  Liver is palpated about 2 cm below the costal margin.  Extremities:
+Palm erythema and asterixis.  There is no edema.  Skin:
+Telangiectasias.  Neuro: Alert and agitated and not oriented to place and time.  Uncooperative with neuro exam.
+
+LABORATORY/DIAGNOSTICS:  Laboratories on admission reveal a white count of 6.5, hematocrit 35, platelets 114.  Initial electrolytes: Sodium of 130, potassium of 6, chloride 104, bicarbonate 20, BUN 31, creatinine 1.4.  Initial ammonia level was 240.
+
+BRIEF HOSPITAL COURSE:
+1.  Hepatic encephalopathy:  Upon arrival in the ICU, NG tube was placed and the patient was started on aggressive lactulose regimen.  After about two days, his mental status significantly improved.  The patient was oriented to time and place, recognized family members, and was cooperative and conversant with the ICU staff.
+
+2.  Acute renal failure:  Creatinine was 1.4 up from 0.8, most likely secondary to prerenal azotemia.  Urine electrolytes confirmed that.  His ............ were being withheld and he received some IV fluids which led to eventual improvement in his renal function.
+
+3.  Nephrolithiasis:  During his ICU stay, the patient developed acute onset of groin pain which he said resembles his previous episodes of nephrolithiasis.  A KUB was obtained, but that was nondiagnostic.  An abdominal ultrasound revealed two stones, one a 5 mm stone in the right inferior kidney which showed no evidence of hydronephrosis and was consistent with old stone in that same area.  He, also, had a second new stone in his bladder with no evidence of hydroureter.  The second stone was 3 mm.  Given the patient had a mild amount of pain, it was felt he could manage his condition at home.  He was advised to drink plenty of fluids and strain his urine with the hope of obtaining the stone and submitting it to chemical analysis as an outpatient.
+
+4.  Hypertension:  His antihypertensives were being held, given he was dehydrated upon arrival.  He is discharged on his outpatient regimen.
+
+5.  Hepatitis-C cirrhosis:  The patient is on the transplant list.  LFT's remained stable during this admission.  Coags remained stable.
+
+DISCHARGE MEDICATIONS:
+1.  Diovan, 80 PO q d.
+2.  Mag-Ox, 400 PO q d.
+3.  Lactulose, two tablespoons b.i.d. and titrate to two to three bowel movements a day.
+4.  Nexium, 40 PO q d.
+5.  Oxycodone, p.r.n.
+6.  Ambien, 10 mg q h.s.
+7.  Lasix, 20 mg PO q o.d.
+8.  Aldactone, 50 mg PO q o.d.
+9.  Flagyl, 250 mg PO q d.
+
+DISPOSITION:  Discharged to home.
+
+DISCHARGE CONDITION:  Dramatically improved since arrival with clearing in mental status.
+
+DISCHARGE DIAGNOSES:
+1.  Hepatic encephalopathy.
+2.  Cirrhosis secondary to hepatitis-C.
+3.  Hypertension.
+4.  Acute renal failure.
+5.  Nephrolithiasis.
+
+[**Doctor First Name **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.
+
+Dictated By:[**Dictator Info 7620**]
+
+MEDQUIST36
+
+D:  [**2013-03-12**]  19:39
+T:  [**2013-03-12**]  20:18
+JOB#:  [**Job Number 7621**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on: FRI [**2013-04-26**] 2:07 PM
+(End of Report)
+

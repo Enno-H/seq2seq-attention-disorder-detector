@@ -1,0 +1,52 @@
+104279	||||	14522	||||	29437	||||	ECHO_REPORT	||||	2018-07-10 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Intra-op TEE for CABG
+Height: (in) 62
+Weight (lb): 140
+BSA (m2): 1.64 m2
+Status: Inpatient
+Date/Time: [**2018-07-10**] at 08:52
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: Mild LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal interatrial septum. No ASD by 2D or color Doppler. 
+
+LEFT VENTRICLE: Normal LV wall thickness. Mildly dilated LV cavity. Mild regional LV systolic dysfunction. Mildly depressed LVEF. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic diameter at the sinus level. Focal calcifications in aortic root. Normal ascending aorta diameter. Normal aortic arch diameter. Focal calcifications in aortic arch. Normal descending aorta diameter. Simple atheroma in descending aorta. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild mitral annular calcification. No MS. Moderate (2+) MR. 
+
+TRICUSPID VALVE: Physiologic TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR. 
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify I was present in compliance with HCFA regulations. No TEE related complications. The patient was under general anesthesia throughout the procedure. The patient appears to be in sinus rhythm. Results were personally reviewed with the MD caring for the patient. See Conclusions for post-bypass data 
+
+Conclusions: 
+PRE-BYPASS: 
+1. The left atrium is mildly dilated. No atrial septal defect is seen by 2D or color Doppler. 
+2. Left ventricular wall thicknesses are normal. The left ventricular cavity is mildly dilated. There is mild regional left ventricular systolic dysfunction with hypokinesis of the mid inferior, infero septal walls, lateral apical walls. Overall left ventricular systolic function is mildly depressed. 3. Right ventricular chamber size and free wall motion are normal. 
+4. There are focal calcifications in the aortic arch. There are simple atheroma in the descending thoracic aorta. 5. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. 6. The mitral valve leaflets are mildly thickened. High mild to moderate/borderline Moderate ([**02-27**]+) mitral regurgitation is seen. The jet is central with a 2-4 mm vena contracta. Pulmonary vein flow Pattern is normal. 
+
+POST-BYPASS: 
+1. Perserved biventricular function with slight improvement in inferior wall function. LVEF 40-45% 
+2. Mitral regurgitation is now moderate (2+) 
+3. There is now mild tricuspid regurgitation. 
+4. Aortic Contours are intact. 
+5. Remaining exam is unchanged. 
+6. All findings discussed with surgeons at the time of the exam. 
+

@@ -1,0 +1,1 @@
+15021-016750-DISCHARGE_SUMMARY.txt||Acronym_Abbreviation||YOUR_CUI||223||224

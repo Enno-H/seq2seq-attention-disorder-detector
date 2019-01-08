@@ -1,0 +1,40 @@
+95475	||||	23389	||||	15817	||||	ECHO_REPORT	||||	2011-04-25 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Endocarditis. Left ventricular function.  Tachycardia and sepsis Height: (in) 75
+Weight (lb): 245
+BSA (m2): 2.39 m2
+BP (mm Hg): 92/52
+HR (bpm): 120
+Status: Inpatient
+Date/Time: [**2011-04-25**] at 10:02
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is mildly dilated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. The ascending aorta is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. 
+
+MITRAL VALVE: The mitral valve leaflets are structurally normal. Moderate to severe (3+) mitral regurgitation is seen. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+GENERAL COMMENTS: Image quality was suboptimal. 
+
+Conclusions: 
+The left atrium is mildly dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably normal (LVEF>55%). Though the images are limited, suspect that the septum and apex may be hypokinetic. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve leaflets are structurally normal. While the views are limited it appears that there is moderate to severe (3+) mitral regurgitation is seen. No masses are seen on either the aortic or mitral valves. There is no pericardial effusion. Would recommend a TEE if clinically indicated. 
+

@@ -1,0 +1,20 @@
+239022	||||	10668	||||	17610	||||	RADIOLOGY_REPORT	||||	2019-02-27 19:59:00.0	||||	C15 CHEST (PRE-OP PA & LAT)	||||		||||	Clip # 391-5539  Actual report	||||	
+DATE: [**2019-02-27**] 7:59 PM
+CHEST (PRE-OP PA & LAT)                                         [**Clip Number (Radiology) 3539**] Reason: CHOLANGITISEPSIS
+Admitting Diagnosis: CHOLANGITISEPSIS
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man with                                                            REASON FOR THIS EXAMINATION: pre-op                                                                          ______________________________________________________________________________
+
+FINAL REPORT
+PA AND LATERAL CHEST FROM [**02-27**]
+
+HISTORY:  Cholangitis and sepsis.
+
+IMPRESSION:  PA and lateral chest reviewed in the absence of prior chest radiographs:
+
+Frontal view shows a second mediastinal contour parallel to the aortic knob bridged by a curvilinear calcification from the base of the arch.  This is likely to be a aortic aneurysm conceivably in association with dissection and, given the superior extent, probably involving the origin of head and neck vessels.  Elevation of the lateral aspect of the left hemidiaphragm and curvilinear infrahilar opacification of the left lower lung seen on the lateral view probably represent pleural parenchymal scarring.  There is no indication of pleural effusion currently.  Heart is normal size, and there is no pulmonary edema.
+
+These findings were discussed by telephone with Dr. [**Last Name (STitle) 3540**] covering for Dr. [**Doctor Last Name 3538**] at the time of dictation.
+

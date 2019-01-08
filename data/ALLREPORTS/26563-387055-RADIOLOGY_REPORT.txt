@@ -1,0 +1,25 @@
+387055	||||	26563	||||	18146	||||	RADIOLOGY_REPORT	||||	2009-01-26 15:08:00.0	||||	C12 CHEST (PORTABLE AP)	||||		||||	Clip # 282-0776  Actual report	||||	
+DATE: [**2009-01-26**] 3:08 PM
+CHEST (PORTABLE AP)                                             [**Clip Number (Radiology) 7881**] Reason: r/o ptx, s/p aicd removal
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+57 year old man with pleural effusion.
+REASON FOR THIS EXAMINATION:
+r/o ptx, s/p aicd removal
+______________________________________________________________________________
+
+FINAL REPORT
+
+INDICATION:  57 y/o male with pleural effusion, rule out pneumothorax, status post AICD removal.
+
+FINDINGS:  A single portable chest radiograph is compared with a portable study done earlier today.  The right subclavian line is redemonstrated and in appropriate position.  There is no evidence for pneumothorax.  The AICD has been removed in the interim.
+
+The heart is mildly enlarged when adjusting for technique.  There is evidence for mild pulmonary vascular redistribution.  There has been interval increase in the size of the right pleural effusion.  The patient is status post sternotomy.
+
+IMPRESSION:  1)  Status post AICD removal without evidence for pneumothorax.
+
+2)  Findings consistent with worsening CHF.
+
+3)  Interval increase in the size of the right pleural effusion.
+

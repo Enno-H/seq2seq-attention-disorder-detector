@@ -1,0 +1,71 @@
+28322	||||	20038	||||	22494	||||	DISCHARGE_SUMMARY	||||	2012-02-13 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2012-02-08**]        Discharge Date: [**2012-02-13**]
+
+Date of Birth:  [**1971-10-15**]        Sex:  F
+
+Service:  CSU
+
+HI[**Last Name (STitle) 1560**]OF PRESENT ILLNESS:  This 40 year old female, who has no symptoms at this time, presented with right sided weakness. A neurologic workup revealed the presence of 2 strokes. Cardiology workup revealed a patent foramen ovale and the patient was referred to Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3**] for patent foramen ovale closure. The patient did not have cardiac catheterization. A transesophageal echocardiography showed a patent foramen ovale with left to right flow.
+
+PAST MEDICAL HISTORY:  Patent foramen ovale.
+
+Depression.
+
+Cerebrovascular accident.
+
+PAST SURGICAL HISTORY:  Cesarean section x2.
+
+MEDICATIONS ON ADMISSION:  Medications at preoperative workup were as follows:
+1. Celexa 20 mg p.o. once daily.
+2. Coumadin 5 mg p.o. 4 times a week and 7.5 mg p.o. 3 times a week.
+
+ALLERGIES:  She is allergic to Penicillin which caused hives.
+
+FAMILY HISTORY:  Noncontributory.
+
+SOCIAL HISTORY:  She lived with her husband and had no smoking or alcohol history and no use of recreational drugs.
+
+LABORATORY DATA:  Preoperative laboratory work as follows:
+White count 7.2, hematocrit 39.0, platelet count 284,000. PT 16.8, PTT 37.2 with an INR of 1.8. This was all approximately a week and one half preoperatively when the patient was still on Coumadin. Her urinalysis showed some hematuria with a small amount of bacteria. Sodium 138, potassium 3.6, chloride 101, bicarbonate 30, BUN 9, creatinine 0.6, with a blood sugar of 76, ALT 41, AST 43, alkaline phosphatase 75, total bilirubin 0.4, total protein 7.8, albumin 4.4, globulin 3.4. HBA1C 5.4%. Chest x-ray showed no acute cardiopulmonary process. EKG showed sinus rhythm at 67 with nonspecific ST-T wave flattening.
+
+PHYSICAL EXAMINATION:  On examination, she had a heart rate of 66 and sinus rhythm with a blood pressure of 120/61, height 5 feet five inches tall, weight 105 pounds. She was in no apparent distress. She had no obvious skin lesions. Her extraocular movements were intact. The pupils are equal, round and reactive to light and accommodation. Her neck was supple. Her lungs were clear bilaterally without any rhonchi or rales. The heart was regular rate and rhythm, with S1 and S2 tones and no murmurs, rubs or gallops. Her abdomen was soft, nontender, nondistended with positive bowel sounds. Her extremities are warm and dry with no cyanosis, clubbing or edema. She had no obvious varicosities. She was alert and oriented and grossly neurologically intact cranial nerves II through XII. She had 2+ bilateral femoral, DP, PT and radial pulses and no carotid bruits.
+
+HO[**Last Name (STitle) **] COURSE:  The patient was admitted to the hospital on [**2012-02-08**], after stopping her Coumadin at home. On
+[**2012-02-08**], she underwent minimally invasive atrial septal defect repair through a mini right thoracotomy by Dr. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3**] and was transferred to the Cardiothoracic ICU in stable condition on a Propofol drip. She had a small right [**Male First Name (un) 2812**] drain for thoracotomy drainage. She was given Morphine and Toradol for good pain control. She was extubated overnight and remained on a Neo-Synephrine drip at 1 mcg/kg/minute. She had a good blood pressure of 88/53 and sinus rhythm at 75 and temperature maximum of 99.9 postoperatively. White count rose to 13.0, hematocrit 25.2, and platelet count 303,000. Potassium 4.0, BUN 10, creatinine 0.6. She had coarse breath sounds which were decreased on the right. Her Foley and her chest tubes remained in place. Diet was advanced. She had been extubated and her [**Male First Name (un) 2812**] drain was placed to water seal and she remained on Neo-Synephrine drip overnight. This was weaned the following morning down to 0.25. Her hematocrit dropped slightly to 20.2, white count remained at 9.6. She finished her perioperative Vancomycin. Her creatinine was stable at 0.5. Her chest tube was discontinued. Repeat chest x-ray was done. She was hemodynamically stable in sinus rhythm with a pressure of 110/58 and was transferred out to the floor. Lasix diuresis was begun. On the floor, the patient was evaluated by physical therapy to begin ambulation and activity tolerance and was seen by case management also for evaluation. Her Foley was removed that afternoon. On postoperative day #3, she did complain of some sharp right inner thigh pain with some activity. She was alert and oriented, began her aspirin, vitamins, iron and was restarted on her Celexa as well as Zantac. She was given Vitamin B6 for neurologic pain. Her aspirin was increased to 325 mg p.o. once daily. She was hemodynamically stable. Her weight was 88.2 kilograms. She was saturating 96% in room air. Her white count dropped to 8.0, her hematocrit rose to 25.4 and her creatinine remained stable at 0.7. She continued to work with physical therapy. She did have some incisional pain under her right breast, the site of her mini thoracotomy. This was treated with p.o. Percocet. She had decreased breath sounds at the bases. She was tolerating her p.o. well and was medicated for pain control. On postoperative day #4, her right inner thigh tingling decreased. She put out almost 6 liters of urine. Her heart was regular rate and rhythm. Her lungs were clear bilaterally. Her abdomen was soft, nontender. She was doing very well. The patient complained of a visual field deficit from the right [**Hospital Unit Name 82**] since surgery without prior history. On examination, appeared to be nontoxic. Her visual fields were intact. Her extraocular movements were intact. Cranial nerves II through XII were intact, and she had no neurologic deficit. Question was whether the patient had an embolic stroke at that time. A CT of the head was ordered. Neurology consultation was ordered and plans were for discharge were placed on hold, given the patient's complaint of right [**Hospital Unit Name 82**] blurriness. An ophthalmology consultation was obtained. The diagnosis was a small right macular area hemorrhage. Per initial consultation ophthalmology, it was recommended that the patient have a follow-up at her ophthalmologist in [**Location (un) **] or at the [**Hospital **] [**Hospital **] Clinic in [**Doctor Last Name **], fifth floor. Telephone number was given to the patient, [**Telephone/Fax (2) 6809**], to make an appointment on Monday after discharge. On postoperative day #5, neurology saw the patient on [**2012-02-12**], after ophthalmology consultation. At the time, this was also noted about the sensory changes of her right thigh in the distribution of the femoral nerve and lateral femoral cutaneous nerve. Neurology recommended a state CT of the pelvis with stat coagulation studies to assess for retroperitoneal bleed as well as MRA of the brain with a stroke protocol to evaluate for any infarctions, either water shed or embolic, given her various neurologic complaints. This was discussed with Dr. [**First Name8 (NamePattern2) 1263**] [**Last Name (NamePattern1) 2797**] and Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2327**], neurology attendings. Ophthalmology consultation was performed as previously noted. On postoperative day #5, the patient was then in sinus rhythm at 72, was stable hemodynamically, had trace peripheral edema. Her thoracotomy incision was clean, dry and intact. Her pacing wires had been removed. Her central venous line was out. MRI was performed, awaiting final result.  The MR scan was negative per Dr. [**Last Name (STitle) 2797**], and the patient was neurologically cleared. The patient was also evaluated to go home with VNA services by case management. The patient was instructed to follow-up with ophthalmologist and was discharged home with VNA services on [**2012-02-13**].
+
+DISCHARGE DIAGNOSES:  Status post minimally invasive atrial septal defect repair.
+
+Status post cerebrovascular accident.
+
+Right macular hemorrhage.
+
+Depression.
+
+Status post cesarean section x2.
+
+DISCHARGE INSTRUCTIONS:
+1. To follow-up with Dr. [**First Name (STitle) 1697**], her primary care physician in approximately 2-3 weeks postdischarge with specific instructions to follow-up with Dr. [**First Name (STitle) 1697**] on the right kidney mass and left pelvic cyst that were both found on CT scan in the hospital.
+2. The patient was also instructed to follow-up at the ophthalmology clinic here at [**Hospital 5104**], [**Telephone/Fax (2) 6809**], or to see her own ophthalmologist in [**Location (un) **] as discussed for follow-up of her right retinal hemorrhage.
+3. The patient was also instructed to follow-up with Dr. [**First Name4 (NamePattern1) 9**] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 3**] in approximately 4 weeks for her postoperative surgical visit in the office.
+
+MEDICATIONS ON DISCHARGE:
+1. Celexa 20 mg p.o. once daily.
+2. Ferrous Sulfate 325 mg p.o. once daily.
+3. Vitamin C 500 mg p.o. twice daily.
+4. Pyridoxine Hydrochloride 50 mg p.o. once daily.
+5. Enteric-coated aspirin 325 mg p.o. once daily.
+6. Percocet 5/325 one tablet p.o. p.r.n. q.4hours for pain.
+7. Ibuprofen 400 mg p.o. q.6hours p.r.n. for pain.
+
+DISCHARGE STATUS:  The patient was discharged to home in stable condition with VNA services on [**2012-02-13**].
+
+[**First Name4 (NamePattern1) 9**] [**Name Prefix (Prefixes) 2**] [**Last Name (Prefixes) 3**], M.D. 02351
+
+Dictated By:[**Dictator Info 471**]
+MEDQUIST36
+D:  [**2012-03-27**] 16:12:56
+T:  [**2012-03-27**] 19:43:38
+Job#:  [**Job Number 6810**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: FRI [**2012-05-18**] 10:52 AM
+(End of Report)
+

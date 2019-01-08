@@ -1,0 +1,6 @@
+90812	||||	5308	||||	27655	||||	ECG_REPORT	||||	2019-02-11 13:29:00.0	||||		||||		||||		||||	
+Sinus rhythm
+Short run of supraventricular tachycardia   
+Probable acute inferior myocardial infarction
+Since last ECG, inferior myocardial infarction and supraventricular tachycardia are new 
+

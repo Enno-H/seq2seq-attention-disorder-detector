@@ -1,0 +1,4 @@
+43167	||||	8380	||||	20658	||||	ECG_REPORT	||||	2017-11-10 08:51:00.0	||||		||||		||||		||||	
+Sinus rhythm. Since the previous tracing of [**2017-11-09**] the P wave can be seen clearer and raises the possibility of a non-sinus supraventricular rhythm. Clinical correlation is suggested. 
+TRACING #3
+

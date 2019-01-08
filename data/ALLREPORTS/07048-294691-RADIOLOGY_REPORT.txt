@@ -1,0 +1,42 @@
+294691	||||	7048	||||	6824	||||	RADIOLOGY_REPORT	||||	2015-05-16 21:19:00.0	||||	V154 36248 ADD'L 2ND/3RD ORDER ABD/PEL/LOWER EXT A-GRAM	||||		||||	Clip # 287-6582  Actual report	||||	
+DATE: [**2015-05-16**] 9:19 PM
+MESENTERIC                                                      [**Clip Number (Radiology) 3649**] Reason: Pt with LGI bleed, s/p RBC scan.  For possible intervention. Contrast: OPTIRAY Amt: 150 ********************************* CPT Codes ******************************** * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT* * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO* * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   * * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-* * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO * ****************************************************************************
+
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+81 year old woman with 
+REASON FOR THIS EXAMINATION:
+Pt with LGI bleed, s/p RBC scan.  For possible intervention. ______________________________________________________________________________
+
+FINAL REPORT
+INDICATION:  81 year old female with lower gastrointestinal bleed proven by nuclear medicine scan, please embolized.  Significant hematocrit drop.
+
+RADIOLOGIST:
+
+Attending radiologist:  Dr. [**First Name (STitle) 161**] [**Name (STitle) 162**]. Interventional radiology fellow:  Dr. [**Doctor First Name 3278**] Rao.
+
+TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 162**] was present for the entirety of the procedure.
+
+The right groin was sterilely prepped and draped and a 19 gauge needle was used to access the right common femoral artery.  A .018 guidewire was advanced under fluoroscopic observation into the abdominal aorta, over which a 5 FR sheath was placed.  Through the 5 FR sheath, a 5 FR Cobra catheter was used to select the superior mesenteric artery.  The superior mesenteric artery angiogram was obtained.  A 5 FR SOS catheter was used to select the inferior mesenteric artery and inferior mesenteric angiogram in multiple projections was obtained.  A 3 FR microcatheter was placed through the 5 FR SOS catheter into the left colic artery, and multiple angiograms obtained.  The catheter was then advanced into the ascending branch of the left colic artery and angiogram was obtained.  The catheter was repositioned so that its tip was in the descending branch of the left colic artery, and images obtained.  The catheter and sheath were removed, and manual pressure applied until hemostasis was achieved.  A small hematoma (less than 3 cm) was noted.
+
+MEDICATIONS:  Under continuous monitoring small divided doses of Versed totaling 1 mg, and Fentanyl totaling 50 mcg was administered.  1% Lidocaine was used for local anesthesia the right common femoral artery puncture site.
+
+COMPLICATIONS:  There was a small (less than 3 cm) hematoma at the groin site, likely secondary to this patient's inability to remain motionless during compression and immediately after compression.  Ultrasound at time showed no evidence of pseudoaneurysm.  Examination of the groin the next morning showed great improvement of the hematoma, measuring less than 1 cm the following (Over)
+
+DATE: [**2015-05-16**] 9:19 PM
+MESENTERIC                                                      [**Clip Number (Radiology) 3649**] Reason: Pt with LGI bleed, s/p RBC scan.  For possible intervention. Contrast: OPTIRAY Amt: 150
+______________________________________________________________________________
+
+FINAL REPORT
+(Cont)
+morning.
+
+FINDINGS:  Superior mesenteric angiogram demonstrated atherosclerotic disease with mild (less than 25%) narrowing of the mid portion of the main SMA. Angiogram of the left colic artery demonstrated the anatomy to be very well visualized with mucosal stain seen, but no evidence of bleeding.  Similarly, the angiograms of the ascending and descending branches of the left colic artery did not demonstrate any evidence of contrast extravasation.  The venous system appeared normal, and the superior mesenteric vein and portal vein were patent.
+
+IMPRESSION:
+
+1.  Angiograms of the superior mesenteric artery, in multiple branches of the left colic artery via the inferior mesenteric artery demonstrated no active extravasation.
+
+2.  The decision not to infuse vasopressin was made after consultation with the surgical team given this patient's recent ST segment depression on EKG.
+

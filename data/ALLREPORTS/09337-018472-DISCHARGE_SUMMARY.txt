@@ -1,0 +1,79 @@
+18472	||||	9337	||||	17827	||||	DISCHARGE_SUMMARY	||||	2012-02-06 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-01-31**]     Discharge Date:  [**2012-02-06**]
+
+Date of Birth:   [**1928-10-05**]     Sex:  F
+
+Service:  CCU
+
+CHIEF COMPLAINT:  The patient was transferred from an outside hospital for management of acute ST elevation myocardial infarction.
+
+HISTORY OF PRESENT ILLNESS:  This patient is an 84-year-old woman without significant past medical history whose only cardiac risk factor was her age.  She was transferred from [**Hospital 70**] where she presented the morning of admission with chest pain radiating to her jaw.  At [**Hospital 70**] she was found to have ST elevations anteriorly and inferiorly.
+She was started on aspirin, give a beta blocker and started on a heparin drip and transferred immediately to [**Hospital 22**] for cardiac catheterization.
+
+In retrospect the patient recalls experiencing chest tightness with exertion for approximately two weeks prior to admission, as well as chest tightness over the two days prior to admission even at times of rest.  She denies any other complaints.
+
+The patient was taken immediately to the cardiac catheterization laboratory upon arrival before coming to the coronary care unit.  There she was found to have a right dominant system with two-vessel coronary artery disease.  The left main coronary artery had a 30% ostial lesion.  The left anterior descending artery was occluded proximally with fresh thrombus.  The left circumflex had mild luminal irregularities.  There was a medium-sized ramus intermedius with a 90% proximal lesion.  The right coronary artery was diffusely diseased with 50% proximal stenosis and then was occluded at the midportion.  The distal right coronary artery was reconstituted with right-to-right collaterals with TIMI 1 flow.  There was successful percutaneous transluminal coronary angioplasty and stenting of the proximal to mid left anterior descending coronary artery, as well as thrombectomy with a final result of TIMI 3 flow.  Right heart catheterization was done as well showing elevated pressures with a pulmonary capillary wedge pressure of 32, a mean right atrial pressure of 22 mmHg.  PA pressure was 56/25.  The cardiac index was depressed at 1.5.  Following catheterization the patient was transferred to the coronary care unit for further monitoring.
+
+PAST MEDICAL HISTORY:  Anxiety.
+
+MEDICATIONS ON ADMISSION:  Buspar and Remeron.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+FAMILY HISTORY:  No history of coronary artery disease.
+
+SOCIAL HISTORY:  The patient denies use of tobacco or alcohol.  She lives in [**Location 3282**] independently.
+
+PHYSICAL EXAMINATION:  On admission to the coronary care unit the patient was afebrile, heart rate was 77, blood pressure 103/56, oxygen saturation was 97% on four liters, respiratory rate 17.  PA pressure at that time was 33/14.  Pertinent physical findings reveal that her sclerae were anicteric.
+Her oropharynx was clear and dry.  Examination of the neck revealed jugular venous distension to the earlobes bilaterally.  Her lungs had crackles at the left base but were otherwise clear.  Her abdomen was obese, soft and nontender.  Her heart examination revealed a normal S1 and S2, no murmurs were heard.  Extremity examination revealed decreased distal pulses bilaterally, no edema, and the patient had significant hematoma at the right groin.  The patient had had an Angio-Seal placed which temporarily became unseated after the case as the patient was a bit agitated. The hematoma was stable after compression held in the catheterization laboratory and was not found to be enlarging on examination.
+
+LABORATORY STUDIES:  Chem-7 was unremarkable.  Initial set of cardiac enzymes revealed a CK of 817 with an MB fraction of
+53.  Troponin was 8.5.
+
+HOSPITAL COURSE:  1. Cardiovascular:
+A. Coronary artery disease:  The patient was status post anterior ST elevation myocardial infarction.  She was continued on aspirin after the procedure as well as Integrilin for 18 hours post catheterization.  She was started on Plavix to be continued for 30 days.  Immediately post catheterization because of her depressed cardiac output and index, her beta blocker and ACE inhibitors were held. Eventually as her hemodynamics improved and her blood pressure tolerated, she was restarted on beta blocker, initially Lopressor 12.5 mg b.i.d.  The patient was called out of the coronary care unit to the medical floor on the next hospital day, [**2012-02-01**] after the Swan-Ganz catheter had been discontinued.  Her lipid panel was checked showing that she had an LDL of 90 and HDL of 58.  With these numbers the patient was not started on a statin.  Her beta blocker was titrated to 25 mg b.i.d. and was well tolerated.
+
+B. Rhythm:  The patient was in sinus rhythm throughout her hospitalization.  On hospital day number to she was found to have an 11-beat run of nonsustained ventricular tachycardia. Electrophysiology was consulted regarding risk stratification in this woman peri-MI.  It was felt that because of her very low ejection fraction and evidence for a large area of scarring by EKG that she should undergo risk stratification for arrhythmia, however it was felt that given that she had just completed an acute anterior myocardial infarction, it was felt that invasive electrophysiologic studies should be performed approximately one month after this admission.  For that the patient will follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 207**] approximately one month after discharge.
+
+C. Congestive heart failure:  The patient had an echocardiogram on [**2012-02-01**] revealing an ejection fraction of less than 25%.  The left atrium was mildly dilated.  There was symmetric left ventricular hypertrophy.  There was severe global left ventricular hypokinesis with some preservation of the basal lateral and basal posterior wall segments.  Overall however the left ventricular systolic function was severely depressed.  On [**2012-02-01**] while being transfused for an hematocrit of 27.2, the patient experienced some shortness of breath and clinical findings suggestive of congestive heart failure.  She was diuresed with Lasix with improvement.
+Because of her poor ejection fraction and anterior myocardial infarction the patient was anticoagulated initially with a heparin drip and Coumadin was begun.  Ultimately she was changed to Lovenox at the time of discharge until her warfarin with therapeutic.  Also for her heart failure the patient was placed on lisinopril 2.5 mg to be titrated as her blood pressure tolerated.
+
+2. Psychiatry:  The patient was continued on her outpatient doses of Remeron and buspirone.
+
+3. Urinary tract infection:  Her urinalysis was checked on the evening of [**2013-01-31**] suggestive of urinary tract infection with leukocyte esterase, greater than 50 white blood cells, and many bacteria.  The patient was treated with ciprofloxacin for three days.
+
+DISPOSITION:  Prior to discharge physical therapy was consulted.  It was felt that the patient did not require inpatient rehabilitation but that she would benefit from home physical therapy and VNA, and the patient was discharged to home.
+
+DISCHARGE DIAGNOSES:
+1. Acute anterior ST elevation myocardial infarction status post percutaneous transluminal coronary angioplasty and stenting of the left anterior descending coronary artery.
+2. Anxiety.
+3. Urinary tract infection.
+
+DISCHARGE MEDICATIONS:
+1. Lovenox 60 mg subcutaneous q. 12.
+2. Enteric-coated aspirin 325 mg p.o. q.d.
+3. Plavix 75 mg p.o. q.d.
+4. Coumadin 5 mg p.o. q.h.s.
+5. Lisinopril 2.5 mg p.o. q.d.
+6. Imdur 60 mg p.o. q.d.
+7. Metoprolol XL 50 mg p.o. q.d.
+8. Remeron 7.5 mg p.o. q.h.s.
+9. Buspar 10 mg p.o. b.i.d.
+
+FOLLOW UP:  The patient was to have a PT/INR drawn by the VNA services on [**2012-02-07**].  The patient was to follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 207**] four weeks following decision to be arranged by her office.
+
+CONDITION ON DISCHARGE:  Stable.
+
+[**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3893**], M.D.  [**MD Number 3891**]
+
+Dictated By:[**Dictator Info 939**]
+
+MEDQUIST36
+
+D:  [**2012-06-25**]  10:47
+T:  [**2012-06-29**]  11:17
+JOB#:  [**Job Number 6805**]
+s
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3893**] on: [**Doctor First Name 32**] [**2012-07-12**] 8:25 AM (End of Report)
+

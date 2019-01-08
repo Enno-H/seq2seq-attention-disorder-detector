@@ -1,0 +1,26 @@
+383430	||||	6091	||||	9227	||||	RADIOLOGY_REPORT	||||	2014-07-04 10:15:00.0	||||	U51 PELVIS, NON-OBSTETRIC	||||		||||	Clip # 405-0991  Actual report	||||	
+DATE: [**2014-07-04**] 10:15 AM
+PELVIS U.S., TRANSVAGINAL; PELVIS, NON-OBSTETRIC                [**Clip Number (Radiology) 3378**] Reason: 21 year old with delayed pp hemorrhage, s/p d&C with ? accre Admitting Diagnosis: RETAINED PRODUCTS OF CONCEPTION ______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+21 year old woman with delayed pp hemorrhage, s/p d&C with ? accreta, please evaluate uterus for any further retained products.   REASON FOR THIS EXAMINATION:
+21 year old with delayed pp hemorrhage, s/p d&C with ? accreta, please evaluate uterus for any further retained products.  
+______________________________________________________________________________
+
+FINAL REPORT
+PELVIC ULTRASOUND
+
+INDICATION FOR STUDY:  Postpartum bleeding.
+
+The study is performed as a followup from the recent study of [**2014-07-01**].  The patient has subsequently had curettage and pelvic embolization. Transabdominal and endovaginal ultrasound were performed and showed the uterus to be anteverted and within normal limits for a recently postpartum uterus. The endometrial cavity echoes show a maximum thickness of approximately 7 mm. The area of increased vascularity in the left anterior fundus is again visualized with a feeding vessel to a small focus of material within the endometrial cavity which measures less than 5 mm maximum dimension.
+
+The ovaries are within normal limits for size with no evidence of adnexal mass nor any evidence of free pelvic fluid.
+
+IMPRESSION:
+
+Significant improvement in the appearance of the uterus since the prior examination.  The area of vascularity is again seen in the left anterior fundus myometrium.  There is likely a small retained product of conception less than 5 mm in size.
+
+Findings were discussed with Dr. [**Last Name (STitle) 3374**].
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3379**]
+

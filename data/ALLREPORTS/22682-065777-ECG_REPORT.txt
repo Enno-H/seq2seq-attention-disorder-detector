@@ -1,0 +1,4 @@
+65777	||||	22682	||||	6073	||||	ECG_REPORT	||||	2013-05-19 15:21:00.0	||||		||||		||||		||||	
+Possible atrial flutter with variable block
+No previous tracing
+

@@ -1,0 +1,31 @@
+272404	||||	21280	||||	4754	||||	RADIOLOGY_REPORT	||||	2012-05-07 12:31:00.0	||||	V413 43761 REPOSITION GASTRIC TUBE INTO DUODENUM	||||		||||	Clip # 313-3429  Actual report	||||	
+DATE: [**2012-05-07**] 12:31 PM
+PERC G/G-J TUBE PLMT                                            [**Clip Number (Radiology) 2831**] Reason: PLEASE PLACE G-J TUBE FOR LONG-TERM FEEDING, ASPIRATION Contrast: CONRAY Amt: 60 ********************************* CPT Codes ******************************** * 43761 REPOSITION GASTRIC TUBE INTO D 74355 PERC PLCMT ENTROCLYSIS TUBE   * * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           * * C1769 GUID WIRES INCL INF            C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 2832**] AWY* * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      * ****************************************************************************
+
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+44 year old man with ICU neuropathy, needs G-J tube for feeds                   REASON FOR THIS EXAMINATION: Please place G-J tube for long-term feeding                                     ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  44 year old man with G tube and needs conversion to G-J tube for long-term feeding.
+
+RADIOLOGISTS:  Dr. [**First Name (STitle) 2833**] [**Name (STitle) **] and Dr. [**First Name8 (NamePattern2) 2834**] [**Name (STitle) 273**] performed the procedure.  Dr. [**Doctor Last Name 273**] is present and supervising the procedure throughout.
+
+PROCEDURE:  Patient has a previous surgically placed 18-[**Ethnicity 23**] G tube.  A [**Doctor Last Name 273**] wire is advanced through the G tube and the G tube is removed.  A 7- [**Ethnicity 23**] sheath is placed. An H-1 and then C2 catheter were used to engage the pylorus. Using a glide wire and the C2 catheter, the wire and catheter were advanced into the proximal jejunum. Contrast was injected, which demonstrated that the angle between the pylorus and duodenum is very  acute.
+
+Attempts were made to pass an Amplatz wire into the duodenum, however, due to the acute angle with the pylorus, this was not possible, and the Amplatz was exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 273**] wire. Over the [**Doctor Last Name 273**] wire, an attempt was made to pass an 18 Fr. G-J tube, however, the catheter would not pass without looping the wire in the stomach. The Rosn wire was replced into the jejunum, and an attempt to place a 16Fr. G-J tube was made. Again, the wire would not support the catheter, and access to the Duodenum was lost.
+
+Several attempts were then made to re-engage the pylorus, but these were unsuccessful. Given that 60 minutes of fluoro time has been sued, a decision to replace  An 18- [**Ethnicity 23**] Foley catheter was made, and the foley was replaced over a wire into the stomach, and balloon inflated with 5cc of saline. The Foley catheter was secured to the skin. The patient tolerated the procedure without immediate post procedure complication.
+
+IMPRESSION:  Unsuccessful attempt at  placement of G-J tube due to the acute angle between the pylorus and the duodenum and the large size of catheter (18Fr) required for the existing entry site. It is  Recommend to pursue endoscopic placement of G- J tube. This was discussedw ith the house staff.
+
+(Over)
+
+DATE: [**2012-05-07**] 12:31 PM
+PERC G/G-J TUBE PLMT                                            [**Clip Number (Radiology) 2831**] Reason: PLEASE PLACE G-J TUBE FOR LONG-TERM FEEDING, ASPIRATION Contrast: CONRAY Amt: 60
+______________________________________________________________________________
+
+FINAL REPORT
+(Cont)
+

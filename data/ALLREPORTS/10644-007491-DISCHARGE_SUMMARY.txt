@@ -1,0 +1,166 @@
+7491	||||	10644	||||	18870	||||	DISCHARGE_SUMMARY	||||	2019-04-04 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2019-03-19**]              Discharge Date:   [**2019-04-04**]
+
+Date of Birth:  [**1940-12-06**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: 
+Amoxicillin / Percocet
+
+Attending:[**Attending Info 96**] 
+Chief Complaint:
+acute confusional state
+
+Major Surgical or Invasive Procedure:
+lumbar puncture
+mechanical ventillation
+
+History of Present Illness:
+The patient is a 78 year old left handed man with hypertension, status post aortic valve replacement in [**2012**] (porcine), hypercholestrolemia, status post partial lung resection 
+[**2018-12-21**], who was brought to the [**Doctor First Name 77**] [**03-19**] after confusion x1 day.
+
+A fellow priest noted that the patient was confused in the morning of the day of presentation. The confusion progressed and by pm the patient was only able to mumble. He also had an acute onset of frontal headache and [**Hospital Unit Name 156**] pain that started 10 hours following the onset of confusion.
+
+The PCP was contacted and after evaluation he was brought to the [**Doctor First Name 77**] per EMS. The code stroke team was activated as it was not clear at that time that the confusion had [**Doctor First Name **] going on for half a day.  The patient was noted per [**Doctor First Name 77**] note to have phonemic paraphasias, R sided neglect, and ? R hemianopsia. NIHSS~6.  A CT head with motion artifact showed no apparent hemorrhage, mass, edema, and no obvious infarct except for a chronic appearing infarct in the L caudate head. At that time, the patient was deemed a candidate for IV tPA. After tPA he was tranferred to the unit for further observation and management.
+
+Additionally, pt denied HA, diplopia, blurry vision, tinnitus, vertigo, dysphagia, dysarthria, incoordination, focal weakness/numbness.  No fever or chills, weight loss, SOB, chest pain or pressure, palpitations, nausea, vomitting, abdominal pain, constipation, diarrhea, muscle aches, joint pains, rash or dysuria.
+
+Past Medical History:
+1. Aortic valve replacement/Coronary artery bypass graft with LIMA graft 1999
+2. Right-hip replacemt 1997 with revision 
+3. Hypertension 
+4. Ankylosing spondylitis
+5. Right thoracoscopy with multiple wedge excisions [**2018-12-21**], with multiple intercostal nerve blocks
+6. Left pleural effusion, trapped left lower lobe (fibrothorax) in 09/05 7. Hypertension
+
+Social History:
+[**Hospital1 992**] Priest x 60 [**Name2 (NI) 993**], lives [**Street Address 994**]- 6th floor- gets meals there
+Is still working as a Priest.  Drinks alcohol socially.
+
+Family History:
+non-contributory
+
+Physical Exam:
+Per [**Doctor First Name 77**] note:
+VS: afebrile 80s 194/90s 18  95%ra
+General: WNWD, NAD
+HEENT: Anicteric, MMM without lesions, OP clear
+Neck: Supple, no LAD, no carotid bruits, no thyromegaly
+CV: RRR  s1s2    2/6 SEM
+Resp: CTAB   no r/w/r
+Abd: +BS    Soft/NT/ND    no HSM/masses
+Ext: No c/c/e, distal pulses intact
+Skin: No rashes, petechiae
+
+MS: alert, oriented to person, place, cannot name date, interactive, following most midline and appendicular commands Memory [**04-26**] immediately & w/o prompting at 5 minutes difficulty naming and repeating; multiple phonemic paraphsias Evidence of R sided neglect with visual and tactile stimulation CN: I - not tested, II,III - PERRL([**05-27**] bilat), apparent R hemianopsia versus neglect; III,IV,VI - EOMI though attends moreso to the left, no ptosis, no nystagmus;  V- sensation intact
+to LT/PP, responds to nasal tickle, masseters strong symmetrically; VII - no apparent facial weakness/asymmetry; VIII - hears finger rub B; IX,X - voice normal, palate elevates symmetrically, gag intact; XI - SCM/Trapezii [**06-28**] B; XII - tongue protrudes midline, no atrophy or fasciculations
+Motor: nl bulk and tone, no tremor, rigidity or bradykinesia.  No
+pronator drift.
+Deltd   Bicep   Tricp   ECR/U   ExDig   FlDig   DorsI   OppPB Axill   mscut   [**Month/Day (1) 637**]   [**Name6 (MD) 637**]   [**Name8 (MD) 637**]   md/ul   ulnar   medin C5     C5-6     C7     C6-7     C7      C8      T1
+C8-T1
+L  5       5       5       5       5       5       5 5
+R  5       5       5       5       5       5       5 5
+Ilpso   Qufem   Hamst   TibAn   [**First Name9 (NamePattern2) 638**]    [**Last Name (un) 185**] Femor   femor   [**First Name9 (NamePattern2) 639**]   [**Last Name (un) 640**]   tibil   dpper L1-2    L3-4    L5-S2   L4-5    S1-2     L5
+L  5       5       5       5       5  5
+R  5       5       5       5       5  5
+DTRs: [**Name2 (NI) **] (C56) BR (C6) Tri (C7) Pa (L34) Ac (S12)  Plantar L 2 2 2 2 2   down
+R 2 2 2 2 2   down
+Sensory: w/d to pinch throughout, though extinguishes to DSS on right
+Coord: no apparent dysmetria or ataxia with mvmnts
+Gait: not assessed
+
+Pertinent Results:
+[**2019-03-19**] 10:00PM   WBC-6.4 RBC-3.95* HGB-12.2* HCT-36.7* MCV-93  MCH-30.8 MCHC-33.2 RDW-13.4
+[**2019-03-19**] 10:00PM   NEUTS-76* BANDS-0 LYMPHS-9* MONOS-13* EOS-2  BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2019-03-19**] 10:00PM   PLT COUNT-206
+[**2019-03-19**] 09:00PM   GLUCOSE-110* UREA N-23* CREAT-1.0 SODIUM-133  POTASSIUM-4.6 CHLORIDE-93* TOTAL CO2-29 ANION GAP-16
+[**2019-03-19**] 09:00PM   CK(CPK)-104
+[**2019-03-19**] 09:00PM   CK-MB-3 cTropnT-<0.01
+[**2019-03-19**] 08:00PM   GLUCOSE-112* UREA N-23* CREAT-1.0 SODIUM-132*  POTASSIUM-4.6 CHLORIDE-93* TOTAL CO2-28 ANION GAP-16
+[**2019-03-19**] 08:00PM   PT-11.7 PTT-26.4 INR(PT)-0.9
+
+CT head [**03-19**]: These images are all markedly limited by motion artifact in spite of being repeated three additional times. Even the last series is significantly limited. However, there is no obvious intracranial hemorrhage. There are mild age-related involutional changes, and greater atrophy within the cerebellum. There is no mass effect, hydrocephalus or shift of the normally midline structures. The gray-white matter differentiation appears preserved but there are hypodensities in the right subinsular cortex, and one in the left subinsular cortex as well as left cerebellum, probably from small prior infarctions.
+The visualized mastoid air cells and paranasal sinuses are clear. There are calcifications of the vertebral and cavernous carotid arteries.
+IMPRESSION: No evidence of intracranial hemorrhage or acute process.
+
+CT head [**03-11**]:
+Comparison is limited by motion on the prior scan. However, there appears to be a new focus of hyperdensity in a right frontal gyrus (image 22). Although partly obscured by motion on the prior study, this focus was not seen previously. A tiny calcification in the left cental sulcus. In retrospect, this focus was probably present on the prior study. There is no evidence of infarction, and there are no other areas of suspicion for hemorrhage.
+Conclusion: Possible tiny focus of hemorrhage in the right frontal lobe, possibly an acute bleed. This appears new since [**2019-03-19**], but the prior scan was limited by motion. There is a tiny calcification in the left central sulcus.
+No other evidence of hemorrhage or infarction. 
+
+CXR: IMPRESSION: Markedly suboptimal film with possible process involving the left parenchymal base.
+
+ECHO: The left atrium is mildly dilated. There is asymmetric left ventricular hypertrophy. The left ventricular cavity is small. Left ventricular systolic  function is hyperdynamic (EF 70-80%), with apical cavity obliteration. An  apical intracavitary gradient is identified (rest: 7 mmHg, Valsalva: 58 mmHg).  No masses or thrombi are seen in the left ventricle. There is no ventricular  septal defect. Right ventricular chamber size and free wall motion are normal.  A bioprosthetic aortic valve prosthesis is present. The aortic prosthesis  appears well seated, with normal leaflet/disc motion and transvalvular  gradients. No masses or vegetations are seen on the aortic valve. The mitral  valve leaflets are mildly thickened. There is no mitral valve prolapse. No  mass or vegetation is seen on the mitral valve. The left ventricular inflow  pattern suggests impaired relaxation. The tricuspid valve leaflets are mildly  thickened. There is mild pulmonary artery systolic hypertension. No  vegetation/mass is seen on the pulmonic valve. There is no pericardial effusion.  
+Compared with the findings of the prior report (images unavailable for review) of [**2018-10-25**], probably no major change. The absence of a vegetation by 2D echocardiography does not exclude endocarditis if clinically suggested. 
+
+US Carotids: 40-59% right ICA stenosis.  Less than 40% left ICA stenosis
+
+VIDEO SWALLOW [**2019-04-03**]:
+Pt presents with a mild oral and pharyngeal dysphagia characterized by mildly reduced oral control, mild swallow delay and delayed laryngeal valve closure. The pt had one episode of trace aspiration when taking a larger sip of thin liquid. Aspiration was silent, but cued coughs were effective at clearing the aspirate material. The risk for trace aspiration was reduced by taking single, small sips of thin liquid. The pt was also noted to have increased oral control compared to the last videoswallow and is now able to tolerate a PO diet of thin liquids and soft consistency solids. Pt should only take single, small sips of thin liquid. Pt was unable to swallow the barium tablet whole during the study, and should continue to have his pills crushed with purees. 
+
+RECOMMENDATIONS:
+1. Suggest advancing to a PO diet of thin liquids and soft consistency solids. 2. Pt should only take single, small sips of thin liquid. No Straws! 3. Please crush all pills and give them with purees.
+
+Brief Hospital Course:
+78M with hx of AVR/CABG, s/p lung resection who presented to [**Hospital1 33**] on [**03-19**] with confusion and found to have global aphasia s/p tPA for presumed stroke but no positive imaging who was initially given TPA and admitted to the ICU.  He was then re-transfered to the ICU for acute bradycardia with hypotension and unresponsiveness.  The bradycardia and hypotension was felt to be due to IV lopressor effect, and possibly due to pneumonia and sepsis.  An ABG at that time returned 6.94/151/101 and he was emergently intubated.  Femoral central access was obtained and he was transiently on Levophed for pressure support.  He was intubated from [**03-25**] - [**03-28**], and his mental status then resolved after treating his hypercapnea and pneumonia.  He was continued on a course of levaquin for staph aureus pneumonia, and his mental status remained stable.  He was re-evaluated by neurology after his mental status improved and was felt to have no focal neurologic deficits.  In fact, there was sufficient doubt as to whether or not he actually had a stroke on presentation since no evidence of a stroke was ever found.  His mental status changes may have been due to sepsis and respiratory failure - toxic/metabolic etiologies.
+
+For the 3-4 days prior to discharge his mental status remained clear and he continued to have improving swallowing function.  He completed a course of Levaquin for his penumonia, and he was afebrile.
+
+His code status is DNR/DNI.
+
+Medications on Admission:
+ASPIRIN 325MG--One tablet by mouth every day
+ATENOLOL 25MG--Take [**02-25**] tablet daily
+LIPITOR 20MG--One tablet by mouth every day
+NAPROSYN 375MG--One tablet by mouth every day
+UNIVASC 7.5MG--One tablet by mouth every day
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for fever or pain: not to exceed 4g/day. 
+
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 times a day).  
+4. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+5. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+6. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+7. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+9. Multivitamin     Tablet Sig: One (1) Tablet PO once a day.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 995**] Friary
+
+Discharge Diagnosis:
+stroke
+respiratory failure
+aspiration pneumonia
+hypertension
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Please follow-up with your primary care doctor or with a new primary care doctor in 1-2 weeks.
+
+Followup Instructions:
+Please follow-up with your primary care doctor or with a new primary care doctor in 1-2 weeks.
+
+Provider: [**Name10 (NameIs) 996**]CC2 PULMONARY LAB-CC2 Date/Time:[**2019-03-25**] 2:30
+
+Provider: [**Initials (NamePattern4) **]. [**Last Name (STitle) **]/DR. [**Last Name (STitle) 204**] Phone:[**Telephone/Fax (2) 896**] Date/Time:[**2019-03-25**] 4:00
+
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (2) 997**] Date/Time:[**2019-04-08**] 9:45
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 108**] MD [**MD Number 109**]
+
+Completed by: [**First Name11 (Name Pattern1) 998**] [**Name7 (MD) 999**] MD [**MD Number 1000**] [**2019-04-04**] @ 1021
+Signed electronically by: DR. [**First Name (STitle) **] PARKS on: SUN [**2019-04-07**] 7:56 PM
+(End of Report)
+

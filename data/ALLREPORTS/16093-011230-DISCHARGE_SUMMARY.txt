@@ -1,0 +1,140 @@
+11230	||||	16093	||||	10797	||||	DISCHARGE_SUMMARY	||||	2014-05-18 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2014-05-12**]              Discharge Date:   [**2014-05-18**]
+
+Date of Birth:  [**1940-01-02**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: 
+Penicillins / Lipitor
+
+Attending:[**Attending Info 1380**] 
+Chief Complaint:
+Tracheobronchomalacia
+
+Major Surgical or Invasive Procedure:
+Tracheobronchoplasty via right thoracotomy
+
+History of Present Illness:
+The patient is a 74-year-old man who has had a chronic and severe cough since
+[**2013-01-31**]. It is severely limiting to his activities of daily life, and he has severe dyspnea on exertion. He has had several bouts of upper respiratory infections treated with antibiotics. He is unable to clear his secretions readily. Mr. [**Name13 (STitle) 20**] had undergone a stent trial with a Y-stent placed on [**2014-04-15**] and noted that his breathing and cough improved, however the stent was removed on [**2014-04-23**]. He was recently admitted to the hospital for treatment of a left lower lobe pneumonia., treated with antibiotics at home. 
+
+Past Medical History:
+Hypertension  
+Hypercholesterolemia  
+CAD status post MI s/p CABG in [**2007**]  
+GERD  
+OSA  
+Tracheobronchomalacia s/p Y stent placement and removal [**04-23**]  
+Basal cell carcinoma of the skin  
+Status post resection  
+Squamous cell carcinoma of the skin status  
+post resection  
+Melanoma status post resection  
+Prostate cancer diagnosed in [**1997**] status post radical prostatectomy Diverticular disease s/p colon resection  
+Cholecystectomy  
+Inguinal hernia repair multiple times, last time in [**2006**].  
+
+Social History:
+He is married, retired, used to work in construction, drinks alcohol socially, used to smoke 20-pack-year quit 15 years ago, and has been exposed to asbestos. 
+
+Family History:
+His father died secondary to prostate cancer, mother had 
+Alzheimer's, and brother had lung cancer. 
+
+Physical Exam:
+VS: T 96.6 BP 125/62 HR 72 RR 16 95% RA  
+General: well-nourished, well-appearing, speaking in full sentences with occasional coughing
+HEENT: NC/AT, EOMI, OP clear, MMM, anicteric  
+Neck: supple, no LAD, no carotid bruits  
+CV: RRR, normal S1/S2, no m/r/g noted  
+Lungs: scattered rhonchi thorughout with scattered inspiratory wheezes  
+Abdomen: soft, NT/ND, normoactive BS, no masses, no rebound or tenderness.  
+Ext: warm, no edema  
+Skin: no rashes, no lesions  
+Neuro: AAO x3, muscle strength 5/5 in all 4 extremities 
+
+Pertinent Results:
+[**2014-05-12**] 03:32PM BLOOD WBC-9.7 RBC-3.42* Hgb-11.5* Hct-32.8*  MCV-96 MCH-33.7* MCHC-35.1* RDW-13.4 Plt Ct-250
+[**2014-05-12**] 03:32PM BLOOD PT-13.8* PTT-26.3 INR(PT)-1.2*
+[**2014-05-12**] 03:32PM BLOOD Glucose-200* UreaN-16 Creat-0.4* Na-138  K-4.5 Cl-105 HCO3-26 AnGap-12
+[**2014-05-12**] 03:32PM BLOOD Calcium-8.8 Mg-1.7
+
+[**05-12**] CXR: Left basilar opacity is likely effusion and atelectasis, though an infectious consolidation cannot be excluded.  Two right-sided chest tubes with no evidence of pneumothorax.  NG tube tip lies within the stomach, though the tube could be advanced to ensure that the side hole is within the stomach.  Mediastinal and subcutaneous emphysema are consistent with recent tracheobronchoplasty and chest tube insertion.
+
+[**05-13**] CXR: Status post removal of right apical chest tube, with no residual right pneumothorax. Right basilar chest tube is still in place. Also, status post removal of the nasogastric tube. Otherwise, unchanged appearance since yesterday
+
+[**05-14**] CXR: There is no pneumothorax after removal of the right chest tube, given the limitation of patient motion. There are small bilateral pleural effusions, possibly loculated. The aorta remains dilated and tortuous. No new consolidations.
+
+[**05-15**] CXR: Moderate right and small left pleural effusions are unchanged, with apparent loculation of the right effusion laterally. No pneumothorax is identified. Cardiac and mediastinal contours are stable
+
+Brief Hospital Course:
+Mr. [**lastname 5275**] was admitted to the Thoracic Surgery service under the care of Dr. [**Last Name (STitle) **] on [**2014-05-12**] after undergoing a tracheobronchoplast for his tracheobronchomalacia.  Please refer to the operative note for details of this procedure.  
+Postoperatively, he was cared for in the CSRU.
+
+On postoperative day one, his pain was controlled with an epidural.  His chest tube was removed.  His [**Male First Name (un) **] drain remained until POD2.  He was noted to be in atrial fibrillation, and was begun on an amiodarone and a diltiazem drip.  The Diltiazem was stopped.  His rhythm had converted to sinus.
+
+On POD3, he was transferred to the [**Wardname 5276**] floor unit.  His amiodarone was converted to an oral dose of 400 mg twice a day, to continue for a total of 7 days, and then taper to a dose of 200 mg daily.  On POD4, he was seen by Physical Therapy, who felt he may be able to go home with services, however, his wife is currently disabled, and his family felt strongly about his being placed in a rehabilitation facilty for a short time.
+
+He continued to do well, and was discharged to a rehabilitation facility on POD6.
+
+Medications on Admission:
+Lopressor 50A/25P, Norvasc 5A/2.5P, Isordil 60", Xanax 5/prn, Citalopram 40', Detrol LA5', Omeprazole 20', Folate 1', Vit E 400', Vit C 500', ASA 81', Albuterol, Pulmoicort, Zetia 10'  
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).  
+3. Amlodipine 5 mg Tablet Sig: 0.5 Tablet PO QPM (once a day (in the evening)).  
+4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO QAM (once a day (in the morning)).  
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO QPM (once a day (in the evening)).  
+6. Isosorbide Dinitrate 20 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day).  
+7. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+
+8. Tolterodine 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).  
+9. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day: Beginning after 400 BID dosing has completed.  
+10. Amiodarone 400 mg Tablet Sig: One (1) Tablet PO twice a day for 4 days.  
+11. Xanax 0.5 mg Tablet Sig: One (1) Tablet PO Q8H PRN as needed.  
+12. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day.  
+13. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+14. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+15. Vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day. 
+
+16. Vitamin C 500 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO once a day.  
+17. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs 
+Inhalation every four (4) hours as needed for shortness of breath or wheezing.  
+18. Pulmicort Turbuhaler 200 mcg/Inhalation Aerosol Powdr Breath Activated Sig: Two (2) puffs Inhalation twice a day.  
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 930**] [**Location (un) 3061**] 
+
+Discharge Diagnosis:
+Tracheobronchomalacia
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Call Dr.[**Last Name (STitle) 1437**] office at [**Telephone/Fax (2) 960**] if you develop: --Chest pain
+--Shortness of breath
+--Difficulty swallowing
+--Fever greater than 101.5 F
+--Redness or drainage from your incision sites.
+
+No lifting anything greater than 10 pounds for 6 weeks.
+Do not drive while taking pain medication.
+
+Followup Instructions:
+Call Dr.[**Last Name (STitle) 1437**] office [**Telephone/Fax (2) 960**] for a follow up appointment in 2 weeks
+
+[**Name6 (MD) **] [**Name7 (MD) 1383**] MD [**MD Number 1384**]
+
+Completed by: [**First Name4 (NamePattern1) 792**] [**Last Name (NamePattern1) 1573**] MD [**MD Number 1574**] [**2014-05-18**] @ 1012
+Signed electronically by: DR. [**Last Name (STitle) 1388**] [**Name (STitle) **] on: WED [**2014-05-21**] 10:15 AM
+(End of Report)
+

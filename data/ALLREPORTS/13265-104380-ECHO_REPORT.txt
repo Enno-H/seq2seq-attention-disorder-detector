@@ -1,0 +1,46 @@
+104380	||||	13265	||||	28330	||||	ECHO_REPORT	||||	2018-02-02 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. Recent VF arrest.  Re-evaluate LV function Height: (in) 66
+Weight (lb): 148
+BSA (m2): 1.76 m2
+BP (mm Hg): 88/56
+HR (bpm): 94
+Status: Inpatient
+Date/Time: [**2018-02-02**] at 12:06
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+This study was compared to the prior study of [**2018-01-31**]. 
+
+LEFT ATRIUM: Normal LA size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Moderate symmetric LVH. Small LV cavity. Mild-moderate global left ventricular hypokinesis. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. Mildly dilated ascending aorta. 
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial MR. LV inflow pattern c/w impaired relaxation. 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Indeterminate PA systolic pressure. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+Conclusions: 
+The left atrium is normal in size. There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity is unusually small. There is mild to moderate global left ventricular hypokinesis. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets are severely thickened/deformed. Aortic stenosis is estimated as severe although severity may be overestimated. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of [**2018-01-31**], there is no definite change. 
+

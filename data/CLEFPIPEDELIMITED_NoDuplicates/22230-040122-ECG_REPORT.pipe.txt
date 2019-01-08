@@ -1,0 +1,6 @@
+22230-040122-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+22230-040122-ECG_REPORT.txt||Disease_Disorder||CUI-less||109||128
+22230-040122-ECG_REPORT.txt||Disease_Disorder||C0149721||130||158
+22230-040122-ECG_REPORT.txt||Disease_Disorder||CUI-less||168||198
+22230-040122-ECG_REPORT.txt||Disease_Disorder||C0149721||233||261
+22230-040122-ECG_REPORT.txt||Disease_Disorder||CUI-less||274||291

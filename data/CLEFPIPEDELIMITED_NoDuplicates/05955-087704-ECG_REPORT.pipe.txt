@@ -1,0 +1,4 @@
+05955-087704-ECG_REPORT.txt||Disease_Disorder||CUI-less||94||106
+05955-087704-ECG_REPORT.txt||Disease_Disorder||CUI-less||129||146
+05955-087704-ECG_REPORT.txt||Disease_Disorder||C0264909||156||189
+05955-087704-ECG_REPORT.txt||Disease_Disorder||C0023211||201||225

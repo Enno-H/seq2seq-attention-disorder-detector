@@ -1,0 +1,5 @@
+01982-060190-ECG_REPORT.txt||Disease_Disorder||C0085610||94||111
+01982-060190-ECG_REPORT.txt||Disease_Disorder||C0340305||127||157
+01982-060190-ECG_REPORT.txt||Disease_Disorder||CUI-less||158||181
+01982-060190-ECG_REPORT.txt||Disease_Disorder||C0085610||304||321
+01982-060190-ECG_REPORT.txt||Disease_Disorder||CUI-less||326||349

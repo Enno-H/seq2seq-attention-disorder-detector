@@ -1,0 +1,40 @@
+103779	||||	10907	||||	555	||||	ECHO_REPORT	||||	2015-04-17 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Pericardial effusion. Evaluation of fluid distribution pre tap. Height: (in) 69
+Weight (lb): 200
+BSA (m2): 2.07 m2
+BP (mm Hg): 142/90
+HR (bpm): 100
+Status: Inpatient
+Date/Time: [**2015-04-17**] at 09:16
+Test: Portable TTE (Focused views)
+Doppler: No Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is normal in size. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. 
+
+PERICARDIUM: There is a large pericardial effusion. There are no echocardiographic signs of tamponade. 
+
+Conclusions: 
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. The mitral valve leaflets are mildly thickened. No color doppler was performed making it difficult to assess valvular regurgitation. There is a large circumferential pericardial effusion. There are strands within the pericardial fluid that are most consistent with inflammatory or fibrinous material.There are no echocardiographic signs of tamponade. 
+
+Compared with the findings of the prior study (tape reviewed) of [**2015-04-14**], the pericardial effusion appears larger. 
+

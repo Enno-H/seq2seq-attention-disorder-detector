@@ -1,0 +1,54 @@
+25566	||||	14897	||||	2287	||||	DISCHARGE_SUMMARY	||||	2012-05-10 00:00:00.0	||||		||||		||||		||||	
+Admission Date:  [**2012-04-23**]       Discharge Date:  [**2012-05-10**]
+
+Date of Birth:   [**1979-02-20**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This 33 year old white male is status post aortic valve replacement with a homograft in
+[**2008**].  Over the summer he had increased chest tightness and shortness of breath after running a mile.  He saw his primary care physician in the fall of [**2011**].  He has had palpitations. In [**8-04-02**] he had a stress echocardiogram which revealed an ejection fraction of 60%, mild left ventricular hypertrophy, ascending aorta of 3.9 cm, 3.7 cm of the arch, aortic stenosis with a peak gradient of 80 mm of mercury and a mean gradient of 50 mm of mercury, with an aortic valve area of 0.8 cm squared.  He has 1 to 2+ aortic insufficiency and 1+ mitral regurgitation.  He is now admitted for elective redo aortic valve replacement.
+
+PAST MEDICAL HISTORY:  Significant for a history of aortic stenosis, a history of hypercholesterolemia, a history of status post pericardial effusion with pericarditis repleted with steroids, history of a right flank lipoma and status post homograft aortic valve replacement in [**2008**].
+
+MEDICATIONS ON ADMISSION:  Minoxidil 1 drop topically b.i.d., Amoxicillin at dental examinations.
+
+ALLERGIES:  No known drug allergies.  His last dental examination was two to three months ago and was unremarkable.
+
+FAMILY HISTORY:  Unremarkable.
+
+SOCIAL HISTORY:  He lives with his wife, quit smoking, drinks alcohol occasionally.
+
+PHYSICAL EXAMINATION:  On physical examination he is a well developed, young man in no apparent distress.  Vital signs were stable and afebrile.  Head, eyes, ears, nose and throat examination, normocephalic, atraumatic, extraocular movements intact.  Oropharynx benign.  Neck was supple.  Full range of motion, no lymphadenopathy or thyromegaly.  Carotids 2+ and equal bilaterally with radiating murmurs bilaterally.  Lungs were clear to auscultation and percussion.  Cardiovascular examination, regular rate and rhythm with a IV/VI holosystolic murmur.  Abdomen was soft, nontender with positive bowel sounds.  No masses or hepatosplenomegaly.
+Extremities were without cyanosis, clubbing or edema.
+Neurological examination was nonfocal.  Pulses were 2+ and equal bilaterally throughout.
+
+HOSPITAL COURSE:  On [**2012-04-23**], he underwent a redo aortic valve replacement with a #19 St. [**Male First Name (un) **] Regent Valve. Crossclamp time was 117 min.  Total bypass time was 166 minutes.  Circum rest time 8 minutes.  He was transferred to the Cardiac Surgery Recovery Unit on Neo-Synephrine and
+Propofol in stable condition.  His postoperative night he went into atrial fibrillation, he also had spontaneous [**Hospital Unit Name **] movement but was not following commands and was not moving his extremities.  He was seen by Neurology the following morning and also he began to have seizures.  He was loaded with Dilantin and he had a head computerized tomography scan which revealed a right frontal hypodensity and left cerebellar hypodensity and a left occipital hypodensity.  He remained intubated as he was not following commands.  He had his chest tube discontinued on postoperative day #2.  He continued to be followed by Neurology.  He had an magnetic resonance imaging scan on postoperative day #2 which confirmed these multiple infarcts.  He slowly became more arousable.  Also, on postoperative day #3, he desaturated and had a lot of secretions removed but recovered well from that. He also was started on anticoagulation.  He was bronchoscoped a few more times on subsequent days and tolerated this well. He remained intubated and slowly regained more neurologic and became more awake and was following commands somewhat.  He eventually had regained his extremity movement.  He was extubated on postoperative day #6.  He was able to swallow well and eat.  He was followed by aggressive occupational therapy and physical therapy.  On [**04-27**] and [**04-28**] he grew out coagulase negative Staphylococcus in his blood. This was treated with Vancomycin, and he was followed closely by Infectious Disease.  On postoperative day #8 he was transferred to the floor instrument table condition.  He continued to improve neurologically.  He did have some confusion at night.  He had a PICC line placed, and he did eventually have a transesophageal echocardiogram which revealed on the posterior of his prosthetic aortic valve a small mobile mass which was felt to be suture, not endocarditis, but he will need to be followed closely for this.  Infectious Disease recommended six weeks of total intravenous Vancomycin and on postoperative day #17, he was discharged to rehabilitation in stable condition.  He had some elevated liver function tests on Dilantin and was switched to Keppra and his liver function tests returned to very close to normal.
+
+MEDICATIONS ON DISCHARGE:  His medications on discharge are
+Colace 100 mg p.o. b.i.d., Ecotrin 81 mg p.o. q. day,
+Lopressor 50 mg p.o. b.i.d., Amiodarone 200 mg p.o. q. day for one week, Vancomycin 1500 mg intravenously q. 12 hours times and Keppra 1000 mg p.o. b.i.d., Coumadin 2.5 mg p.o. q. day for an INR goal of 2 to 2.5.
+
+His laboratory data on discharge revealed hematocrit of 25.7, white count 7,300, platelets 513,000, sodium 141, potassium
+4.0, chloride 104, carbon dioxide 30, BUN 13, creatinine 1.1, blood sugar 86, PT 18.2, INR 2.2.  His ALT was 155, AST 73, alkaline phosphatase 149, total bilirubin 0.4.
+
+DISCHARGE DIAGNOSIS:
+1.  Aortic stenosis, status post aortic valve replacement.
+2.  Multiple small cerebrovascular accidents.
+3.  Staphylococcus coagulase negative bacteremia.
+4.  Atrial fibrillation.
+
+FOLLOW UP: He will follow up with Dr. [**First Name (STitle) **] in one week following discharge from rehabilitation, Dr. [**Last Name (STitle) **] in four weeks, Dr. ............ from Infectious Disease on [**49-01-13**] at 11:30 AM and Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 747**] from Neurology if needed.  The patient will also every week while on Vancomycin have a trough Vancomycin level, creatinine, complete blood count, ESR and CRP which will be called to the Infectious
+Disease Clinic at [**Telephone/Fax (2) 71**].
+
+[**Doctor Last Name **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **], M.D.  [**MD Number 228**]
+
+Dictated By:[**Dictator Info 4852**]
+MEDQUIST36
+
+D:  [**2012-05-10**]  11:43
+T:  [**2012-05-10**]  12:21
+JOB#:  [**Job Number 7476**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] on: FRI [**2012-06-15**] 4:35 PM
+(End of Report)
+

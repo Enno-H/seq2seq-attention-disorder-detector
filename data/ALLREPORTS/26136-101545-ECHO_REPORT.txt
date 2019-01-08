@@ -1,0 +1,38 @@
+101545	||||	26136	||||	1465	||||	ECHO_REPORT	||||	2016-04-21 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Endocarditis. Hypertension. Valvular heart disease. BP (mm Hg): 120/50
+Status: Inpatient
+Date/Time: [**2016-04-21**] at 13:32
+Test: TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is mildly dilated. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: The right atrium is normal in size. 
+
+LEFT VENTRICLE: There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity is unusually small. Left ventricular systolic function is hyperdynamic (EF>75%). There is an abnormal systolic flow contour at rest, but no left ventricular outflow obstruction. 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. There are focal calcifications in the aortic root. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened but not stenotic. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. There is mild mitral annular calcification. There is moderate thickening of the mitral valve chordae. The tips of the papillary muscles are calcified. There is no significant mitral stenosis. Trivial mitral regurgitation is seen. 
+
+TRICUSPID VALVE: The tricuspid valve leaflets are mildly thickened. Physiologic tricuspid regurgitation is seen. The pulmonary artery systolic pressure could not be determined. 
+
+PERICARDIUM: There is no pericardial effusion. 
+
+Conclusions: 
+The left atrium is mildly dilated. There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity is small. Left ventricular systolic function is hyperdynamic (EF>75%). There is an abnormal systolic flow contour at rest, but no left ventricular outflow obstruction. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but not stenotic. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. There is moderate thickening of the mitral valve chordae. Trivial mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. 
+
+Compared to the previous study of [**2013-06-24**], the left ventricle is now more hypertrophic and hyperdynamic, with significantly smaller cavity dimension and stroke volume. 
+

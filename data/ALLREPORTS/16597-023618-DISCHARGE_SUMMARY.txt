@@ -1,0 +1,39 @@
+23618	||||	16597	||||	6845	||||	DISCHARGE_SUMMARY	||||	2015-06-11 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2015-06-09**]        Discharge Date: [**2015-06-11**]
+
+Date of Birth:  [**1932-06-25**]        Sex:  M
+
+Service:  [**Hospital Unit Name **]
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 82 year old male who has apparently not sought medical care over 50 years, now being transferred from the [**Hospital Unit Name 32**] after having family meetings and needing to be CMO. Initially, the patient was admitted to an outside hospital on the [**06-07**] for increased confusion, lethargy and decreased PO intake times one to two weeks. On his initial evaluation at this outside hospital, he was found to have marked electrolyte abnormalities including hyperkalemia to 7 and azotemia with
+BUN of greater than 150 and creatinine of 10. He was initially treated aggressively for hyperkalemia with calcium, D50 and insulin and also bicarbonate and then subsequently transferred over to the [**Hospital **] for possible evaluation for hemodialysis. Here, at [**Hospital **], the patient again was found to be hyperkalemic and uremic. He was initially started on aggressive IV fluid resuscitation with bicarbonate. An ABG was performed which was consistent with a metabolic acidosis. The patient was subsequently evaluated by the [**Hospital Unit Name 32**] team, the Renal team and the Urology team. He had minimal amounts of urine output. Subsequently, a renal ultrasound was done which showed bilateral hydronephrosis. He also had a bladder ultrasound which showed a large mass in the superior and posterior aspects of the bladder. The mass was presumed to be malignant. There were initially several discussions with Renal and Urology for potential placement of either nephrostomy tubes or suprapubic catheters. However, right after discussion with the patient's family and the [**Hospital Unit Name 32**] team, it was decided that the patient would not be interested in aggressive interventional treatment modalities that may not be able to cure an incurable disease. At this point, his code status was changed to DNR/DNI and specifically CMO with goal of comfort care only. He was subsequently transferred from the ICU to the floor for this matter.
+
+PAST MEDICAL HISTORY:  He had not seen an M.D. over 50 years, although apparently has had cataract surgery in the recent past.
+
+MEDICATIONS:  None on admission or that he was taking as an outpatient. On transfer, he was on morphine prn and Ativan prn.
+
+SOCIAL HISTORY:  The patient reportedly lived alone.
+
+PHYSICAL EXAMINATION:  The patient was found to be afebrile, slightly tachycardic to about 100 with blood pressures around 100/60, breathing comfortably at 14 and 98 percent on room air. In general, he was a cachectic, elderly male, mildly disoriented and confused but comfortable. HEENT exam was significant for markedly dry mucous membranes. His heart was tachycardic but regular. Lungs were clear at least with limited exam anteriorly. Abdominal exam had mild diffuse lower abdominal tenderness. No masses were able to be appreciated. The lower extremities were negative for any edema.
+
+HOSPITAL COURSE:  As mentioned above, the patient initially was transferred to the ICU for evaluation of acute renal failure with radiographic evidence to suggest there may be a post-obstructive component to his renal failure. He was also admitted with leukocytosis of unclear etiology. After discussions with the ICU, Renal and Urology teams and the patient's family, it was decided that the patient would not want aggressive medical treatment. Subsequently, the patient's code status was changed to DNR/DNI and he was made CMO. The family understands at this point that the patient's main goal will be comfort. To that end, he will be receiving morphine prn, Ativan and ________ prn. He was allowed to take PO's as tolerated. His abdominal exam was unremarkable during his hospital course on the floor and he did not exhibit any evidence of significant pain from urinary retention. Should this occur, one could consider possible suprapubic catheter placement for palliative purposes although this will need to be discussed with the family. Meanwhile, discussions were held between Case Management and the patient's family in regards to the optimum place for the patient to live the remainder of his life in a comfortable and dignified manner. Currently, the patient is being planned for hospice placement. Here, the patient will be treated with maximal amounts of comfort and care.
+
+DISCHARGE DIAGNOSES:  Acute renal failure, presumed post- obstructive.
+
+Bladder mass, presumed to be malignant.
+
+DISCHARGE MEDICATIONS:  Morphine sulfate prn, Ativan prn and ________ prn.
+
+Please see Discharge Addendum for final disposition.
+
+CONDITION ON DISCHARGE:  Serious.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 1605**], [**State/Zipcode 1606**]
+
+Dictated By:[**Dictator Info 1607**]
+MEDQUIST36
+D:  [**2015-06-10**] 21:36:20
+T:  [**2015-06-10**] 22:33:53
+Job#:  [**Job Number 2757**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **] on: [**Doctor First Name 55**] [**2015-06-11**] 10:37 PM (End of Report)
+

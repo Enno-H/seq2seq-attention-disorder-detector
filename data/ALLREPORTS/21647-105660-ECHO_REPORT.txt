@@ -1,0 +1,47 @@
+105660	||||	21647	||||	14167	||||	ECHO_REPORT	||||	2013-01-23 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Left ventricular function. 
+Height: (in) 67
+Weight (lb): 160
+BSA (m2): 1.84 m2
+BP (mm Hg): 120/72
+Status: Inpatient
+Date/Time: [**2013-01-23**] at 15:36
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+This study was compared to the report of the prior study (images not available) of [**2012-10-29**]. 
+
+LEFT ATRIUM: Moderate LA enlargement. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Overall normal LVEF (>55%). 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic root diameter. Mildly dilated ascending aorta. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. No AS. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild thickening of mitral valve chordae. Mild (1+) MR. [Due to acoustic shadowing, the severity of MR may be significantly UNDERestimated.] 
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR. Moderate PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets with physiologic PR. 
+
+PERICARDIUM: Small pericardial effusion. 
+
+Conclusions: 
+The left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. There is no aortic valve stenosis. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] There is moderate pulmonary artery systolic hypertension. There is a small pericardial effusion. Diastolic dysfunction cannot be excluded. 
+
+Compared with the report of the prior study (tape unavailable for review) of [**2012-10-29**], tricuspid and mitral regurgitation are now less prominent. 
+Estimated pulmonary artery systolic pressure is unchanged. 
+

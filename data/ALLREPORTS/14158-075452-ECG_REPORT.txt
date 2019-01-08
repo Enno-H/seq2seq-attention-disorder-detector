@@ -1,0 +1,7 @@
+75452	||||	14158	||||	22616	||||	ECG_REPORT	||||	2012-07-23 12:50:00.0	||||		||||		||||		||||	
+Sinus rhythm
+First degree A-V delay
+Left atrial abnormality
+Prior anteroseptal myocardial infarction
+Since previous tracing of [**2012-07-23**], Poor R wave progression is more prominent
+

@@ -1,0 +1,44 @@
+107853	||||	9584	||||	18774	||||	ECHO_REPORT	||||	2015-06-12 00:00:00.0	||||		||||	
+PATIENT/TEST INFORMATION:
+Indication: Coronary artery disease.
+Left ventricular function. 
+Pericardial effusion.
+Height: (in) 64
+Weight (lb): 160
+BSA (m2): 1.78 m2
+BP (mm Hg): 125/65
+Status: Inpatient
+Date/Time: [**2015-06-12**] at 12:57
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+||||		||||	
+INTERPRETATION: 
+
+Findings: 
+
+LEFT ATRIUM: The left atrium is mildly dilated. 
+
+LEFT VENTRICLE: Left ventricular wall thicknesses and cavity size are normal. 
+
+RIGHT VENTRICLE: Right ventricular chamber size and free wall motion are normal. 
+
+AORTA: The aortic root is normal in diameter. 
+
+AORTIC VALVE: The aortic valve leaflets (3) are mildly thickened. Trace aortic regurgitation is seen. 
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. There is moderate mitral annular calcification. Mitral regurgitation is present but cannot be quantified. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] 
+
+TRICUSPID VALVE: The tricuspid valve leaflets are normal. Mild tricuspid [1+] regurgitation is seen. The pulmonary artery systolic pressure could not be determined. 
+
+PULMONIC VALVE/PULMONARY ARTERY: The pulmonic valve leaflets appear structurally normal with physiologic pulmonic regurgitation. 
+
+PERICARDIUM: There is a small pericardial effusion. The effusion appears circumferential. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor apical views. 
+
+Conclusions: 
+The left atrium is mildly dilated. Left ventricular wall thicknesses and cavity size are normal. Overall left ventricular systolic function is probably normal, although apical segments not optimally visualized. Right ventricular chamber size and free wall motion are normal. The aortic leaflets (3) are mildly thickened. Trace aortic regurgitation is seen. The mitral leaflets are mildly thickened. Mitral regurgitation is present but cannot be quantified (due to acoustic shadowing from mitral annular calcification, the severity of mitral regurgitation may be significantly underestimated). There is a small circumferential pericardial effusion.  Compared with the prior study of [**2015-04-16**], there has probably been no significant change (pericardial effusion was small, not physiologic, on prior study). Ventricular function is unchanged. 
+

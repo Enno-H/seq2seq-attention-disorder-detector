@@ -1,0 +1,3 @@
+92548	||||	21219	||||	21904	||||	ECG_REPORT	||||	2013-08-14 09:04:00.0	||||		||||		||||		||||	
+Atrial fibrillation. Compared to the previous tracing of [**2013-08-13**] atrial fibrillation has replaced atrial flutter. Otherwise, no important change.
+

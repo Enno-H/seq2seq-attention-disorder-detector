@@ -1,0 +1,15 @@
+151087	||||	22566	||||	25489	||||	RADIOLOGY_REPORT	||||	2018-11-12 11:09:00.0	||||	C11 CHEST (PA & LAT)	||||		||||	Clip # 419-9906  Actual report	||||	
+DATE: [**2018-11-12**] 11:09 AM
+CHEST (PA & LAT)                                                [**Clip Number (Radiology) 5039**] Reason: evaluate for pneumonia or cardiapulm changes                Admitting Diagnosis: SEIZURE
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+77 year old man with questionable RUL pneumonia on portable                     REASON FOR THIS EXAMINATION: evaluate for pneumonia or cardiapulm changes                                    ______________________________________________________________________________
+
+FINAL REPORT
+HISTORY:  Prior study raising the question of infiltrate.
+
+FINDINGS:  Two views of the chest viewed in conjunction with the single portable view done one day earlier.  There remains diffuse increased interstitial markings likely due to pulmonary overload, given the cardiomegaly.  Note is made of gastric distention with associated left basilar atelectasis.  No definite focal infiltrate is appreciated.  The patient is status post multiple vertebroplasties.  Healed fracture of the right humeral neck.
+
+IMPRESSION:  Mild diffuse increase in interstitial markings, unchanged compared to studies dating back to 2005.  No definite focal infiltrate.
+

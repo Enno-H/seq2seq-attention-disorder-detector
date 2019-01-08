@@ -1,0 +1,7 @@
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||33||37
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||169||172
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||187||189
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||205||207
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||289||292
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||709||713
+09531-108127-ECHO_REPORT.txt||Acronym_Abbreviation||YOUR_CUI||1511||1515

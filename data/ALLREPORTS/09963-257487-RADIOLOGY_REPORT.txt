@@ -1,0 +1,17 @@
+257487	||||	9963	||||	24985	||||	RADIOLOGY_REPORT	||||	2014-08-22 15:18:00.0	||||	C91 CHEST PORT. LINE PLACEMENT	||||		||||	Clip # 380-3850  Actual report	||||	
+DATE: [**2014-08-22**] 3:18 PM
+CHEST PORT. LINE PLACEMENT                                      [**Clip Number (Radiology) 4882**] Reason: EVAL rsc LINE PLACEMENT                                     Admitting Diagnosis: CROHN'S DISEASE/SDA
+______________________________________________________________________________
+
+UNDERLYING MEDICAL CONDITION:
+50 year old man with S/P EX LAP                                                 REASON FOR THIS EXAMINATION: EVAL rsc LINE PLACEMENT                                                         ______________________________________________________________________________
+
+FINAL REPORT
+Portable chest, [**2014-08-22**] with no prior films for comparison.
+
+INDICATION:  Line placement.
+
+A right internal jugular vascular catheter is in satisfactory position within the superior vena cava.  There is no pneumothorax.  An endotracheal tube terminates approximately 3-1/2 cm above the carina and a nasogastric tube terminates in the stomach with the tip directed cephalad in the fundus.  The heart is mildly enlarged.  Pulmonary vascularity is normal for technique. Very minimal atelectatic changes are noted at the lung bases with otherwise clear lungs.
+
+IMPRESSION:  Central venous catheter in satisfactory position with no pneumothorax.
+

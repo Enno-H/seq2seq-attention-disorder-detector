@@ -1,0 +1,3 @@
+23039-078076-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+23039-078076-ECG_REPORT.txt||Disease_Disorder||CUI-less||109||131
+23039-078076-ECG_REPORT.txt||Disease_Disorder||CUI-less||190||202

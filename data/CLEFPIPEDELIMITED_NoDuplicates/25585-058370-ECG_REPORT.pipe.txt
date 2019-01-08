@@ -1,0 +1,3 @@
+25585-058370-ECG_REPORT.txt||Disease_Disorder||CUI-less||117||136
+25585-058370-ECG_REPORT.txt||Disease_Disorder||C0085615||137||141
+25585-058370-ECG_REPORT.txt||Disease_Disorder||C0264912||147||178

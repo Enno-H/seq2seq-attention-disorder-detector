@@ -1,0 +1,98 @@
+29484	||||	21633	||||	5725	||||	DISCHARGE_SUMMARY	||||	2011-12-07 00:00:00.0	||||		||||		||||		||||	
+Admission Date: [**2011-12-01**]        Discharge Date: [**2011-12-07**]
+
+Date of Birth:  [**1950-11-09**]        Sex:  M
+
+Service:  CSU
+
+HISTORY OF PRESENT ILLNESS:  This is a 61-year-old gentleman with a history of shortness of breath which has increased over the past several days prior to his admission.
+
+He has known history of coronary artery disease and a prior percutaneous transluminal coronary angioplasty.  He is also noted to have congestive heart failure on his initial evaluation at [**Hospital 684**] and elevated troponin levels.  The patient was started on a heparin drip at [**Hospital 686**].  A cardiac catheterization was performed prior to admission on [**2011-11-30**] which showed an occluded left anterior descending proximal to his prior left anterior descending stent, a 90 percent obtuse marginal lesion, and an 80 percent proximal posterior descending artery lesion.  Ventriculography was not performed as the patient had depressed left ventricular function.  The patient was transferred to [**Hospital 473**] for
+coronary artery bypass grafting.
+
+PAST MEDICAL HISTORY:
+1. Insulin-dependent diabetes mellitus.
+2. Coronary artery disease; status post left anterior descending stent.
+3. Hypertension.
+4. Peripheral vascular disease.
+5. Congestive heart failure.
+
+PAST SURGICAL HISTORY:  Cholecystectomy and bilateral toe amputations.
+
+ALLERGIES:  He has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Lisinopril 20 mg by mouth once daily, Lopressor 50 mg by mouth twice daily, Zocor 20 mg by mouth once daily, aspirin 325 mg by mouth once daily, and insulin (70/30) 35 units twice daily.
+
+SOCIAL HISTORY:  He has a 20-pack-year history of smoking but quit in [**1982**].  He has rare use of alcohol.
+
+PHYSICAL EXAMINATION ON ADMISSION:  His blood pressure was 130/72, his heart rate was 72, his respiratory rate was 20, and he was saturating 97 percent on 2 liters.  He was in no apparent distress.  He had a systolic ejection murmur.  He had decreased breath sounds at the bases, but no rales or rhonchi.  The abdomen was obese.  There were positive bowel sounds and was soft and nondistended.  His extremities had no clubbing, cyanosis or edema.  He had brawny induration and erythema on his right lower extremity greater than on his left lower extremity.  The right third toe amputation site with some dry eschar.  He had no varicosities noted.  He had no hematoma present in his right groin which was dressed post catheterization.  He had no carotid bruits.  He had 2 plus bilateral carotid, radial, and femoral pulses.  He had a 1 plus dorsalis pedis pulse on the left and a 2 plus posterior tibial pulse on the right.  No palpable dorsalis pedis pulse on the right.  He had a 2 plus posterior tibial pulse on the right.
+
+PERTINENT LABORATORY DATA ON ADMISSION:  Preoperative laboratories revealed white blood cell count was 6.3, hematocrit was 31.1, and platelet count was 159,000.  PT was 16.5, PTT was 37.4, and INR was 1.7.  He had hematuria present in his urine, but otherwise had a negative urinalysis.  Sodium was 118, potassium was 3.2, chloride was 89, bicarbonate was 23, anion gap was 9, blood urea nitrogen was 16, creatinine was 1, and blood glucose was 705.  Calcium was 7.5, alkaline phosphatase was 33.6, magnesium was 1.8.
+Hemoglobin A1C was 7.4 percent.
+
+RADIOLOGY:  A preoperative chest x-ray showed cardiomegaly and small bilateral pleural effusions.
+
+A preoperative electrocardiogram showed a sinus rhythm at 66 with first-degree atrioventricular block and a question of left ventricular hypertrophy.  Please refer to the EKG report dated [**2011-12-01**].
+
+SUMMARY OF HOSPITAL COURSE:  The patient was referred to Dr. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 32**].  On [**12-02**], he underwent coronary artery bypass grafting times three with a left internal mammary artery to the left anterior descending, a vein graft to the posterior descending artery, sequence to the obtuse marginal.  He was transferred to the Cardiothoracic Intensive Care Unit in stable condition on a Neo-Synephrine drip at 0.3 mcg/kg per minute and a titrated propofol drip.
+
+On postoperative day one, he was A paced for bradycardia overnight.  He began Lasix diuresis.  He was hemodynamically stable.  His blood pressure was 108/47.  He was on an insulin drip at 3 units per hour and begun on aspirin therapy.
+
+Postoperative laboratories were as follows.  White blood cell count was 10.5, hematocrit was 26.6, and platelet count was 158,000.  Potassium was 3.9, blood urea nitrogen was 17, creatinine was 0.8, with a blood sugar of 75.
+
+He remained in the Cardiothoracic Intensive Care Unit.  He was receiving morphine and Percocet for pain.  He was extubated successfully.  He had some stridor overnight, for which he received a cool nebulizer.  Lasix diuresis was begun.
+
+On postoperative day two, his pacer was turned off.
+Lopressor beta blockade was given.  His white blood cell count rose slightly to 12.6.  His creatinine was stable at 1. He was off all drips.  His examination was unremarkable.  The incisions were clean, dry, and intact.  The chest tubes were discontinued.  He was evaluated by Case Management.  On postoperative day two, he again had some stridor overnight and was given some steroids in addition to the cool nebulizers.  His Foley was discontinued.
+
+On [**12-05**], he was transferred out to the floor to begin working with Physical Therapy and the nurses to increase his activity level.  He was encouraged to continue to ambulate and to use his incentive spirometer.  He was also seen by the [**Last Name (un) 48**] Service in consultation for management of his blood sugars, and these recommendations were appreciated by the
+Cardiac Surgery team.  He also had a full evaluation by
+Physical Therapy, and he was doing extremely well with his postoperative ambulation.
+
+His Lopressor was increased to 25 mg twice daily on postoperative day four.  He was also started again on his statin therapy and restarted on Plavix.  His examination was unremarkable.  He cleared a level V on postoperative day five and was deemed safe to be discharged home with VNA services.
+
+Discharge laboratories were as follows.  White blood cell count was 11.3, hematocrit was 28.2, and platelet count was 234,000.  Sodium was 136, potassium was 4, chloride was 108, bicarbonate was 27, blood urea nitrogen was 34, creatinine was 1, and blood glucose was 94.  He was alert and oriented with a nonfocal examination.  The lungs were clear bilaterally.  His heart was regular in rate and rhythm.  His incisions were clean, dry, and intact.  He had positive bowel sounds.  He had 1 plus peripheral edema in his legs.
+
+DISCHARGE DISPOSITION:  He was discharged to home with VNA services on [**2011-12-07**].
+
+DISCHARGE DIAGNOSES:
+1. Status post coronary artery bypass grafting times three.
+2. Status post left anterior descending stent.
+3. Insulin-dependent diabetes mellitus.
+4. Hypertension.
+5. Peripheral vascular disease.
+6. Congestive heart failure.
+
+MEDICATIONS ON DISCHARGE:
+1. Potassium chloride 20 mEq by mouth twice daily (times seven days).
+2. Colace 100 mg by mouth twice daily (times one month).
+3. Protonix 40 mg by mouth once daily.
+4. Enteric coated aspirin 81 mg by mouth once daily.
+5. Lasix 40 mg by mouth twice daily (times seven days).
+6. Insulin (70/30) 20 units subcutaneously twice daily.
+7. Percocet 5/325 one to two tablets by mouth q.4.h. as needed (for pain).
+8. Plavix 75 mg by mouth once daily.
+9. Vitamin C 500 mg by mouth twice daily.
+10.      Ferrous sulfate 325-mg tablets by mouth once daily.
+11.      Zocor 20 mg by mouth once daily.
+12.      Lisinopril 20 mg by mouth once daily.
+13.      Metoprolol 25 mg by mouth twice daily.
+
+DISCHARGE INSTRUCTIONS:
+1. The patient was instructed to make an appointment with Dr. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 32**] (his surgeon) for postoperative followup in the office in six weeks.
+2. The patient was also instructed to follow up with Dr. [**First Name8 (NamePattern2) 2774**] [**Name (STitle) **] in one to two weeks and to follow up with his cardiologist (Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 171**]) in one to two weeks postoperatively.
+
+DISCHARGE STATUS:  The patient was discharged to home on
+[**2011-12-07**].
+
+CONDITION ON DISCHARGE:  Stable.
+
+[**First Name11 (Name Pattern1) **] [**Name7 (MD) 33**], [**State/Zipcode 34**]
+
+Dictated By:[**Dictator Info 252**]
+MEDQUIST36
+D:  [**2012-01-16**] 12:07:29
+T:  [**2012-01-16**] 20:02:02
+Job#:  [**Job Number 2775**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on: [**First Name9 (NamePattern2) 37**] [**2012-01-31**] 3:16 PM (End of Report)
+

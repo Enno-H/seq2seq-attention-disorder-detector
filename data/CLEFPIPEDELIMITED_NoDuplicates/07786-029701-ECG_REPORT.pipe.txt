@@ -1,0 +1,3 @@
+07786-029701-ECG_REPORT.txt||Disease_Disorder||CUI-less||118||150
+07786-029701-ECG_REPORT.txt||Disease_Disorder||CUI-less||167||170
+07786-029701-ECG_REPORT.txt||Disease_Disorder||CUI-less||251||289

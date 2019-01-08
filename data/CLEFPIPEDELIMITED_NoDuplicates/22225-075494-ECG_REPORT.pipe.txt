@@ -1,0 +1,4 @@
+22225-075494-ECG_REPORT.txt||Disease_Disorder||C0004238||94||113
+22225-075494-ECG_REPORT.txt||Disease_Disorder||CUI-less||122||148
+22225-075494-ECG_REPORT.txt||Disease_Disorder||CUI-less||149||163
+22225-075494-ECG_REPORT.txt||Disease_Disorder||CUI-less||244||256

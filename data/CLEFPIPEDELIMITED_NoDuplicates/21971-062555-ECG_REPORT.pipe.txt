@@ -1,0 +1,4 @@
+21971-062555-ECG_REPORT.txt||Disease_Disorder||CUI-less||95||107
+21971-062555-ECG_REPORT.txt||Disease_Disorder||CUI-less||109||134
+21971-062555-ECG_REPORT.txt||Disease_Disorder||CUI-less||136||161
+21971-062555-ECG_REPORT.txt||Disease_Disorder||C0149721||172||200
