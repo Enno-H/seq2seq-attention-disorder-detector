@@ -68,6 +68,8 @@ def preprocess_text(text_in):
     text = text.replace(',','ª')
     text = text.replace('\\','ª')
     
+    text = text.replace('||||','llll')
+    
     return text
 
 def get_files(folder):
