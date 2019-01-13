@@ -1,0 +1,2 @@
+16743-013010-DISCHARGE_SUMMARY.txt||Acronym_Abbreviation||C0024554||222||223
+16743-013010-DISCHARGE_SUMMARY.txt||Acronym_Abbreviation||CUI-less||537||541
